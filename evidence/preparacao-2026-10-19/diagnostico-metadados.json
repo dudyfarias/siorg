@@ -1,0 +1,73 @@
+[
+  {
+    "file": "/Users/eduardofariascappia/Downloads/Diagnostico_SIORG_BR.docx",
+    "sha256": "f775e87a34488406262abd058a517a8b58d29fb5febf9702ab0c8498aabfcb77",
+    "file_modified": "2026-09-03T17:00:31.721720+00:00",
+    "core": {
+      "title": "Diagnóstico Inicial dos Canais SIORG e BR",
+      "creator": "Eduardo Farias Cappia",
+      "lastModifiedBy": "Eduardo Farias Cappia",
+      "revision": "2",
+      "created": "2026-09-03T16:54:00Z",
+      "modified": "2026-09-03T17:00:00Z"
+    },
+    "paragraph_count": 1373,
+    "comment_count": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0
+  },
+  {
+    "file": "/Users/eduardofariascappia/Downloads/Diagnostico_SIORG_BR-3.docx",
+    "sha256": "f612ae30e66e71bca9a0cbbac746cb3b00cd59e03133dad454fa82872b6e1c7d",
+    "file_modified": "2026-09-10T13:50:14.737025+00:00",
+    "core": {
+      "title": "Diagnóstico Inicial dos Canais SIORG e BR",
+      "creator": "Eduardo Farias Cappia",
+      "lastModifiedBy": "Lina Amaral Nakata",
+      "revision": "5",
+      "created": "2026-09-03T16:54:00.0000000Z",
+      "modified": "2026-09-10T13:48:57.2623726Z"
+    },
+    "paragraph_count": 1373,
+    "comment_count": 25,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0
+  },
+  {
+    "file": "/Users/eduardofariascappia/Downloads/Diagnostico_SIORG_BR_Revisado_2026-09-03.docx",
+    "sha256": "69bc6cce5462b6a8cd73f1b622702a654078007578f0d1115d30fe1941ed124c",
+    "file_modified": "2026-09-03T16:58:12.483202+00:00",
+    "core": {
+      "title": "Diagnóstico Inicial dos Canais SIORG e BR",
+      "creator": "Eduardo Farias Cappia",
+      "lastModifiedBy": "Revisão técnica",
+      "revision": "4",
+      "created": "2026-09-03T14:46:00Z",
+      "modified": "2026-09-03T16:58:12Z",
+      "subject": "Revisão técnica, evidências, metodologias e plano de evolução"
+    },
+    "paragraph_count": 1726,
+    "comment_count": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0
+  },
+  {
+    "file": "/Users/eduardofariascappia/Downloads/Diagnostico_SIORG_BR_Revisado_2026-09-10.docx",
+    "sha256": "9dc8f2617b4e19448ae98ed87e022b5dbdb725b5e287e59cce582d8a6cd037ca",
+    "file_modified": "2026-09-10T15:06:44.587864+00:00",
+    "core": {
+      "title": "Diagnóstico revisado dos canais SIORG e BR",
+      "creator": "Eduardo Farias Cappia",
+      "lastModifiedBy": "Lina Amaral Nakata",
+      "revision": "5",
+      "created": "2026-09-03T16:54:00.0000000Z",
+      "modified": "2026-09-10T13:48:57.2623726Z",
+      "subject": "Revisão dos comentários, fontes oficiais e encaminhamentos de validação",
+      "description": "Revisão de 10/09/2026. Original preservado."
+    },
+    "paragraph_count": 1505,
+    "comment_count": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0
+  }
+]

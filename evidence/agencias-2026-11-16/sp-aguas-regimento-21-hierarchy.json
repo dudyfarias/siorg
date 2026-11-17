@@ -1,0 +1,1085 @@
+{
+  "organizationId": "sp-aguas",
+  "source": {
+    "title": "Deliberação SP-Águas 21/2026, Anexo único - Regimento Interno",
+    "url": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+    "sha256": "86993e6b8fb9622d323487963afee7f8d1099c330ffc70df7e7fa8e920d3e331",
+    "actDate": "2026-07-08",
+    "publicationDate": "2026-07-13",
+    "effectiveDate": "2026-08-01",
+    "checkedAt": "2026-11-16"
+  },
+  "method": "Vínculos enumerados no art. 5º do Regimento; ligação por nomes exatos após normalizar caixa, espaços e ponto final de encerramento da enumeração. Nenhuma aproximação por semelhança, ordem documental ou supervisão técnica.",
+  "relationships": [
+    {
+      "unitId": "sp-aguas-del25-unit-row-13",
+      "parentUnitId": "sp-aguas-del25-unit-row-3",
+      "parentName": "GABINETE DA PRESIDÊNCIA",
+      "unitName": "ASSESSORIA DE PLANEJAMENTO ESTRATÉGICO",
+      "source": {
+        "unitNameInRegimento": "Assessoria de Planejamento Estratégico",
+        "parentNameInRegimento": "Gabinete da Presidência",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-14",
+      "parentUnitId": "sp-aguas-del25-unit-row-3",
+      "parentName": "GABINETE DA PRESIDÊNCIA",
+      "unitName": "ASSESSORIA DE RELACIONAMENTO COM OS TRIBUNAIS DE CONTAS E AUDITORIA",
+      "source": {
+        "unitNameInRegimento": "Assessoria de Relacionamento com os Tribunais de Contas e Auditoria",
+        "parentNameInRegimento": "Gabinete da Presidência",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-16",
+      "parentUnitId": "sp-aguas-del25-unit-row-3",
+      "parentName": "GABINETE DA PRESIDÊNCIA",
+      "unitName": "ASSESSORIA DE COMUNICAÇÃO",
+      "source": {
+        "unitNameInRegimento": "Assessoria de Comunicação",
+        "parentNameInRegimento": "Gabinete da Presidência",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-46",
+      "parentUnitId": "sp-aguas-del25-unit-row-44",
+      "parentName": "SUPERINTENDÊNCIA DE SEGURANÇA HÍDRICA",
+      "unitName": "GERÊNCIA DE PLANEJAMENTO E ESTUDOS ESTRATÉGICOS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Planejamento e Estudos Estratégicos",
+        "parentNameInRegimento": "Superintendência de Segurança Hídrica",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-47",
+      "parentUnitId": "sp-aguas-del25-unit-row-46",
+      "parentName": "GERÊNCIA DE PLANEJAMENTO E ESTUDOS ESTRATÉGICOS",
+      "unitName": "DIVISÃO DE PLANEJAMENTO",
+      "source": {
+        "unitNameInRegimento": "Divisão de Planejamento",
+        "parentNameInRegimento": "Gerência de Planejamento e Estudos Estratégicos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-50",
+      "parentUnitId": "sp-aguas-del25-unit-row-46",
+      "parentName": "GERÊNCIA DE PLANEJAMENTO E ESTUDOS ESTRATÉGICOS",
+      "unitName": "DIVISÃO DE ESTUDOS ESTRATÉGICOS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Estudos Estratégicos",
+        "parentNameInRegimento": "Gerência de Planejamento e Estudos Estratégicos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-53",
+      "parentUnitId": "sp-aguas-del25-unit-row-44",
+      "parentName": "SUPERINTENDÊNCIA DE SEGURANÇA HÍDRICA",
+      "unitName": "GERÊNCIA DE MONITORAMENTO HIDROLÓGICO",
+      "source": {
+        "unitNameInRegimento": "Gerência de Monitoramento Hidrológico",
+        "parentNameInRegimento": "Superintendência de Segurança Hídrica",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-54",
+      "parentUnitId": "sp-aguas-del25-unit-row-53",
+      "parentName": "GERÊNCIA DE MONITORAMENTO HIDROLÓGICO",
+      "unitName": "DIVISÃO DE MONITORAMENTO",
+      "source": {
+        "unitNameInRegimento": "Divisão de Monitoramento",
+        "parentNameInRegimento": "Gerência de Monitoramento Hidrológico",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-59",
+      "parentUnitId": "sp-aguas-del25-unit-row-53",
+      "parentName": "GERÊNCIA DE MONITORAMENTO HIDROLÓGICO",
+      "unitName": "DIVISÃO DA SALA DE SITUAÇÃO",
+      "source": {
+        "unitNameInRegimento": "Divisão da Sala de Situação",
+        "parentNameInRegimento": "Gerência de Monitoramento Hidrológico",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-62",
+      "parentUnitId": "sp-aguas-del25-unit-row-44",
+      "parentName": "SUPERINTENDÊNCIA DE SEGURANÇA HÍDRICA",
+      "unitName": "GERÊNCIA DE APOIO AOS SISTEMAS DE RECURSOS HÍDRICOS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Apoio aos Sistemas de Recursos Hídricos",
+        "parentNameInRegimento": "Superintendência de Segurança Hídrica",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-63",
+      "parentUnitId": "sp-aguas-del25-unit-row-62",
+      "parentName": "GERÊNCIA DE APOIO AOS SISTEMAS DE RECURSOS HÍDRICOS",
+      "unitName": "DIVISÃO DE APOIO AOS SISTEMAS DE RECURSOS HÍDRICOS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Apoio aos Sistemas de Recursos Hídricos",
+        "parentNameInRegimento": "Gerência de Apoio aos Sistemas de Recursos Hídricos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-67",
+      "parentUnitId": "sp-aguas-del25-unit-row-62",
+      "parentName": "GERÊNCIA DE APOIO AOS SISTEMAS DE RECURSOS HÍDRICOS",
+      "unitName": "DIVISÃO DE COBRANÇA PELO USO DA ÁGUA",
+      "source": {
+        "unitNameInRegimento": "Divisão de Cobrança pelo Uso da Água",
+        "parentNameInRegimento": "Gerência de Apoio aos Sistemas de Recursos Hídricos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-70",
+      "parentUnitId": "sp-aguas-del25-unit-row-62",
+      "parentName": "GERÊNCIA DE APOIO AOS SISTEMAS DE RECURSOS HÍDRICOS",
+      "unitName": "DIVISÃO DA ESCOLA DAS ÁGUAS",
+      "source": {
+        "unitNameInRegimento": "Divisão da Escola das Águas",
+        "parentNameInRegimento": "Gerência de Apoio aos Sistemas de Recursos Hídricos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-75",
+      "parentUnitId": "sp-aguas-del25-unit-row-73",
+      "parentName": "SUPERINTENDÊNCIA DE REGULAÇÃO",
+      "unitName": "GERÊNCIA DE DESENVOLVIMENTO REGULATÓRIO",
+      "source": {
+        "unitNameInRegimento": "Gerência de Desenvolvimento Regulatório",
+        "parentNameInRegimento": "Superintendência de Regulação",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-76",
+      "parentUnitId": "sp-aguas-del25-unit-row-75",
+      "parentName": "GERÊNCIA DE DESENVOLVIMENTO REGULATÓRIO",
+      "unitName": "DIVISÃO DE NORMATIZAÇÃO",
+      "source": {
+        "unitNameInRegimento": "Divisão de Normatização",
+        "parentNameInRegimento": "Gerência de Desenvolvimento Regulatório",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-78",
+      "parentUnitId": "sp-aguas-del25-unit-row-75",
+      "parentName": "GERÊNCIA DE DESENVOLVIMENTO REGULATÓRIO",
+      "unitName": "DIVISÃO DE GOVERNANÇA REGULATÓRIA",
+      "source": {
+        "unitNameInRegimento": "Divisão de Governança Regulatória",
+        "parentNameInRegimento": "Gerência de Desenvolvimento Regulatório",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-80",
+      "parentUnitId": "sp-aguas-del25-unit-row-73",
+      "parentName": "SUPERINTENDÊNCIA DE REGULAÇÃO",
+      "unitName": "GERÊNCIA DE GESTÃO DE OUTORGAS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Gestão de Outorgas",
+        "parentNameInRegimento": "Superintendência de Regulação",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-81",
+      "parentUnitId": "sp-aguas-del25-unit-row-80",
+      "parentName": "GERÊNCIA DE GESTÃO DE OUTORGAS",
+      "unitName": "DIVISÃO DE PROCEDIMENTOS DE OUTORGAS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Procedimentos de Outorgas",
+        "parentNameInRegimento": "Gerência de Gestão de Outorgas",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-85",
+      "parentUnitId": "sp-aguas-del25-unit-row-73",
+      "parentName": "SUPERINTENDÊNCIA DE REGULAÇÃO",
+      "unitName": "GERÊNCIA DE OUTORGAS ESTRATÉGICAS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Outorgas Estratégicas",
+        "parentNameInRegimento": "Superintendência de Regulação",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-86",
+      "parentUnitId": "sp-aguas-del25-unit-row-85",
+      "parentName": "GERÊNCIA DE OUTORGAS ESTRATÉGICAS",
+      "unitName": "DIVISÃO DE REGULAÇÃO OPERACIONAL",
+      "source": {
+        "unitNameInRegimento": "Divisão de Regulação Operacional",
+        "parentNameInRegimento": "Gerência de Outorgas Estratégicas",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-89",
+      "parentUnitId": "sp-aguas-del25-unit-row-85",
+      "parentName": "GERÊNCIA DE OUTORGAS ESTRATÉGICAS",
+      "unitName": "DIVISÃO DE ANÁLISE DE OUTORGAS ESTRATÉGICAS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Análise de Outorgas Estratégicas",
+        "parentNameInRegimento": "Gerência de Outorgas Estratégicas",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-94",
+      "parentUnitId": "sp-aguas-del25-unit-row-92",
+      "parentName": "SUPERINTENDÊNCIA DE FISCALIZAÇÃO",
+      "unitName": "GERÊNCIA DE FISCALIZAÇÃO DE OUTORGAS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Fiscalização de Outorgas",
+        "parentNameInRegimento": "Superintendência de Fiscalização",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-95",
+      "parentUnitId": "sp-aguas-del25-unit-row-94",
+      "parentName": "GERÊNCIA DE FISCALIZAÇÃO DE OUTORGAS",
+      "unitName": "DIVISÃO DE GESTÃO FISCALIZATÓRIA",
+      "source": {
+        "unitNameInRegimento": "Divisão de Gestão Fiscalizatória",
+        "parentNameInRegimento": "Gerência de Fiscalização de Outorgas",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-97",
+      "parentUnitId": "sp-aguas-del25-unit-row-94",
+      "parentName": "GERÊNCIA DE FISCALIZAÇÃO DE OUTORGAS",
+      "unitName": "DIVISÃO DE GESTÃO SANCIONATÓRIA",
+      "source": {
+        "unitNameInRegimento": "Divisão de Gestão Sancionatória",
+        "parentNameInRegimento": "Gerência de Fiscalização de Outorgas",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-99",
+      "parentUnitId": "sp-aguas-del25-unit-row-92",
+      "parentName": "SUPERINTENDÊNCIA DE FISCALIZAÇÃO",
+      "unitName": "GERÊNCIA DE SEGURANÇA DE BARRAGENS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Segurança de Barragens",
+        "parentNameInRegimento": "Superintendência de Fiscalização",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-100",
+      "parentUnitId": "sp-aguas-del25-unit-row-99",
+      "parentName": "GERÊNCIA DE SEGURANÇA DE BARRAGENS",
+      "unitName": "DIVISÃO DE GESTÃO DE SEGURANÇA DE BARRAGENS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Gestão de Segurança de Barragens",
+        "parentNameInRegimento": "Gerência de Segurança de Barragens",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-113",
+      "parentUnitId": "sp-aguas-del25-unit-row-104",
+      "parentName": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+      "unitName": "GERÊNCIA DE ORÇAMENTO E FINANÇAS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Orçamento e Finanças",
+        "parentNameInRegimento": "Superintendência Administrativa",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-114",
+      "parentUnitId": "sp-aguas-del25-unit-row-113",
+      "parentName": "GERÊNCIA DE ORÇAMENTO E FINANÇAS",
+      "unitName": "DIVISÃO DE ORÇAMENTO",
+      "source": {
+        "unitNameInRegimento": "Divisão de Orçamento",
+        "parentNameInRegimento": "Gerência de Orçamento e Finanças",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-116",
+      "parentUnitId": "sp-aguas-del25-unit-row-113",
+      "parentName": "GERÊNCIA DE ORÇAMENTO E FINANÇAS",
+      "unitName": "DIVISÃO DE CONTABILIDADE E FINANÇAS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Contabilidade e Finanças",
+        "parentNameInRegimento": "Gerência de Orçamento e Finanças",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-119",
+      "parentUnitId": "sp-aguas-del25-unit-row-104",
+      "parentName": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+      "unitName": "GERÊNCIA DE PATRIMÔNIO E SERVIÇOS ADMINISTRATIVOS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Patrimônio e Serviços Administrativos",
+        "parentNameInRegimento": "Superintendência Administrativa",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-120",
+      "parentUnitId": "sp-aguas-del25-unit-row-119",
+      "parentName": "GERÊNCIA DE PATRIMÔNIO E SERVIÇOS ADMINISTRATIVOS",
+      "unitName": "DIVISÃO DE PATRIMÔNIO",
+      "source": {
+        "unitNameInRegimento": "Divisão de Patrimônio",
+        "parentNameInRegimento": "Gerência de Patrimônio e Serviços Administrativos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-123",
+      "parentUnitId": "sp-aguas-del25-unit-row-119",
+      "parentName": "GERÊNCIA DE PATRIMÔNIO E SERVIÇOS ADMINISTRATIVOS",
+      "unitName": "DIVISÃO DE SERVIÇOS ADMINISTRATIVOS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Serviços Administrativos",
+        "parentNameInRegimento": "Gerência de Patrimônio e Serviços Administrativos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-126",
+      "parentUnitId": "sp-aguas-del25-unit-row-119",
+      "parentName": "GERÊNCIA DE PATRIMÔNIO E SERVIÇOS ADMINISTRATIVOS",
+      "unitName": "DIVISÃO DOCUMENTAL",
+      "source": {
+        "unitNameInRegimento": "Divisão Documental",
+        "parentNameInRegimento": "Gerência de Patrimônio e Serviços Administrativos",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-128",
+      "parentUnitId": "sp-aguas-del25-unit-row-104",
+      "parentName": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+      "unitName": "GERÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS",
+      "source": {
+        "unitNameInRegimento": "Gerência de Licitações, Contratos e Convênios",
+        "parentNameInRegimento": "Superintendência Administrativa",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-129",
+      "parentUnitId": "sp-aguas-del25-unit-row-128",
+      "parentName": "GERÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS",
+      "unitName": "DIVISÃO DE LICITAÇÕES E AQUISIÇÕES",
+      "source": {
+        "unitNameInRegimento": "Divisão de Licitações e Aquisições",
+        "parentNameInRegimento": "Gerência de Licitações, Contratos e Convênios",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-132",
+      "parentUnitId": "sp-aguas-del25-unit-row-128",
+      "parentName": "GERÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS",
+      "unitName": "DIVISÃO DE CONTRATOS E CONVÊNIOS",
+      "source": {
+        "unitNameInRegimento": "Divisão de Contratos e Convênios",
+        "parentNameInRegimento": "Gerência de Licitações, Contratos e Convênios",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-135",
+      "parentUnitId": "sp-aguas-del25-unit-row-104",
+      "parentName": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+      "unitName": "GERÊNCIA DE TECNOLOGIA DE INFORMAÇÃO",
+      "source": {
+        "unitNameInRegimento": "Gerência de Tecnologia de Informação",
+        "parentNameInRegimento": "Superintendência Administrativa",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-136",
+      "parentUnitId": "sp-aguas-del25-unit-row-135",
+      "parentName": "GERÊNCIA DE TECNOLOGIA DE INFORMAÇÃO",
+      "unitName": "DIVISÃO DE GESTÃO E DESENVOLVIMENTO",
+      "source": {
+        "unitNameInRegimento": "Divisão de Gestão e Desenvolvimento",
+        "parentNameInRegimento": "Gerência de Tecnologia de Informação",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-138",
+      "parentUnitId": "sp-aguas-del25-unit-row-135",
+      "parentName": "GERÊNCIA DE TECNOLOGIA DE INFORMAÇÃO",
+      "unitName": "DIVISÃO DE INFRAESTRUTURA",
+      "source": {
+        "unitNameInRegimento": "Divisão de Infraestrutura.",
+        "parentNameInRegimento": "Gerência de Tecnologia de Informação",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-146",
+      "parentUnitId": "sp-aguas-del25-unit-row-144",
+      "parentName": "GERÊNCIA LITORÂNEA",
+      "unitName": "COORDENADORIA DO LITORAL NORTE E BAIXADA",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Litoral Norte e Baixada",
+        "parentNameInRegimento": "Gerência Litorânea",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-158",
+      "parentUnitId": "sp-aguas-del25-unit-row-156",
+      "parentName": "GERÊNCIA DO TIETÊ",
+      "unitName": "COORDENADORIA DO BAIXO TIETÊ",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Baixo Tietê",
+        "parentNameInRegimento": "Gerência do Tietê",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-162",
+      "parentUnitId": "sp-aguas-del25-unit-row-156",
+      "parentName": "GERÊNCIA DO TIETÊ",
+      "unitName": "COORDENADORIA DO MÉDIO TIETÊ",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Médio Tietê",
+        "parentNameInRegimento": "Gerência do Tietê",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-166",
+      "parentUnitId": "sp-aguas-del25-unit-row-156",
+      "parentName": "GERÊNCIA DO TIETÊ",
+      "unitName": "COORDENADORIA DO ALTO TIETÊ",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Alto Tietê",
+        "parentNameInRegimento": "Gerência do Tietê",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-179",
+      "parentUnitId": "sp-aguas-del25-unit-row-177",
+      "parentName": "GERÊNCIA DO GRANDE",
+      "unitName": "COORDENADORIA DO TURVO GRANDE",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Turvo Grande",
+        "parentNameInRegimento": "Gerência do Grande",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-183",
+      "parentUnitId": "sp-aguas-del25-unit-row-177",
+      "parentName": "GERÊNCIA DO GRANDE",
+      "unitName": "COORDENADORIA DO PARDO GRANDE",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Pardo Grande",
+        "parentNameInRegimento": "Gerência do Grande",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-194",
+      "parentUnitId": "sp-aguas-del25-unit-row-187",
+      "parentName": "GERÊNCIA DO PARANAPANEMA",
+      "unitName": "COORDENADORIA DO PEIXE PARANAPANEMA",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Peixe Paranapanema",
+        "parentNameInRegimento": "Gerência do Paranapanema",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "unitId": "sp-aguas-del25-unit-row-198",
+      "parentUnitId": "sp-aguas-del25-unit-row-187",
+      "parentName": "GERÊNCIA DO PARANAPANEMA",
+      "unitName": "COORDENADORIA DO ALTO PARANAPANEMA",
+      "source": {
+        "unitNameInRegimento": "Coordenadoria do Alto Paranapanema",
+        "parentNameInRegimento": "Gerência do Paranapanema",
+        "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+        "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+        "sourcePdfPages": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  ],
+  "unresolvedRelations": [
+    {
+      "unitNameInRegimento": "Gerência Litorânea",
+      "parentNameInRegimento": "Superintendência de Unidades Descentralizadas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-144"
+      ],
+      "exactParentMatches": []
+    },
+    {
+      "unitNameInRegimento": "Coordenadoria do Ribeira e Litoral Sul",
+      "parentNameInRegimento": "Gerência Litorânea",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [],
+      "exactParentMatches": [
+        "sp-aguas-del25-unit-row-144"
+      ]
+    },
+    {
+      "unitNameInRegimento": "Gerência do Tietê",
+      "parentNameInRegimento": "Superintendência de Unidades Descentralizadas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-156"
+      ],
+      "exactParentMatches": []
+    },
+    {
+      "unitNameInRegimento": "Gerência do Grande",
+      "parentNameInRegimento": "Superintendência de Unidades Descentralizadas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-177"
+      ],
+      "exactParentMatches": []
+    },
+    {
+      "unitNameInRegimento": "Gerência do Paranapanema",
+      "parentNameInRegimento": "Superintendência de Unidades Descentralizadas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-187"
+      ],
+      "exactParentMatches": []
+    },
+    {
+      "unitNameInRegimento": "Coordenadoria do Pontal do Paranapanema",
+      "parentNameInRegimento": "Gerência do Paranapanema",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [],
+      "exactParentMatches": [
+        "sp-aguas-del25-unit-row-187"
+      ]
+    },
+    {
+      "unitNameInRegimento": "Gerência do Paraíba e Mantiqueira",
+      "parentNameInRegimento": "Superintendência de Unidades Descentralizadas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-171"
+      ],
+      "exactParentMatches": []
+    },
+    {
+      "unitNameInRegimento": "Divisão de Gestão da Informação de Outorgas",
+      "parentNameInRegimento": "Gerência de Gestão de Outorgas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [],
+      "exactParentMatches": [
+        "sp-aguas-del25-unit-row-80"
+      ]
+    },
+    {
+      "unitNameInRegimento": "Divisão de Fiscalização Documental e de Campo",
+      "parentNameInRegimento": "Gerência de Segurança de Barragens",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [],
+      "exactParentMatches": [
+        "sp-aguas-del25-unit-row-99"
+      ]
+    },
+    {
+      "unitNameInRegimento": "Gerência de Gestão de Pessoas",
+      "parentNameInRegimento": "Superintendência Administrativa",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [],
+      "exactParentMatches": [
+        "sp-aguas-del25-unit-row-104"
+      ]
+    },
+    {
+      "unitNameInRegimento": "Divisão de Carreiras e Desenvolvimento",
+      "parentNameInRegimento": "Gerência de Gestão de Pessoas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-108"
+      ],
+      "exactParentMatches": []
+    },
+    {
+      "unitNameInRegimento": "Divisão de Gestão Funcional e Pagamentos",
+      "parentNameInRegimento": "Gerência de Gestão de Pessoas",
+      "provision": "Anexo único, art. 5º, enumeração da estrutura e § 1º",
+      "sourceUrl": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2026/07/DELIBERACAO-SP-AGUAS-No-21.pdf",
+      "sourcePdfPages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "reason": "Correspondência textual exata e única não encontrada para unidade ou unidade superior; nenhum vínculo inferido.",
+      "exactUnitMatches": [
+        "sp-aguas-del25-unit-row-110"
+      ],
+      "exactParentMatches": []
+    }
+  ],
+  "notes": [
+    "Somente unidades existentes no quadro da Deliberação 25 recebem parentUnitId.",
+    "Diretor-Presidente, Diretores e Conselho Diretor não foram criados como unidades artificiais para o quadro de cargos.",
+    "Art. 6º distingue supervisão técnica de subordinação hierárquica; uma não substitui a outra.",
+    "Ouvidoria, Corregedoria e Procuradoria têm autonomia nos termos dos órgãos superiores; não foram vinculadas ao Gabinete."
+  ],
+  "checks": {
+    "relationships": 47,
+    "unresolvedRelations": 12,
+    "knownUnitIdsOnly": true,
+    "cycles": false,
+    "sourcePagesVisuallyChecked": [
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "organizationId": "spm",
+  "act": {
+    "id": "spm-res24-2026",
+    "title": "RESOLUÇÃO, DE 14 DE OUTUBRO DE 2026",
+    "actDate": "2026-10-14",
+    "publicationDate": "2026-10-15",
+    "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746",
+    "rawFile": "spm-res24-2026-raw.json",
+    "classification": "allocation-transfer",
+    "changes": [
+      {
+        "sourceUnitCode": "4900012",
+        "sourceUnit": "Coordenadoria de Licitações e Contratos",
+        "sourceVacancyId": "2412649",
+        "destinationUnitCode": "4900011",
+        "destinationUnit": "Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.10",
+        "denomination": "Assessor II",
+        "sourcePositionLabel": "CCESP 2.10 - Assessor II",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746",
+        "sourceRow": 2
+      },
+      {
+        "sourceUnitCode": "4900011",
+        "sourceUnit": "Subsecretaria de Gestão Corporativa",
+        "sourceVacancyId": "2412671",
+        "destinationUnitCode": "4900015",
+        "destinationUnit": "Departamento de Frotas e Patrimônio",
+        "code": "CCESP 2.07",
+        "denomination": "Assistente Técnico III",
+        "sourcePositionLabel": "CCESP 2.07 - Assistente Técnico III",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746",
+        "sourceRow": 3
+      },
+      {
+        "sourceUnitCode": "4900015",
+        "sourceUnit": "Departamento de Frotas e Patrimônio",
+        "sourceVacancyId": "2411965",
+        "destinationUnitCode": "4900012",
+        "destinationUnit": "Coordenadoria de Licitações e Contratos",
+        "code": "CCESP 2.04",
+        "denomination": "Assistente IV",
+        "sourcePositionLabel": "CCESP 2.04 - Assistente IV",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746",
+        "sourceRow": 4
+      },
+      {
+        "sourceUnitCode": "4900010",
+        "sourceUnit": "Assessoria Regional",
+        "sourceVacancyId": "2412653",
+        "destinationUnitCode": "4900011",
+        "destinationUnit": "Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.10",
+        "denomination": "Assessor II",
+        "sourcePositionLabel": "CCESP 2.10 - Assessor II",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746",
+        "sourceRow": 5
+      }
+    ],
+    "aggregateQuantityChange": "0",
+    "aggregateQuotaChangeCents": "0",
+    "status": "explicit-transfers-extracted",
+    "limitations": [],
+    "effectiveDate": "2026-10-15"
+  }
+}

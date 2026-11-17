@@ -1,0 +1,97 @@
+{
+  "organizationId": "sesp",
+  "act": {
+    "id": "sesp-res-2026-07-13",
+    "title": "Resolução",
+    "actDate": "2026-07-13",
+    "publicationDate": "2026-07-16",
+    "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+    "rawFile": "sesp-res-2026-07-13-raw.json",
+    "classification": "allocation-transfer",
+    "changes": [
+      {
+        "sourceUnitCode": "10700010",
+        "sourceUnit": "Coordenadoria De Políticas Públicas",
+        "sourceVacancyId": "2412738",
+        "destinationUnitCode": "10700035",
+        "destinationUnit": "Seção de Tomada de Contas",
+        "code": "CCESP 2.03",
+        "denomination": "Assistente III",
+        "sourcePositionLabel": "Assistente III – CCESP 2.03",
+        "quantity": "1",
+        "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "sourceRow": 2
+      },
+      {
+        "sourceUnitCode": "10700003",
+        "sourceUnit": "Chefia de Gabinete",
+        "sourceVacancyId": "2412441",
+        "destinationUnitCode": "10700036",
+        "destinationUnit": "Assessoria da Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.12",
+        "denomination": "Assessor IV",
+        "sourcePositionLabel": "Assessor IV – CCESP 2.12",
+        "quantity": "1",
+        "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "sourceRow": 3
+      },
+      {
+        "sourceUnitCode": "10700009",
+        "sourceUnit": "Coordenadoria Geral",
+        "sourceVacancyId": "2410993",
+        "destinationUnitCode": "10700010",
+        "destinationUnit": "Coordenadoria De Políticas Públicas",
+        "code": "CCESP 2.09",
+        "denomination": "Assessor I",
+        "sourcePositionLabel": "Assessor I – CCESP 2.09",
+        "quantity": "1",
+        "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "sourceRow": 4
+      },
+      {
+        "sourceUnitCode": "10700010",
+        "sourceUnit": "Coordenadoria De Políticas Públicas",
+        "sourceVacancyId": "2412741",
+        "destinationUnitCode": "10700009",
+        "destinationUnit": "Coordenadoria Geral",
+        "code": "CCESP 2.06",
+        "denomination": "Assistente Técnico II",
+        "sourcePositionLabel": "Assistente Técnico II – CCESP 2.06",
+        "quantity": "1",
+        "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "sourceRow": 5
+      },
+      {
+        "sourceUnitCode": "10700010",
+        "sourceUnit": "Coordenadoria de Políticas Públicas",
+        "sourceVacancyId": "2412309",
+        "destinationUnitCode": "10700013",
+        "destinationUnit": "Divisão – Centro Desportivo Constâncio Vaz Guimarães",
+        "code": "CCESP 2.04",
+        "denomination": "Assistente IV",
+        "sourcePositionLabel": "Assistente IV – CCESP – 2.04",
+        "quantity": "1",
+        "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "sourceRow": 6
+      },
+      {
+        "sourceUnitCode": "10700010",
+        "sourceUnit": "Coordenadoria de Políticas Públicas",
+        "sourceVacancyId": "2412566",
+        "destinationUnitCode": "10700003",
+        "destinationUnit": "Chefia de Gabinete",
+        "code": "CCESP 2.12",
+        "denomination": "Assessor IV",
+        "sourcePositionLabel": "Assessor IV – CCESP – 2.12",
+        "quantity": "1",
+        "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "sourceRow": 7
+      }
+    ],
+    "aggregateQuantityChange": "0",
+    "aggregateQuotaChangeCents": "0",
+    "status": "explicit-transfers-extracted",
+    "limitations": [],
+    "effectiveRule": "10 dias úteis após publicação; data final não inferida sem calendário aplicável."
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "method": "Read-only OOXML/openpyxl inspection, independently reconciled with saved source Annex II rows and exact Decimal arithmetic. No native Excel execution and no workbook edits.",
+  "files": {
+    "original": {
+      "path": "/Users/eduardofariascappia/Downloads/SGGD_SIMULADOR_.xlsx",
+      "sha256": "dd81060074013b1a2ff44b598d3dd0d92f3dac126ca51723b87334f1c4f74bad",
+      "bytes": 40965
+    },
+    "corrected": {
+      "path": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/outputs/01a08b9a-sggd-planilha-corrigida/SGGD_SIMULADOR_CORRIGIDO.xlsx",
+      "sha256": "3a39402fc1f64094141b4f54f5940735bc06f6f915af1140e3291c27e0d70499",
+      "bytes": 32024
+    }
+  },
+  "checks": {
+    "all_original_proposed_quantities_preserved": true,
+    "all_46_AnnexII_quantities_match": true,
+    "missing_original_formulas": [],
+    "formulas": {
+      "original": 496,
+      "corrected": 504
+    },
+    "cached_formula_errors": [],
+    "expected_header_and_dependency_caches": {
+      "C5": {
+        "expected": 299,
+        "actual": 299,
+        "match": true
+      },
+      "C6": {
+        "expected": 201,
+        "actual": 201,
+        "match": true
+      },
+      "C7": {
+        "expected": 500,
+        "actual": 500,
+        "match": true
+      },
+      "D5": {
+        "expected": 298,
+        "actual": 298,
+        "match": true
+      },
+      "D6": {
+        "expected": 201,
+        "actual": 201,
+        "match": true
+      },
+      "D7": {
+        "expected": 499,
+        "actual": 499,
+        "match": true
+      },
+      "G5": {
+        "expected": 1069.5,
+        "actual": 1069.5,
+        "match": true
+      },
+      "G6": {
+        "expected": 348.75,
+        "actual": 348.75,
+        "match": true
+      },
+      "G7": {
+        "expected": 1418.25,
+        "actual": 1418.25,
+        "match": true
+      },
+      "H5": {
+        "expected": 1066,
+        "actual": 1066,
+        "match": true
+      },
+      "H6": {
+        "expected": 349.35,
+        "actual": 349.35,
+        "match": true
+      },
+      "H7": {
+        "expected": 1415.35,
+        "actual": 1415.35,
+        "match": true
+      },
+      "E5": {
+        "expected": -1,
+        "actual": -1,
+        "match": true
+      },
+      "E6": {
+        "expected": 0,
+        "actual": 0,
+        "match": true
+      },
+      "E7": {
+        "expected": -1,
+        "actual": -1,
+        "match": true
+      },
+      "I5": {
+        "expected": -3.5,
+        "actual": -3.5,
+        "match": true
+      },
+      "I6": {
+        "expected": 0.6,
+        "actual": 0.6000000000000227,
+        "match": true
+      },
+      "I7": {
+        "expected": -2.9,
+        "actual": -2.900000000000091,
+        "match": true
+      },
+      "J5": {
+        "expected": "Enquadrada",
+        "actual": "Enquadrada",
+        "match": true
+      },
+      "J6": {
+        "expected": "Enquadrada",
+        "actual": "Enquadrada",
+        "match": true
+      },
+      "J7": {
+        "expected": "Enquadrada nos limites",
+        "actual": "Enquadrada nos limites",
+        "match": true
+      },
+      "P51": {
+        "expected": 0,
+        "actual": 0,
+        "match": true
+      },
+      "R51": {
+        "expected": -1,
+        "actual": -1,
+        "match": true
+      },
+      "S51": {
+        "expected": "Excesso alocado: 1",
+        "actual": "Excesso alocado: 1",
+        "match": true
+      },
+      "B61": {
+        "expected": 298,
+        "actual": 298,
+        "match": true
+      },
+      "B62": {
+        "expected": 201,
+        "actual": 201,
+        "match": true
+      },
+      "B63": {
+        "expected": 499,
+        "actual": 499,
+        "match": true
+      },
+      "D61": {
+        "expected": 14,
+        "actual": 14,
+        "match": true
+      },
+      "D62": {
+        "expected": 13,
+        "actual": 13,
+        "match": true
+      },
+      "D63": {
+        "expected": 27,
+        "actual": 27,
+        "match": true
+      },
+      "C58": {
+        "expected": 9787.8,
+        "actual": 9787.8,
+        "match": true
+      }
+    },
+    "detail_cache_mismatches": [],
+    "unexpected_cached_changes": [],
+    "merges_preserved": true,
+    "merge_count": 13,
+    "widths_preserved": true,
+    "number_formats_alignments_protection_unchanged_outside_row58": true,
+    "row58_visible_style_matches57": {
+      "A": true,
+      "B": true,
+      "C": true,
+      "D": true,
+      "E": true,
+      "F": true,
+      "G": true,
+      "H": true,
+      "I": true,
+      "J": true,
+      "K": true,
+      "L": true,
+      "M": true
+    },
+    "validation": [
+      "<dataValidation sqref=\"F13:F58\" showDropDown=\"0\" showInputMessage=\"0\" showErrorMessage=\"1\" allowBlank=\"0\" errorTitle=\"Quantidade inválida\" error=\"Informe um número inteiro igual ou maior que zero.\" type=\"whole\" errorStyle=\"stop\" operator=\"greaterThanOrEqual\"><formula1>0</formula1></dataValidation>"
+    ],
+    "conditional_formatting": [
+      {
+        "range": "E279:E281",
+        "rules": [
+          {
+            "formula": [
+              "E279=\"Alocado corretamente\""
+            ],
+            "dxf": "<dxf><fill><patternFill><bgColor rgb=\"FFD9EAD3\" /></patternFill></fill></dxf>"
+          },
+          {
+            "formula": [
+              "E279<>\"Alocado corretamente\""
+            ],
+            "dxf": "<dxf><fill><patternFill><bgColor rgb=\"FFF4CCCC\" /></patternFill></fill></dxf>"
+          }
+        ]
+      },
+      {
+        "range": "I4:I6",
+        "rules": [
+          {
+            "formula": [
+              "I4=\"Alocado corretamente\""
+            ],
+            "dxf": "<dxf><fill><patternFill><bgColor rgb=\"FFE2F0D9\" /></patternFill></fill></dxf>"
+          },
+          {
+            "formula": [
+              "I4<>\"Alocado corretamente\""
+            ],
+            "dxf": "<dxf><font><b val=\"1\" /></font><fill><patternFill><bgColor rgb=\"FFFFF2CC\" /></patternFill></fill></dxf>"
+          }
+        ]
+      },
+      {
+        "range": "J291:J351",
+        "rules": [
+          {
+            "formula": [
+              "J291=\"ULTRAPASSA LIMITE\""
+            ],
+            "dxf": "<dxf><font><b val=\"1\" /></font><fill><patternFill><bgColor rgb=\"FFF4CCCC\" /></patternFill></fill></dxf>"
+          },
+          {
+            "formula": [
+              "J291=\"Dentro do limite global\""
+            ],
+            "dxf": "<dxf><fill><patternFill><bgColor rgb=\"FFE2F0D9\" /></patternFill></fill></dxf>"
+          }
+        ]
+      },
+      {
+        "range": "S6:S51",
+        "rules": [
+          {
+            "formula": [
+              "S6=\"Alocado corretamente\""
+            ],
+            "dxf": "<dxf><fill><patternFill><bgColor rgb=\"FFD9EAD3\" /></patternFill></fill></dxf>"
+          },
+          {
+            "formula": [
+              "S6<>\"Alocado corretamente\""
+            ],
+            "dxf": "<dxf><fill><patternFill><bgColor rgb=\"FFF4CCCC\" /></patternFill></fill></dxf>"
+          }
+        ]
+      }
+    ],
+    "raw_calcPr_original": {
+      "calcId": "191028"
+    },
+    "raw_calcPr_corrected": {
+      "calcId": "191028",
+      "fullCalcOnLoad": "1"
+    },
+    "files_unchanged_during_audit": {
+      "original": true,
+      "corrected": true
+    }
+  },
+  "notes": [
+    "Original source unchanged. All existing formulas retained, with planned scope corrections and new row58 formulas.",
+    "No cached formula errors or unexpected cached-value changes detected. Workbook native recalculation was not executed by this reviewer.",
+    "Original borders/fills show neutral serialization differences (empty elements omitted); named fonts remain and row-height differences are below1e-6.",
+    "Selection/top-left viewport resets to A1; no calculation effect.",
+    "Original calcPr contains only calcId191028; fullCalcOnLoad reported by openpyxl is a library default. Corrected file explicitly sets fullCalcOnLoad1.",
+    "Final conditional formatting extends the original S6:S50 rules to S6:S51 using the original differential styles. F13:F58 validation is whole>=0 with stop alert. calcPr explicitly requests full recalculation on load."
+  ],
+  "final_metadata_snapshot": {
+    "preceding_check_sha256": "74e4bdd89fd2fb82bb00179a4822a3cc275b189e1139bafc525a87548783a81d",
+    "conditional_formatting_xml": [
+      {
+        "range": "E279:E281",
+        "rules": [
+          [
+            "7",
+            "E279=\"Alocado corretamente\""
+          ],
+          [
+            "6",
+            "E279<>\"Alocado corretamente\""
+          ]
+        ]
+      },
+      {
+        "range": "I4:I6",
+        "rules": [
+          [
+            "5",
+            "I4=\"Alocado corretamente\""
+          ],
+          [
+            "4",
+            "I4<>\"Alocado corretamente\""
+          ]
+        ]
+      },
+      {
+        "range": "J291:J351",
+        "rules": [
+          [
+            "3",
+            "J291=\"ULTRAPASSA LIMITE\""
+          ],
+          [
+            "2",
+            "J291=\"Dentro do limite global\""
+          ]
+        ]
+      },
+      {
+        "range": "S6:S51",
+        "rules": [
+          [
+            "1",
+            "S6=\"Alocado corretamente\""
+          ],
+          [
+            "0",
+            "S6<>\"Alocado corretamente\""
+          ]
+        ]
+      }
+    ],
+    "sha256": "3a39402fc1f64094141b4f54f5940735bc06f6f915af1140e3291c27e0d70499"
+  },
+  "final_status": "Static inspection passed; no unexpected content/formula/style loss found in the final file within the reviewed scope. Native recalculation tests belong to the parent authoring checks."
+}

@@ -1,0 +1,335 @@
+{
+  "source": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70042-30.10.2025.html",
+  "rows": [
+    {
+      "code": "CCESP 1.18",
+      "unit": "9.00",
+      "quantity": 1,
+      "quota": "9"
+    },
+    {
+      "code": "CCESP 1.17",
+      "unit": "8.00",
+      "quantity": 6,
+      "quota": "48"
+    },
+    {
+      "code": "CCESP 1.16",
+      "unit": "7.00",
+      "quantity": 1,
+      "quota": "7"
+    },
+    {
+      "code": "CCESP 1.15",
+      "unit": "6.00",
+      "quantity": 23,
+      "quota": "138"
+    },
+    {
+      "code": "CCESP 1.14",
+      "unit": "5.50",
+      "quantity": 2,
+      "quota": "11"
+    },
+    {
+      "code": "CCESP 1.13",
+      "unit": "4.50",
+      "quantity": 61,
+      "quota": "274.5"
+    },
+    {
+      "code": "CCESP 1.12",
+      "unit": "4.00",
+      "quantity": 2,
+      "quota": "8"
+    },
+    {
+      "code": "CCESP 1.10",
+      "unit": "3.25",
+      "quantity": 33,
+      "quota": "107.25"
+    },
+    {
+      "code": "CCESP 1.09",
+      "unit": "3.00",
+      "quantity": 13,
+      "quota": "39"
+    },
+    {
+      "code": "CCESP 1.08",
+      "unit": "2.75",
+      "quantity": 105,
+      "quota": "288.75"
+    },
+    {
+      "code": "CCESP 1.07",
+      "unit": "2.50",
+      "quantity": 182,
+      "quota": "455"
+    },
+    {
+      "code": "CCESP 1.05",
+      "unit": "2.00",
+      "quantity": 223,
+      "quota": "446"
+    },
+    {
+      "code": "CCESP 1.04",
+      "unit": "1.75",
+      "quantity": 2,
+      "quota": "3.5"
+    },
+    {
+      "code": "CCESP 2.17",
+      "unit": "8.00",
+      "quantity": 5,
+      "quota": "40"
+    },
+    {
+      "code": "CCESP 2.16",
+      "unit": "7.00",
+      "quantity": 3,
+      "quota": "21"
+    },
+    {
+      "code": "CCESP 2.15",
+      "unit": "6.00",
+      "quantity": 9,
+      "quota": "54"
+    },
+    {
+      "code": "CCESP 2.14",
+      "unit": "5.50",
+      "quantity": 11,
+      "quota": "60.5"
+    },
+    {
+      "code": "CCESP 2.13",
+      "unit": "4.50",
+      "quantity": 16,
+      "quota": "72"
+    },
+    {
+      "code": "CCESP 2.12",
+      "unit": "4.00",
+      "quantity": 14,
+      "quota": "56"
+    },
+    {
+      "code": "CCESP 2.11",
+      "unit": "3.50",
+      "quantity": 27,
+      "quota": "94.5"
+    },
+    {
+      "code": "CCESP 2.10",
+      "unit": "3.25",
+      "quantity": 7,
+      "quota": "22.75"
+    },
+    {
+      "code": "CCESP 2.09",
+      "unit": "3.00",
+      "quantity": 32,
+      "quota": "96"
+    },
+    {
+      "code": "CCESP 2.08",
+      "unit": "2.75",
+      "quantity": 10,
+      "quota": "27.5"
+    },
+    {
+      "code": "CCESP 2.07",
+      "unit": "2.50",
+      "quantity": 40,
+      "quota": "100"
+    },
+    {
+      "code": "CCESP 2.06",
+      "unit": "2.25",
+      "quantity": 32,
+      "quota": "72"
+    },
+    {
+      "code": "CCESP 2.05",
+      "unit": "2.00",
+      "quantity": 29,
+      "quota": "58"
+    },
+    {
+      "code": "CCESP 2.04",
+      "unit": "1.75",
+      "quantity": 62,
+      "quota": "108.5"
+    },
+    {
+      "code": "CCESP 2.03",
+      "unit": "1.50",
+      "quantity": 72,
+      "quota": "108"
+    },
+    {
+      "code": "CCESP 2.02",
+      "unit": "1.25",
+      "quantity": 163,
+      "quota": "203.75"
+    },
+    {
+      "code": "CCESP 2.01",
+      "unit": "1.00",
+      "quantity": 60,
+      "quota": "60"
+    },
+    {
+      "code": "FCESP 1.14",
+      "unit": "3.30",
+      "quantity": 32,
+      "quota": "105.6"
+    },
+    {
+      "code": "FCESP 1.13",
+      "unit": "2.70",
+      "quantity": 25,
+      "quota": "67.5"
+    },
+    {
+      "code": "FCESP 1.12",
+      "unit": "2.40",
+      "quantity": 36,
+      "quota": "86.4"
+    },
+    {
+      "code": "FCESP 1.11",
+      "unit": "2.10",
+      "quantity": 2,
+      "quota": "4.2"
+    },
+    {
+      "code": "FCESP 1.10",
+      "unit": "1.95",
+      "quantity": 1,
+      "quota": "1.95"
+    },
+    {
+      "code": "FCESP 1.08",
+      "unit": "1.65",
+      "quantity": 56,
+      "quota": "92.4"
+    },
+    {
+      "code": "FCESP 1.07",
+      "unit": "1.50",
+      "quantity": 113,
+      "quota": "169.5"
+    },
+    {
+      "code": "FCESP 1.05",
+      "unit": "1.20",
+      "quantity": 505,
+      "quota": "606"
+    },
+    {
+      "code": "FCESP 2.13",
+      "unit": "2.70",
+      "quantity": 4,
+      "quota": "10.8"
+    },
+    {
+      "code": "FCESP 2.11",
+      "unit": "2.10",
+      "quantity": 2,
+      "quota": "4.2"
+    },
+    {
+      "code": "FCESP 2.10",
+      "unit": "1.95",
+      "quantity": 4,
+      "quota": "7.8"
+    },
+    {
+      "code": "FCESP 2.09",
+      "unit": "1.80",
+      "quantity": 1,
+      "quota": "1.8"
+    },
+    {
+      "code": "FCESP 2.08",
+      "unit": "1.65",
+      "quantity": 2,
+      "quota": "3.3"
+    },
+    {
+      "code": "FCESP 2.07",
+      "unit": "1.50",
+      "quantity": 3,
+      "quota": "4.5"
+    },
+    {
+      "code": "FCESP 2.06",
+      "unit": "1.35",
+      "quantity": 3,
+      "quota": "4.05"
+    },
+    {
+      "code": "FCESP 2.05",
+      "unit": "1.20",
+      "quantity": 4,
+      "quota": "4.8"
+    },
+    {
+      "code": "FCESP 2.04",
+      "unit": "1.05",
+      "quantity": 3,
+      "quota": "3.15"
+    },
+    {
+      "code": "FCESP 2.03",
+      "unit": "0.90",
+      "quantity": 2,
+      "quota": "1.8"
+    },
+    {
+      "code": "FCESP 2.02",
+      "unit": "0.75",
+      "quantity": 16,
+      "quota": "12"
+    },
+    {
+      "code": "FCESP 2.01",
+      "unit": "0.60",
+      "quantity": 6,
+      "quota": "3.6"
+    }
+  ],
+  "computed": {
+    "CCESP": [
+      1246,
+      "3089.50"
+    ],
+    "FCESP": [
+      820,
+      "1195.35"
+    ]
+  },
+  "mismatches": [],
+  "consultation_date": "2026-09-24",
+  "scope": "Secretaria da Educação do Estado de São Paulo — quadro CCESP/FCESP da administração direta",
+  "documented_effective_from": "2025-10-31",
+  "quadro_reconciliation": {
+    "source_annex": "Anexo I do Decreto 70.042/2025, substituto do Anexo II do Decreto 69.665/2025",
+    "method": "Soma das quantidades por código do quadro de unidades, cotejada código a código com as 50 linhas do resumo no Anexo II do Decreto 70.042/2025.",
+    "differences_found": [],
+    "computed": {
+      "CCESP": [
+        1246,
+        "3089.50"
+      ],
+      "FCESP": [
+        820,
+        "1195.35"
+      ]
+    }
+  },
+  "coverage_limit": "Última alteração de totais localizada na consulta; não é garantia de exaustividade da indexação ou de vigência integral."
+}

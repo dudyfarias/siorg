@@ -1,0 +1,154 @@
+{
+  "retrievedAt": "2026-11-16",
+  "url": "https://baleg-api-prd.al.sp.gov.br/norma/210012",
+  "data": {
+    "idNorma": "210012",
+    "tipo": "Lei Complementar",
+    "nuNorma": "1413",
+    "data": "23/09/2024",
+    "dataPublicacao": "24/09/2024",
+    "nomeNorma": "Lei Complementar nº 1.413, de 23/09/2024",
+    "nomeNormaApelido": "( Lei Complementar 1.413/2024 )",
+    "idTipo": "2",
+    "idPropositura": "1000555309",
+    "nomePropositura": "PLC 35/2024",
+    "dsEmenta": "Dispõe sobre o regime jurídico das agências reguladoras estaduais, transforma o Departamento de Águas e Energia Elétrica - DAEE em Agência de Águas do Estado de São Paulo - SP-ÁGUAS, e dá providências correlatas.",
+    "alespExplica": null,
+    "tpPublicacaoAlespExplica": "N",
+    "dsSituacao": "Sem revogação expressa",
+    "tpPromulgacao": "Executivo",
+    "nomePublicacaoDO": "DOESP Executivo Seção 1, 24/09/2024, p.2",
+    "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/leis-complementares/lei-complementar-n-1413-de-23-de-setembro-de-2024",
+    "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/original-lei.complementar-1413-23.09.2024.html",
+    "urlIntegraAtualizada": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+    "urlTextoAtualizado": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+    "urlIntegraListaPesquisa": null,
+    "completa": "sim",
+    "observacoes": [],
+    "constitucionalidades": [],
+    "publicacoesPosteriores": [
+      {
+        "idPublicacaoPosterior": "192382",
+        "nomeDiario": "DOESP Executivo Seção 1, 26/09/2024, p.1",
+        "dtDiario": "26/09/2024",
+        "nuPagina": "1",
+        "idTipoPublicaca": "3",
+        "nmTipoPublicacao": "Retificação",
+        "urlDiarioOficial": "https://doe.sp.gov.br/executivo/leis-complementares/retificacao-de-23-de-setembro-de-2024-20240925114223612421",
+        "urlArquivo": null
+      },
+      {
+        "idPublicacaoPosterior": "193024",
+        "nomeDiario": "DOESP Executivo Seção 1, 21/02/2025, p.1",
+        "dtDiario": "21/02/2025",
+        "nuPagina": "1",
+        "idTipoPublicaca": "3",
+        "nmTipoPublicacao": "Retificação",
+        "urlDiarioOficial": "https://doe.sp.gov.br/executivo/leis-complementares/retificacao-do-do-de-24-de-setembro-de-2024-20250220114223901837",
+        "urlArquivo": null
+      }
+    ],
+    "anotacoesAlteracao": [],
+    "anotacoesRegulamentacao": [
+      {
+        "idAnotacao": "67149",
+        "idNormaAnotadora": "210569",
+        "nomeNorma": "Decreto nº 69.339, de 04/02/2025",
+        "anotadoraDsCaderno": null,
+        "anotadoraDtPublicacao": null,
+        "anotadoraNuPagina": null,
+        "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210569",
+        "anotadoraTxNorma": "Regulamenta a Lei Complementar nº 1.413, de 23 de setembro de 2024, que dispõe sobre o regime jurídico das agências reguladoras estaduais, bem como estabelece diretrizes para a organização das agências e dá providências correlatas.",
+        "anotadoraTpNorma": "Decreto",
+        "anotadoraNuNorma": "69339",
+        "anotadoraDsComplementoNorma": null,
+        "anotadoraDtNorma": "04/02/2025",
+        "anotadoraDsSituacao": "Sem revogação expressa",
+        "tipoAnotacao": "Regulamentação",
+        "internaExterna": "Interna",
+        "flMudaStatus": null,
+        "dataOrdenacao": "2025-02-04T00:00:00",
+        "normaAnotada": null,
+        "artigos": null
+      }
+    ],
+    "anotacoesCorrelata": [
+      {
+        "idAnotacao": "67064",
+        "idNormaAnotadora": "210519",
+        "nomeNorma": "Decreto nº 69.294, de 03/01/2025",
+        "anotadoraDsCaderno": null,
+        "anotadoraDtPublicacao": null,
+        "anotadoraNuPagina": null,
+        "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210519",
+        "anotadoraTxNorma": "Prorroga o prazo previsto no artigo 5º das Disposições Transitórias da Lei Complementar nº 1.413, de 23 de setembro de 2024.",
+        "anotadoraTpNorma": "Decreto",
+        "anotadoraNuNorma": "69294",
+        "anotadoraDsComplementoNorma": null,
+        "anotadoraDtNorma": "03/01/2025",
+        "anotadoraDsSituacao": "Sem revogação expressa",
+        "tipoAnotacao": "Correlata",
+        "internaExterna": "Interna",
+        "flMudaStatus": null,
+        "dataOrdenacao": "2025-01-03T00:00:00",
+        "normaAnotada": null,
+        "artigos": null
+      }
+    ],
+    "anotacaoOutras": [],
+    "temas": [
+      {
+        "idTema": "551",
+        "nmTema": "Administração Pública"
+      },
+      {
+        "idTema": "1001",
+        "nmTema": "Funcionalismo"
+      }
+    ],
+    "autores": [
+      {
+        "idParticipante": 105,
+        "nmParticipante": "Governador"
+      }
+    ],
+    "indexadores": [
+      {
+        "idTermo": "331130",
+        "nmTermo": "Agência de Águas do Estado de São Paulo - SP-ÁGUAS"
+      },
+      {
+        "idTermo": "324979",
+        "nmTermo": "Agência Reguladora"
+      },
+      {
+        "idTermo": "324981",
+        "nmTermo": "Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP"
+      },
+      {
+        "idTermo": "324982",
+        "nmTermo": "Agência Reguladora dos Serviços Públicos do Estado de São Paulo - ARSESP"
+      },
+      {
+        "idTermo": "325621",
+        "nmTermo": "Cargo e Função"
+      },
+      {
+        "idTermo": "325974",
+        "nmTermo": "Competência e Atribuições"
+      },
+      {
+        "idTermo": "326025",
+        "nmTermo": "Conselho"
+      },
+      {
+        "idTermo": "326339",
+        "nmTermo": "Departamento de Águas e Energia Elétrica - DAEE"
+      },
+      {
+        "idTermo": "130845",
+        "nmTermo": "Regime Jurídico"
+      }
+    ]
+  }
+}

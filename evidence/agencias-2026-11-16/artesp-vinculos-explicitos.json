@@ -1,0 +1,185 @@
+{
+  "checkedAt": "2026-11-16",
+  "source": {
+    "hierarchy": {
+      "title": "Deliberação ARTESP nº 471, de 25/09/2025, Anexo, Regimento Interno, art. 4º",
+      "publicationDate": "2025-09-26",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-artesp-n-471-de-25-de-setembro-de-2025-2025092511341712031364742",
+      "evidence": "artesp-fonte-471.json"
+    },
+    "allocation": {
+      "sourceTitle": "DELIBERAÇÃO ARTESP Nº 722, DE 22 DE SETEMBRO DE 2026",
+      "publicationDate": "2026-09-23",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-artesp-n-722-de-22-de-setembro-de-2026-2026092211351712032147160"
+    },
+    "articleText": "Art. 4º. A ARTESP conta com seguinte estrutura organizacional: 1. Órgãos Superiores: a) Conselho Diretor b) Ouvidoria c) Procuradoria d) Corregedoria 2. Órgãos Específicos: a) Gabinete da Presidência I. Gerência de inovação e engenharia digital – GEIND II. Coordenadoria de controle externo – COEXT III. Assessoria técnica do gabinete – ASGAB IV. Assessoria de relações governamentais – ASREG V. Assessoria de comunicação – ASCOM b) Superintendência de Administração Interna – SUADI I. Gerência de licitações e contratos II. Gerência de orçamento e finanças III. Coordenação de recursos humanos IV. Coordenação de departamento pessoal V. Coordenação de documentação VI. Coordenação de serviços c) Superintendência de Tecnologia da Informação – SUTID I. Gerência de sistemas II. Gerência do centro de controle multimodal - Coordenação do centro de controle multimodal d) Superintendência de Regulação Econômico-Financeira – SUREF I. Gerência de dispêndios de concessões II. Gerência de receitas de concessões III. Gerência de arrecadação e bilhetagem e) Superintendência de Novos Investimentos – SUINV I. Gerência de regulação II. Gerência de projetos A III. Gerência de projetos B IV. Coordenação de projetos de infraestrutura V. Coordenação de estudos econômico-financeiros VI. Coordenação de estudos de demanda VII. Coordenação de orçamentos f) Superintendência Socioambiental – SUSAM I. Gerência de gestão socioambiental - Coordenação de transporte rodoviário II. Gerência de desapropriação e gestão fundiária - Coordenação de faixa de domínio g) Superintendência Rodoviária – SUROD I. Gerência de planejamento - Coordenadoria técnica - Coordenadoria regulatória II. Gerência de fiscalização e operação rodoviária - Coordenadoria de fiscalização de operação rodoviária - Coordenadoria de fiscalização de investimentos rodoviários - Coordenadoria de fiscalização externa de obras e conserva III. Gerência de engenharia - Coordenadoria de projetos - Coordenadoria de integração IV. Gerência de apoio e demandas externas h) Superintendência Metroferroviária – SUMEF I. Gerência de investimentos II. Gerência de fiscalização operacional III. Gerência de regulação e gestão contratual IV. Coordenação A V. Coordenação B i) Superintendência de Transporte Coletivo – SUCOL I. Gerência de regulatório e gestão contratual II. Gerência de planejamento III. Gerência de fiscalização IV. Gerência de investimentos j) Superintendência Aeroportuária – SUAEP I. Gerência adjunta II. Coordenação A k) Superintendência Hidroviária – SUHID"
+  },
+  "links": [
+    {
+      "unitId": "artesp-722-2026-unit-r0035",
+      "unitName": "Coordenadoria de Controle Externo",
+      "parentUnitId": "artesp-722-2026-unit-r0026",
+      "parentName": "GAB - Gabinete da Presidência",
+      "sourceLocator": "Regimento, art. 4º, item 2.a.II",
+      "sourceParentName": "Gabinete da Presidência",
+      "sourceUnitName": "Coordenadoria de controle externo – COEXT",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 35,
+      "allocationParentRowIndex": 26
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0041",
+      "unitName": "Assessoria de Relações Governamentais",
+      "parentUnitId": "artesp-722-2026-unit-r0026",
+      "parentName": "GAB - Gabinete da Presidência",
+      "sourceLocator": "Regimento, art. 4º, item 2.a.IV",
+      "sourceParentName": "Gabinete da Presidência",
+      "sourceUnitName": "Assessoria de relações governamentais – ASREG",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 41,
+      "allocationParentRowIndex": 26
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0054",
+      "unitName": "Gerência de Sistemas",
+      "parentUnitId": "artesp-722-2026-unit-r0043",
+      "parentName": "SUTID",
+      "sourceLocator": "Regimento, art. 4º, item 2.c.I",
+      "sourceParentName": "Superintendência de Tecnologia da Informação – SUTID",
+      "sourceUnitName": "Gerência de sistemas",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 54,
+      "allocationParentRowIndex": 43
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0130",
+      "unitName": "Gerência de Dispêndios de Concessões",
+      "parentUnitId": "artesp-722-2026-unit-r0124",
+      "parentName": "SUREF",
+      "sourceLocator": "Regimento, art. 4º, item 2.d.I",
+      "sourceParentName": "Superintendência de Regulação Econômico-Financeira – SUREF",
+      "sourceUnitName": "Gerência de dispêndios de concessões",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 130,
+      "allocationParentRowIndex": 124
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0131",
+      "unitName": "Gerência de Receitas de Concessões",
+      "parentUnitId": "artesp-722-2026-unit-r0124",
+      "parentName": "SUREF",
+      "sourceLocator": "Regimento, art. 4º, item 2.d.II",
+      "sourceParentName": "Superintendência de Regulação Econômico-Financeira – SUREF",
+      "sourceUnitName": "Gerência de receitas de concessões",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 131,
+      "allocationParentRowIndex": 124
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0148",
+      "unitName": "Gerência de Gestão Socioambiental",
+      "parentUnitId": "artesp-722-2026-unit-r0145",
+      "parentName": "SUSAM",
+      "sourceLocator": "Regimento, art. 4º, item 2.f.I",
+      "sourceParentName": "Superintendência Socioambiental – SUSAM",
+      "sourceUnitName": "Gerência de gestão socioambiental",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 148,
+      "allocationParentRowIndex": 145
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0117",
+      "unitName": "Gerência de Investimentos",
+      "parentUnitId": "artesp-722-2026-unit-r0115",
+      "parentName": "SUMEF",
+      "sourceLocator": "Regimento, art. 4º, item 2.h.I",
+      "sourceParentName": "Superintendência Metroferroviária – SUMEF",
+      "sourceUnitName": "Gerência de investimentos",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 117,
+      "allocationParentRowIndex": 115
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0118",
+      "unitName": "Gerência de Fiscalização Operacional",
+      "parentUnitId": "artesp-722-2026-unit-r0115",
+      "parentName": "SUMEF",
+      "sourceLocator": "Regimento, art. 4º, item 2.h.II",
+      "sourceParentName": "Superintendência Metroferroviária – SUMEF",
+      "sourceUnitName": "Gerência de fiscalização operacional",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 118,
+      "allocationParentRowIndex": 115
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0119",
+      "unitName": "Gerência de Regulação e Gestão Contratual",
+      "parentUnitId": "artesp-722-2026-unit-r0115",
+      "parentName": "SUMEF",
+      "sourceLocator": "Regimento, art. 4º, item 2.h.III",
+      "sourceParentName": "Superintendência Metroferroviária – SUMEF",
+      "sourceUnitName": "Gerência de regulação e gestão contratual",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 119,
+      "allocationParentRowIndex": 115
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0093",
+      "unitName": "Gerência de Regulatório e Gestão Contratual",
+      "parentUnitId": "artesp-722-2026-unit-r0086",
+      "parentName": "SUCOL",
+      "sourceLocator": "Regimento, art. 4º, item 2.i.I",
+      "sourceParentName": "Superintendência de Transporte Coletivo – SUCOL",
+      "sourceUnitName": "Gerência de regulatório e gestão contratual",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 93,
+      "allocationParentRowIndex": 86
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0097",
+      "unitName": "Gerência de Planejamento",
+      "parentUnitId": "artesp-722-2026-unit-r0086",
+      "parentName": "SUCOL",
+      "sourceLocator": "Regimento, art. 4º, item 2.i.II",
+      "sourceParentName": "Superintendência de Transporte Coletivo – SUCOL",
+      "sourceUnitName": "Gerência de planejamento",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 97,
+      "allocationParentRowIndex": 86
+    },
+    {
+      "unitId": "artesp-722-2026-unit-r0100",
+      "unitName": "Gerência de Fiscalização",
+      "parentUnitId": "artesp-722-2026-unit-r0086",
+      "parentName": "SUCOL",
+      "sourceLocator": "Regimento, art. 4º, item 2.i.III",
+      "sourceParentName": "Superintendência de Transporte Coletivo – SUCOL",
+      "sourceUnitName": "Gerência de fiscalização",
+      "basisStatus": "explicit_in_471_2025_and_name_confirmed_in_722_2026",
+      "allocationUnitRowIndex": 100,
+      "allocationParentRowIndex": 86
+    }
+  ],
+  "method": "Only case-insensitive literal names and explicitly expanded acronyms match. The Regimento article explicitly groups these units beneath the named parent. The722 table independently retains both names in the same documentary group. No relation comes solely from table row order. IDs reuse artesp-distribuicao-722.json.",
+  "limits": [
+    "Mapa parcial: 12 relações nominais confirmadas entre 79 rótulos documentais de unidade.",
+    "Não houve conversão de Coordenação para Coordenadoria, fusão ou divisão de unidades antigas, suposição de superior ou atribuição de código completo.",
+    "A Deliberação 471/2025 contém o último regimento consolidado localizado no recorte consultado. Os atos 27, 128, 144, 232, 390 e 722 de 2026 consultados publicam alocações, sem novo regimento consolidado. Isso não certifica a ausência de todos os atos estruturais posteriores.",
+    "A alocação posterior à 722 e o regimento aplicável precisam de confirmação técnica antes de tratar este mapa documental parcial como organograma atual completo."
+  ],
+  "excludedExamples": [
+    {
+      "unit": "Coordenadoria Técnica / Coordenadoria Regulatória (SUROD)",
+      "reason": "471 lists these under Gerência de Planejamento, while722 does not retain that parent underSUROD. No parent substituted."
+    },
+    {
+      "unit": "SUHAP / SUPEP",
+      "reason": "471 uses SUAEP/SUHID and SUINV; correspondence or merger not assumed."
+    },
+    {
+      "unit": "Assessoria de Comunicação e Imagem",
+      "reason": "471 uses Assessoria de comunicação; equivalence not automatically assumed."
+    }
+  ],
+  "sourceMutation": false
+}

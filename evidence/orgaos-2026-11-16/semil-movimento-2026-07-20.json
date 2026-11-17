@@ -1,0 +1,629 @@
+{
+  "checkedAt": "2026-11-16",
+  "url": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624",
+  "apiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624",
+  "searchResult": {
+    "isLegacy": false,
+    "id": "754c688e-67ee-4c72-27c7-08dee341dd57",
+    "publicationTypeId": "123b0ef5-2dbf-4c58-a191-e4316380a2fe",
+    "secondLevelSectionId": "87afa93f-647c-4232-867a-08db6b96895a",
+    "thirdLevelSectionId": "9b828e27-86e4-47c3-f1c2-08db6b932348",
+    "date": "2026-07-20T01:01:17.0388007",
+    "title": "RESOLUÇÃO SEMIL, DE 17 DE JULHO DE 2026",
+    "slug": "executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624",
+    "excerpt": "SEI/GESP - 0114541107 - DOE: Resolução corrida (Seção 2 - Pessoal) Formaliza as alterações na classificação dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Meio Ambiente, Infraestrutura e Logística, constante do Anexo II do Decreto nº 69.376, de 26 de feverei",
+    "hierarchy": "Executivo > Atos de Pessoal > Secretaria de Meio Ambiente, Infraestrutura e Logística > Gabinete da Secretária",
+    "totalTermsFound": 2,
+    "termsFound": [
+      {
+        "term": "classificação dos CCESP",
+        "matchesFound": 2
+      }
+    ],
+    "org": "SEMIL",
+    "queryTerms": [
+      "classificação dos CCESP"
+    ]
+  },
+  "data": {
+    "id": "754c688e-67ee-4c72-27c7-08dee341dd57",
+    "journalId": "ca96256b-6ca1-407f-866e-567ef9430123",
+    "sectionId": "9b828e27-86e4-47c3-f1c2-08db6b932348",
+    "firstLevelSectionId": "e6c70876-31ee-4b9a-8840-b8d5ea12352d",
+    "secondLevelSectionId": "87afa93f-647c-4232-867a-08db6b96895a",
+    "title": "RESOLUÇÃO SEMIL, DE 17 DE JULHO DE 2026",
+    "slug": "executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624",
+    "date": "2026-07-20",
+    "journal": "Executivo",
+    "section": "Gabinete da Secretária",
+    "firstLevelSectionName": "Atos de Pessoal",
+    "secondLevelSectionName": "Secretaria de Meio Ambiente, Infraestrutura e Logística",
+    "publicationType": "Resolução",
+    "editionPages": [],
+    "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html lang=\"pt-br\" style=\"background-color: transparent !important; ; background-color: transparent !important;\">\n<head style=\"background-color: transparent !important; ; background-color: transparent !important;\">\n<meta http-equiv=\"Pragma\" content=\"no-cache\" style=\"background-color: transparent !important; ; background-color: transparent !important;\">\n<meta name=\"robots\" content=\"noindex\" style=\"background-color: transparent !important; ; background-color: transparent !important;\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" style=\"background-color: transparent !important; ; background-color: transparent !important;\">\n<title style=\"background-color: transparent !important; ; background-color: transparent !important;\">SEI/GESP - 0114541107 - DOE: Resolução corrida (Seção 2 - Pessoal)</title>\n<style type=\"text/css\" style=\"background-color: transparent !important; ; background-color: transparent !important;\">p.Citacao {font-size:10pt; font-family:Calibri; word-wrap:normal; margin:4pt 0 4pt 160px; text-align:justify; } p.DOE_Alinhado_Direita {font-size:16pt; font-family:Open Sans; text-align:right; word-wrap:normal; margin:6pt; } p.DOE_Alinhado_Esquerda {font-size:16pt; font-family:Open Sans; text-align:left; word-wrap:normal; margin:margin; } p.DOE_Centralizado {font-size:16pt; font-family:Open Sans; text-align:center; word-wrap:normal; margin:6pt; } p.DOE_Ementa {font-size:16pt; font-family:Open Sans; text-indent: 34.448567708333336%; text-align:justify; word-wrap:normal; margin:6pt; } p.DOE_Justificado {font-size:16pt; font-family:Open Sans; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.DOE_Justificado_Recuo_Primeira_Linha {font-size:16pt; font-family:Open Sans; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:6pt; } p.Decreto_Data_Courier {font-size:12pt; font-family:Courier New; text-align:right; word-wrap:normal; margin:6pt; } p.Decreto_Ementa_Courier {font-size:12pt; font-family:Courier New; text-align:justify; word-wrap:normal; margin: 6pt 4.921223958333334% 6pt 44.291015625%;; } p.Decreto_Signatario_Courier {font-size:12pt; font-family:Courier New; text-align:center; text-transform:uppercase; word-wrap:normal; } p.Decreto_Texto_Courier {font-family:Courier New; text-indent: 36.90917968750001%; text-align:justify; word-wrap:normal; margin:6pt; line-height:2; } p.Decreto_Titulo_Courier {font-size:12pt; font-family:Courier New; text-align:justify; word-wrap:normal; margin:6pt; } p.Estilo_DOE {font-size:12pt; font-family:Open Sans; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Item_Alinea_Letra {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin: 6pt 1.0414062499999999% 6pt 15.625%;; counter-increment:letra_minuscula; } p.Item_Alinea_Letra:before {content:counter(letra_minuscula, lower-latin) \") \"; display:inline-block; width:5mm; font-weight:normal; } p.Item_Artigo {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; counter-increment:item-n1; counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Item_Inciso_Romano {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent: 0%; margin: 6pt 1.0414062499999999% 6pt 15.625%;; counter-increment:romano_maiusculo; counter-reset:letra_minuscula; } p.Item_Inciso_Romano:before {content:counter(romano_maiusculo, upper-roman) \" - \"; display:inline-block; width:15mm; font-weight:normal; } p.Item_Nivel1 {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; counter-increment:item-n1; counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Item_Nivel1:before {content:counter(item-n1) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_Nivel2 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:item-n2; counter-reset:item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Item_Nivel2:before {content:counter(item-n1) \".\" counter(item-n2) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_Nivel3 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:item-n3; counter-reset:item-n4 romano_maiusculo letra_minuscula; } p.Item_Nivel3:before {content:counter(item-n1) \".\" counter(item-n2) \".\" counter(item-n3) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_Nivel4 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:item-n4; counter-reset:romano_maiusculo letra_minuscula; } p.Item_Nivel4:before {content:counter(item-n1) \".\" counter(item-n2) \".\" counter(item-n3) \".\"  counter(item-n4) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_romano_negrito {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; counter-increment:item-n1; counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel1 {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:; text-indent: 0%; margin:9pt; counter-increment:paragrafo-n1; counter-reset:paragrafo-n2 paragrafo-n3 paragrafo-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel1:before {content:counter(paragrafo-n1) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Paragrafo_Numerado_Nivel2 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:paragrafo-n2; :paragrafo-n3 paragrafo-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel2:before {content:counter(paragrafo-n1) \".\" counter(paragrafo-n2) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Paragrafo_Numerado_Nivel3 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:paragrafo-n3; counter-reset:paragrafo-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel3:before {content:counter(paragrafo-n1) \".\" counter(paragrafo-n2) \".\" counter(paragrafo-n3) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Paragrafo_Numerado_Nivel4 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:paragrafo-n4; counter-reset:romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel4:before {content:counter(paragrafo-n1) \".\" counter(paragrafo-n2) \".\" counter(paragrafo-n3) \".\" counter(paragrafo-n4) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Tabela_Texto_8 {font-size:8pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:0 3pt 0 3pt; } p.Tabela_Texto_Alinhado_Direita {font-size:11pt; font-family:Calibri; text-align:right; word-wrap:normal; margin:0 3pt 0 3pt; } p.Tabela_Texto_Alinhado_Esquerda {font-size:11pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:0 2pt 0 2pt; } p.Tabela_Texto_Centralizado {font-size:11pt; font-family:Calibri; text-align:center; word-wrap:normal; margin:0 3pt 0; } p.Texto_Alinhado_Direita {font-size:12pt; font-family:Calibri; text-align:right; word-wrap:normal; margin:6pt; } p.Texto_Alinhado_Esquerda {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:margin; } p.Texto_Alinhado_Esquerda_Det {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:3pt; } p.Texto_Alinhado_Esquerda_Espacamento_Simples {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:6; } p.Texto_Alinhado_Esquerda_Espacamento_Simples_Alto {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:3; } p.Texto_Alinhado_Esquerda_Espacamento_Simples_Maiusc {font-size:12pt; font-family:Calibri; text-align:left; text-transform:uppercase; word-wrap:normal; margin:0; } p.Texto_Alinhado_Esquerda_Negrito {font-weight:bold; font-family:Calibri; text-align:left; word-wrap:normal; margin:6pt; } p.Texto_Centralizado {font-size:12pt; font-family:Calibri; text-align:center; word-wrap:normal; margin:6pt; } p.Texto_Centralizado_Assinatura {font-size:12pt; font-family:Calibri; text-align:center; word-wrap:normal; margin:0 3pt 0; } p.Texto_Centralizado_Maiusculas {font-size:13pt; font-family:Calibri; text-align:center; text-transform:uppercase; word-wrap:normal; } p.Texto_Centralizado_Maiusculas_Negrito {font-weight:bold; font-size:13pt; font-family:Calibri; text-align:center; text-transform:uppercase; word-wrap:normal; } p.Texto_Espaco_Duplo_Recuo_Primeira_Linha {letter-spacing:0.2em; font-weight:bold; font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:6pt; } p.Texto_Fundo_Cinza_Maiusculas_Negrito {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Texto_Fundo_Cinza_Negrito {font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Texto_Justificado {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Texto_Justificado_Maiusculas {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; text-transform:uppercase; } p.Texto_Justificado_Recuo_Primeira_Linha {font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:6pt; } p.Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples {font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:0 0 0 6pt; } p.Texto_Justificado_Recuo_Primeira_Linha_Margem {font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin-left: 4.921223958333334%; } p.Titulo_centralizado_maiusculas {font-size:12pt; font-family:Calibri; text-align:center; text-transform:uppercase; word-wrap:normal; margin:0 0 0 6pt; }; background-color: transparent !important</style></head>\n<body style=\"background-color: transparent !important; ; background-color: transparent !important;\">\n<p class=\"Texto_Justificado_Recuo_Primeira_Linha\" style=\"text-indent: 12.303059895833334%; text-align:justify; margin-top:8px; margin-right: 1.0416666666666665%; margin-bottom:8px; margin-left: 78.125%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\">Formaliza as altera&ccedil;&otilde;es na classifica&ccedil;&atilde;o dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comiss&atilde;o e das Fun&ccedil;&otilde;es de Confian&ccedil;a da Secretaria de Meio Ambiente, Infraestrutura e Log&iacute;stica, constante do Anexo II do Decreto n&ordm; 69.376, de 26 de fevereiro de 2025, nos termos do &sect; 2&ordm; do artigo 20 do Decreto n&ordm; 68.742/2024.</span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n\r\n\r\n<p class=\"Texto_Justificado_Recuo_Primeira_Linha\" style=\"text-indent: 12.303059895833334%; text-align:justify; margin-top:8px; margin-right: 1.0416666666666665%; margin-bottom:8px; margin-left: 1.0416666666666665%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\">O <b style=\"background-color: transparent !important; ; background-color: transparent !important;\">SECRET&Aacute;RIO EXECUTIVO DE MEIO AMBIENTE, INFRAESTRUTURA E LOG&Iacute;STICA</b>, <span style=\"font-size:12.8px; text-align:start; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Verdana, sans-serif; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"display:inline !important; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"float:none; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\">no uso da compet&ecirc;ncia estabelecida pelo &sect;2&ordm; do artigo 20 do Decreto n&ordm; 68.742, de 05 de agosto </span></span></span></span></span></span></span></span></span></span></span></span></span>de 2024.</span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"Texto_Justificado_Recuo_Primeira_Linha\" style=\"text-indent: 12.303059895833334%; text-align:justify; margin-top:8px; margin-right: 1.0416666666666665%; margin-bottom:8px; margin-left: 1.0416666666666665%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\">Resolve:</span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"Texto_Justificado_Recuo_Primeira_Linha\" style=\"text-indent: 12.303059895833334%; text-align:justify; margin-top:8px; margin-right: 1.0416666666666665%; margin-bottom:8px; margin-left: 1.0416666666666665%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><b style=\"background-color: transparent !important; ; background-color: transparent !important;\">Artigo 1&ordm;</b> - Ficam formalizadas as altera&ccedil;&otilde;es na classifica&ccedil;&atilde;o dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comiss&atilde;o e das Fun&ccedil;&otilde;es de Confian&ccedil;a da Secretaria de Meio Ambiente, Infraestrutura e Log&iacute;stica, constante do Anexo II do Decreto n&ordm; 69.376, de 26 de fevereiro de 2025, que aprova a nova estrutura organizacional, conforme planilha anexa &agrave; presente resolu&ccedil;&atilde;o.</span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"Texto_Justificado_Recuo_Primeira_Linha\" style=\"text-indent: 12.303059895833334%; text-align:justify; margin-top:8px; margin-right: 1.0416666666666665%; margin-bottom:8px; margin-left: 1.0416666666666665%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><b style=\"background-color: transparent !important; ; background-color: transparent !important;\">Artigo 2&ordm;</b> - Esta Resolu&ccedil;&atilde;o entra em vigor 10 (dez) dias &uacute;teis ap&oacute;s a data de sua publica&ccedil;&atilde;o.</span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n\r\n\r\n<table style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t<tbody style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">C&oacute;digo Unidade Adm. Origem</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Denomina&ccedil;&atilde;o da Unidade Adm. de Origem</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">N&uacute;mero da Vaga no SGP</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Denomina&ccedil;&atilde;o do Cargo/Fun&ccedil;&atilde;o</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">C&oacute;digo Unidade Adm. Destino</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Denomina&ccedil;&atilde;o da Unidade Adm. de Destino</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300012</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Assessoria de Colegiados</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2408998</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">FCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300032</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Diretoria de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300009</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Assessoria de Comunica&ccedil;&atilde;o</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412271</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300005</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Consultoria Jur&iacute;dica</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300005</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Consultoria Jur&iacute;dica</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2409139</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">FCESP 2.04 - Assistente IV</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300009</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Assessoria de Comunica&ccedil;&atilde;o</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300004</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Servi&ccedil;o Administrativo</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2408209</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300182</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SLT - Servi&ccedil;o Administrativo</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300004</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Servi&ccedil;o Administrativo</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2409133</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300007</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Unidade de Gest&atilde;o de Integridade</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300002</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Secretaria Executiva</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2406546</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">FCESP 2.15 - Assessor Especial III</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300181</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Subsecretaria de Log&iacute;stica e Transportes</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300002</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Secretaria Executiva</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2408888</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.09 - Assessor I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300181</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Subsecretaria de Log&iacute;stica e Transportes</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300017</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Compras e Registro de Pre&ccedil;os</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2411949</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.04 &ndash; Assistente IV</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300018</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Transportes, Patrim&ocirc;nio e Almoxarifado</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300028</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Gest&atilde;o de Pessoas</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412043</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.06 &ndash; Assistente T&eacute;cnico II</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300029</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Recursos Humanos</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300016</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Licita&ccedil;&otilde;es e Contratos</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2406977</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.04 &ndash; Assistente IV</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300020</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Conv&ecirc;nios</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300027</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Diretoria de Gest&atilde;o de Pessoas e Recursos Humanos</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2408565</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.03 &ndash; Assistente III</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300028</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Gest&atilde;o de Pessoas</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300020</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC -Coordenadoria de Conv&ecirc;nios</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412034</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.06 &ndash; Assistente T&eacute;cnico II</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300017</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Coordenadoria de Compras e Registro de Pre&ccedil;os</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300037</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC- Coordenadoria de Fiscaliza&ccedil;&atilde;o e Gest&atilde;o Processual</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2411951</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.04 &ndash; Assistente IV</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300032</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Diretoria de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300028</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC -Coordenadoria de Gest&atilde;o de Pessoas</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412041</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.06 &ndash; Assistente T&eacute;cnico II</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300027</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SGC - Diretoria de Gest&atilde;o de Pessoas e Recursos Humanos</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300182</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SLT - Servi&ccedil;o Administrativo</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2406375</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">FCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300032</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Diretoria de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300182</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SLT - Servi&ccedil;o Administrativo</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2406367</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">FCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300004</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Servi&ccedil;o Administrativo</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300197</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SLT - Coordenadoria de Obras e Assuntos Regulat&oacute;rios</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412303</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.07 - Assistente T&eacute;cnico III</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300037</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Coordenadoria de Fiscaliza&ccedil;&atilde;o e Gest&atilde;o Processual</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300189</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SLT - Servi&ccedil;o Regional Litoral Norte</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412266</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300092</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Coordenadoria de Gest&atilde;o de CETRAS</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300190</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SLT - Servi&ccedil;o Regional Litoral Sul</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412267</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300169</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SRHSB - Coordenadoria de Operacionaliza&ccedil;&atilde;o do Fundo Estadual de Recursos H&iacute;dricos</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300037</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Coordenadoria de Fiscaliza&ccedil;&atilde;o e Gest&atilde;o Processual</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412298</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">FCESP 2.08 - Assistente T&eacute;cnico IV</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300163</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SRHSB - Coordenadoria de Planejamento e Informa&ccedil;&otilde;es de Saneamento</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300032</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Diretoria de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412252</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300012</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CG - Assessoria de Colegiados</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300032</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Diretoria de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412251</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 - Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300048</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental 10</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300057</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental 19</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412281</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 &ndash; Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300052</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental 14</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300057</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental 19</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412280</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 &ndash; Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300052</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental14</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300057</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental 19</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412279</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.05 &ndash; Assistente T&eacute;cnico I</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300052</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SMA - Divis&otilde;es T&eacute;cnicas Regionais de Prote&ccedil;&atilde;o e Fiscaliza&ccedil;&atilde;o Ambiental 14</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300163</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">SRHSB - Coordenadoria de Planejamento e Informa&ccedil;&otilde;es de Saneamento</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412108</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.08 - Assistente T&eacute;cnico IV</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300002</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Secretaria Executiva</td>\r\n\t\t</tr>\r\n\t\t<tr style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300181</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Subsecretaria de Log&iacute;stica e Transportes</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">2412190</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">CCESP 2.15 - Assessor Especial III</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">10300002</td>\r\n\t\t\t<td style=\"background-color: transparent !important; ; background-color: transparent !important;\">Secretaria Executiva</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"\" style=\";\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\">S&atilde;o Paulo, na data da assinatura digital.</span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n\r\n\r\n<p style=\"text-align:center; margin-top:0; margin-right: 0.5208333333333333%; margin-bottom:0; margin-left: 0.5208333333333333%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><strong style=\"background-color: transparent !important; ; background-color: transparent !important;\">ANDERSON MARCIO DE OLIVEIRA</strong></span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p style=\"text-align:center; margin-top:0; margin-right: 0.5208333333333333%; margin-bottom:0; margin-left: 0.5208333333333333%; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-size:medium; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-family:Calibri; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"overflow-wrap:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"color: rgb(0,0,0) !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-style:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-variant-ligatures:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"font-weight:400; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"white-space:normal; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-thickness:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-style:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><span style=\"text-decoration-color:initial; background-color: transparent !important; background-color: transparent !important; font-size:16px; line-height:1.5; font-family:'Open Sans',sans-serif; color:rgb(0,0,0) !important; overflow-wrap: break-word;\"><strong style=\"background-color: transparent !important; ; background-color: transparent !important;\">Secret&aacute;rio Executivo<br style=\"background-color: transparent !important; ; background-color: transparent !important;\">\r\nrespondendo pelo expediente</strong></span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n\r\n</body>\n</html>\n",
+    "attachments": [],
+    "authCode": "2026.07.17.1.2.29.1.248.1987624"
+  },
+  "textNormalized": "SEI/GESP - 0114541107 - DOE: Resolução corrida (Seção 2 - Pessoal) Formaliza as alterações na classificação dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Meio Ambiente, Infraestrutura e Logística, constante do Anexo II do Decreto nº 69.376, de 26 de fevereiro de 2025, nos termos do § 2º do artigo 20 do Decreto nº 68.742/2024. O SECRETÁRIO EXECUTIVO DE MEIO AMBIENTE, INFRAESTRUTURA E LOGÍSTICA , no uso da competência estabelecida pelo §2º do artigo 20 do Decreto nº 68.742, de 05 de agosto de 2024. Resolve: Artigo 1º - Ficam formalizadas as alterações na classificação dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Meio Ambiente, Infraestrutura e Logística, constante do Anexo II do Decreto nº 69.376, de 26 de fevereiro de 2025, que aprova a nova estrutura organizacional, conforme planilha anexa à presente resolução. Artigo 2º - Esta Resolução entra em vigor 10 (dez) dias úteis após a data de sua publicação. Código Unidade Adm. Origem Denominação da Unidade Adm. de Origem Número da Vaga no SGP Denominação do Cargo/Função Código Unidade Adm. Destino Denominação da Unidade Adm. de Destino 10300012 CG - Assessoria de Colegiados 2408998 FCESP 2.05 - Assistente Técnico I 10300032 SMA - Diretoria de Proteção e Fiscalização Ambiental 10300009 CG - Assessoria de Comunicação 2412271 CCESP 2.05 - Assistente Técnico I 10300005 CG - Consultoria Jurídica 10300005 CG - Consultoria Jurídica 2409139 FCESP 2.04 - Assistente IV 10300009 CG - Assessoria de Comunicação 10300004 CG - Serviço Administrativo 2408209 CCESP 2.05 - Assistente Técnico I 10300182 SLT - Serviço Administrativo 10300004 CG - Serviço Administrativo 2409133 CCESP 2.05 - Assistente Técnico I 10300007 CG - Unidade de Gestão de Integridade 10300002 Secretaria Executiva 2406546 FCESP 2.15 - Assessor Especial III 10300181 Subsecretaria de Logística e Transportes 10300002 Secretaria Executiva 2408888 CCESP 2.09 - Assessor I 10300181 Subsecretaria de Logística e Transportes 10300017 SGC - Coordenadoria de Compras e Registro de Preços 2411949 CCESP 2.04 – Assistente IV 10300018 SGC - Coordenadoria de Transportes, Patrimônio e Almoxarifado 10300028 SGC - Coordenadoria de Gestão de Pessoas 2412043 CCESP 2.06 – Assistente Técnico II 10300029 SGC - Coordenadoria de Recursos Humanos 10300016 SGC - Coordenadoria de Licitações e Contratos 2406977 CCESP 2.04 – Assistente IV 10300020 SGC - Coordenadoria de Convênios 10300027 SGC - Diretoria de Gestão de Pessoas e Recursos Humanos 2408565 CCESP 2.03 – Assistente III 10300028 SGC - Coordenadoria de Gestão de Pessoas 10300020 SGC -Coordenadoria de Convênios 2412034 CCESP 2.06 – Assistente Técnico II 10300017 SGC - Coordenadoria de Compras e Registro de Preços 10300037 SGC- Coordenadoria de Fiscalização e Gestão Processual 2411951 CCESP 2.04 – Assistente IV 10300032 SMA - Diretoria de Proteção e Fiscalização Ambiental 10300028 SGC -Coordenadoria de Gestão de Pessoas 2412041 CCESP 2.06 – Assistente Técnico II 10300027 SGC - Diretoria de Gestão de Pessoas e Recursos Humanos 10300182 SLT - Serviço Administrativo 2406375 FCESP 2.05 - Assistente Técnico I 10300032 SMA - Diretoria de Proteção e Fiscalização Ambiental 10300182 SLT - Serviço Administrativo 2406367 FCESP 2.05 - Assistente Técnico I 10300004 CG - Serviço Administrativo 10300197 SLT - Coordenadoria de Obras e Assuntos Regulatórios 2412303 CCESP 2.07 - Assistente Técnico III 10300037 SMA - Coordenadoria de Fiscalização e Gestão Processual 10300189 SLT - Serviço Regional Litoral Norte 2412266 CCESP 2.05 - Assistente Técnico I 10300092 SMA - Coordenadoria de Gestão de CETRAS 10300190 SLT - Serviço Regional Litoral Sul 2412267 CCESP 2.05 - Assistente Técnico I 10300169 SRHSB - Coordenadoria de Operacionalização do Fundo Estadual de Recursos Hídricos 10300037 SMA - Coordenadoria de Fiscalização e Gestão Processual 2412298 FCESP 2.08 - Assistente Técnico IV 10300163 SRHSB - Coordenadoria de Planejamento e Informações de Saneamento 10300032 SMA - Diretoria de Proteção e Fiscalização Ambiental 2412252 CCESP 2.05 - Assistente Técnico I 10300012 CG - Assessoria de Colegiados 10300032 SMA - Diretoria de Proteção e Fiscalização Ambiental 2412251 CCESP 2.05 - Assistente Técnico I 10300048 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 10 10300057 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19 2412281 CCESP 2.05 – Assistente Técnico I 10300052 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14 10300057 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19 2412280 CCESP 2.05 – Assistente Técnico I 10300052 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental14 10300057 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19 2412279 CCESP 2.05 – Assistente Técnico I 10300052 SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14 10300163 SRHSB - Coordenadoria de Planejamento e Informações de Saneamento 2412108 CCESP 2.08 - Assistente Técnico IV 10300002 Secretaria Executiva 10300181 Subsecretaria de Logística e Transportes 2412190 CCESP 2.15 - Assessor Especial III 10300002 Secretaria Executiva São Paulo, na data da assinatura digital. ANDERSON MARCIO DE OLIVEIRA Secretário Executivo respondendo pelo expediente",
+  "tables": [
+    [
+      [
+        "Código Unidade Adm. Origem",
+        "Denominação da Unidade Adm. de Origem",
+        "Número da Vaga no SGP",
+        "Denominação do Cargo/Função",
+        "Código Unidade Adm. Destino",
+        "Denominação da Unidade Adm. de Destino"
+      ],
+      [
+        "10300012",
+        "CG - Assessoria de Colegiados",
+        "2408998",
+        "FCESP 2.05 - Assistente Técnico I",
+        "10300032",
+        "SMA - Diretoria de Proteção e Fiscalização Ambiental"
+      ],
+      [
+        "10300009",
+        "CG - Assessoria de Comunicação",
+        "2412271",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300005",
+        "CG - Consultoria Jurídica"
+      ],
+      [
+        "10300005",
+        "CG - Consultoria Jurídica",
+        "2409139",
+        "FCESP 2.04 - Assistente IV",
+        "10300009",
+        "CG - Assessoria de Comunicação"
+      ],
+      [
+        "10300004",
+        "CG - Serviço Administrativo",
+        "2408209",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300182",
+        "SLT - Serviço Administrativo"
+      ],
+      [
+        "10300004",
+        "CG - Serviço Administrativo",
+        "2409133",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300007",
+        "CG - Unidade de Gestão de Integridade"
+      ],
+      [
+        "10300002",
+        "Secretaria Executiva",
+        "2406546",
+        "FCESP 2.15 - Assessor Especial III",
+        "10300181",
+        "Subsecretaria de Logística e Transportes"
+      ],
+      [
+        "10300002",
+        "Secretaria Executiva",
+        "2408888",
+        "CCESP 2.09 - Assessor I",
+        "10300181",
+        "Subsecretaria de Logística e Transportes"
+      ],
+      [
+        "10300017",
+        "SGC - Coordenadoria de Compras e Registro de Preços",
+        "2411949",
+        "CCESP 2.04 – Assistente IV",
+        "10300018",
+        "SGC - Coordenadoria de Transportes, Patrimônio e Almoxarifado"
+      ],
+      [
+        "10300028",
+        "SGC - Coordenadoria de Gestão de Pessoas",
+        "2412043",
+        "CCESP 2.06 – Assistente Técnico II",
+        "10300029",
+        "SGC - Coordenadoria de Recursos Humanos"
+      ],
+      [
+        "10300016",
+        "SGC - Coordenadoria de Licitações e Contratos",
+        "2406977",
+        "CCESP 2.04 – Assistente IV",
+        "10300020",
+        "SGC - Coordenadoria de Convênios"
+      ],
+      [
+        "10300027",
+        "SGC - Diretoria de Gestão de Pessoas e Recursos Humanos",
+        "2408565",
+        "CCESP 2.03 – Assistente III",
+        "10300028",
+        "SGC - Coordenadoria de Gestão de Pessoas"
+      ],
+      [
+        "10300020",
+        "SGC -Coordenadoria de Convênios",
+        "2412034",
+        "CCESP 2.06 – Assistente Técnico II",
+        "10300017",
+        "SGC - Coordenadoria de Compras e Registro de Preços"
+      ],
+      [
+        "10300037",
+        "SGC- Coordenadoria de Fiscalização e Gestão Processual",
+        "2411951",
+        "CCESP 2.04 – Assistente IV",
+        "10300032",
+        "SMA - Diretoria de Proteção e Fiscalização Ambiental"
+      ],
+      [
+        "10300028",
+        "SGC -Coordenadoria de Gestão de Pessoas",
+        "2412041",
+        "CCESP 2.06 – Assistente Técnico II",
+        "10300027",
+        "SGC - Diretoria de Gestão de Pessoas e Recursos Humanos"
+      ],
+      [
+        "10300182",
+        "SLT - Serviço Administrativo",
+        "2406375",
+        "FCESP 2.05 - Assistente Técnico I",
+        "10300032",
+        "SMA - Diretoria de Proteção e Fiscalização Ambiental"
+      ],
+      [
+        "10300182",
+        "SLT - Serviço Administrativo",
+        "2406367",
+        "FCESP 2.05 - Assistente Técnico I",
+        "10300004",
+        "CG - Serviço Administrativo"
+      ],
+      [
+        "10300197",
+        "SLT - Coordenadoria de Obras e Assuntos Regulatórios",
+        "2412303",
+        "CCESP 2.07 - Assistente Técnico III",
+        "10300037",
+        "SMA - Coordenadoria de Fiscalização e Gestão Processual"
+      ],
+      [
+        "10300189",
+        "SLT - Serviço Regional Litoral Norte",
+        "2412266",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300092",
+        "SMA - Coordenadoria de Gestão de CETRAS"
+      ],
+      [
+        "10300190",
+        "SLT - Serviço Regional Litoral Sul",
+        "2412267",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300169",
+        "SRHSB - Coordenadoria de Operacionalização do Fundo Estadual de Recursos Hídricos"
+      ],
+      [
+        "10300037",
+        "SMA - Coordenadoria de Fiscalização e Gestão Processual",
+        "2412298",
+        "FCESP 2.08 - Assistente Técnico IV",
+        "10300163",
+        "SRHSB - Coordenadoria de Planejamento e Informações de Saneamento"
+      ],
+      [
+        "10300032",
+        "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+        "2412252",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300012",
+        "CG - Assessoria de Colegiados"
+      ],
+      [
+        "10300032",
+        "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+        "2412251",
+        "CCESP 2.05 - Assistente Técnico I",
+        "10300048",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 10"
+      ],
+      [
+        "10300057",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+        "2412281",
+        "CCESP 2.05 – Assistente Técnico I",
+        "10300052",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14"
+      ],
+      [
+        "10300057",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+        "2412280",
+        "CCESP 2.05 – Assistente Técnico I",
+        "10300052",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental14"
+      ],
+      [
+        "10300057",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+        "2412279",
+        "CCESP 2.05 – Assistente Técnico I",
+        "10300052",
+        "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14"
+      ],
+      [
+        "10300163",
+        "SRHSB - Coordenadoria de Planejamento e Informações de Saneamento",
+        "2412108",
+        "CCESP 2.08 - Assistente Técnico IV",
+        "10300002",
+        "Secretaria Executiva"
+      ],
+      [
+        "10300181",
+        "Subsecretaria de Logística e Transportes",
+        "2412190",
+        "CCESP 2.15 - Assessor Especial III",
+        "10300002",
+        "Secretaria Executiva"
+      ]
+    ]
+  ],
+  "parsedMovements": [
+    {
+      "tableIndex": 0,
+      "rowIndex": 1,
+      "fromUnitCode": "10300012",
+      "fromUnitName": "CG - Assessoria de Colegiados",
+      "positionSlotId": "2408998",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300032",
+      "toUnitName": "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 2,
+      "fromUnitCode": "10300009",
+      "fromUnitName": "CG - Assessoria de Comunicação",
+      "positionSlotId": "2412271",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300005",
+      "toUnitName": "CG - Consultoria Jurídica",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 3,
+      "fromUnitCode": "10300005",
+      "fromUnitName": "CG - Consultoria Jurídica",
+      "positionSlotId": "2409139",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04",
+      "quantity": 1,
+      "toUnitCode": "10300009",
+      "toUnitName": "CG - Assessoria de Comunicação",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 4,
+      "fromUnitCode": "10300004",
+      "fromUnitName": "CG - Serviço Administrativo",
+      "positionSlotId": "2408209",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300182",
+      "toUnitName": "SLT - Serviço Administrativo",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 5,
+      "fromUnitCode": "10300004",
+      "fromUnitName": "CG - Serviço Administrativo",
+      "positionSlotId": "2409133",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300007",
+      "toUnitName": "CG - Unidade de Gestão de Integridade",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 6,
+      "fromUnitCode": "10300002",
+      "fromUnitName": "Secretaria Executiva",
+      "positionSlotId": "2406546",
+      "denomination": "Assessor Especial III",
+      "code": "FCESP 2.15",
+      "quantity": 1,
+      "toUnitCode": "10300181",
+      "toUnitName": "Subsecretaria de Logística e Transportes",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 7,
+      "fromUnitCode": "10300002",
+      "fromUnitName": "Secretaria Executiva",
+      "positionSlotId": "2408888",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09",
+      "quantity": 1,
+      "toUnitCode": "10300181",
+      "toUnitName": "Subsecretaria de Logística e Transportes",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 8,
+      "fromUnitCode": "10300017",
+      "fromUnitName": "SGC - Coordenadoria de Compras e Registro de Preços",
+      "positionSlotId": "2411949",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "quantity": 1,
+      "toUnitCode": "10300018",
+      "toUnitName": "SGC - Coordenadoria de Transportes, Patrimônio e Almoxarifado",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 9,
+      "fromUnitCode": "10300028",
+      "fromUnitName": "SGC - Coordenadoria de Gestão de Pessoas",
+      "positionSlotId": "2412043",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06",
+      "quantity": 1,
+      "toUnitCode": "10300029",
+      "toUnitName": "SGC - Coordenadoria de Recursos Humanos",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 10,
+      "fromUnitCode": "10300016",
+      "fromUnitName": "SGC - Coordenadoria de Licitações e Contratos",
+      "positionSlotId": "2406977",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "quantity": 1,
+      "toUnitCode": "10300020",
+      "toUnitName": "SGC - Coordenadoria de Convênios",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 11,
+      "fromUnitCode": "10300027",
+      "fromUnitName": "SGC - Diretoria de Gestão de Pessoas e Recursos Humanos",
+      "positionSlotId": "2408565",
+      "denomination": "Assistente III",
+      "code": "CCESP 2.03",
+      "quantity": 1,
+      "toUnitCode": "10300028",
+      "toUnitName": "SGC - Coordenadoria de Gestão de Pessoas",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 12,
+      "fromUnitCode": "10300020",
+      "fromUnitName": "SGC -Coordenadoria de Convênios",
+      "positionSlotId": "2412034",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06",
+      "quantity": 1,
+      "toUnitCode": "10300017",
+      "toUnitName": "SGC - Coordenadoria de Compras e Registro de Preços",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 13,
+      "fromUnitCode": "10300037",
+      "fromUnitName": "SGC- Coordenadoria de Fiscalização e Gestão Processual",
+      "positionSlotId": "2411951",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "quantity": 1,
+      "toUnitCode": "10300032",
+      "toUnitName": "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 14,
+      "fromUnitCode": "10300028",
+      "fromUnitName": "SGC -Coordenadoria de Gestão de Pessoas",
+      "positionSlotId": "2412041",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06",
+      "quantity": 1,
+      "toUnitCode": "10300027",
+      "toUnitName": "SGC - Diretoria de Gestão de Pessoas e Recursos Humanos",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 15,
+      "fromUnitCode": "10300182",
+      "fromUnitName": "SLT - Serviço Administrativo",
+      "positionSlotId": "2406375",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300032",
+      "toUnitName": "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 16,
+      "fromUnitCode": "10300182",
+      "fromUnitName": "SLT - Serviço Administrativo",
+      "positionSlotId": "2406367",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300004",
+      "toUnitName": "CG - Serviço Administrativo",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 17,
+      "fromUnitCode": "10300197",
+      "fromUnitName": "SLT - Coordenadoria de Obras e Assuntos Regulatórios",
+      "positionSlotId": "2412303",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07",
+      "quantity": 1,
+      "toUnitCode": "10300037",
+      "toUnitName": "SMA - Coordenadoria de Fiscalização e Gestão Processual",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 18,
+      "fromUnitCode": "10300189",
+      "fromUnitName": "SLT - Serviço Regional Litoral Norte",
+      "positionSlotId": "2412266",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300092",
+      "toUnitName": "SMA - Coordenadoria de Gestão de CETRAS",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 19,
+      "fromUnitCode": "10300190",
+      "fromUnitName": "SLT - Serviço Regional Litoral Sul",
+      "positionSlotId": "2412267",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300169",
+      "toUnitName": "SRHSB - Coordenadoria de Operacionalização do Fundo Estadual de Recursos Hídricos",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 20,
+      "fromUnitCode": "10300037",
+      "fromUnitName": "SMA - Coordenadoria de Fiscalização e Gestão Processual",
+      "positionSlotId": "2412298",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08",
+      "quantity": 1,
+      "toUnitCode": "10300163",
+      "toUnitName": "SRHSB - Coordenadoria de Planejamento e Informações de Saneamento",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 21,
+      "fromUnitCode": "10300032",
+      "fromUnitName": "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+      "positionSlotId": "2412252",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300012",
+      "toUnitName": "CG - Assessoria de Colegiados",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 22,
+      "fromUnitCode": "10300032",
+      "fromUnitName": "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+      "positionSlotId": "2412251",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300048",
+      "toUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 10",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 23,
+      "fromUnitCode": "10300057",
+      "fromUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+      "positionSlotId": "2412281",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300052",
+      "toUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 24,
+      "fromUnitCode": "10300057",
+      "fromUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+      "positionSlotId": "2412280",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300052",
+      "toUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental14",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 25,
+      "fromUnitCode": "10300057",
+      "fromUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+      "positionSlotId": "2412279",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "quantity": 1,
+      "toUnitCode": "10300052",
+      "toUnitName": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 26,
+      "fromUnitCode": "10300163",
+      "fromUnitName": "SRHSB - Coordenadoria de Planejamento e Informações de Saneamento",
+      "positionSlotId": "2412108",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08",
+      "quantity": 1,
+      "toUnitCode": "10300002",
+      "toUnitName": "Secretaria Executiva",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    },
+    {
+      "tableIndex": 0,
+      "rowIndex": 27,
+      "fromUnitCode": "10300181",
+      "fromUnitName": "Subsecretaria de Logística e Transportes",
+      "positionSlotId": "2412190",
+      "denomination": "Assessor Especial III",
+      "code": "CCESP 2.15",
+      "quantity": 1,
+      "toUnitCode": "10300002",
+      "toUnitName": "Secretaria Executiva",
+      "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-17-de-julho-de-2026-20260717122912481987624"
+    }
+  ]
+}

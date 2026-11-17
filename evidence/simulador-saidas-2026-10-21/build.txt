@@ -1,0 +1,18 @@
+
+> siorg-calculadora-mvp@0.0.0 build
+> vite build && node scripts/prepare-sites-build.mjs
+
+vite v6.4.2 building for production...
+transforming...
+✓ 296 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/client/index.html                            0.60 kB │ gzip:   0.40 kB
+dist/client/assets/index-ykSDCy33.css            57.25 kB │ gzip:  11.49 kB
+dist/client/assets/purify.es-CAi2OJFm.js         30.47 kB │ gzip:  11.73 kB
+dist/client/assets/index.es-Cbr1-Tl9.js         159.77 kB │ gzip:  53.56 kB
+dist/client/assets/html2canvas.esm-QH1iLAAe.js  202.38 kB │ gzip:  48.04 kB
+dist/client/assets/annex-pdf-Da-iaEHe.js        425.39 kB │ gzip: 139.87 kB
+dist/client/assets/index-_gVVPMva.js            508.07 kB │ gzip: 124.55 kB
+✓ built in 1.84s
+Prepared Sites build: dist/server/index.js and dist/.openai/hosting.json

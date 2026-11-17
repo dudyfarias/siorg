@@ -1,0 +1,68 @@
+{
+  "idNorma": "212201",
+  "tipo": "Decreto",
+  "nuNorma": "70362",
+  "data": "04/02/2026",
+  "dataPublicacao": "06/02/2026",
+  "nomeNorma": "Decreto nº 70.362, de 04/02/2026",
+  "nomeNormaApelido": "( Decreto 70.362/2026 )",
+  "idTipo": "3",
+  "idPropositura": null,
+  "nomePropositura": null,
+  "dsEmenta": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto de Pesos e Medidas do Estado de São Paulo - IPEM/SP.",
+  "alespExplica": null,
+  "tpPublicacaoAlespExplica": "N",
+  "dsSituacao": "Sem revogação expressa",
+  "tpPromulgacao": "Executivo",
+  "nomePublicacaoDO": "DOESP Executivo Seção 1, 06/02/2026, p.8",
+  "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70362-de-4-de-fevereiro-de-2026",
+  "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70362-04.02.2026.html",
+  "urlIntegraAtualizada": null,
+  "urlTextoAtualizado": null,
+  "urlIntegraListaPesquisa": null,
+  "completa": "ausente",
+  "observacoes": [],
+  "constitucionalidades": [],
+  "publicacoesPosteriores": [],
+  "anotacoesAlteracao": [],
+  "anotacoesRegulamentacao": [],
+  "anotacoesCorrelata": [],
+  "anotacaoOutras": [],
+  "temas": [
+    {
+      "idTema": "551",
+      "nmTema": "Administração Pública"
+    },
+    {
+      "idTema": "1001",
+      "nmTema": "Funcionalismo"
+    }
+  ],
+  "autores": [],
+  "indexadores": [
+    {
+      "idTermo": "325621",
+      "nmTermo": "Cargo e Função"
+    },
+    {
+      "idTermo": "325623",
+      "nmTermo": "Cargo em Comissão"
+    },
+    {
+      "idTermo": "326810",
+      "nmTermo": "Estrutura e Organização Administrativa"
+    },
+    {
+      "idTermo": "327451",
+      "nmTermo": "Instituto de Pesos e Medidas do Estado de São Paulo - IPEM"
+    },
+    {
+      "idTermo": "328588",
+      "nmTermo": "Quadro de Funcionários"
+    },
+    {
+      "idTermo": "329608",
+      "nmTermo": "Servidor Público Estadual"
+    }
+  ]
+}

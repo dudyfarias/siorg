@@ -1,0 +1,97 @@
+RECORTE DA PROPOSTA
+Secretaria: Secretaria de Gestão e Governo Digital
+Unidade: Toda a secretaria
+Abrangência: SGGD: resumo do Anexo III da administração direta, sem as entidades vinculadas
+Origem da base: base documental do Anexo III, com divergência de conciliação entre anexos.
+Decreto/quadro da base: Decreto 70.755/2026 — Anexo III (resumo)
+Fonte do perfil: https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002
+Versão do perfil: sggd-decreto-70755-2026-08-01
+Versão do recorte: sggd-decreto-70755-2026-08-01-anexo-III
+Conferência da referência: 2026-09-24
+Observação da secretaria: Toda a secretaria usa o resumo do Anexo III; as unidades usam a distribuição do Anexo II. A divergência entre os anexos permanece e impede a consolidação cruzada. Os quadros não informam a ocupação atual.
+Observação do recorte: Resumo publicado no Anexo III, também reproduzido na planilha SGGD- TESTE.xlsx. Há divergência com a distribuição do Anexo II; esta referência não concilia os anexos nem informa a ocupação atual.
+Pendência de conciliação: Há divergência entre o Anexo II e o Anexo III; o total da secretaria não está reconciliado. A base documental não permite calcular o impacto consolidado.
+O quadro publicado no Anexo III não informa, por si, a ocupação atual.
+
+CALCULADORA DE COTAS — SIORG
+Composição calculada — conferência aritmética.
+Gerado em: 24/09/2026, 13:27:28
+Diferenças aritméticas em relação à base do quadro publicado no Anexo III. A divergência com o Anexo II permanece; a conta não concilia os anexos nem valida administrativamente a proposta.
+
+COMPOSIÇÃO PROPOSTA
+
+CCESP
+Nível 1: 1 × 1,00 = 1,00 cotas.
+Nível 2: 3 × 1,25 = 3,75 cotas.
+Nível 3: 2 × 1,50 = 3,00 cotas.
+Nível 4: 17 × 1,75 = 29,75 cotas.
+Nível 5: 13 × 2,00 = 26,00 cotas.
+Nível 6: 16 × 2,25 = 36,00 cotas.
+Nível 7: 11 × 2,50 = 27,50 cotas.
+Nível 8: 53 × 2,75 = 145,75 cotas.
+Nível 9: 15 × 3,00 = 45,00 cotas.
+Nível 10: 51 × 3,25 = 165,75 cotas.
+Nível 11: 8 × 3,50 = 28,00 cotas.
+Nível 12: 18 × 4,00 = 72,00 cotas.
+Nível 13: 51 × 4,50 = 229,50 cotas.
+Nível 14: 4 × 5,50 = 22,00 cotas.
+Nível 15: 24 × 6,00 = 144,00 cotas.
+Nível 16: 4 × 7,00 = 28,00 cotas.
+Nível 17: 7 × 8,00 = 56,00 cotas.
+Nível 18 (NES): 1 × 9,00 = 9,00 cotas.
+Total CCESP: 299 cargos; 1.072,00 cotas.
+
+FCESP
+Nível 1: 4 × 0,60 = 2,40 cotas.
+Nível 2: 2 × 0,75 = 1,50 cotas.
+Nível 3: 5 × 0,90 = 4,50 cotas.
+Nível 4: 8 × 1,05 = 8,40 cotas.
+Nível 5: 28 × 1,20 = 33,60 cotas.
+Nível 6: 24 × 1,35 = 32,40 cotas.
+Nível 7: 25 × 1,50 = 37,50 cotas.
+Nível 8: 12 × 1,65 = 19,80 cotas.
+Nível 9: 8 × 1,80 = 14,40 cotas.
+Nível 10: 53 × 1,95 = 103,35 cotas.
+Nível 11: 2 × 2,10 = 4,20 cotas.
+Nível 12: 5 × 2,40 = 12,00 cotas.
+Nível 13: 16 × 2,70 = 43,20 cotas.
+Nível 14: 3 × 3,30 = 9,90 cotas.
+Nível 15: 5 × 3,60 = 18,00 cotas.
+Nível 16: 1 × 4,20 = 4,20 cotas.
+Total FCESP: 201 funções; 349,35 cotas.
+
+Total geral descritivo: 500 postos; 1.421,35 cotas.
+
+VARIAÇÃO EM RELAÇÃO À BASE DO QUADRO — ANEXO III
+Modo da base do quadro: por grupo.
+Cargos CCESP: base do quadro 298; proposta 299; variação +1 (aumento).
+Cotas CCESP: base do quadro 1.066,00; proposta 1.072,00; variação +6,00 (aumento).
+Funções FCESP: base do quadro 201; proposta 201; variação 0 (sem alteração nessa medida).
+Cotas FCESP: base do quadro 349,35; proposta 349,35; variação 0,00 (sem alteração nessa medida).
+Agregado derivado dos dois grupos; descritivo, sem compensação entre CCESP e FCESP.
+Postos agregados: base do quadro 499; proposta 500; variação +1 (aumento).
+Cotas agregadas: base do quadro 1.415,35; proposta 1.421,35; variação +6,00 (aumento).
+
+Referência: LC 1.395/2023 — Anexo I.
+Fonte: https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html
+Versão da tabela: lc1395-anexo-i-revisao-2026-09-14. Conferência: 14/09/2026.
+O resultado descreve quantidades, cotas e diferenças aritméticas. Não constitui saldo oficial, autorização administrativa ou validação de aplicabilidade dos níveis. Não autoriza compensação entre CCESP e FCESP.
+
+IMPACTO ARITMÉTICO NA SECRETARIA
+Não calculado: Há divergência entre o Anexo II e o Anexo III; o total da secretaria não está reconciliado. A base documental não permite calcular o impacto consolidado.
+A estimativa não demonstra saldo disponível, aprovação administrativa ou compensação entre CCESP e FCESP.
+
+COMPARAÇÃO NUMÉRICA — SIMULAÇÃO
+Comparação com a base informada no cálculo, ainda em validação.
+
+CCESP
+Quantitativo: base 298; proposta 299; variação +1; saldo numérico (base − proposta) −1; excesso 1 — acima da base.
+Cotas: base 1.066,00; proposta 1.072,00; variação +6,00; saldo numérico (base − proposta) −6,00; excesso 6,00 — acima da base.
+
+FCESP
+Quantitativo: base 201; proposta 201; variação 0; saldo numérico (base − proposta) 0; excesso 0 — igual à base.
+Cotas: base 349,35; proposta 349,35; variação 0,00; saldo numérico (base − proposta) 0,00; excesso 0,00 — igual à base.
+
+Resultado numérico: Há medidas acima da base.
+CCESP e FCESP são comparados separadamente, sem compensação entre espécies ou entre quantitativo e cotas.
+Base e regras em validação técnica; a comparação não representa aprovação administrativa.

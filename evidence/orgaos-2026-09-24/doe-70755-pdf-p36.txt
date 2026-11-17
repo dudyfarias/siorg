@@ -1,0 +1,60 @@
+  1 Assistente Técnico III FCESP 2.07
+Divisão de Qualiﬁcação Cadastral 1 Chefe de Divisão FCESP 1.10
+Coordenadoria de Consignados 1 Coordenador CCESP 1.13
+Divisão de Relacionamento com as Consignatárias 1 Chefe de Divisão CCESP 1.10
+Divisão de Operacionalização de Consignados 1 Chefe de Divisão FCESP 1.10
+Coordenadoria do e-Social 1 Coordenador CCESP 1.13
+Divisão de Atendimento do e-Social à Administração
+Direta
+1 Chefe de Divisão CCESP 1.10
+Divisão de Atendimento do e-Social à Administração
+Indireta
+1 Chefe de Divisão CCESP 1.10
+       
+DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE
+PESSOAL
+1 Diretor FCESP 1.15
+  1 Assessor III FCESP 2.11
+Coordenadoria de Riscos de Operação 1 Coordenador FCESP 1.13
+  1 Assistente Técnico IV FCESP 2.08
+Divisão de Projetos e Aperfeiçoamento da Folha 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente Técnico I FCESP 2.05
+Divisão de Qualidade e Conformidade de Registros 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente Técnico I FCESP 2.05
+Coordenadoria de Gestão de Riscos e Integridade 1 Coordenador FCESP 1.13
+  1 Assistente Técnico IV FCESP 2.08
+Divisão de Integridade e Conformidade 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente Técnico I FCESP 2.05
+Divisão de Monitoramento e Análise de Riscos 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente Técnico I FCESP 2.05
+       
+SUBSECRETARIA DE GOVERNO DIGITAL 1 Subsecretário CCESP 1.17
+  2 Assessor Especial I CCESP 2.13
+  3 Assessor IV CCESP 2.12
+  2 Assessor II CCESP 2.10
+Seção de Apoio Administrativo 1 Chefe de Seção CCESP 1.05
+       
+DIRETORIA DE GOVERNANÇA, DESEMPENHO E CANAIS
+DE ATENDIMENTO
+1 Diretor CCESP 1.15
+Coordenadoria de Gestão do Programa Poupatempo 1 Coordenador CCESP 1.13
+Coordenadoria de Gestão de Recursos de TIC 1 Coordenador CCESP 1.13
+Coordenadoria de Planejamento e Gestão de
+Resultados
+1 Coordenador CCESP 1.13
+       
+DIRETORIA DE SEGURANÇA CIBERNÉTICA 1 Diretor CCESP 1.15
+Coordenadoria de Regulação e Acompanhamento em
+Cibersegurança
+1 Coordenador CCESP 1.13
+Coordenadoria de Prevenção, Tratamento e Resposta a
+Incidentes Cibernéticos
+1 Coordenador CCESP 1.13
+       
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 36/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

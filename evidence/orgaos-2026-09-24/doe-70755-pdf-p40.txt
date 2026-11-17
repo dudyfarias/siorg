@@ -1,0 +1,30 @@
+FCESP 1.06 1,35 0 0
+FCESP 1.05 1,2 14 16,8
+FCESP 1.04 1,05 0 0
+FCESP 1.03 0,9 0 0
+FCESP 1.02 0,75 0 0
+FCESP 1.01 0,6 0 0
+       
+FCESP 2.17 4,8 0 0
+FCESP 2.16 4,2 0 0
+FCESP 2.15 3,6 0 0
+FCESP 2.14 3,3 0 0
+FCESP 2.13 2,7 3 8,1
+FCESP 2.12 2,4 5 12
+FCESP 2.11 2,1 2 4,2
+FCESP 2.10 1,95 10 19,5
+FCESP 2.09 1,8 8 14,4
+FCESP 2.08 1,65 12 19,8
+FCESP 2.07 1,5 9 13,5
+FCESP 2.06 1,35 24 32,4
+FCESP 2.05 1,2 14 16,8
+FCESP 2.04 1,05 8 8,4
+FCESP 2.03 0,9 5 4,5
+FCESP 2.02 0,75 2 1,5
+FCESP 2.01 0,6 4 2,4
+FUNÇÕES 201 349,35
+     
+TOTAL 499 1415,35
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 40/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

@@ -1,0 +1,50 @@
+{
+  "official": {
+    "cardCount": 39,
+    "hasSggd70963": true,
+    "orgChartLinks": 39,
+    "withOrgCharts": 39
+  },
+  "local": {
+    "organizations": [
+      "Agência Reguladora de Serviços Públicos do Estado de São Paulo",
+      "Agência Reguladora de Transportes do Estado de São Paulo",
+      "Departamento de Estradas de Rodagem",
+      "Governadoria do Estado",
+      "Instituto de Medicina Social e de Criminologia de São Paulo",
+      "São Paulo Previdência",
+      "Secretaria da Administração Penitenciária",
+      "Secretaria da Cultura, Economia e Indústria Criativas",
+      "Secretaria da Fazenda e Planejamento",
+      "Secretaria de Comunicação",
+      "Secretaria de Desenvolvimento Urbano e Habitação",
+      "Secretaria de Esportes",
+      "Secretaria de Gestão e Governo Digital",
+      "Secretaria de Governo e Relações Institucionais",
+      "Secretaria de Políticas para a Mulher",
+      "Secretaria de Turismo e Viagens"
+    ],
+    "openCmsRelated": 2,
+    "cmsFazenda": "Data do ato\n03/11/2026\nDecreto nº 70.956/2026\n\nPublicado em 04/11/2026\n\nAltera dispositivos do Decreto 69.362/2025 sobre a classificação financeira e orçamentária da Fazenda e revoga o inciso XIV do seu art. 1º.\n\nDiário Oficial",
+    "cmsMatches": [
+      "Agência Reguladora de Serviços Públicos do Estado de São PauloARSESP · Agências reguladoras",
+      "Agência Reguladora de Transportes do Estado de São PauloARTESP · Agências reguladoras"
+    ],
+    "cmsMobile": {
+      "menu": {
+        "bottom": 611.0859375,
+        "height": 182.515625,
+        "left": 16,
+        "right": 374,
+        "top": 428.5703125,
+        "width": 358,
+        "x": 16,
+        "y": 428.5703125
+      },
+      "overflow": false
+    },
+    "cmsRepub": "Deliberação ARSESP nº 1.649/2025\n\nPublicação original em 13/02/2025\n\nRepublicado em 17/02/2025\n\nAprova o Regimento Interno da ARSESP. A republicação corrige erro material e renumera os artigos a partir do art. 25.\n\nDiário Oficial — publicação original\nDiário Oficial — republicação",
+    "existingCms": 1,
+    "errors": []
+  }
+}

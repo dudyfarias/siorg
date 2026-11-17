@@ -1,0 +1,1747 @@
+{
+  "method": "PDF certificate tables independently extracted with pdfplumber; scope membership from explicit Resolution 33/2026 art1III, with repeated generic unit names disambiguated within named Subsecretaria de Gestão block",
+  "consultationDate": "2026-09-24",
+  "sources": {
+    "table": "../orgaos-2026-09-24/doe-70755-certificado.pdf",
+    "hierarchy": "resolucao33-certificado.pdf",
+    "coefficient": "LC1395/2023 AnexoI and Decreto70755 AnexoIII, preserved code-unit values"
+  },
+  "scopes": {
+    "dmo_diretos": {
+      "includedUnits": [
+        "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 6,
+          "quotaCents": 2275
+        },
+        "FCESP": {
+          "quantity": 1,
+          "quotaCents": 195
+        }
+      },
+      "quantity": 7,
+      "quotaCents": 2470,
+      "rows": [
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 34,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 35,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 36,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 37,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 38,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 550
+        }
+      ]
+    },
+    "inovacao_diretos": {
+      "includedUnits": [
+        "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 2,
+          "quotaCents": 1000
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0
+        }
+      },
+      "quantity": 2,
+      "quotaCents": 1000,
+      "rows": [
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 9,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 10,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        }
+      ]
+    },
+    "normas_logistica_diretos": {
+      "includedUnits": [
+        "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 3,
+          "quotaCents": 1250
+        },
+        "FCESP": {
+          "quantity": 2,
+          "quotaCents": 390
+        }
+      },
+      "quantity": 5,
+      "quotaCents": 1640,
+      "rows": [
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 20,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 21,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor III",
+          "rawCode": "FCESP 2.11",
+          "quotaCents": 210
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 22,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor III",
+          "rawCode": "CCESP 2.11",
+          "quotaCents": 350
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 23,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "FCESP 2.09",
+          "quotaCents": 180
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 24,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        }
+      ]
+    },
+    "diretoria_geral_com_subordinadas": {
+      "includedUnits": [
+        "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+        "Assessoria Técnica",
+        "Seção de Apoio Administrativo",
+        "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+        "Coordenadoria de Modelos Organizacionais",
+        "Divisão de Desenvolvimento Organizacional",
+        "Divisão Central de Estruturas Organizacionais",
+        "Coordenadoria de Gestão de Políticas Públicas",
+        "Divisão de Articulação e Parcerias Estratégicas",
+        "Divisão de Desempenho Institucional",
+        "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+        "Coordenadoria de Inteligência em Gestão",
+        "Laboratório de Logística Pública"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 27,
+          "quotaCents": 9650
+        },
+        "FCESP": {
+          "quantity": 17,
+          "quotaCents": 3180
+        }
+      },
+      "quantity": 44,
+      "quotaCents": 12830,
+      "rows": [
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 26,
+          "unit": "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+          "quantity": 1,
+          "denomination": "Diretor Geral",
+          "rawCode": "FCESP 1.16",
+          "quotaCents": 420
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 27,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "denomination": "Chefe de Assessoria",
+          "rawCode": "FCESP 2.14",
+          "quotaCents": 330
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 28,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "denomination": "Assessor Especial I",
+          "rawCode": "CCESP 2.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 29,
+          "unit": "Assessoria Técnica",
+          "quantity": 3,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 1200
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 30,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "denomination": "Chefe de Seção",
+          "rawCode": "CCESP 1.05",
+          "quotaCents": 200
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 31,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "denomination": "Assistente III",
+          "rawCode": "CCESP 2.03",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 32,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "denomination": "Assistente I",
+          "rawCode": "FCESP 2.01",
+          "quotaCents": 60
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 34,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 35,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 36,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 37,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 38,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 550
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 39,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 40,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "FCESP 2.07",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 41,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "CCESP 2.07",
+          "quotaCents": 250
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 42,
+          "unit": "Divisão de Desenvolvimento Organizacional",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 43,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 44,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 3,
+          "denomination": "Assistente Técnico I",
+          "rawCode": "FCESP 2.05",
+          "quotaCents": 360
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 45,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "FCESP 1.13",
+          "quotaCents": 270
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 0,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 1,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "FCESP 2.07",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 2,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "CCESP 2.07",
+          "quotaCents": 250
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 3,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 4,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 5,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 6,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 7,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Assistente Técnico I",
+          "rawCode": "CCESP 2.05",
+          "quotaCents": 200
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 9,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 10,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 11,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 12,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 13,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 14,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 2,
+          "denomination": "Assistente Técnico II",
+          "rawCode": "FCESP 2.06",
+          "quotaCents": 270
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 15,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 16,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 17,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 18,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 275
+        }
+      ]
+    },
+    "subsecretaria_gestao_com_subordinadas": {
+      "includedUnits": [
+        "SUBSECRETARIA DE GESTÃO",
+        "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+        "Assessoria Técnica",
+        "Seção de Apoio Administrativo",
+        "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+        "Coordenadoria de Modelos Organizacionais",
+        "Divisão de Desenvolvimento Organizacional",
+        "Divisão Central de Estruturas Organizacionais",
+        "Coordenadoria de Gestão de Políticas Públicas",
+        "Divisão de Articulação e Parcerias Estratégicas",
+        "Divisão de Desempenho Institucional",
+        "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+        "Coordenadoria de Inteligência em Gestão",
+        "Laboratório de Logística Pública",
+        "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+        "Coordenadoria de Normas e Procedimentos",
+        "Divisão de Elaboração de Atos Normativos",
+        "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+        "Coordenadoria de Sistemas de Logística",
+        "Divisão de Gestão de Sistemas de Logística",
+        "Divisão de Suporte ao Usuário",
+        "Divisão de Capacitação e Gestão do Conhecimento",
+        "Coordenadoria da Central de Compras",
+        "Divisão de Licitações e Contratações",
+        "Divisão de Serviços Compartilhados"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 43,
+          "quotaCents": 16025
+        },
+        "FCESP": {
+          "quantity": 23,
+          "quotaCents": 4350
+        }
+      },
+      "quantity": 66,
+      "quotaCents": 20375,
+      "rows": [
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 24,
+          "unit": "SUBSECRETARIA DE GESTÃO",
+          "quantity": 1,
+          "denomination": "Subsecretário",
+          "rawCode": "CCESP 1.17",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 26,
+          "unit": "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+          "quantity": 1,
+          "denomination": "Diretor Geral",
+          "rawCode": "FCESP 1.16",
+          "quotaCents": 420
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 27,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "denomination": "Chefe de Assessoria",
+          "rawCode": "FCESP 2.14",
+          "quotaCents": 330
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 28,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "denomination": "Assessor Especial I",
+          "rawCode": "CCESP 2.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 29,
+          "unit": "Assessoria Técnica",
+          "quantity": 3,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 1200
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 30,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "denomination": "Chefe de Seção",
+          "rawCode": "CCESP 1.05",
+          "quotaCents": 200
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 31,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "denomination": "Assistente III",
+          "rawCode": "CCESP 2.03",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 32,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "denomination": "Assistente I",
+          "rawCode": "FCESP 2.01",
+          "quotaCents": 60
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 34,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 35,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 36,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 37,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 38,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 550
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 39,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 40,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "FCESP 2.07",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 41,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "CCESP 2.07",
+          "quotaCents": 250
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 42,
+          "unit": "Divisão de Desenvolvimento Organizacional",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 43,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 44,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 3,
+          "denomination": "Assistente Técnico I",
+          "rawCode": "FCESP 2.05",
+          "quotaCents": 360
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 45,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "FCESP 1.13",
+          "quotaCents": 270
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 0,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 1,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "FCESP 2.07",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 2,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "CCESP 2.07",
+          "quotaCents": 250
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 3,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 4,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 5,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 6,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 7,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Assistente Técnico I",
+          "rawCode": "CCESP 2.05",
+          "quotaCents": 200
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 9,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 10,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 11,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 12,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 13,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 14,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 2,
+          "denomination": "Assistente Técnico II",
+          "rawCode": "FCESP 2.06",
+          "quotaCents": 270
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 15,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 16,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 17,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 18,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 275
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 20,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 21,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor III",
+          "rawCode": "FCESP 2.11",
+          "quotaCents": 210
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 22,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor III",
+          "rawCode": "CCESP 2.11",
+          "quotaCents": 350
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 23,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "FCESP 2.09",
+          "quotaCents": 180
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 24,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 25,
+          "unit": "Coordenadoria de Normas e Procedimentos",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 26,
+          "unit": "Divisão de Elaboração de Atos Normativos",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 27,
+          "unit": "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 28,
+          "unit": "Coordenadoria de Sistemas de Logística",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 29,
+          "unit": "Divisão de Gestão de Sistemas de Logística",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 30,
+          "unit": "Divisão de Suporte ao Usuário",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "CCESP 1.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 31,
+          "unit": "Divisão de Capacitação e Gestão do Conhecimento",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 32,
+          "unit": "Coordenadoria da Central de Compras",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 33,
+          "unit": "Coordenadoria da Central de Compras",
+          "quantity": 2,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 34,
+          "unit": "Divisão de Licitações e Contratações",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "CCESP 1.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 35,
+          "unit": "Divisão de Licitações e Contratações",
+          "quantity": 2,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 36,
+          "unit": "Divisão de Serviços Compartilhados",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "CCESP 1.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 37,
+          "unit": "Divisão de Serviços Compartilhados",
+          "quantity": 2,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 600
+        }
+      ]
+    },
+    "dmo_com_subordinadas_conferencia_auxiliar": {
+      "includedUnits": [
+        "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+        "Coordenadoria de Modelos Organizacionais",
+        "Divisão de Desenvolvimento Organizacional",
+        "Divisão Central de Estruturas Organizacionais",
+        "Coordenadoria de Gestão de Políticas Públicas",
+        "Divisão de Articulação e Parcerias Estratégicas",
+        "Divisão de Desempenho Institucional"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 13,
+          "quotaCents": 4425
+        },
+        "FCESP": {
+          "quantity": 11,
+          "quotaCents": 1905
+        }
+      },
+      "quantity": 24,
+      "quotaCents": 6330,
+      "rows": [
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 34,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 35,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 36,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 37,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 38,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 550
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 39,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 40,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "FCESP 2.07",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 41,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "CCESP 2.07",
+          "quotaCents": 250
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 42,
+          "unit": "Divisão de Desenvolvimento Organizacional",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 43,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 44,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 3,
+          "denomination": "Assistente Técnico I",
+          "rawCode": "FCESP 2.05",
+          "quotaCents": 360
+        },
+        {
+          "pdfPage": 31,
+          "table": 0,
+          "rowIndex": 45,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "FCESP 1.13",
+          "quotaCents": 270
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 0,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 1,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "FCESP 2.07",
+          "quotaCents": 150
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 2,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "denomination": "Assistente Técnico III",
+          "rawCode": "CCESP 2.07",
+          "quotaCents": 250
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 3,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 4,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 5,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 6,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 7,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "denomination": "Assistente Técnico I",
+          "rawCode": "CCESP 2.05",
+          "quotaCents": 200
+        }
+      ]
+    },
+    "inovacao_com_subordinadas_conferencia_auxiliar": {
+      "includedUnits": [
+        "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+        "Coordenadoria de Inteligência em Gestão",
+        "Laboratório de Logística Pública"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 8,
+          "quotaCents": 3225
+        },
+        "FCESP": {
+          "quantity": 3,
+          "quotaCents": 465
+        }
+      },
+      "quantity": 11,
+      "quotaCents": 3690,
+      "rows": [
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 9,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 10,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 11,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 12,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 400
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 13,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 14,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 2,
+          "denomination": "Assistente Técnico II",
+          "rawCode": "FCESP 2.06",
+          "quotaCents": 270
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 15,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 16,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "CCESP 2.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 17,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assessor II",
+          "rawCode": "FCESP 2.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 18,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "denomination": "Assistente Técnico IV",
+          "rawCode": "CCESP 2.08",
+          "quotaCents": 275
+        }
+      ]
+    },
+    "normas_com_subordinadas_conferencia_auxiliar": {
+      "includedUnits": [
+        "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+        "Coordenadoria de Normas e Procedimentos",
+        "Divisão de Elaboração de Atos Normativos",
+        "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+        "Coordenadoria de Sistemas de Logística",
+        "Divisão de Gestão de Sistemas de Logística",
+        "Divisão de Suporte ao Usuário",
+        "Divisão de Capacitação e Gestão do Conhecimento",
+        "Coordenadoria da Central de Compras",
+        "Divisão de Licitações e Contratações",
+        "Divisão de Serviços Compartilhados"
+      ],
+      "groups": {
+        "CCESP": {
+          "quantity": 15,
+          "quotaCents": 5575
+        },
+        "FCESP": {
+          "quantity": 6,
+          "quotaCents": 1170
+        }
+      },
+      "quantity": 21,
+      "quotaCents": 6745,
+      "rows": [
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 20,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Diretor",
+          "rawCode": "CCESP 1.15",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 21,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor III",
+          "rawCode": "FCESP 2.11",
+          "quotaCents": 210
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 22,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor III",
+          "rawCode": "CCESP 2.11",
+          "quotaCents": 350
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 23,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "FCESP 2.09",
+          "quotaCents": 180
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 24,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 300
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 25,
+          "unit": "Coordenadoria de Normas e Procedimentos",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 26,
+          "unit": "Divisão de Elaboração de Atos Normativos",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 27,
+          "unit": "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 28,
+          "unit": "Coordenadoria de Sistemas de Logística",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 29,
+          "unit": "Divisão de Gestão de Sistemas de Logística",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 30,
+          "unit": "Divisão de Suporte ao Usuário",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "CCESP 1.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 31,
+          "unit": "Divisão de Capacitação e Gestão do Conhecimento",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "FCESP 1.10",
+          "quotaCents": 195
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 32,
+          "unit": "Coordenadoria da Central de Compras",
+          "quantity": 1,
+          "denomination": "Coordenador",
+          "rawCode": "CCESP 1.13",
+          "quotaCents": 450
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 33,
+          "unit": "Coordenadoria da Central de Compras",
+          "quantity": 2,
+          "denomination": "Assessor IV",
+          "rawCode": "CCESP 2.12",
+          "quotaCents": 800
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 34,
+          "unit": "Divisão de Licitações e Contratações",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "CCESP 1.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 35,
+          "unit": "Divisão de Licitações e Contratações",
+          "quantity": 2,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 600
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 36,
+          "unit": "Divisão de Serviços Compartilhados",
+          "quantity": 1,
+          "denomination": "Chefe de Divisão",
+          "rawCode": "CCESP 1.10",
+          "quotaCents": 325
+        },
+        {
+          "pdfPage": 32,
+          "table": 0,
+          "rowIndex": 37,
+          "unit": "Divisão de Serviços Compartilhados",
+          "quantity": 2,
+          "denomination": "Assessor I",
+          "rawCode": "CCESP 2.09",
+          "quotaCents": 600
+        }
+      ]
+    }
+  }
+}

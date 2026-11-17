@@ -1,0 +1,163 @@
+{
+  "source": "browser downloads, read only",
+  "files": {
+    "SGGD-proposta-2026-10-22.xlsx": {
+      "sha256": "4611259dcaa24cbeadf272e639a3b7a4bca9462382888e2b96279299c23cad22",
+      "bytes": 42693
+    },
+    "SGGD-Anexo-II-proposta-2026-10-22.pdf": {
+      "sha256": "2db8be2357ad493957e5d495aeedd9908d68223f1af2774d2abec08b60bb15d6",
+      "bytes": 79898
+    }
+  },
+  "sheetNames": [
+    "Reestruturação",
+    "Calculadora",
+    "Resumo",
+    "Anexo II"
+  ],
+  "annexRows": 408,
+  "quantity": 502,
+  "groups": {
+    "CCESP": {
+      "quantity": 301,
+      "quotaCents": 108150
+    },
+    "FCESP": {
+      "quantity": 201,
+      "quotaCents": 34875
+    }
+  },
+  "calculatorRows_C_H": [
+    [
+      298,
+      299,
+      301,
+      2,
+      -1,
+      -3
+    ],
+    [
+      1066,
+      1069.5,
+      1081.5,
+      12,
+      -3.5,
+      -15.5
+    ],
+    [
+      201,
+      201,
+      201,
+      0,
+      0,
+      0
+    ],
+    [
+      349.35,
+      348.75,
+      348.75,
+      0,
+      0.6,
+      0.6
+    ]
+  ],
+  "pdfPages": 16,
+  "pdfRowsPerPage": [
+    28,
+    26,
+    31,
+    28,
+    28,
+    28,
+    22,
+    22,
+    26,
+    24,
+    24,
+    24,
+    26,
+    28,
+    30,
+    13
+  ],
+  "pdfMatchesXlsxAnnexAllRowsAndOrder": true,
+  "allPagesHavePageNumbers": true,
+  "formulaCells": [],
+  "worksheetProtection": {
+    "Reestruturação": true,
+    "Calculadora": true,
+    "Resumo": true,
+    "Anexo II": true
+  },
+  "summary": [
+    [
+      "SECRETARIA EXECUTIVA",
+      "SECRETARIA EXECUTIVA",
+      "GABINETE DO SECRETÁRIO",
+      "GABINETE DO SECRETÁRIO",
+      "Quantidade alterada",
+      "Assessor Especial III",
+      "CCESP 2.15",
+      "CCESP 2.15",
+      2,
+      3,
+      1,
+      12,
+      18,
+      6,
+      "Linha 10 do modelo de origem"
+    ],
+    [
+      "Divisão de Formação e Treinamento",
+      "Divisão de Formação e Treinamento",
+      "Coordenadoria de Difusão de Acervos",
+      "Diretoria de Teste — QA",
+      "Unidade transferida",
+      "",
+      "",
+      "",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Linha 916 do modelo de origem"
+    ],
+    [
+      "",
+      "Diretoria de Teste — QA",
+      "",
+      "SECRETARIA EXECUTIVA",
+      "Unidade criada",
+      "",
+      "",
+      "",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Unidade criada na proposta"
+    ],
+    [
+      "",
+      "Diretoria de Teste — QA",
+      "",
+      "SECRETARIA EXECUTIVA",
+      "Cargo/função incluído",
+      "Diretor",
+      "",
+      "CCESP 1.15",
+      0,
+      1,
+      1,
+      0,
+      6,
+      6,
+      "Unidade criada na proposta"
+    ]
+  ]
+}

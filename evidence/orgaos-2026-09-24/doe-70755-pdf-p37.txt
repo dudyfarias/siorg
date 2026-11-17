@@ -1,0 +1,57 @@
+DIRETORIA DE PLATAFORMAS E TRANSFORMAÇÃO
+DIGITAL
+1 Diretor CCESP 1.15
+Coordenadoria de Dados e Inteligência Artiﬁcial 1 Coordenador CCESP 1.13
+Coordenadoria de Arquitetura e Implementação de
+Plataformas
+1 Coordenador CCESP 1.13
+       
+Assessoria da Unidade de Gestão do Projeto São Paulo
+Mais Digital
+1 Chefe de Assessoria CCESP 1.15
+  3 Assessor IV FCESP 2.12
+       
+SUBSECRETARIA DE PATRIMÔNIO DO ESTADO 1 Subsecretário CCESP 1.17
+Assessoria Técnica 1 Chefe de Assessoria CCESP 1.14
+  2 Assessor Especial I CCESP 2.13
+  1 Assistente IV CCESP 2.04
+Seção de Apoio Administrativo 1 Chefe de Seção FCESP 1.05
+  2 Assistente III FCESP 2.03
+       
+DIRETORIA DE BENS IMOBILIÁRIOS 1 Diretor CCESP 1.15
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente IV CCESP 2.04
+Serviço de Apoio Financeiro e Orçamentário 1 Chefe de Serviço FCESP 1.07
+Serviço de Apoio ao CPI 1 Chefe de Serviço CCESP 1.07
+Coordenadoria de Gestão Imobiliária 1 Coordenador FCESP 1.13
+  2 Assistente Técnico II CCESP 2.06
+Serviço de Apoio à Regularização Imobiliária 1 Chefe de Serviço FCESP 1.07
+  1 Assistente Técnico II FCESP 2.06
+Coordenadoria de Desmobilização de Ativos
+Imobiliários
+1 Coordenador CCESP 1.13
+  1 Assistente Técnico II CCESP 2.06
+  1 Assistente Técnico II FCESP 2.06
+Serviço de Apoio à Licitação de Ativos Imobiliários 1 Chefe de Serviço FCESP 1.07
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente II FCESP 2.02
+Coordenadoria de Controle Técnico Processual 1 Coordenador FCESP 1.13
+  1 Assistente Técnico II CCESP 2.06
+  3 Assistente Técnico II FCESP 2.06
+  1 Assistente II FCESP 2.02
+       
+DIRETORIA DE MOBILIDADE INTERNA 1 Diretor FCESP 1.15
+Coordenadoria da Gestão da Mobilidade 1 Coordenador FCESP 1.13
+  1 Assistente Técnico II FCESP 2.06
+Divisão de Monitoramento da Mobilidade 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico I FCESP 2.05
+Divisão de Cadastro, Normas e Procedimentos 1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico I FCESP 2.05
+Coordenadoria de Gestão de Ativos 1 Coordenador FCESP 1.13
+Divisão de Arrolamento e Regularização Veicular 1 Chefe de Divisão FCESP 1.10
+Divisão de Alienação de Veículos 1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico I FCESP 2.05
+       
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 37/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

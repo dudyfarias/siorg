@@ -1,0 +1,4656 @@
+{
+  "consultation_date": "2026-09-24",
+  "source_page": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+  "source_api": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026",
+  "publication_id": "c8104920-dd0d-4022-8693-08ded05ee4db",
+  "publication_date": "2026-07-15",
+  "authentication_code": "2026.07.14.1.1.8.202.1982002",
+  "doe_content_sha256": "82aa1c31c779fe77902b6ef1d2ac38fc985a54bf128ec7fd7c1b409b07446ced",
+  "scope": "Cotejo do conteúdo HTML da publicação original fornecido pelo serviço público do DOE; inspeção visual do PDF pela frente de fontes em separado.",
+  "summary_rows": [
+    {
+      "source_table_row": 3,
+      "raw_code": "CCESP NES",
+      "code": "CCESP 1.18",
+      "group": "CCESP",
+      "category": 1,
+      "level": 18,
+      "unit": "9",
+      "unitHundredths": 900,
+      "quantity": 1,
+      "quota": "9",
+      "quotaHundredths": 900
+    },
+    {
+      "source_table_row": 4,
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "unit": "8",
+      "unitHundredths": 800,
+      "quantity": 7,
+      "quota": "56",
+      "quotaHundredths": 5600
+    },
+    {
+      "source_table_row": 5,
+      "raw_code": "CCESP 1.16",
+      "code": "CCESP 1.16",
+      "group": "CCESP",
+      "category": 1,
+      "level": 16,
+      "unit": "7",
+      "unitHundredths": 700,
+      "quantity": 3,
+      "quota": "21",
+      "quotaHundredths": 2100
+    },
+    {
+      "source_table_row": 6,
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "unit": "6",
+      "unitHundredths": 600,
+      "quantity": 21,
+      "quota": "126",
+      "quotaHundredths": 12600
+    },
+    {
+      "source_table_row": 7,
+      "raw_code": "CCESP 1.14",
+      "code": "CCESP 1.14",
+      "group": "CCESP",
+      "category": 1,
+      "level": 14,
+      "unit": "5.5",
+      "unitHundredths": 550,
+      "quantity": 3,
+      "quota": "16.5",
+      "quotaHundredths": 1650
+    },
+    {
+      "source_table_row": 8,
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13",
+      "group": "CCESP",
+      "category": 1,
+      "level": 13,
+      "unit": "4.5",
+      "unitHundredths": 450,
+      "quantity": 44,
+      "quota": "198",
+      "quotaHundredths": 19800
+    },
+    {
+      "source_table_row": 9,
+      "raw_code": "CCESP 1.12",
+      "code": "CCESP 1.12",
+      "group": "CCESP",
+      "category": 1,
+      "level": 12,
+      "unit": "4",
+      "unitHundredths": 400,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 10,
+      "raw_code": "CCESP 1.11",
+      "code": "CCESP 1.11",
+      "group": "CCESP",
+      "category": 1,
+      "level": 11,
+      "unit": "3.5",
+      "unitHundredths": 350,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 11,
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10",
+      "group": "CCESP",
+      "category": 1,
+      "level": 10,
+      "unit": "3.25",
+      "unitHundredths": 325,
+      "quantity": 35,
+      "quota": "113.75",
+      "quotaHundredths": 11375
+    },
+    {
+      "source_table_row": 12,
+      "raw_code": "CCESP 1.09",
+      "code": "CCESP 1.09",
+      "group": "CCESP",
+      "category": 1,
+      "level": 9,
+      "unit": "3",
+      "unitHundredths": 300,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 13,
+      "raw_code": "CCESP 1.08",
+      "code": "CCESP 1.08",
+      "group": "CCESP",
+      "category": 1,
+      "level": 8,
+      "unit": "2.75",
+      "unitHundredths": 275,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 14,
+      "raw_code": "CCESP 1.07",
+      "code": "CCESP 1.07",
+      "group": "CCESP",
+      "category": 1,
+      "level": 7,
+      "unit": "2.5",
+      "unitHundredths": 250,
+      "quantity": 1,
+      "quota": "2.5",
+      "quotaHundredths": 250
+    },
+    {
+      "source_table_row": 15,
+      "raw_code": "CCESP 1.06",
+      "code": "CCESP 1.06",
+      "group": "CCESP",
+      "category": 1,
+      "level": 6,
+      "unit": "2.25",
+      "unitHundredths": 225,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 16,
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05",
+      "group": "CCESP",
+      "category": 1,
+      "level": 5,
+      "unit": "2",
+      "unitHundredths": 200,
+      "quantity": 7,
+      "quota": "14",
+      "quotaHundredths": 1400
+    },
+    {
+      "source_table_row": 17,
+      "raw_code": "CCESP 1.04",
+      "code": "CCESP 1.04",
+      "group": "CCESP",
+      "category": 1,
+      "level": 4,
+      "unit": "1.75",
+      "unitHundredths": 175,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 18,
+      "raw_code": "CCESP 1.03",
+      "code": "CCESP 1.03",
+      "group": "CCESP",
+      "category": 1,
+      "level": 3,
+      "unit": "1.5",
+      "unitHundredths": 150,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 19,
+      "raw_code": "CCESP 1.02",
+      "code": "CCESP 1.02",
+      "group": "CCESP",
+      "category": 1,
+      "level": 2,
+      "unit": "1.25",
+      "unitHundredths": 125,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 20,
+      "raw_code": "CCESP 1.01",
+      "code": "CCESP 1.01",
+      "group": "CCESP",
+      "category": 1,
+      "level": 1,
+      "unit": "1",
+      "unitHundredths": 100,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 22,
+      "raw_code": "CCESP 2.17",
+      "code": "CCESP 2.17",
+      "group": "CCESP",
+      "category": 2,
+      "level": 17,
+      "unit": "8",
+      "unitHundredths": 800,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 23,
+      "raw_code": "CCESP 2.16",
+      "code": "CCESP 2.16",
+      "group": "CCESP",
+      "category": 2,
+      "level": 16,
+      "unit": "7",
+      "unitHundredths": 700,
+      "quantity": 1,
+      "quota": "7",
+      "quotaHundredths": 700
+    },
+    {
+      "source_table_row": 24,
+      "raw_code": "CCESP 2.15",
+      "code": "CCESP 2.15",
+      "group": "CCESP",
+      "category": 2,
+      "level": 15,
+      "unit": "6",
+      "unitHundredths": 600,
+      "quantity": 2,
+      "quota": "12",
+      "quotaHundredths": 1200
+    },
+    {
+      "source_table_row": 25,
+      "raw_code": "CCESP 2.14",
+      "code": "CCESP 2.14",
+      "group": "CCESP",
+      "category": 2,
+      "level": 14,
+      "unit": "5.5",
+      "unitHundredths": 550,
+      "quantity": 1,
+      "quota": "5.5",
+      "quotaHundredths": 550
+    },
+    {
+      "source_table_row": 26,
+      "raw_code": "CCESP 2.13",
+      "code": "CCESP 2.13",
+      "group": "CCESP",
+      "category": 2,
+      "level": 13,
+      "unit": "4.5",
+      "unitHundredths": 450,
+      "quantity": 7,
+      "quota": "31.5",
+      "quotaHundredths": 3150
+    },
+    {
+      "source_table_row": 27,
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "unit": "4",
+      "unitHundredths": 400,
+      "quantity": 18,
+      "quota": "72",
+      "quotaHundredths": 7200
+    },
+    {
+      "source_table_row": 28,
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "unit": "3.5",
+      "unitHundredths": 350,
+      "quantity": 8,
+      "quota": "28",
+      "quotaHundredths": 2800
+    },
+    {
+      "source_table_row": 29,
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10",
+      "group": "CCESP",
+      "category": 2,
+      "level": 10,
+      "unit": "3.25",
+      "unitHundredths": 325,
+      "quantity": 16,
+      "quota": "52",
+      "quotaHundredths": 5200
+    },
+    {
+      "source_table_row": 30,
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09",
+      "group": "CCESP",
+      "category": 2,
+      "level": 9,
+      "unit": "3",
+      "unitHundredths": 300,
+      "quantity": 15,
+      "quota": "45",
+      "quotaHundredths": 4500
+    },
+    {
+      "source_table_row": 31,
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08",
+      "group": "CCESP",
+      "category": 2,
+      "level": 8,
+      "unit": "2.75",
+      "unitHundredths": 275,
+      "quantity": 53,
+      "quota": "145.75",
+      "quotaHundredths": 14575
+    },
+    {
+      "source_table_row": 32,
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07",
+      "group": "CCESP",
+      "category": 2,
+      "level": 7,
+      "unit": "2.5",
+      "unitHundredths": 250,
+      "quantity": 10,
+      "quota": "25",
+      "quotaHundredths": 2500
+    },
+    {
+      "source_table_row": 33,
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06",
+      "group": "CCESP",
+      "category": 2,
+      "level": 6,
+      "unit": "2.25",
+      "unitHundredths": 225,
+      "quantity": 16,
+      "quota": "36",
+      "quotaHundredths": 3600
+    },
+    {
+      "source_table_row": 34,
+      "raw_code": "CCESP 2.05",
+      "code": "CCESP 2.05",
+      "group": "CCESP",
+      "category": 2,
+      "level": 5,
+      "unit": "2",
+      "unitHundredths": 200,
+      "quantity": 6,
+      "quota": "12",
+      "quotaHundredths": 1200
+    },
+    {
+      "source_table_row": 35,
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "unit": "1.75",
+      "unitHundredths": 175,
+      "quantity": 17,
+      "quota": "29.75",
+      "quotaHundredths": 2975
+    },
+    {
+      "source_table_row": 36,
+      "raw_code": "CCESP 2.03",
+      "code": "CCESP 2.03",
+      "group": "CCESP",
+      "category": 2,
+      "level": 3,
+      "unit": "1.5",
+      "unitHundredths": 150,
+      "quantity": 2,
+      "quota": "3",
+      "quotaHundredths": 300
+    },
+    {
+      "source_table_row": 37,
+      "raw_code": "CCESP 2.02",
+      "code": "CCESP 2.02",
+      "group": "CCESP",
+      "category": 2,
+      "level": 2,
+      "unit": "1.25",
+      "unitHundredths": 125,
+      "quantity": 3,
+      "quota": "3.75",
+      "quotaHundredths": 375
+    },
+    {
+      "source_table_row": 38,
+      "raw_code": "CCESP 2.01",
+      "code": "CCESP 2.01",
+      "group": "CCESP",
+      "category": 2,
+      "level": 1,
+      "unit": "1",
+      "unitHundredths": 100,
+      "quantity": 1,
+      "quota": "1",
+      "quotaHundredths": 100
+    },
+    {
+      "source_table_row": 40,
+      "raw_code": "FCESP 1.17",
+      "code": "FCESP 1.17",
+      "group": "FCESP",
+      "category": 1,
+      "level": 17,
+      "unit": "4.8",
+      "unitHundredths": 480,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 41,
+      "raw_code": "FCESP 1.16",
+      "code": "FCESP 1.16",
+      "group": "FCESP",
+      "category": 1,
+      "level": 16,
+      "unit": "4.2",
+      "unitHundredths": 420,
+      "quantity": 1,
+      "quota": "4.2",
+      "quotaHundredths": 420
+    },
+    {
+      "source_table_row": 42,
+      "raw_code": "FCESP 1.15",
+      "code": "FCESP 1.15",
+      "group": "FCESP",
+      "category": 1,
+      "level": 15,
+      "unit": "3.6",
+      "unitHundredths": 360,
+      "quantity": 5,
+      "quota": "18",
+      "quotaHundredths": 1800
+    },
+    {
+      "source_table_row": 43,
+      "raw_code": "FCESP 1.14",
+      "code": "FCESP 1.14",
+      "group": "FCESP",
+      "category": 1,
+      "level": 14,
+      "unit": "3.3",
+      "unitHundredths": 330,
+      "quantity": 3,
+      "quota": "9.9",
+      "quotaHundredths": 990
+    },
+    {
+      "source_table_row": 44,
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13",
+      "group": "FCESP",
+      "category": 1,
+      "level": 13,
+      "unit": "2.7",
+      "unitHundredths": 270,
+      "quantity": 13,
+      "quota": "35.1",
+      "quotaHundredths": 3510
+    },
+    {
+      "source_table_row": 45,
+      "raw_code": "FCESP 1.12",
+      "code": "FCESP 1.12",
+      "group": "FCESP",
+      "category": 1,
+      "level": 12,
+      "unit": "2.4",
+      "unitHundredths": 240,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 46,
+      "raw_code": "FCESP 1.11",
+      "code": "FCESP 1.11",
+      "group": "FCESP",
+      "category": 1,
+      "level": 11,
+      "unit": "2.1",
+      "unitHundredths": 210,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 47,
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10",
+      "group": "FCESP",
+      "category": 1,
+      "level": 10,
+      "unit": "1.95",
+      "unitHundredths": 195,
+      "quantity": 43,
+      "quota": "83.85",
+      "quotaHundredths": 8385
+    },
+    {
+      "source_table_row": 48,
+      "raw_code": "FCESP 1.09",
+      "code": "FCESP 1.09",
+      "group": "FCESP",
+      "category": 1,
+      "level": 9,
+      "unit": "1.8",
+      "unitHundredths": 180,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 49,
+      "raw_code": "FCESP 1.08",
+      "code": "FCESP 1.08",
+      "group": "FCESP",
+      "category": 1,
+      "level": 8,
+      "unit": "1.65",
+      "unitHundredths": 165,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 50,
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07",
+      "group": "FCESP",
+      "category": 1,
+      "level": 7,
+      "unit": "1.5",
+      "unitHundredths": 150,
+      "quantity": 16,
+      "quota": "24",
+      "quotaHundredths": 2400
+    },
+    {
+      "source_table_row": 51,
+      "raw_code": "FCESP 1.06",
+      "code": "FCESP 1.06",
+      "group": "FCESP",
+      "category": 1,
+      "level": 6,
+      "unit": "1.35",
+      "unitHundredths": 135,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 52,
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05",
+      "group": "FCESP",
+      "category": 1,
+      "level": 5,
+      "unit": "1.2",
+      "unitHundredths": 120,
+      "quantity": 14,
+      "quota": "16.8",
+      "quotaHundredths": 1680
+    },
+    {
+      "source_table_row": 53,
+      "raw_code": "FCESP 1.04",
+      "code": "FCESP 1.04",
+      "group": "FCESP",
+      "category": 1,
+      "level": 4,
+      "unit": "1.05",
+      "unitHundredths": 105,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 54,
+      "raw_code": "FCESP 1.03",
+      "code": "FCESP 1.03",
+      "group": "FCESP",
+      "category": 1,
+      "level": 3,
+      "unit": "0.9",
+      "unitHundredths": 90,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 55,
+      "raw_code": "FCESP 1.02",
+      "code": "FCESP 1.02",
+      "group": "FCESP",
+      "category": 1,
+      "level": 2,
+      "unit": "0.75",
+      "unitHundredths": 75,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 56,
+      "raw_code": "FCESP 1.01",
+      "code": "FCESP 1.01",
+      "group": "FCESP",
+      "category": 1,
+      "level": 1,
+      "unit": "0.6",
+      "unitHundredths": 60,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 58,
+      "raw_code": "FCESP 2.17",
+      "code": "FCESP 2.17",
+      "group": "FCESP",
+      "category": 2,
+      "level": 17,
+      "unit": "4.8",
+      "unitHundredths": 480,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 59,
+      "raw_code": "FCESP 2.16",
+      "code": "FCESP 2.16",
+      "group": "FCESP",
+      "category": 2,
+      "level": 16,
+      "unit": "4.2",
+      "unitHundredths": 420,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 60,
+      "raw_code": "FCESP 2.15",
+      "code": "FCESP 2.15",
+      "group": "FCESP",
+      "category": 2,
+      "level": 15,
+      "unit": "3.6",
+      "unitHundredths": 360,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 61,
+      "raw_code": "FCESP 2.14",
+      "code": "FCESP 2.14",
+      "group": "FCESP",
+      "category": 2,
+      "level": 14,
+      "unit": "3.3",
+      "unitHundredths": 330,
+      "quantity": 0,
+      "quota": "0",
+      "quotaHundredths": 0
+    },
+    {
+      "source_table_row": 62,
+      "raw_code": "FCESP 2.13",
+      "code": "FCESP 2.13",
+      "group": "FCESP",
+      "category": 2,
+      "level": 13,
+      "unit": "2.7",
+      "unitHundredths": 270,
+      "quantity": 3,
+      "quota": "8.1",
+      "quotaHundredths": 810
+    },
+    {
+      "source_table_row": 63,
+      "raw_code": "FCESP 2.12",
+      "code": "FCESP 2.12",
+      "group": "FCESP",
+      "category": 2,
+      "level": 12,
+      "unit": "2.4",
+      "unitHundredths": 240,
+      "quantity": 5,
+      "quota": "12",
+      "quotaHundredths": 1200
+    },
+    {
+      "source_table_row": 64,
+      "raw_code": "FCESP 2.11",
+      "code": "FCESP 2.11",
+      "group": "FCESP",
+      "category": 2,
+      "level": 11,
+      "unit": "2.1",
+      "unitHundredths": 210,
+      "quantity": 2,
+      "quota": "4.2",
+      "quotaHundredths": 420
+    },
+    {
+      "source_table_row": 65,
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10",
+      "group": "FCESP",
+      "category": 2,
+      "level": 10,
+      "unit": "1.95",
+      "unitHundredths": 195,
+      "quantity": 10,
+      "quota": "19.5",
+      "quotaHundredths": 1950
+    },
+    {
+      "source_table_row": 66,
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09",
+      "group": "FCESP",
+      "category": 2,
+      "level": 9,
+      "unit": "1.8",
+      "unitHundredths": 180,
+      "quantity": 8,
+      "quota": "14.4",
+      "quotaHundredths": 1440
+    },
+    {
+      "source_table_row": 67,
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08",
+      "group": "FCESP",
+      "category": 2,
+      "level": 8,
+      "unit": "1.65",
+      "unitHundredths": 165,
+      "quantity": 12,
+      "quota": "19.8",
+      "quotaHundredths": 1980
+    },
+    {
+      "source_table_row": 68,
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07",
+      "group": "FCESP",
+      "category": 2,
+      "level": 7,
+      "unit": "1.5",
+      "unitHundredths": 150,
+      "quantity": 9,
+      "quota": "13.5",
+      "quotaHundredths": 1350
+    },
+    {
+      "source_table_row": 69,
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06",
+      "group": "FCESP",
+      "category": 2,
+      "level": 6,
+      "unit": "1.35",
+      "unitHundredths": 135,
+      "quantity": 24,
+      "quota": "32.4",
+      "quotaHundredths": 3240
+    },
+    {
+      "source_table_row": 70,
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05",
+      "group": "FCESP",
+      "category": 2,
+      "level": 5,
+      "unit": "1.2",
+      "unitHundredths": 120,
+      "quantity": 14,
+      "quota": "16.8",
+      "quotaHundredths": 1680
+    },
+    {
+      "source_table_row": 71,
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04",
+      "group": "FCESP",
+      "category": 2,
+      "level": 4,
+      "unit": "1.05",
+      "unitHundredths": 105,
+      "quantity": 8,
+      "quota": "8.4",
+      "quotaHundredths": 840
+    },
+    {
+      "source_table_row": 72,
+      "raw_code": "FCESP 2.03",
+      "code": "FCESP 2.03",
+      "group": "FCESP",
+      "category": 2,
+      "level": 3,
+      "unit": "0.9",
+      "unitHundredths": 90,
+      "quantity": 5,
+      "quota": "4.5",
+      "quotaHundredths": 450
+    },
+    {
+      "source_table_row": 73,
+      "raw_code": "FCESP 2.02",
+      "code": "FCESP 2.02",
+      "group": "FCESP",
+      "category": 2,
+      "level": 2,
+      "unit": "0.75",
+      "unitHundredths": 75,
+      "quantity": 2,
+      "quota": "1.5",
+      "quotaHundredths": 150
+    },
+    {
+      "source_table_row": 74,
+      "raw_code": "FCESP 2.01",
+      "code": "FCESP 2.01",
+      "group": "FCESP",
+      "category": 2,
+      "level": 1,
+      "unit": "0.6",
+      "unitHundredths": 60,
+      "quantity": 4,
+      "quota": "2.4",
+      "quotaHundredths": 240
+    }
+  ],
+  "quadro_rows": [
+    {
+      "source_table_row": 6,
+      "unit": "SECRETARIA EXECUTIVA",
+      "raw_unit": "SECRETARIA EXECUTIVA",
+      "quantity": 1,
+      "denomination": "Secretário Executivo",
+      "raw_code": "CCESP 1.18",
+      "code": "CCESP 1.18"
+    },
+    {
+      "source_table_row": 7,
+      "unit": "SECRETARIA EXECUTIVA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor Especial IV",
+      "raw_code": "CCESP 2.16",
+      "code": "CCESP 2.16"
+    },
+    {
+      "source_table_row": 8,
+      "unit": "SECRETARIA EXECUTIVA",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor Especial III",
+      "raw_code": "CCESP 2.15",
+      "code": "CCESP 2.15"
+    },
+    {
+      "source_table_row": 9,
+      "unit": "SECRETARIA EXECUTIVA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor Especial II",
+      "raw_code": "CCESP 2.14",
+      "code": "CCESP 2.14"
+    },
+    {
+      "source_table_row": 10,
+      "unit": "SECRETARIA EXECUTIVA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente I",
+      "raw_code": "FCESP 2.01",
+      "code": "FCESP 2.01"
+    },
+    {
+      "source_table_row": 12,
+      "unit": "CHEFIA DE GABINETE",
+      "raw_unit": "CHEFIA DE GABINETE",
+      "quantity": 1,
+      "denomination": "Chefe de Gabinete",
+      "raw_code": "CCESP 1.16",
+      "code": "CCESP 1.16"
+    },
+    {
+      "source_table_row": 13,
+      "unit": "CHEFIA DE GABINETE",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "FCESP 2.12",
+      "code": "FCESP 2.12"
+    },
+    {
+      "source_table_row": 14,
+      "unit": "CHEFIA DE GABINETE",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 16,
+      "unit": "Ouvidoria e Serviço de Informações ao Cidadão - SIC",
+      "raw_unit": "Ouvidoria e Serviço de Informações ao Cidadão - SIC",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 18,
+      "unit": "Consultoria Jurídica",
+      "raw_unit": "Consultoria Jurídica",
+      "quantity": 2,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 19,
+      "unit": "Consultoria Jurídica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 20,
+      "unit": "Consultoria Jurídica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 22,
+      "unit": "Assessoria de Comunicação e Cerimonial",
+      "raw_unit": "Assessoria de Comunicação e Cerimonial",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 23,
+      "unit": "Assessoria de Comunicação e Cerimonial",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 25,
+      "unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "raw_unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 26,
+      "unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 27,
+      "unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 29,
+      "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "raw_unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "FCESP 1.15",
+      "code": "FCESP 1.15"
+    },
+    {
+      "source_table_row": 30,
+      "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor Especial I",
+      "raw_code": "CCESP 2.13",
+      "code": "CCESP 2.13"
+    },
+    {
+      "source_table_row": 31,
+      "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor III",
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11"
+    },
+    {
+      "source_table_row": 32,
+      "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 34,
+      "unit": "ASSESSORIA TÉCNICA",
+      "raw_unit": "ASSESSORIA TÉCNICA",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 35,
+      "unit": "ASSESSORIA TÉCNICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 36,
+      "unit": "ASSESSORIA TÉCNICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 37,
+      "unit": "ASSESSORIA TÉCNICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 39,
+      "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "raw_unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "FCESP 1.15",
+      "code": "FCESP 1.15"
+    },
+    {
+      "source_table_row": 40,
+      "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "FCESP 2.12",
+      "code": "FCESP 2.12"
+    },
+    {
+      "source_table_row": 41,
+      "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 42,
+      "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 44,
+      "unit": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+      "raw_unit": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 45,
+      "unit": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 46,
+      "unit": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+      "raw_unit": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 47,
+      "unit": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 48,
+      "unit": "Coordenadoria de Formação e Desenvolvimento de Competências",
+      "raw_unit": "Coordenadoria de Formação e Desenvolvimento de Competências",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 49,
+      "unit": "Coordenadoria de Formação e Desenvolvimento de Competências",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor II",
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10"
+    },
+    {
+      "source_table_row": 50,
+      "unit": "Coordenadoria de Conhecimento Aplicado",
+      "raw_unit": "Coordenadoria de Conhecimento Aplicado",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 51,
+      "unit": "Coordenadoria de Conhecimento Aplicado",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor II",
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10"
+    },
+    {
+      "source_table_row": 52,
+      "unit": "Coordenadoria de Administração",
+      "raw_unit": "Coordenadoria de Administração",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 53,
+      "unit": "Coordenadoria de Administração",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor II",
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10"
+    },
+    {
+      "source_table_row": 55,
+      "unit": "SUBSECRETARIA DE GESTÃO CORPORATIVA",
+      "raw_unit": "SUBSECRETARIA DE GESTÃO CORPORATIVA",
+      "quantity": 1,
+      "denomination": "Subsecretário",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 56,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "Assessoria Técnica",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "FCESP 1.14",
+      "code": "FCESP 1.14"
+    },
+    {
+      "source_table_row": 57,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor Especial I",
+      "raw_code": "FCESP 2.13",
+      "code": "FCESP 2.13"
+    },
+    {
+      "source_table_row": 58,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor Especial I",
+      "raw_code": "CCESP 2.13",
+      "code": "CCESP 2.13"
+    },
+    {
+      "source_table_row": 59,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor III",
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11"
+    },
+    {
+      "source_table_row": 60,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 3,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 61,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10"
+    },
+    {
+      "source_table_row": 62,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 63,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 64,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 65,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "Seção de Apoio Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 67,
+      "unit": "DIRETORIA GERAL DE TECNOLOGIA E ADMINISTRAÇÃO",
+      "raw_unit": "DIRETORIA GERAL DE TECNOLOGIA E ADMINISTRAÇÃO",
+      "quantity": 1,
+      "denomination": "Diretor Geral",
+      "raw_code": "CCESP 1.16",
+      "code": "CCESP 1.16"
+    },
+    {
+      "source_table_row": 69,
+      "unit": "DIRETORIA DE ADMINISTRAÇÃO",
+      "raw_unit": "DIRETORIA DE ADMINISTRAÇÃO",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 70,
+      "unit": "Coordenadoria de Licitações e Contratos",
+      "raw_unit": "Coordenadoria de Licitações e Contratos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 71,
+      "unit": "Coordenadoria de Licitações e Contratos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 72,
+      "unit": "Coordenadoria de Licitações e Contratos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 73,
+      "unit": "Divisão de Licitações",
+      "raw_unit": "Divisão de Licitações",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 74,
+      "unit": "Divisão de Contratos",
+      "raw_unit": "Divisão de Contratos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 75,
+      "unit": "Divisão de Fiscalização",
+      "raw_unit": "Divisão de Fiscalização",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 76,
+      "unit": "Divisão de Fiscalização",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 77,
+      "unit": "Divisão de Fiscalização",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 78,
+      "unit": "Coordenadoria de Orçamento e Finanças",
+      "raw_unit": "Coordenadoria de Orçamento e Finanças",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 79,
+      "unit": "Coordenadoria de Orçamento e Finanças",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 80,
+      "unit": "Divisão de Orçamento",
+      "raw_unit": "Divisão de Orçamento",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 81,
+      "unit": "Divisão de Orçamento",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 82,
+      "unit": "Divisão de Finanças",
+      "raw_unit": "Divisão de Finanças",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 83,
+      "unit": "Divisão de Finanças",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 84,
+      "unit": "Divisão de Finanças",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 85,
+      "unit": "Divisão de Finanças",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente II",
+      "raw_code": "CCESP 2.02",
+      "code": "CCESP 2.02"
+    },
+    {
+      "source_table_row": 87,
+      "unit": "DIRETORIA DE SERVIÇOS E TIC",
+      "raw_unit": "DIRETORIA DE SERVIÇOS E TIC",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 88,
+      "unit": "DIRETORIA DE SERVIÇOS E TIC",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 89,
+      "unit": "DIRETORIA DE SERVIÇOS E TIC",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 90,
+      "unit": "Coordenadoria de Infraestrutura",
+      "raw_unit": "Coordenadoria de Infraestrutura",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 91,
+      "unit": "Coordenadoria de Infraestrutura",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 92,
+      "unit": "Coordenadoria de Infraestrutura",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 93,
+      "unit": "Coordenadoria de Infraestrutura",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 94,
+      "unit": "Coordenadoria de Infraestrutura",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente I",
+      "raw_code": "FCESP 2.01",
+      "code": "FCESP 2.01"
+    },
+    {
+      "source_table_row": 95,
+      "unit": "Divisão de Administração Predial",
+      "raw_unit": "Divisão de Administração Predial",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 96,
+      "unit": "Divisão de Engenharia",
+      "raw_unit": "Divisão de Engenharia",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 97,
+      "unit": "Coordenadoria de Bens e Serviços",
+      "raw_unit": "Coordenadoria de Bens e Serviços",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 98,
+      "unit": "Divisão de Gestão Patrimonial e Almoxarifado",
+      "raw_unit": "Divisão de Gestão Patrimonial e Almoxarifado",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 99,
+      "unit": "Divisão de Gestão Patrimonial e Almoxarifado",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 100,
+      "unit": "Divisão de Gestão Documental",
+      "raw_unit": "Divisão de Gestão Documental",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 101,
+      "unit": "Coordenadoria de Redes e Suporte",
+      "raw_unit": "Coordenadoria de Redes e Suporte",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 102,
+      "unit": "Coordenadoria de Soluções Digitais",
+      "raw_unit": "Coordenadoria de Soluções Digitais",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 104,
+      "unit": "DIRETORIA DE GESTÃO DE PESSOAS",
+      "raw_unit": "DIRETORIA DE GESTÃO DE PESSOAS",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 105,
+      "unit": "Coordenadoria de Cadastro e Expediente",
+      "raw_unit": "Coordenadoria de Cadastro e Expediente",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 106,
+      "unit": "Serviço de Controle Funcional",
+      "raw_unit": "Serviço de Controle Funcional",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 107,
+      "unit": "Serviço de Controle Funcional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente III",
+      "raw_code": "FCESP 2.03",
+      "code": "FCESP 2.03"
+    },
+    {
+      "source_table_row": 108,
+      "unit": "Serviço de Controle dos Sistemas de Recursos Humanos",
+      "raw_unit": "Serviço de Controle dos Sistemas de Recursos Humanos",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 109,
+      "unit": "Serviço de Controle dos Sistemas de Recursos Humanos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente III",
+      "raw_code": "CCESP 2.03",
+      "code": "CCESP 2.03"
+    },
+    {
+      "source_table_row": 110,
+      "unit": "Coordenadoria de Concessão de Vantagens e Aposentadoria",
+      "raw_unit": "Coordenadoria de Concessão de Vantagens e Aposentadoria",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 111,
+      "unit": "Serviço de Administração da Vida Funcional",
+      "raw_unit": "Serviço de Administração da Vida Funcional",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 112,
+      "unit": "Serviço de Gestão de Inativos e Aposentadoria",
+      "raw_unit": "Serviço de Gestão de Inativos e Aposentadoria",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 113,
+      "unit": "Serviço de Gestão de Inativos e Aposentadoria",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente III",
+      "raw_code": "FCESP 2.03",
+      "code": "FCESP 2.03"
+    },
+    {
+      "source_table_row": 114,
+      "unit": "Coordenadoria de Demandas Judiciais e Administrativas",
+      "raw_unit": "Coordenadoria de Demandas Judiciais e Administrativas",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 115,
+      "unit": "Serviço de Cumprimento de Ações Judiciais",
+      "raw_unit": "Serviço de Cumprimento de Ações Judiciais",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 116,
+      "unit": "Serviço de Cumprimento de Ações Judiciais",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "CCESP 2.05",
+      "code": "CCESP 2.05"
+    },
+    {
+      "source_table_row": 117,
+      "unit": "Serviço de Apuração Preliminar",
+      "raw_unit": "Serviço de Apuração Preliminar",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 118,
+      "unit": "Serviço de Apuração Preliminar",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente II",
+      "raw_code": "CCESP 2.02",
+      "code": "CCESP 2.02"
+    },
+    {
+      "source_table_row": 119,
+      "unit": "Coordenadoria de Evolução Funcional e Encargos Sociais",
+      "raw_unit": "Coordenadoria de Evolução Funcional e Encargos Sociais",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 120,
+      "unit": "Serviço de Controle dos Encargos Sociais",
+      "raw_unit": "Serviço de Controle dos Encargos Sociais",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 121,
+      "unit": "Serviço de Controle dos Encargos Sociais",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "CCESP 2.05",
+      "code": "CCESP 2.05"
+    },
+    {
+      "source_table_row": 122,
+      "unit": "Serviço de Administração das Evoluções Funcionais",
+      "raw_unit": "Serviço de Administração das Evoluções Funcionais",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 124,
+      "unit": "SUBSECRETARIA DE GESTÃO",
+      "raw_unit": "SUBSECRETARIA DE GESTÃO",
+      "quantity": 1,
+      "denomination": "Subsecretário",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 126,
+      "unit": "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+      "raw_unit": "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+      "quantity": 1,
+      "denomination": "Diretor Geral",
+      "raw_code": "FCESP 1.16",
+      "code": "FCESP 1.16"
+    },
+    {
+      "source_table_row": 127,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "Assessoria Técnica",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "FCESP 2.14",
+      "code": "FCESP 2.14"
+    },
+    {
+      "source_table_row": 128,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor Especial I",
+      "raw_code": "CCESP 2.13",
+      "code": "CCESP 2.13"
+    },
+    {
+      "source_table_row": 129,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 3,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 130,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "Seção de Apoio Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 131,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente III",
+      "raw_code": "CCESP 2.03",
+      "code": "CCESP 2.03"
+    },
+    {
+      "source_table_row": 132,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente I",
+      "raw_code": "FCESP 2.01",
+      "code": "FCESP 2.01"
+    },
+    {
+      "source_table_row": 134,
+      "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "raw_unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 135,
+      "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 136,
+      "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 137,
+      "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10"
+    },
+    {
+      "source_table_row": 138,
+      "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 139,
+      "unit": "Coordenadoria de Modelos Organizacionais",
+      "raw_unit": "Coordenadoria de Modelos Organizacionais",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 140,
+      "unit": "Coordenadoria de Modelos Organizacionais",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 141,
+      "unit": "Coordenadoria de Modelos Organizacionais",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 142,
+      "unit": "Divisão de Desenvolvimento Organizacional",
+      "raw_unit": "Divisão de Desenvolvimento Organizacional",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 143,
+      "unit": "Divisão Central de Estruturas Organizacionais",
+      "raw_unit": "Divisão Central de Estruturas Organizacionais",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 144,
+      "unit": "Divisão Central de Estruturas Organizacionais",
+      "raw_unit": "",
+      "quantity": 3,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 145,
+      "unit": "Coordenadoria de Gestão de Políticas Públicas",
+      "raw_unit": "Coordenadoria de Gestão de Políticas Públicas",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 146,
+      "unit": "Coordenadoria de Gestão de Políticas Públicas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 147,
+      "unit": "Coordenadoria de Gestão de Políticas Públicas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 148,
+      "unit": "Coordenadoria de Gestão de Políticas Públicas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 149,
+      "unit": "Divisão de Articulação e Parcerias Estratégicas",
+      "raw_unit": "Divisão de Articulação e Parcerias Estratégicas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 150,
+      "unit": "Divisão de Articulação e Parcerias Estratégicas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 151,
+      "unit": "Divisão de Desempenho Institucional",
+      "raw_unit": "Divisão de Desempenho Institucional",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 152,
+      "unit": "Divisão de Desempenho Institucional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 153,
+      "unit": "Divisão de Desempenho Institucional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "CCESP 2.05",
+      "code": "CCESP 2.05"
+    },
+    {
+      "source_table_row": 155,
+      "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+      "raw_unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 156,
+      "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 157,
+      "unit": "Coordenadoria de Inteligência em Gestão",
+      "raw_unit": "Coordenadoria de Inteligência em Gestão",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 158,
+      "unit": "Coordenadoria de Inteligência em Gestão",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 159,
+      "unit": "Coordenadoria de Inteligência em Gestão",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 160,
+      "unit": "Coordenadoria de Inteligência em Gestão",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 161,
+      "unit": "Laboratório de Logística Pública",
+      "raw_unit": "Laboratório de Logística Pública",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 162,
+      "unit": "Laboratório de Logística Pública",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 163,
+      "unit": "Laboratório de Logística Pública",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "FCESP 2.10",
+      "code": "FCESP 2.10"
+    },
+    {
+      "source_table_row": 164,
+      "unit": "Laboratório de Logística Pública",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 166,
+      "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "raw_unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 167,
+      "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor III",
+      "raw_code": "FCESP 2.11",
+      "code": "FCESP 2.11"
+    },
+    {
+      "source_table_row": 168,
+      "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor III",
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11"
+    },
+    {
+      "source_table_row": 169,
+      "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 170,
+      "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 171,
+      "unit": "Coordenadoria de Normas e Procedimentos",
+      "raw_unit": "Coordenadoria de Normas e Procedimentos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 172,
+      "unit": "Divisão de Elaboração de Atos Normativos",
+      "raw_unit": "Divisão de Elaboração de Atos Normativos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 173,
+      "unit": "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+      "raw_unit": "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 174,
+      "unit": "Coordenadoria de Sistemas de Logística",
+      "raw_unit": "Coordenadoria de Sistemas de Logística",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 175,
+      "unit": "Divisão de Gestão de Sistemas de Logística",
+      "raw_unit": "Divisão de Gestão de Sistemas de Logística",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 176,
+      "unit": "Divisão de Suporte ao Usuário",
+      "raw_unit": "Divisão de Suporte ao Usuário",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 177,
+      "unit": "Divisão de Capacitação e Gestão do Conhecimento",
+      "raw_unit": "Divisão de Capacitação e Gestão do Conhecimento",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 178,
+      "unit": "Coordenadoria da Central de Compras",
+      "raw_unit": "Coordenadoria da Central de Compras",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 179,
+      "unit": "Coordenadoria da Central de Compras",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 180,
+      "unit": "Divisão de Licitações e Contratações",
+      "raw_unit": "Divisão de Licitações e Contratações",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 181,
+      "unit": "Divisão de Licitações e Contratações",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 182,
+      "unit": "Divisão de Serviços Compartilhados",
+      "raw_unit": "Divisão de Serviços Compartilhados",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 183,
+      "unit": "Divisão de Serviços Compartilhados",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 185,
+      "unit": "SUBSECRETARIA DE GESTÃO DE PESSOAS",
+      "raw_unit": "SUBSECRETARIA DE GESTÃO DE PESSOAS",
+      "quantity": 1,
+      "denomination": "Subsecretário",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 186,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "Assessoria Técnica",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.14",
+      "code": "CCESP 1.14"
+    },
+    {
+      "source_table_row": 187,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 188,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor III",
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11"
+    },
+    {
+      "source_table_row": 189,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 190,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 191,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 192,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 193,
+      "unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "raw_unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.14",
+      "code": "CCESP 1.14"
+    },
+    {
+      "source_table_row": 194,
+      "unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor III",
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11"
+    },
+    {
+      "source_table_row": 195,
+      "unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 196,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "Seção de Apoio Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 198,
+      "unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "raw_unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 199,
+      "unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 200,
+      "unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 201,
+      "unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "raw_unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 202,
+      "unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 203,
+      "unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 204,
+      "unit": "Divisão de Planejamento, Inovação e Modelos de Carreiras",
+      "raw_unit": "Divisão de Planejamento, Inovação e Modelos de Carreiras",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 205,
+      "unit": "Divisão de Gestão de Carreiras",
+      "raw_unit": "Divisão de Gestão de Carreiras",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 206,
+      "unit": "Coordenadoria de Desenvolvimento de Pessoas",
+      "raw_unit": "Coordenadoria de Desenvolvimento de Pessoas",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 207,
+      "unit": "Coordenadoria de Desenvolvimento de Pessoas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 208,
+      "unit": "Coordenadoria de Desenvolvimento de Pessoas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 209,
+      "unit": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+      "raw_unit": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 210,
+      "unit": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "CCESP 2.07",
+      "code": "CCESP 2.07"
+    },
+    {
+      "source_table_row": 211,
+      "unit": "Divisão de Gestão de Desempenho e Evolução Funcional",
+      "raw_unit": "Divisão de Gestão de Desempenho e Evolução Funcional",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 213,
+      "unit": "DIRETORIA DE GESTÃO FUNCIONAL",
+      "raw_unit": "DIRETORIA DE GESTÃO FUNCIONAL",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 214,
+      "unit": "DIRETORIA DE GESTÃO FUNCIONAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 215,
+      "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "raw_unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 216,
+      "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 217,
+      "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 218,
+      "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 219,
+      "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 220,
+      "unit": "Divisão de Concursos Públicos e Processos Seletivos",
+      "raw_unit": "Divisão de Concursos Públicos e Processos Seletivos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 221,
+      "unit": "Divisão de Estágio",
+      "raw_unit": "Divisão de Estágio",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 222,
+      "unit": "Coordenadoria de Gestão Funcional",
+      "raw_unit": "Coordenadoria de Gestão Funcional",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 223,
+      "unit": "Coordenadoria de Gestão Funcional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 224,
+      "unit": "Coordenadoria de Gestão Funcional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 225,
+      "unit": "Coordenadoria de Gestão Funcional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 226,
+      "unit": "Coordenadoria de Gestão Funcional",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 227,
+      "unit": "Divisão de Planejamento da Força de Trabalho",
+      "raw_unit": "Divisão de Planejamento da Força de Trabalho",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 228,
+      "unit": "Divisão de Gestão de Pessoal",
+      "raw_unit": "Divisão de Gestão de Pessoal",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 230,
+      "unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "raw_unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 231,
+      "unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor III",
+      "raw_code": "CCESP 2.11",
+      "code": "CCESP 2.11"
+    },
+    {
+      "source_table_row": 232,
+      "unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 233,
+      "unit": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+      "raw_unit": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 234,
+      "unit": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 235,
+      "unit": "Divisão de Levantamento de Requisitos e Homologação dos Sistemas de Gestão de Pessoas",
+      "raw_unit": "Divisão de Levantamento de Requisitos e Homologação dos Sistemas de Gestão de Pessoas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 236,
+      "unit": "Divisão de Capacitação e Suporte aos Usuários dos Sistemas de Gestão de Pessoas",
+      "raw_unit": "Divisão de Capacitação e Suporte aos Usuários dos Sistemas de Gestão de Pessoas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 237,
+      "unit": "Coordenadoria de Apoio aos Sistemas e Processos de Gestão de Pessoas",
+      "raw_unit": "Coordenadoria de Apoio aos Sistemas e Processos de Gestão de Pessoas",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 238,
+      "unit": "Divisão de Apoio aos Sistemas Corporativos de Gestão de Pessoas",
+      "raw_unit": "Divisão de Apoio aos Sistemas Corporativos de Gestão de Pessoas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 239,
+      "unit": "Divisão de Apoio aos Processos de Gestão de Pessoas e Tratamento de Exceções",
+      "raw_unit": "Divisão de Apoio aos Processos de Gestão de Pessoas e Tratamento de Exceções",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 241,
+      "unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "raw_unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 242,
+      "unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 243,
+      "unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 244,
+      "unit": "Serviço de Gestão Técnico-Administrativo",
+      "raw_unit": "Serviço de Gestão Técnico-Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 245,
+      "unit": "Serviço de Gestão Técnico-Administrativo",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 246,
+      "unit": "Serviço de Gestão Técnico-Administrativo",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 247,
+      "unit": "Serviço de Gestão da Informação Pericial",
+      "raw_unit": "Serviço de Gestão da Informação Pericial",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 248,
+      "unit": "Serviço de Gestão da Informação Pericial",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 249,
+      "unit": "Serviço de Atendimento e Gestão de Protocolos",
+      "raw_unit": "Serviço de Atendimento e Gestão de Protocolos",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 250,
+      "unit": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+      "raw_unit": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 251,
+      "unit": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 252,
+      "unit": "Divisão de Insalubridade",
+      "raw_unit": "Divisão de Insalubridade",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 253,
+      "unit": "Divisão de Insalubridade",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 254,
+      "unit": "Divisão de Acidentes do Trabalho",
+      "raw_unit": "Divisão de Acidentes do Trabalho",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 255,
+      "unit": "Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria",
+      "raw_unit": "Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 256,
+      "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "raw_unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 257,
+      "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 258,
+      "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "raw_unit": "",
+      "quantity": 4,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 259,
+      "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "CCESP 2.05",
+      "code": "CCESP 2.05"
+    },
+    {
+      "source_table_row": 260,
+      "unit": "Divisão de Readaptação e Aposentadoria",
+      "raw_unit": "Divisão de Readaptação e Aposentadoria",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 261,
+      "unit": "Divisão de Readaptação e Aposentadoria",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 262,
+      "unit": "Divisão de Readaptação e Aposentadoria",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 263,
+      "unit": "Coordenadoria de Saúde Ocupacional",
+      "raw_unit": "Coordenadoria de Saúde Ocupacional",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 264,
+      "unit": "Divisão de Segurança no Trabalho",
+      "raw_unit": "Divisão de Segurança no Trabalho",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 265,
+      "unit": "Divisão de Segurança no Trabalho",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 266,
+      "unit": "Divisão de Segurança no Trabalho",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 267,
+      "unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "raw_unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 268,
+      "unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 269,
+      "unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 271,
+      "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "raw_unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 272,
+      "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 273,
+      "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "FCESP 2.09",
+      "code": "FCESP 2.09"
+    },
+    {
+      "source_table_row": 274,
+      "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor I",
+      "raw_code": "CCESP 2.09",
+      "code": "CCESP 2.09"
+    },
+    {
+      "source_table_row": 275,
+      "unit": "Coordenadoria de Benefícios",
+      "raw_unit": "Coordenadoria de Benefícios",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 276,
+      "unit": "Coordenadoria de Remuneração",
+      "raw_unit": "Coordenadoria de Remuneração",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 277,
+      "unit": "Coordenadoria de Remuneração",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "FCESP 2.04",
+      "code": "FCESP 2.04"
+    },
+    {
+      "source_table_row": 279,
+      "unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "raw_unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "quantity": 1,
+      "denomination": "Diretor Geral",
+      "raw_code": "CCESP 1.16",
+      "code": "CCESP 1.16"
+    },
+    {
+      "source_table_row": 280,
+      "unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 281,
+      "unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 283,
+      "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+      "raw_unit": "DIRETORIA DE DESPESA DE PESSOAL",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 284,
+      "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+      "raw_unit": "",
+      "quantity": 30,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 285,
+      "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 286,
+      "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+      "raw_unit": "",
+      "quantity": 4,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 287,
+      "unit": "Coordenadoria de Instrução e Padronização de Pagamentos",
+      "raw_unit": "Coordenadoria de Instrução e Padronização de Pagamentos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 288,
+      "unit": "Divisão de Complementação de Aposentadoria e Pensão",
+      "raw_unit": "Divisão de Complementação de Aposentadoria e Pensão",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 289,
+      "unit": "Divisão de Despesa da Educação da Região Metropolitana",
+      "raw_unit": "Divisão de Despesa da Educação da Região Metropolitana",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 290,
+      "unit": "Divisão de Despesa da Educação do Interior I",
+      "raw_unit": "Divisão de Despesa da Educação do Interior I",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 291,
+      "unit": "Divisão de Despesa da Educação do Interior II",
+      "raw_unit": "Divisão de Despesa da Educação do Interior II",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 292,
+      "unit": "Divisão de Despesa da Saúde",
+      "raw_unit": "Divisão de Despesa da Saúde",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 293,
+      "unit": "Divisão de Despesa da Segurança Pública e Administração Penitenciária",
+      "raw_unit": "Divisão de Despesa da Segurança Pública e Administração Penitenciária",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 294,
+      "unit": "Divisão de Despesa das Secretarias Diversas",
+      "raw_unit": "Divisão de Despesa das Secretarias Diversas",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 295,
+      "unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "raw_unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 296,
+      "unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 297,
+      "unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 298,
+      "unit": "Divisão de Aplicação Normativa da Folha e de Legislação",
+      "raw_unit": "Divisão de Aplicação Normativa da Folha e de Legislação",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 299,
+      "unit": "Divisão de Inovação e Melhoria de Processos",
+      "raw_unit": "Divisão de Inovação e Melhoria de Processos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 300,
+      "unit": "Divisão de Inteligência e Informações Gerenciais",
+      "raw_unit": "Divisão de Inteligência e Informações Gerenciais",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 301,
+      "unit": "Divisão de Suporte e Atendimento aos Setoriais e Subsetoriais",
+      "raw_unit": "Divisão de Suporte e Atendimento aos Setoriais e Subsetoriais",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 302,
+      "unit": "Coordenadoria de Atendimento a Demandas Judiciais",
+      "raw_unit": "Coordenadoria de Atendimento a Demandas Judiciais",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 303,
+      "unit": "Divisão de Análise e Informações Processuais",
+      "raw_unit": "Divisão de Análise e Informações Processuais",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 304,
+      "unit": "Divisão de Análise e Informações Processuais",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 305,
+      "unit": "Divisão de Cumprimento de Obrigações",
+      "raw_unit": "Divisão de Cumprimento de Obrigações",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 307,
+      "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "raw_unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 308,
+      "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "raw_unit": "",
+      "quantity": 12,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 309,
+      "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "raw_unit": "",
+      "quantity": 6,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 310,
+      "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente I",
+      "raw_code": "CCESP 2.01",
+      "code": "CCESP 2.01"
+    },
+    {
+      "source_table_row": 311,
+      "unit": "Coordenadoria de Processamento da Folha",
+      "raw_unit": "Coordenadoria de Processamento da Folha",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 312,
+      "unit": "Divisão de Orçamento da Folha",
+      "raw_unit": "Divisão de Orçamento da Folha",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 313,
+      "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+      "raw_unit": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 314,
+      "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 315,
+      "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+      "raw_unit": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 316,
+      "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "CCESP 2.08",
+      "code": "CCESP 2.08"
+    },
+    {
+      "source_table_row": 317,
+      "unit": "Coordenadoria de Soluções e Produtos de Pagamento de Pessoal",
+      "raw_unit": "Coordenadoria de Soluções e Produtos de Pagamento de Pessoal",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 318,
+      "unit": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+      "raw_unit": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 319,
+      "unit": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico III",
+      "raw_code": "FCESP 2.07",
+      "code": "FCESP 2.07"
+    },
+    {
+      "source_table_row": 320,
+      "unit": "Divisão de Qualificação Cadastral",
+      "raw_unit": "Divisão de Qualificação Cadastral",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 321,
+      "unit": "Coordenadoria de Consignados",
+      "raw_unit": "Coordenadoria de Consignados",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 322,
+      "unit": "Divisão de Relacionamento com as Consignatárias",
+      "raw_unit": "Divisão de Relacionamento com as Consignatárias",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 323,
+      "unit": "Divisão de Operacionalização de Consignados",
+      "raw_unit": "Divisão de Operacionalização de Consignados",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 324,
+      "unit": "Coordenadoria do e-Social",
+      "raw_unit": "Coordenadoria do e-Social",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 325,
+      "unit": "Divisão de Atendimento do e-Social à Administração Direta",
+      "raw_unit": "Divisão de Atendimento do e-Social à Administração Direta",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 326,
+      "unit": "Divisão de Atendimento do e-Social à Administração Indireta",
+      "raw_unit": "Divisão de Atendimento do e-Social à Administração Indireta",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 328,
+      "unit": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+      "raw_unit": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "FCESP 1.15",
+      "code": "FCESP 1.15"
+    },
+    {
+      "source_table_row": 329,
+      "unit": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor III",
+      "raw_code": "FCESP 2.11",
+      "code": "FCESP 2.11"
+    },
+    {
+      "source_table_row": 330,
+      "unit": "Coordenadoria de Riscos de Operação",
+      "raw_unit": "Coordenadoria de Riscos de Operação",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 331,
+      "unit": "Coordenadoria de Riscos de Operação",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 332,
+      "unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "raw_unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 333,
+      "unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 334,
+      "unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 335,
+      "unit": "Divisão de Qualidade e Conformidade de Registros",
+      "raw_unit": "Divisão de Qualidade e Conformidade de Registros",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 336,
+      "unit": "Divisão de Qualidade e Conformidade de Registros",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 337,
+      "unit": "Divisão de Qualidade e Conformidade de Registros",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 338,
+      "unit": "Coordenadoria de Gestão de Riscos e Integridade",
+      "raw_unit": "Coordenadoria de Gestão de Riscos e Integridade",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 339,
+      "unit": "Coordenadoria de Gestão de Riscos e Integridade",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico IV",
+      "raw_code": "FCESP 2.08",
+      "code": "FCESP 2.08"
+    },
+    {
+      "source_table_row": 340,
+      "unit": "Divisão de Integridade e Conformidade",
+      "raw_unit": "Divisão de Integridade e Conformidade",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 341,
+      "unit": "Divisão de Integridade e Conformidade",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 342,
+      "unit": "Divisão de Integridade e Conformidade",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 343,
+      "unit": "Divisão de Monitoramento e Análise de Riscos",
+      "raw_unit": "Divisão de Monitoramento e Análise de Riscos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 344,
+      "unit": "Divisão de Monitoramento e Análise de Riscos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 345,
+      "unit": "Divisão de Monitoramento e Análise de Riscos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 347,
+      "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "raw_unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "quantity": 1,
+      "denomination": "Subsecretário",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 348,
+      "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor Especial I",
+      "raw_code": "CCESP 2.13",
+      "code": "CCESP 2.13"
+    },
+    {
+      "source_table_row": 349,
+      "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "raw_unit": "",
+      "quantity": 3,
+      "denomination": "Assessor IV",
+      "raw_code": "CCESP 2.12",
+      "code": "CCESP 2.12"
+    },
+    {
+      "source_table_row": 350,
+      "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 351,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "Seção de Apoio Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 353,
+      "unit": "DIRETORIA DE GOVERNANÇA, DESEMPENHO E CANAIS DE ATENDIMENTO",
+      "raw_unit": "DIRETORIA DE GOVERNANÇA, DESEMPENHO E CANAIS DE ATENDIMENTO",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 354,
+      "unit": "Coordenadoria de Gestão do Programa Poupatempo",
+      "raw_unit": "Coordenadoria de Gestão do Programa Poupatempo",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 355,
+      "unit": "Coordenadoria de Gestão de Recursos de TIC",
+      "raw_unit": "Coordenadoria de Gestão de Recursos de TIC",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 356,
+      "unit": "Coordenadoria de Planejamento e Gestão de Resultados",
+      "raw_unit": "Coordenadoria de Planejamento e Gestão de Resultados",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 358,
+      "unit": "DIRETORIA DE SEGURANÇA CIBERNÉTICA",
+      "raw_unit": "DIRETORIA DE SEGURANÇA CIBERNÉTICA",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 359,
+      "unit": "Coordenadoria de Regulação e Acompanhamento em Cibersegurança",
+      "raw_unit": "Coordenadoria de Regulação e Acompanhamento em Cibersegurança",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 360,
+      "unit": "Coordenadoria de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos",
+      "raw_unit": "Coordenadoria de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 362,
+      "unit": "DIRETORIA DE PLATAFORMAS E TRANSFORMAÇÃO DIGITAL",
+      "raw_unit": "DIRETORIA DE PLATAFORMAS E TRANSFORMAÇÃO DIGITAL",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 363,
+      "unit": "Coordenadoria de Dados e Inteligência Artificial",
+      "raw_unit": "Coordenadoria de Dados e Inteligência Artificial",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 364,
+      "unit": "Coordenadoria de Arquitetura e Implementação de Plataformas",
+      "raw_unit": "Coordenadoria de Arquitetura e Implementação de Plataformas",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 366,
+      "unit": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+      "raw_unit": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 367,
+      "unit": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+      "raw_unit": "",
+      "quantity": 3,
+      "denomination": "Assessor IV",
+      "raw_code": "FCESP 2.12",
+      "code": "FCESP 2.12"
+    },
+    {
+      "source_table_row": 369,
+      "unit": "SUBSECRETARIA DE PATRIMÔNIO DO ESTADO",
+      "raw_unit": "SUBSECRETARIA DE PATRIMÔNIO DO ESTADO",
+      "quantity": 1,
+      "denomination": "Subsecretário",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 370,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "Assessoria Técnica",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "CCESP 1.14",
+      "code": "CCESP 1.14"
+    },
+    {
+      "source_table_row": 371,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assessor Especial I",
+      "raw_code": "CCESP 2.13",
+      "code": "CCESP 2.13"
+    },
+    {
+      "source_table_row": 372,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 373,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "Seção de Apoio Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 374,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente III",
+      "raw_code": "FCESP 2.03",
+      "code": "FCESP 2.03"
+    },
+    {
+      "source_table_row": 376,
+      "unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "raw_unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 377,
+      "unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 378,
+      "unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente IV",
+      "raw_code": "CCESP 2.04",
+      "code": "CCESP 2.04"
+    },
+    {
+      "source_table_row": 379,
+      "unit": "Serviço de Apoio Financeiro e Orçamentário",
+      "raw_unit": "Serviço de Apoio Financeiro e Orçamentário",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 380,
+      "unit": "Serviço de Apoio ao CPI",
+      "raw_unit": "Serviço de Apoio ao CPI",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "CCESP 1.07",
+      "code": "CCESP 1.07"
+    },
+    {
+      "source_table_row": 381,
+      "unit": "Coordenadoria de Gestão Imobiliária",
+      "raw_unit": "Coordenadoria de Gestão Imobiliária",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 382,
+      "unit": "Coordenadoria de Gestão Imobiliária",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 383,
+      "unit": "Serviço de Apoio à Regularização Imobiliária",
+      "raw_unit": "Serviço de Apoio à Regularização Imobiliária",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 384,
+      "unit": "Serviço de Apoio à Regularização Imobiliária",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 385,
+      "unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "raw_unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 386,
+      "unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 387,
+      "unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 388,
+      "unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "raw_unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 389,
+      "unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 390,
+      "unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente II",
+      "raw_code": "FCESP 2.02",
+      "code": "FCESP 2.02"
+    },
+    {
+      "source_table_row": 391,
+      "unit": "Coordenadoria de Controle Técnico Processual",
+      "raw_unit": "Coordenadoria de Controle Técnico Processual",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 392,
+      "unit": "Coordenadoria de Controle Técnico Processual",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 393,
+      "unit": "Coordenadoria de Controle Técnico Processual",
+      "raw_unit": "",
+      "quantity": 3,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 394,
+      "unit": "Coordenadoria de Controle Técnico Processual",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente II",
+      "raw_code": "FCESP 2.02",
+      "code": "FCESP 2.02"
+    },
+    {
+      "source_table_row": 396,
+      "unit": "DIRETORIA DE MOBILIDADE INTERNA",
+      "raw_unit": "DIRETORIA DE MOBILIDADE INTERNA",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "FCESP 1.15",
+      "code": "FCESP 1.15"
+    },
+    {
+      "source_table_row": 397,
+      "unit": "Coordenadoria da Gestão da Mobilidade",
+      "raw_unit": "Coordenadoria da Gestão da Mobilidade",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 398,
+      "unit": "Coordenadoria da Gestão da Mobilidade",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 399,
+      "unit": "Divisão de Monitoramento da Mobilidade",
+      "raw_unit": "Divisão de Monitoramento da Mobilidade",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 400,
+      "unit": "Divisão de Monitoramento da Mobilidade",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 401,
+      "unit": "Divisão de Cadastro, Normas e Procedimentos",
+      "raw_unit": "Divisão de Cadastro, Normas e Procedimentos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 402,
+      "unit": "Divisão de Cadastro, Normas e Procedimentos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 403,
+      "unit": "Coordenadoria de Gestão de Ativos",
+      "raw_unit": "Coordenadoria de Gestão de Ativos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 404,
+      "unit": "Divisão de Arrolamento e Regularização Veicular",
+      "raw_unit": "Divisão de Arrolamento e Regularização Veicular",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 405,
+      "unit": "Divisão de Alienação de Veículos",
+      "raw_unit": "Divisão de Alienação de Veículos",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 406,
+      "unit": "Divisão de Alienação de Veículos",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 408,
+      "unit": "SUBSECRETARIA DO ARQUIVO PÚBLICO DO ESTADO",
+      "raw_unit": "SUBSECRETARIA DO ARQUIVO PÚBLICO DO ESTADO",
+      "quantity": 1,
+      "denomination": "Subsecretário",
+      "raw_code": "CCESP 1.17",
+      "code": "CCESP 1.17"
+    },
+    {
+      "source_table_row": 409,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "Assessoria Técnica",
+      "quantity": 1,
+      "denomination": "Chefe de Assessoria",
+      "raw_code": "FCESP 1.14",
+      "code": "FCESP 1.14"
+    },
+    {
+      "source_table_row": 410,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assessor II",
+      "raw_code": "CCESP 2.10",
+      "code": "CCESP 2.10"
+    },
+    {
+      "source_table_row": 411,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "CCESP 2.06",
+      "code": "CCESP 2.06"
+    },
+    {
+      "source_table_row": 412,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico II",
+      "raw_code": "FCESP 2.06",
+      "code": "FCESP 2.06"
+    },
+    {
+      "source_table_row": 413,
+      "unit": "Assessoria Técnica",
+      "raw_unit": "",
+      "quantity": 2,
+      "denomination": "Assistente Técnico I",
+      "raw_code": "FCESP 2.05",
+      "code": "FCESP 2.05"
+    },
+    {
+      "source_table_row": 414,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "Seção de Apoio Administrativo",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 415,
+      "unit": "Seção de Apoio Administrativo",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente III",
+      "raw_code": "FCESP 2.03",
+      "code": "FCESP 2.03"
+    },
+    {
+      "source_table_row": 417,
+      "unit": "DIRETORIA DE ACERVOS E SISTEMA DE ARQUIVOS",
+      "raw_unit": "DIRETORIA DE ACERVOS E SISTEMA DE ARQUIVOS",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "CCESP 1.15",
+      "code": "CCESP 1.15"
+    },
+    {
+      "source_table_row": 418,
+      "unit": "Coordenadoria do Sistema de Arquivos",
+      "raw_unit": "Coordenadoria do Sistema de Arquivos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 419,
+      "unit": "Divisão de Gestão Documental",
+      "raw_unit": "Divisão de Gestão Documental",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 420,
+      "unit": "Seção de Normas Técnicas",
+      "raw_unit": "Seção de Normas Técnicas",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 421,
+      "unit": "Seção de Assistência ao SAESP",
+      "raw_unit": "Seção de Assistência ao SAESP",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 422,
+      "unit": "Seção de Monitoria e Fiscalização",
+      "raw_unit": "Seção de Monitoria e Fiscalização",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 423,
+      "unit": "Divisão de Assistência Técnica aos Municípios",
+      "raw_unit": "Divisão de Assistência Técnica aos Municípios",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 424,
+      "unit": "Coordenadoria de Arquivo Digital",
+      "raw_unit": "Coordenadoria de Arquivo Digital",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 425,
+      "unit": "Divisão de Gestão e Inovação Digital",
+      "raw_unit": "Divisão de Gestão e Inovação Digital",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 426,
+      "unit": "Seção de Conformidade dos Sistemas Arquivísticos",
+      "raw_unit": "Seção de Conformidade dos Sistemas Arquivísticos",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 427,
+      "unit": "Seção de Gestão de Sistemas e Inovação",
+      "raw_unit": "Seção de Gestão de Sistemas e Inovação",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 428,
+      "unit": "Divisão de Preservação e Acesso Digital",
+      "raw_unit": "Divisão de Preservação e Acesso Digital",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 429,
+      "unit": "Seção de Repositórios e Plataformas",
+      "raw_unit": "Seção de Repositórios e Plataformas",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 430,
+      "unit": "Seção de Tratamento de Acervos Digitais",
+      "raw_unit": "Seção de Tratamento de Acervos Digitais",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 431,
+      "unit": "Seção de Digitalização e Microfilmagem",
+      "raw_unit": "Seção de Digitalização e Microfilmagem",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 432,
+      "unit": "Coordenadoria de Tratamento de Acervos",
+      "raw_unit": "Coordenadoria de Tratamento de Acervos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "FCESP 1.13",
+      "code": "FCESP 1.13"
+    },
+    {
+      "source_table_row": 433,
+      "unit": "Serviço ao Cidadão e Acesso",
+      "raw_unit": "Serviço ao Cidadão e Acesso",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 434,
+      "unit": "Divisão de Arquivo Intermediário",
+      "raw_unit": "Divisão de Arquivo Intermediário",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 435,
+      "unit": "Divisão de Acervo Iconográfico",
+      "raw_unit": "Divisão de Acervo Iconográfico",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "CCESP 1.10",
+      "code": "CCESP 1.10"
+    },
+    {
+      "source_table_row": 436,
+      "unit": "Seção do Acervo Cartográfico",
+      "raw_unit": "Seção do Acervo Cartográfico",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 437,
+      "unit": "Divisão de Acervo Permanente",
+      "raw_unit": "Divisão de Acervo Permanente",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 438,
+      "unit": "Divisão de Acervo Permanente",
+      "raw_unit": "",
+      "quantity": 1,
+      "denomination": "Assistente I",
+      "raw_code": "FCESP 2.01",
+      "code": "FCESP 2.01"
+    },
+    {
+      "source_table_row": 439,
+      "unit": "Seção de Acervo Textual Público e Privado",
+      "raw_unit": "Seção de Acervo Textual Público e Privado",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 440,
+      "unit": "Seção de Paleografia e Diplomática",
+      "raw_unit": "Seção de Paleografia e Diplomática",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 441,
+      "unit": "Seção de Biblioteca e Hemeroteca",
+      "raw_unit": "Seção de Biblioteca e Hemeroteca",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 443,
+      "unit": "DIRETORIA DE PRESERVAÇÃO, DIFUSÃO E FORMAÇÃO",
+      "raw_unit": "DIRETORIA DE PRESERVAÇÃO, DIFUSÃO E FORMAÇÃO",
+      "quantity": 1,
+      "denomination": "Diretor",
+      "raw_code": "FCESP 1.15",
+      "code": "FCESP 1.15"
+    },
+    {
+      "source_table_row": 444,
+      "unit": "Coordenadoria de Preservação e Ingresso de Acervos",
+      "raw_unit": "Coordenadoria de Preservação e Ingresso de Acervos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 445,
+      "unit": "Serviço de Ingresso e Logística",
+      "raw_unit": "Serviço de Ingresso e Logística",
+      "quantity": 1,
+      "denomination": "Chefe de Serviço",
+      "raw_code": "FCESP 1.07",
+      "code": "FCESP 1.07"
+    },
+    {
+      "source_table_row": 446,
+      "unit": "Divisão de Conservação",
+      "raw_unit": "Divisão de Conservação",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    },
+    {
+      "source_table_row": 447,
+      "unit": "Seção de Laboratório de Conservação e Restauro",
+      "raw_unit": "Seção de Laboratório de Conservação e Restauro",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 448,
+      "unit": "Seção de Gerenciamento de Riscos e Acondicionamento",
+      "raw_unit": "Seção de Gerenciamento de Riscos e Acondicionamento",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 449,
+      "unit": "Coordenadoria de Difusão de Acervos",
+      "raw_unit": "Coordenadoria de Difusão de Acervos",
+      "quantity": 1,
+      "denomination": "Coordenador",
+      "raw_code": "CCESP 1.13",
+      "code": "CCESP 1.13"
+    },
+    {
+      "source_table_row": 450,
+      "unit": "Seção de Divulgação e Produção Cultural",
+      "raw_unit": "Seção de Divulgação e Produção Cultural",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "CCESP 1.05",
+      "code": "CCESP 1.05"
+    },
+    {
+      "source_table_row": 451,
+      "unit": "Seção de Difusão e Ação Educativa",
+      "raw_unit": "Seção de Difusão e Ação Educativa",
+      "quantity": 1,
+      "denomination": "Chefe de Seção",
+      "raw_code": "FCESP 1.05",
+      "code": "FCESP 1.05"
+    },
+    {
+      "source_table_row": 452,
+      "unit": "Divisão de Formação e Treinamento",
+      "raw_unit": "Divisão de Formação e Treinamento",
+      "quantity": 1,
+      "denomination": "Chefe de Divisão",
+      "raw_code": "FCESP 1.10",
+      "code": "FCESP 1.10"
+    }
+  ],
+  "summary_computed": {
+    "CCESP": {
+      "quantity": 298,
+      "quotaHundredths": 106600
+    },
+    "FCESP": {
+      "quantity": 201,
+      "quotaHundredths": 34935
+    }
+  },
+  "quadro_computed": {
+    "CCESP": {
+      "quantity": 299,
+      "quotaHundredths": 106950
+    },
+    "FCESP": {
+      "quantity": 201,
+      "quotaHundredths": 34875
+    }
+  },
+  "summary_arithmetic_differences": [],
+  "quadro_summary_quantity_differences": [
+    {
+      "code": "CCESP 1.10",
+      "quadro": 36,
+      "resumo": 35
+    },
+    {
+      "code": "CCESP 1.05",
+      "quadro": 8,
+      "resumo": 7
+    },
+    {
+      "code": "CCESP 2.10",
+      "quadro": 17,
+      "resumo": 16
+    },
+    {
+      "code": "CCESP 2.09",
+      "quadro": 14,
+      "resumo": 15
+    },
+    {
+      "code": "CCESP 2.05",
+      "quadro": 5,
+      "resumo": 6
+    },
+    {
+      "code": "FCESP 1.14",
+      "quadro": 2,
+      "resumo": 3
+    },
+    {
+      "code": "FCESP 1.13",
+      "quadro": 14,
+      "resumo": 13
+    },
+    {
+      "code": "FCESP 2.14",
+      "quadro": 1,
+      "resumo": 0
+    },
+    {
+      "code": "FCESP 2.13",
+      "quadro": 2,
+      "resumo": 3
+    },
+    {
+      "code": "FCESP 2.10",
+      "quadro": 9,
+      "resumo": 10
+    },
+    {
+      "code": "FCESP 2.06",
+      "quadro": 25,
+      "resumo": 24
+    }
+  ],
+  "unparsed_numeric_rows": [],
+  "alesp_doe_summary_numeric_rows_identical": true,
+  "alesp_doe_quadro_code_counts_identical": true,
+  "same_eleven_discrepancies_as_alesp": true
+}

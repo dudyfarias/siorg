@@ -1,0 +1,40 @@
+✔ PDF contains all positive documentary positions in exactly four columns with repeated headings and readable pages (177.715834ms)
+✔ renaming, removing and adding across units are reflected from the current snapshot without mutating the proposal or source (137.676125ms)
+✔ equal unit names preserve distinct documentary groups and additions remain inside their target unit (163.927ms)
+✔ all 128 quantity digits are retained and wrapped at a legible size without splitting the row across pages (85.530834ms)
+✔ pending quantities anywhere and modified documentary codes reject export even when caller supplies stale successful output (118.801708ms)
+✔ the existing negative balance does not prohibit a complete proposed Annex II (106.272958ms)
+✔ only explicit withdrawal of all units releases an empty table; active units without commanders block export (49.143459ms)
+✔ unrepresentable text and invalid generated dates fail explicitly instead of producing corrupt text or metadata (48.481416ms)
+✔ browser export produces four protected snapshot sheets with exact complete baseline rows and independent II/III figures (207.456083ms)
+✔ one full proposal including a new unit, transfer and rename drives every sheet irrespective of screen filters (151.75ms)
+✔ removed units and added zero positions remain traceable but do not appear in the four-column Annex (100.556083ms)
+✔ code changes preserve old and new codes and quota variation in the snapshot (131.022583ms)
+✔ pending inputs anywhere, inconsistent metadata and new verified rule blockers reject the whole file (149.431833ms)
+✔ formula-like names are literal strings, not executable Excel formulas (365.976417ms)
+✔ large integers and exact hundredths survive without Excel precision loss (197.249042ms)
+✔ snapshot export does not mutate source or proposal and remains coherent across asynchronous preparation (163.724166ms)
+✔ T00 — untouched SGGD preserves 407 lines, 221 units and the separate II/III balances (37.478542ms)
+✔ T01 — removing Secretário Executivo subtracts 1/900 but exposes the missing commander (51.033958ms)
+✔ T02 — adding two Assessor I in Chefia adds 2/600 once across outputs (52.665166ms)
+✔ T03 — removing a whole unit zeros preserved rows and omits it from the Annex (203.467208ms)
+✔ T04 — renaming a unit changes summary and PDF names without changing amounts (152.385458ms)
+✔ T05 — transfer preserves all amounts, names the new parent and moves its Annex block (145.116958ms)
+✔ T06 — a new unit with command and assistant reaches the Annex and PDF with both species (135.860167ms)
+✔ T07 — editing the final quantity does not create a duplicate position (73.196791ms)
+✔ T08 — replacing one FC assistant with one CC assistant retains independent balances (24.349958ms)
+✔ T09 — removing the only Chefia commander produces a new verified blocker and stops PDF (52.398541ms)
+✔ T10 — invalid quantity remains pending and survives a draft round-trip instead of becoming zero (194.147125ms)
+✔ T11 — combined edits round-trip with full names, structural events and independent totals (168.869583ms)
+✔ R01 — changing a command code distinguishes level warning from category blocker (81.712708ms)
+✔ R02 — quota/quantity excess remains visible but does not silently block a numeric draft (50.307791ms)
+✔ R03 — an explicit new Ouvidoria at level 4 triggers the verified minimum-level blocker (52.056625ms)
+✔ R04 — new Diretoria without subunits warns, then two eligible direct identities satisfy the count (50.2935ms)
+ℹ tests 32
+ℹ suites 0
+ℹ pass 32
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1858.3255

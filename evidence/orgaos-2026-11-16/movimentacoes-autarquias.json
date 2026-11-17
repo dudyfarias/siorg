@@ -1,0 +1,542 @@
+{
+  "iamspe": [
+    {
+      "id": "portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741",
+      "title": "PORTARIA IAMSPE Nº 19, DE 29 DE ABRIL DE 2026",
+      "date": "2026-04-30",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741",
+      "effectiveDate": "2026-05-14",
+      "effectiveDateNote": null,
+      "moves": [
+        [
+          "Presidência",
+          "Serviço - Centro de Assistência Médico Ambulatorial - Ceama - Araçatuba",
+          "CCESP 2.06",
+          "Assistente Técnico II",
+          1,
+          2
+        ],
+        [
+          "Gabinete",
+          "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – São José do Rio Preto",
+          "CCESP 2.06",
+          "Assistente Técnico II",
+          1,
+          3
+        ],
+        [
+          "Serviço - Centro de Assistência Médico Ambulatorial - Ceama - Araçatuba",
+          "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – Presidente Prudente",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          4
+        ],
+        [
+          "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – São José do Rio Preto",
+          "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – Ribeirão Preto",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          5
+        ]
+      ],
+      "details": [
+        {
+          "row": 2,
+          "originCode": "5600002",
+          "destinationCode": "5600095",
+          "sgpVacancy": "2432444",
+          "originalPositionText": "Assistente Técnico II – CCESP 2.06"
+        },
+        {
+          "row": 3,
+          "originCode": "5600009",
+          "destinationCode": "5600121",
+          "sgpVacancy": "2432447",
+          "originalPositionText": "Assistente Técnico II – CCESP 2.06"
+        },
+        {
+          "row": 4,
+          "originCode": "5600095",
+          "destinationCode": "5600113",
+          "sgpVacancy": "2432434",
+          "originalPositionText": "Assistente IV – CCESP 2.04"
+        },
+        {
+          "row": 5,
+          "originCode": "5600121",
+          "destinationCode": "5600115",
+          "sgpVacancy": "2427223",
+          "originalPositionText": "Assistente IV – CCESP 2.04"
+        }
+      ],
+      "quantityAndQuotaGlobalChange": false,
+      "annulmentFound": false,
+      "reviewCutoff": "2026-11-16"
+    },
+    {
+      "id": "portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872",
+      "title": "PORTARIA IAMSPE Nº 29, DE 12 DE AGOSTO DE 2026",
+      "date": "2026-08-13",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872",
+      "effectiveDate": null,
+      "effectiveDateNote": "10 dias úteis após a publicação de 13/08/2026; cálculo da data não feito",
+      "moves": [
+        [
+          "Presidência",
+          "Seção de Segurança",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          2
+        ],
+        [
+          "Presidência",
+          "Serviço de Folha de Pagamento",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          3
+        ],
+        [
+          "Presidência",
+          "Serviço de Comunicação Institucional Corporativa",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          4
+        ],
+        [
+          "Presidência",
+          "Serviço de Comunicação Institucional Corporativa",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          5
+        ],
+        [
+          "Presidência",
+          "Serviço de Controle de Internação",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          6
+        ],
+        [
+          "Presidência",
+          "Seção de Adiantamento",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          7
+        ],
+        [
+          "Presidência",
+          "Seção de Contabilidade",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          8
+        ],
+        [
+          "Presidência",
+          "Serviço de Planejamento de Suprimentos",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          9
+        ],
+        [
+          "Presidência",
+          "Divisão de Contratos",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          10
+        ],
+        [
+          "Presidência",
+          "Divisão de Apoio Administrativo e Operacional",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          11
+        ],
+        [
+          "Presidência",
+          "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          12
+        ],
+        [
+          "Auditoria",
+          "Coordenadoria de Desenvolvimento de Ensino e Pesquisa",
+          "CCESP 2.06",
+          "Assistente Técnico II",
+          1,
+          13
+        ],
+        [
+          "Procuradoria Jurídica",
+          "Divisão de Infraestrutura",
+          "FCESP 2.04",
+          "Assistente IV",
+          1,
+          14
+        ],
+        [
+          "Divisão de Contratação de Materiais e Serviços",
+          "Gabinete",
+          "CCESP 2.06",
+          "Assistente Técnico II",
+          1,
+          15
+        ],
+        [
+          "Divisão de Infraestrutura",
+          "Serviço de Folha de Pagamento",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          16
+        ],
+        [
+          "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Campinas",
+          "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Araraquara",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          17
+        ],
+        [
+          "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Ribeirão Preto",
+          "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Taubaté",
+          "CCESP 2.04",
+          "Assistente IV",
+          1,
+          18
+        ],
+        [
+          "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+          "Coordenadoria de Gestão Hospitalar",
+          "CCESP 2.09",
+          "Assessor I",
+          1,
+          19
+        ],
+        [
+          "Coordenadoria de Gestão Hospitalar",
+          "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+          "CCESP 2.11",
+          "Assessor III",
+          1,
+          20
+        ]
+      ],
+      "details": [
+        {
+          "row": 2,
+          "originCode": "5600002",
+          "destinationCode": "5600047",
+          "sgpVacancy": "2432195",
+          "originalPositionText": "Assistente IV - CCESP 2.04"
+        },
+        {
+          "row": 3,
+          "originCode": "5600002",
+          "destinationCode": "5600023",
+          "sgpVacancy": "2432196",
+          "originalPositionText": "Assistente IV - CCESP 2.04"
+        },
+        {
+          "row": 4,
+          "originCode": "5600002",
+          "destinationCode": "5600011",
+          "sgpVacancy": "2427707",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 5,
+          "originCode": "5600002",
+          "destinationCode": "5600011",
+          "sgpVacancy": "2427706",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 6,
+          "originCode": "5600002",
+          "destinationCode": "5600179",
+          "sgpVacancy": "2427711",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 7,
+          "originCode": "5600002",
+          "destinationCode": "5600067",
+          "sgpVacancy": "2427714",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 8,
+          "originCode": "5600002",
+          "destinationCode": "5600066",
+          "sgpVacancy": "2427716",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 9,
+          "originCode": "5600002",
+          "destinationCode": "5600052",
+          "sgpVacancy": "2431453",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 10,
+          "originCode": "5600002",
+          "destinationCode": "5600031",
+          "sgpVacancy": "2431454",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 11,
+          "originCode": "5600002",
+          "destinationCode": "5600148",
+          "sgpVacancy": "2427715",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 12,
+          "originCode": "5600002",
+          "destinationCode": "5600142",
+          "sgpVacancy": "2431455",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 13,
+          "originCode": "5600004",
+          "destinationCode": "5600078",
+          "sgpVacancy": "2432445",
+          "originalPositionText": "Assistente Técnico II - CCESP 2.06"
+        },
+        {
+          "row": 14,
+          "originCode": "5600008",
+          "destinationCode": "5600043",
+          "sgpVacancy": "2432826",
+          "originalPositionText": "Assistente IV - FCESP 2.04"
+        },
+        {
+          "row": 15,
+          "originCode": "5600034",
+          "destinationCode": "5600009",
+          "sgpVacancy": "2432454",
+          "originalPositionText": "Assistente Técnico II - CCESP 2.06"
+        },
+        {
+          "row": 16,
+          "originCode": "5600043",
+          "destinationCode": "5600023",
+          "sgpVacancy": "2427215",
+          "originalPositionText": "Assistente IV - CCESP 2.04"
+        },
+        {
+          "row": 17,
+          "originCode": "5600105",
+          "destinationCode": "5600097",
+          "sgpVacancy": "2427217",
+          "originalPositionText": "Assistente IV - CCESP 2.04"
+        },
+        {
+          "row": 18,
+          "originCode": "5600115",
+          "destinationCode": "5600127",
+          "sgpVacancy": "2427219",
+          "originalPositionText": "Assistente IV - CCESP 2.04"
+        },
+        {
+          "row": 19,
+          "originCode": "5600142",
+          "destinationCode": "5600165",
+          "sgpVacancy": "2418050",
+          "originalPositionText": "Assessor I - CCESP 2.09"
+        },
+        {
+          "row": 20,
+          "originCode": "5600165",
+          "destinationCode": "5600142",
+          "sgpVacancy": "2432673",
+          "originalPositionText": "Assessor III - CCESP 2.11"
+        }
+      ],
+      "quantityAndQuotaGlobalChange": false,
+      "annulmentFound": false,
+      "reviewCutoff": "2026-11-16"
+    }
+  ],
+  "ipem": [
+    {
+      "id": "portaria-ipem-sp-n-163-2026-202605191132102141856037",
+      "title": "PORTARIA IPEM-SP N.º 163/2026",
+      "date": "2026-05-20",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-163-2026-202605191132102141856037",
+      "effectiveDate": "2026-05-05",
+      "effectiveDateNote": null,
+      "moves": [
+        [
+          "DIVISÃO DE ORÇAMENTO",
+          "DIVISÃO DE DESENVOLVIMENTO",
+          "CCESP 1.10",
+          "CHEFE DE DIVISÃO",
+          1,
+          2
+        ],
+        [
+          "DIVISÃO DE DESENVOLVIMENTO",
+          "DIVISÃO DE ORÇAMENTO",
+          "FCESP 1.10",
+          "CHEFE DE DIVISÃO",
+          1,
+          3
+        ],
+        [
+          "ASSESSORIA DA AUDITORIA INTERNA",
+          "COORDENADORIA GERAL DE GESTÃO ESTRATÉGICA",
+          "FCESP 1.14",
+          "CHEFE DE ASSESSORIA",
+          1,
+          4
+        ],
+        [
+          "COORDENADORIA GERAL DE GESTÃO ESTRATÉGICA",
+          "ASSESSORIA DA AUDITORIA INTERNA",
+          "CCESP 1.14",
+          "COORDENADOR GERAL",
+          1,
+          5
+        ],
+        [
+          "DIRETORIA DE INOVAÇÃO E PARCERIAS",
+          "DIVISÃO DE GESTÃO DE MATERIAIS",
+          "CCESP 2.06",
+          "ASSISTENTE TÉCNICO II",
+          1,
+          6
+        ],
+        [
+          "ASSESSORIA TÉCNICO-ADMINISTRATIVA",
+          "DIVISÃO DE LOGÍSTICA",
+          "CCESP 2.04",
+          "ASSISTENTE IV",
+          1,
+          7
+        ]
+      ],
+      "details": [
+        {
+          "row": 2,
+          "originCode": "33000025",
+          "destinationCode": "33000031",
+          "sgpVacancy": "2422473",
+          "originalPositionText": "CCESP 1.10 - CHEFE DE DIVISÃO"
+        },
+        {
+          "row": 3,
+          "originCode": "33000031",
+          "destinationCode": "33000025",
+          "sgpVacancy": "2431321",
+          "originalPositionText": "FCESP 1.10 - CHEFE DE DIVISÃO"
+        },
+        {
+          "row": 4,
+          "originCode": "33000006",
+          "destinationCode": "33000010",
+          "sgpVacancy": "2433405",
+          "originalPositionText": "FCESP 1.14 - CHEFE DE ASSESSORIA"
+        },
+        {
+          "row": 5,
+          "originCode": "33000010",
+          "destinationCode": "33000006",
+          "sgpVacancy": "2433406",
+          "originalPositionText": "CCESP 1.14 - COORDENADOR GERAL"
+        },
+        {
+          "row": 6,
+          "originCode": "33000033",
+          "destinationCode": "33000020",
+          "sgpVacancy": "2427428",
+          "originalPositionText": "CCESP 2.06 - ASSISTENTE TÉCNICO II"
+        },
+        {
+          "row": 7,
+          "originCode": "33000004",
+          "destinationCode": "33000019",
+          "sgpVacancy": "2427212",
+          "originalPositionText": "CCESP 2.04 - ASSISTENTE IV"
+        }
+      ],
+      "quantityAndQuotaGlobalChange": false,
+      "annulmentFound": false,
+      "reviewCutoff": "2026-11-16",
+      "corrections": [
+        {
+          "date": "2026-05-21",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/retificacao-de-20-de-maio-de-2026-202605201132102231856267",
+          "effect": "Retifica apenas a ementa: substitui campos de modelo pelo nome IPEM e pelo Decreto 70.362. Não muda as seis movimentações."
+        }
+      ]
+    },
+    {
+      "id": "portaria-ipem-sp-n-227-2026-202610131132102142200849",
+      "title": "PORTARIA IPEM-SP N.º 227/2026",
+      "date": "2026-10-14",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-227-2026-202610131132102142200849",
+      "effectiveDate": "2026-05-05",
+      "effectiveDateNote": null,
+      "moves": [
+        [
+          "Coordenadoria de Desenvolvimento",
+          "Coordenadoria de Transformação Digital",
+          "CCESP 1.13",
+          "Coordenador",
+          1,
+          2
+        ],
+        [
+          "Coordenadoria de Transformação Digital",
+          "Coordenadoria de Desenvolvimento",
+          "FCESP 1.13",
+          "Coordenador",
+          1,
+          3
+        ]
+      ],
+      "details": [
+        {
+          "row": 2,
+          "originCode": "0033000039",
+          "destinationCode": "0033000036",
+          "sgpVacancy": "2432209",
+          "originalPositionText": "CCESP 1.13 - Coordenador"
+        },
+        {
+          "row": 3,
+          "originCode": "0033000036",
+          "destinationCode": "0033000039",
+          "sgpVacancy": "2432217",
+          "originalPositionText": "FCESP 1.13 - Coordenador"
+        }
+      ],
+      "quantityAndQuotaGlobalChange": false,
+      "annulmentFound": false,
+      "reviewCutoff": "2026-11-16",
+      "identityWarning": "Há outra publicação intitulada Portaria IPEM 227/2026 em 14/10, referente a fiscais de contratos. O slug deste registro corresponde ao SEI 0124277268 e ao remanejamento."
+    }
+  ],
+  "cbpm": [],
+  "imesc": [],
+  "jucesp": []
+}

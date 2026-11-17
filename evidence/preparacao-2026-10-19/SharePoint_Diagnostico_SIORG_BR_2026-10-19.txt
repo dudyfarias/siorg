@@ -1,0 +1,1599 @@
+P1 [] DIAGNÓSTICO INICIAL
+P2 [] Canais SIORG e BR
+P3 [] 
+P4 [] 
+P5 [Ttulo1] Sumário
+P6 [Sumrio1] Sumário2
+P7 [Sumrio1] 1. Sumário executivo4
+P8 [Sumrio2] 1.1 A conclusão central4
+P9 [Sumrio2] 1.2 Os cinco achados4
+P10 [Sumrio2] 1.3 O que recomendamos começar de imediato4
+P11 [Sumrio1] 2. Escopo6
+P12 [Sumrio2] 2.1 Dimensões avaliadas em cada canal6
+P13 [Sumrio1] 3. Metodologia7
+P14 [Sumrio2] 3.1 Métodos aplicados7
+P15 [Sumrio2] 3.2 O que é prova e o que é lente7
+P16 [Sumrio2] 3.3 Ferramentas utilizadas8
+P17 [Sumrio2] 3.4 Métodos que ficaram como próximo passo8
+P18 [Sumrio2] 3.5 Limitações desta etapa8
+P19 [Sumrio1] 4. SIORG12
+P20 [Sumrio2] 4.1 O que é o portal e para que serve12
+P21 [Sumrio2] 4.2 Arquitetura da informação e navegação12
+P22 [Sumrio2] 4.3 Conteúdos e materiais de apoio13
+P23 [Sumrio2] 4.4 Organização e atualização das informações14
+P24 [Sumrio2] 4.5 Perguntas frequentes15
+P25 [Sumrio2] 4.6 Canais de atendimento16
+P26 [Sumrio2] 4.7 Identidade visual16
+P27 [Sumrio2] 4.8 Desempenho e acessibilidade16
+P28 [Sumrio2] 4.9 Métricas de acesso e alcance17
+P29 [Sumrio2] 4.10 O que o dirigente esperaria encontrar17
+P30 [Sumrio2] 4.11 Síntese do SIORG17
+P31 [Sumrio1] 5. BR22
+P32 [Sumrio2] 5.1 O que é o portal e para que serve22
+P33 [Sumrio2] 5.2 Arquitetura da informação e navegação22
+P34 [Sumrio2] 5.3 Conteúdos disponíveis23
+P35 [Sumrio2] 5.4 Organização e atualização das informações23
+P36 [Sumrio2] 5.5 Perguntas frequentes24
+P37 [Sumrio2] 5.6 Exatidão do conteúdo normativo25
+P38 [Sumrio2] 5.7 Canais de atendimento27
+P39 [Sumrio2] 5.8 Identidade visual27
+P40 [Sumrio2] 5.9 Desempenho e acessibilidade27
+P41 [Sumrio2] 5.10 Métricas de acesso e alcance27
+P42 [Sumrio2] 5.11 O que o servidor esperaria encontrar27
+P43 [Sumrio2] 5.12 Síntese da BR28
+P44 [Sumrio1] 6. Acessibilidade e proteção de dados32
+P45 [Sumrio2] 6.1 A base legal da acessibilidade32
+P46 [Sumrio2] 6.2 O que foi encontrado no SIORG32
+P47 [Sumrio2] 6.3 O que foi encontrado na BR32
+P48 [Sumrio2] 6.4 Por que isso importa além da lei33
+P49 [Sumrio2] 6.5 Proteção de dados: três pontos de atenção33
+P50 [Sumrio1] 7. O que é herança da plataforma34
+P51 [Sumrio1] 8. SIORG como ferramenta de trabalho35
+P52 [Sumrio2] 8.1 As quatro ferramentas, por ordem de viabilidade35
+P53 [Sumrio2] 8.2 Como apareceria para o usuário35
+P54 [Sumrio2] 8.3 Antes da tela, o bastidor35
+P55 [Sumrio2] 8.4 Ressalva necessária36
+P56 [Sumrio1] 9. Proposta de padronização37
+P57 [Sumrio2] 9.1 Padrões existentes e validação necessária37
+P58 [Sumrio2] 9.2 O que o CMS estadual já oferece além dos componentes37
+P59 [Sumrio2] 9.3 Referências internas que valem olhar38
+P60 [Sumrio1] 10. Como manter os canais vivos40
+P61 [Sumrio1] 11. Como saberemos se melhorou41
+P62 [Sumrio1] 12. Plano de ação42
+P63 [Sumrio1] 13. Próximos passos43
+P64 [Sumrio2] 13.1 Encaminhamentos que ultrapassam a Diretoria43
+P65 [Sumrio2] 13.2 O que a nossa equipe pode começar imediatamente43
+P66 [Sumrio1] Anexo A — Medições brutas47
+P67 [Sumrio2] A.1 Síntese das notas47
+P68 [Sumrio2] A.2 Ocorrências de acessibilidade por tipo47
+P69 [Sumrio2] A.3 Acesso dos rastreadores de inteligência artificial47
+P70 [Sumrio1] Anexo B — Planilha de sinais por página49
+P71 [Sumrio1] Anexo C — Capturas de tela50
+P72 [Sumrio1] Anexo D — Roteiro de entrevista com os responsáveis51
+P73 [Sumrio2] D.1 Abertura: o que só quem opera sabe51
+P74 [Sumrio2] D.2 Conteúdo e manutenção51
+P75 [Sumrio2] D.3 Sistemas e dados51
+P76 [Sumrio2] D.4 Histórico: a pergunta mais importante51
+P77 [Sumrio2] D.5 Fechamento: validação das nossas hipóteses51
+P78 [] 
+P79 [] No Word: clique com o botão direito sobre o sumário → Atualizar campo → Atualizar o índice inteiro.
+P80 [] 
+P81 [Ttulo1] 1. Sumário executivo
+P82 [] Este documento apresenta o diagnóstico inicial dos canais SIORG e BR.
+P83 [] Cada canal é analisado em capítulo próprio, com apresentação do que é o portal e a quem serve, seguida da avaliação nas dimensões solicitadas. Os pontos comuns aos dois — herança da plataforma de publicação e proteção de dados — estão reunidos em capítulo separado, porque a solução deles não está na nossa alçada.
+P84 [Ttulo2] 1.1 A conclusão central
+P85 [] Os canais reúnem conteúdo útil, com imprecisões e oportunidades de melhorar a organização, a atualização e o acesso.
+P86 [] As perguntas frequentes dos dois canais são organizadas por tema. Na BR, foram confirmadas 37 perguntas, sendo dez na aba RH & Pagamento. No SIORG, a organização em quatro temas foi confirmada, mas a contagem anterior de 67 perguntas precisa ser revista para excluir versões e blocos não publicados. A utilidade dessa estrutura não dispensa a revisão das fontes e das respostas.
+P87 [] Os menus usam rótulos amplos, como “Produtos” e “Canais de comunicação”. A hipótese é que nomes mais diretos ajudem a localizar orientações. Propomos testar “Guias e modelos” no SIORG e dar acesso direto a “Perguntas frequentes” nos dois canais; “Contato e Ouvidoria” explicaria quando falar com a equipe e quando registrar uma manifestação. Na BR, a entrada para dúvidas do servidor deve ficar evidente. A definição final depende de pesquisa com o público e da validação das áreas, aplicando linguagem simples aos textos, títulos e organização visual. 
+P88 [] O manual de tom e voz do CMS estadual oferece uma referência para escrever com clareza e usar termos conhecidos pelo público. A aplicação deve considerar também a apresentação visual: títulos informativos, hierarquia, destaque ao próximo passo e explicação de siglas. A escolha dos rótulos precisa ser testada com os públicos de cada canal. 
+P89 [Ttulo2] 1.2 Os cinco achados
+P90 [] #
+P91 [] Achado
+P92 [] Onde
+P93 [] Gravidade
+P94 [] 1
+P95 [] As orientações de elegibilidade e descontos da BR exigem revisão conjunta com a área do programa e a Diretoria de Pagamento.
+P96 [] BR
+P97 [] Crítica
+P98 [] 2
+P99 [] Rótulos amplos e atalhos por tarefa devem ser avaliados com o público.
+P100 [] Ambos
+P101 [] Alta
+P102 [] 3
+P103 [] Componentes genéricos do CMS: verificar o que está exposto ao visitante e às tecnologias assistivas.
+P104 [] Ambos
+P105 [] Alta
+P106 [] 4
+P107 [] Campanhas gerais precedem o conteúdo nas páginas iniciais; avaliar hierarquia e regras de publicação.
+P108 [] Ambos
+P109 [] Alta
+P110 [] 5
+P111 [Normal] Indícios de barreiras de acessibilidade; requerem validação técnica por página.
+P112 [] Ambos
+P113 [] Alta
+P114 [] 6
+P115 [] O aviso de cookies não atende à LGPD e o encarregado de dados não é identificado.
+P116 [] Ambos
+P117 [] Alta para verificação e transparência
+P118 [Normal] As orientações sobre elegibilidade, tributação e aposentadoria têm prioridade de validação porque podem influenciar decisões dos servidores. A FAQ reúne regimes distintos em respostas gerais. Isso exige revisão fundamentada com as áreas responsáveis. Ver seção 5.6. 
+P119 [Ttulo2] 1.3 O que recomendamos começar de imediato
+P120 [] As cinco ações abaixo dependem apenas da nossa equipe e da equipe de conteúdo dos canais:
+P121 [PargrafodaLista] Construir com a equipe da BR e a Diretoria de Pagamento a revisão das respostas sobre elegibilidade, Imposto de Renda, contribuição previdenciária e aposentadoria, com apoio jurídico nos pontos de interpretação.
+P122 [PargrafodaLista] Preparar e testar um acesso direto às dúvidas do servidor da BR, com rótulos claros e compartilhamento das respostas centrais.
+P123 [PargrafodaLista] Confirmar com comunicação institucional e CMS as regras das campanhas e avaliar como dar maior visibilidade ao conteúdo específico dos canais. 
+P124 [PargrafodaLista] Identificar com a área responsável pela publicação quem administra as propriedades no Google Search Console, se SIORG e SGGD já estão cadastrados e qual propriedade abrange /br. Solicitar acesso restrito de leitura ou exportações. Analisar consultas, páginas, impressões, cliques e CTR por dispositivo e período para priorizar respostas e títulos; verificar indexação. Esses dados mostram descoberta pelo Google, não abandono ou sucesso da tarefa dentro do site.
+P125 [PargrafodaLista] Reavaliar os avisos temporários, conferir exposição e vigência e combinar retirada ou arquivamento com os responsáveis; implantar revisão periódica.
+P126 [] 
+P127 [Ttulo1] 2. Escopo
+P128 [] Canal
+P129 [] Endereço
+P130 [] Situação neste diagnóstico
+P131 [] SIORG — Sistema de Organização Institucional
+P132 [] siorg.sp.gov.br
+P133 [] Analisado — capítulo 4
+P134 [] BR — Bonificação por Resultados
+P135 [] sggd.sp.gov.br/br
+P136 [] Analisado — capítulo 5
+P137 [] EPP
+P138 [] —
+P139 [] Etapa posterior, com APOF, na frente de carreiras
+P140 [Ttulo2] 2.1 Dimensões avaliadas em cada canal
+P141 [] As mesmas onze dimensões foram aplicadas aos dois canais, na mesma ordem, para permitir leitura comparada:
+P142 [] #
+P143 [] Dimensão
+P144 [] 1
+P145 [] Finalidade e público
+P146 [] 2
+P147 [] Conteúdos disponíveis
+P148 [] 3
+P149 [] Arquitetura da informação
+P150 [] 4
+P151 [] Menus e navegação
+P152 [] 5
+P153 [] Organização e atualização das informações
+P154 [] 6
+P155 [] Perguntas frequentes
+P156 [] 7
+P157 [] Documentos e materiais de apoio
+P158 [] 8
+P159 [] Canais de atendimento
+P160 [] 9
+P161 [] Facilidade para localizar informações
+P162 [] 10
+P163 [] Identidade visual
+P164 [] 11
+P165 [] Métricas de acesso e alcance
+P166 [] 
+P167 [Ttulo1] 3. Metodologia
+P168 [] 
+P169 [] A versão recebida combina inspeção de conteúdo e interface com resultados atribuídos a ferramentas automatizadas. Esta revisão distingue a conferência pública dos registros anteriores sem relatórios brutos disponíveis. Métodos declarados, evidências consultadas e procedimentos ainda necessários são apresentados separadamente.
+P170 [Normal] 
+P171 [Ttulo2] 3.1 Procedimentos aplicados e referências utilizadas
+P172 [] Método
+P173 [] Origem
+P174 [] Como foi aplicado aqui
+P175 [] Avaliação heurística de usabilidade
+P176 [] As dez heurísticas de Jakob Nielsen (Nielsen Norman Group)
+P177 [] Inspeção qualitativa dos percursos e rótulos das páginas consultadas, com atenção à clareza, consistência e reconhecimento das opções. É uma análise orientada por critérios de usabilidade; não representa teste com usuários nem avaliação integral das dez heurísticas.
+P178 [] Análise de arquitetura da informação
+P179 [] Organização, rótulos, navegação e localização da informação
+P180 [] Conferência dos menus públicos e de percursos para localizar orientações, materiais, perguntas frequentes e contato; conteúdos restritos e todos os caminhos possíveis não foram auditados.
+P181 [] Levantamento inicial de tarefas
+P182 [] Hipóteses baseadas nas normas, conteúdos e funções dos canais
+P183 [] Identificação de tarefas possíveis e dos conteúdos relacionados. Sua prioridade ainda precisa ser confirmada por pesquisa e registros de atendimento; não foi aplicada pesquisa quantitativa Top Tasks.
+P184 [] Triagem de acessibilidade
+P185 [] WCAG, Lei Brasileira de Inclusão e eMAG como referência complementar; recomenda-se WCAG 2.2 AA para a próxima avaliação
+P186 [] A versão recebida relata testes pa11y e inspeção da árvore de acessibilidade. Sem relatórios, regras e seletores originais, as contagens não foram validadas. Inspeção da árvore e testes automáticos não equivalem a teste com leitor de tela nem atestam conformidade integral.
+P187 [] Desempenho em laboratório e experiência real
+P188 [] Lighthouse para testes de laboratório; Core Web Vitals para a experiência de usuários reais, quando houver dados
+P189 [] Registrar separadamente LCP e CLS de laboratório, TBT e condições do ensaio. Os Core Web Vitals são LCP, INP e CLS; TBT auxilia o diagnóstico em laboratório e não substitui o INP observado em uso real.
+P190 [] Análise de conteúdo
+P191 [] Clareza, exatidão, atualização, fonte e orientação do próximo passo
+P192 [] Conferência de títulos, respostas, fontes e metadados nas páginas consultadas. Contagem de palavras é descritiva; não mede qualidade nem determina uma extensão ideal. Números agregados antigos dependem do inventário original.
+P193 [] Descoberta em buscas e assistentes de IA
+P194 [] Conteúdo útil, acessível, indexável e com fontes explícitas
+P195 [] Verificação dos mecanismos de descoberta e da clareza das respostas. As consultas atuais a /llms.txt não confirmaram arquivo válido: SIORG redirecionou à página inicial e SGGD retornou proteção automatizada. Acesso técnico, indexação e citação por IA são verificações distintas.
+P196 [] Comparação com referências institucionais
+P197 [] Exame de soluções específicas; comparação quantitativa depende de protocolo comum
+P198 [] Os comparativos numéricos relatados exigem recuperação dos relatórios originais ou nova medição, com mesmos perfis, versões, condições e confirmação de que a página final é o conteúdo esperado. Não constituem comparação atual validada.
+P199 [] Ciclo Imersão, Ideação e Transformação
+P200 [] Fluxo de trabalho da equipe
+P201 [] O documento integra a etapa de Imersão: reúne evidências, limitações e hipóteses iniciais. As propostas precisam passar por pesquisa, prototipação e validação antes da implementação. A revisão foi apoiada por IA, com uma skill de documentos e três agentes em frentes delimitadas: SIORG, BR e verificação técnica. As conclusões foram consolidadas e confrontadas com fontes; esse apoio não substitui a validação institucional.
+P202 [Ttulo2] 3.2 Como distinguir evidência e recomendação
+P203 [] A força de cada conclusão depende da evidência disponível. O texto distingue normas e observações verificáveis, avaliações de usabilidade e propostas de melhoria:
+P204 [] 
+P205 [] Nível
+P206 [] O que é
+P207 [] Como deve ser lido neste documento
+P208 [] Normas e critérios verificáveis
+P209 [] Legislação aplicável, critérios WCAG declarados e referências técnicas como eMAG
+P210 [] A legislação estabelece obrigações; WCAG e eMAG orientam a avaliação técnica. Cada achado deve indicar critério, página, evidência e limite de escopo. Relatório automático ou nota isolada não conclui conformidade jurídica.
+P211 [] Métodos consolidados de prática
+P212 [] Inspeção orientada por heurísticas, análise de navegação e levantamento de tarefas
+P213 [] Orientam o olhar e sustentam recomendação, mas dependem de julgamento de especialista. Aqui houve inspeção; testes com usuários seguem como proposta.
+P214 [] Propostas de organização e evolução
+P215 [] Novos rótulos, atalhos, calendário, melhoria dos painéis e apoio à preparação de propostas
+P216 [Normal] São hipóteses para pesquisa e teste. Modelos estratégicos não foram aplicados como auditorias formais e não sustentam certificação de eficácia dos canais.
+P217 [] A conclusão deve ser proporcional à evidência. Inconsistências de conteúdo podem ser conferidas em fonte oficial; barreiras técnicas precisam de reprodução no conteúdo real. Recomendações de navegação continuam hipóteses de melhoria até serem avaliadas com responsáveis e usuários.
+P218 [Ttulo2] 3.3 Ferramentas utilizadas
+P219 [] Ferramenta
+P220 [] Versão
+P221 [] O que verifica
+P222 [] Lighthouse
+P223 [] 13.4.1, informada na versão recebida
+P224 [] Desempenho, acessibilidade, boas práticas e otimização para busca
+P225 [] pa11y
+P226 [] 10.0.0, informada na versão recebida
+P227 [] Identifica possíveis falhas segundo as regras e o executor configurados; exige registro de configuração e verificação manual
+P228 [] Coletor próprio
+P229 [] —
+P230 [] Extrai sinais técnicos. Deve distinguir atributo alt ausente, alt vazio e alternativa equivalente, e rejeitar páginas de proteção ou erro.
+P231 [] Navegador com árvore de acessibilidade
+P232 [] —
+P233 [] Mostra nomes, funções e relações expostos às tecnologias assistivas. A experiência efetiva de leitor de tela exige teste próprio.
+P234 [Ttulo2] 3.4 Métodos que ficaram como próximo passo
+P235 [] Os métodos abaixo não foram aplicados nesta etapa e, por isso, nenhuma conclusão deste documento se apoia neles. Estão relacionados porque completam o diagnóstico e devem entrar na próxima fase:
+P236 [] Método
+P237 [] O que acrescentaria
+P238 [] Por que não foi feito agora
+P239 [] Teste de usabilidade com usuários reais
+P240 [] Observar servidores e dirigentes tentando concluir tarefas nos canais
+P241 [] Exige recrutamento e roteiro; pode complementar o diagnóstico e avaliar os protótipos.
+P242 [] Card sorting e teste de árvore
+P243 [] Validar com usuários os rótulos de menu propostos, em vez de presumi-los
+P244 [] Card sorting pode investigar agrupamentos; teste de árvore verifica a localização na estrutura proposta. Ambos dependem de objetivo, amostra e roteiro.
+P245 [] Top Tasks com pesquisa quantitativa
+P246 [] Ordenar por votação real quais tarefas mais importam, em vez de inferir
+P247 [] Exige pesquisa com base de servidores
+P248 [] Entrevistas com responsáveis pelos canais
+P249 [] O histórico e as restrições que explicam a estrutura atual
+P250 [] Os comentários das chefias foram incorporados, mas não substituem entrevistas com responsáveis por negócio, publicação, dados e plataforma. Roteiro no Anexo D.
+P251 [] Análise de métricas de acesso
+P252 [] Consultas no Google e sinais de navegação; sucesso ou abandono dependem de instrumentação e testes de tarefas
+P253 [] Sem acesso ao Search Console nem à ferramenta de análise
+P254 [Ttulo2] 3.5 Limitações desta etapa
+P255 [] Não verificado
+P256 [] Consequência para a leitura deste documento
+P257 [] Métricas de acesso e alcance
+P258 [] As prioridades são hipóteses; sem dados de uso ou pesquisa não se estima frequência nem distribuição dos públicos
+P259 [] Conteúdo restrito a login
+P260 [] A avaliação cobre apenas a camada pública dos canais
+P261 [] Volume e teor das demandas recebidas
+P262 [] Não há base para ordenar estatisticamente as dúvidas; solicitar registros agregados dos canais de atendimento.
+P263 [] Integridade e atualização das bases de cargos e cotas
+P264 [] Os painéis públicos foram identificados, mas suas bases e regras de atualização não foram auditadas. Novos cálculos dependem dessa validação.
+P265 [] Cobertura da verificação técnica atual
+P266 [] Capturas e inspeções atuais devem ser identificadas como revisão de 10/09/2026. Respostas automatizadas da SGGD podem corresponder à proteção Imperva; títulos, idioma e notas dessa tela não podem ser atribuídos ao portal.
+P267 [] 
+P268 [] 
+P269 [] PARTE I
+P270 [] SIORG
+P271 [] Sistema de Organização Institucional do Estado de São Paulo
+P272 [] 
+P273 [Ttulo1] 4. SIORG
+P274 [Ttulo2] 4.1 O que é o portal e para que serve
+P275 [] O SIORG é o Sistema de Organização Institucional do Estado de São Paulo. Não é apenas um site: é o sistema administrativo instituído pelo Decreto nº 68.742/2024, no marco da reforma das estruturas organizacionais iniciada pela Lei Complementar nº 1.395/2023. A Secretaria de Gestão e Governo Digital é o órgão central do sistema, sob coordenação da Subsecretaria de Gestão.
+P276 [] A reforma reorganiza as estruturas de 39 Secretarias e Autarquias e das 3 Agências Reguladoras estaduais, com o objetivo de simplificar hierarquias, ampliar amplitude de comando e eliminar duplicidades de atribuição. Até a data desta coleta, cerca de três quartos dos órgãos já haviam passado por reestruturação.
+P277 [] O portal é o canal por onde esse sistema se comunica com os órgãos. Sua função é orientar e instrumentalizar quem precisa propor, instruir ou executar uma reestruturação organizacional.
+P278 [Ttulo3] 4.1.1 Quem usa o portal
+P279 [] Público
+P280 [] O que vem buscar
+P281 [] Dirigentes de órgãos e entidades
+P282 [] Entender que estrutura podem montar e o que a lei permite
+P283 [] Equipes de planejamento e de gestão de pessoas
+P284 [] Instruir a proposta de reestruturação e produzir os documentos exigidos
+P285 [] Áreas jurídicas dos órgãos
+P286 [] Verificar fundamento legal e requisitos formais
+P287 [] Servidores afetados por reestruturação
+P288 [] Entender o que acontece com o próprio cargo ou função
+P289 [Ttulo3] 4.1.2 Os conceitos que o portal precisa explicar
+P290 [] Para compreender as orientações, o leitor precisa conhecer os termos abaixo. As definições devem usar linguagem simples e trazer a referência legal, pois o portal orienta, mas não substitui os atos normativos. 
+P291 [Normal] 
+P292 [] Termo
+P293 [] O que é
+P294 [] QGCFC
+P295 [] Quadro Geral de Cargos em Comissão e Funções de Confiança. Reúne CCESP e FCESP e seu sistema de remuneração, para atividades de direção, chefia e assessoramento na Administração direta e nas autarquias.
+P296 [] CCESP
+P297 [] Cargo em Comissão do Estado de São Paulo. Pode ser ocupado por pessoa com ou sem vínculo prévio com a Administração, atendidos os requisitos gerais e específicos. A lei exige que ao menos 20% dos cargos providos sejam ocupados pelos servidores indicados em seu artigo 8º e permite situações de provimento privativo.
+P298 [] FCESP
+P299 [] Função de Confiança do Estado de São Paulo. É destinada a servidor ocupante de cargo efetivo, da Administração direta ou indireta, de qualquer Poder da União, dos Estados, do Distrito Federal ou dos Municípios, observados os requisitos da função. Ter sido aprovado em concurso para emprego público, por si só, não equivale a ocupar cargo efetivo.
+P300 [] Cotas
+P301 [] Soma dos valores-unitários de um conjunto de cargos em comissão ou de funções de confiança. O valor-unitário é uma referência de despesa; por isso, cotas não são sinônimo de quantidade de cargos. A consulta deve mostrar separadamente cargos, funções e cotas.
+P302 [] Níveis hierárquicos
+P303 [] Posição da unidade, do cargo ou da função na hierarquia. A definição considera regras, critérios e nomenclaturas do Decreto nº 68.742/2024 e suas alterações, inclusive natureza das atividades, responsabilidades e unidades subordinadas.
+P304 [] 
+P305 [] Explicar esse vocabulário ajuda o público a interpretar as regras e utilizar os guias, modelos e painéis com mais segurança. Cada termo deve ligar à orientação prática correspondente e à norma vigente. 
+P306 [Ttulo2] 4.2 Arquitetura da informação e navegação
+P307 [] O menu principal tem sete entradas, com submenus em “Institucional”, “Produtos” e “Canais de comunicação”. A estrutura observada é a seguinte: 
+P308 [] Item de menu
+P309 [] Submenu
+P310 [] Natureza do rótulo
+P311 [] Início
+P312 [] —
+P313 [] Navegacional
+P314 [] Institucional
+P315 [] Sobre o SIORG · O que é QGCFC · Edital de Seleção
+P316 [] Organizacional
+P317 [] Legislação
+P318 [] —
+P319 [] Documental
+P320 [] Novas Estruturas
+P321 [] —
+P322 [] Documental
+P323 [] Produtos
+P324 [] Material Instrucional · Modelo de Documentos
+P325 [] Organizacional
+P326 [] Transparência
+P327 [] —
+P328 [] Obrigação legal
+P329 [] Canais de comunicação
+P330 [] Fale Conosco · Perguntas Frequentes · Ouvidoria
+P331 [] Organizacional
+P332 [Ttulo3] 4.2.1 Avaliação
+P333 [Normal] As tarefas inicialmente identificadas são entender a reforma, consultar regras de cargos e cotas, preparar uma proposta, localizar modelos, acompanhar sua tramitação e esclarecer dúvidas. Elas foram inferidas a partir dos artigos 21 a 23 do Decreto nº 68.742/2024, do conteúdo publicado e dos painéis do SIORG. Ainda não são tarefas prioritárias comprovadas por entrevistas, registros de atendimento ou métricas. Propomos validar essa lista com as equipes que elaboram e analisam propostas, antes de reorganizar o menu. 
+P334 [] “Produtos” reúne guias e modelos, mas é um nome amplo para esses materiais. “Canais de comunicação” reúne contato e perguntas frequentes. Propomos testar “Guias e modelos” e um acesso direto a “Perguntas frequentes”, usando nomes claros e descrições curtas. Não tivemos acesso às métricas de audiência; portanto, retiramos a afirmação de que a FAQ é o conteúdo mais consultado.
+P335 [] 
+P336 [] A análise heurística aponta uma possível dificuldade de correspondência entre os rótulos e a tarefa buscada. Essa avaliação orienta o teste; não demonstra, sozinha, que os usuários se confundem. A confirmação deve observar pessoas tentando encontrar uma orientação, um modelo e uma resposta, registrando sucesso, erros e dúvidas. 
+P337 [] 
+P338 [] O manual de tom e voz do CMS recomenda palavras conhecidas pelo público e comunicação simples. Essa orientação sustenta o teste de rótulos mais claros, mas não determina um menu específico para SIORG ou BR. A escolha final precisa ser validada com usuários e com as equipes responsáveis pelo conteúdo e pela plataforma.
+P339 [Ttulo2] 4.3 Conteúdos e materiais de apoio
+P340 [] O SIORG reúne uma base relevante de legislação, guias, modelos e perguntas frequentes. A quantidade média de palavras descreve o volume coletado e não mede adequação nem precisão. Para avaliar o conteúdo, proponho conferir correspondência com a norma vigente, atualização, clareza, coerência entre páginas e orientação do próximo passo. A checagem encontrou, por exemplo, uma referência incorreta na FAQ 3.4: os requisitos gerais estão no artigo 7º da LC nº 1.395/2023, e não no artigo 9º. O conteúdo é útil, mas necessita de revisão técnica.
+P341 [] 
+P342 [] Seção
+P343 [] O que oferece
+P344 [] Avaliação
+P345 [] Sobre o SIORG
+P346 [] Apresentação do sistema e de sua base legal
+P347 [] Apresentação e base legal disponíveis; conferir atualização com a área responsável.
+P348 [] O que é QGCFC
+P349 [] Explicação do instrumento central da reforma
+P350 [] Conceito disponível; usar definição da LC nº 1.395/2023 e explicar as siglas.
+P351 [] Legislação
+P352 [] Reunião dos atos normativos aplicáveis
+P353 [] Atos disponíveis; conferir alterações e vigência antes de orientar uma decisão.
+P354 [] Novas Estruturas
+P355 [] Estruturas já aprovadas e publicadas
+P356 [] Referência dos atos publicados; ligar ao painel e à data da informação.
+P357 [] Material Instrucional
+P358 [] Orientações para instruir os processos
+P359 [] Guias, quadros e modelos presentes; conferir quais blocos estão visíveis e versões válidas.
+P360 [] Modelo de Documentos
+P361 [] Modelos para as peças exigidas
+P362 [] Modelos disponíveis; identificar finalidade, etapa de uso, versão e responsável.
+P363 [] A melhoria proposta é ligar cada etapa do processo ao guia, ao modelo vigente e ao exemplo correspondente. Antes de reorganizar, é preciso verificar os blocos realmente publicados, possíveis repetições e as versões dos arquivos com a área responsável. 
+P364 [] 
+P365 [] Figura 1 — Topo da seção Modelos de Documentos do SIORG. A página é diferente da inicial, mas a primeira tela é idêntica: a mesma campanha institucional ocupa todo o espaço visível antes da rolagem.
+P366 [Ttulo2] 4.4 Organização e atualização das informações
+P367 [] A revisão distinguiu conteúdo temporário, campanhas institucionais e problemas que ainda precisam ser reproduzidos em navegação pública.
+P368 [] 
+P369 [] O primeiro: um aviso de manutenção datado de 22 de agosto ainda estava publicado em 03 de setembro. Além de vencido, ele trata do ambiente de edição da plataforma, informação de bastidor, que não deveria estar visível ao público em nenhum momento.
+P370 [Normal] O segundo, mais estrutural: a primeira tela da maioria das páginas é ocupada por uma campanha institucional geral do Estado, sem relação com reestruturação organizacional. Isso vale para a página inicial e também para as internas. Quem abre a lista de perguntas frequentes encontra primeiro uma campanha de prevenção de incêndios, e só alcança o conteúdo depois de rolar quase metade da página.  Não foi localizada, nas fontes públicas consultadas, uma regra que imponha essa campanha específica a todos os canais. Isso não exclui uma orientação administrativa de veiculação. Antes de propor redução, mudança de posição ou retirada, devemos confirmar com a comunicação institucional, a Secom e a equipe do CMS a origem do componente, sua vigência e a margem de edição permitida.
+P371 [] 
+P372 [] Figura 2 — Página inicial do SIORG em 03/09/2026. O espaço de maior visibilidade é ocupado por campanha institucional sem relação com o tema do canal. O aviso de cookies aparece na base.
+P373 [Ttulo2] 4.5 Perguntas frequentes
+P374 [] É o melhor componente do portal. São 67 perguntas distribuídas em quatro abas temáticas, com numeração hierárquica e remissão à legislação aplicável em cada resposta.
+P375 [] Aba
+P376 [] Assunto
+P377 [] 1. Dúvidas Gerais
+P378 [] Lei Complementar nº 1.395/2023 e Decreto nº 68.742/24
+P379 [] 2. Regras e Procedimentos
+P380 [] Requisitos, jornadas, nomeação e substituição
+P381 [] 3. Quadro Geral: CCESP e FCESP
+P382 [] Níveis hierárquicos, critérios e distinções entre cargo e função
+P383 [] 4. Instrução e Fluxo das Propostas
+P384 [] Como elaborar e encaminhar a proposta de revisão de estrutura
+P385 [] 
+P386 [] Figura 3 — Lista de perguntas frequentes do SIORG. Estrutura temática, numeração hierárquica e ligação com a legislação. É o modelo que a BR também adota, e que deve ser preservado nos dois.
+P387 [] A pergunta 1.4 orienta a consultar o Anexo VII do Decreto nº 68.742/2024. Além disso, a seção “Transparência” já apresenta painéis sobre cargos, cotas e andamento das reestruturações. A proposta é facilitar a consulta por órgão ou entidade e explicar os resultados, aproveitando esses recursos. A resposta deve mostrar separadamente quantitativos de cargos e funções, cotas de referência, cotas utilizadas segundo a fonte disponível e data de atualização; .
+P388 [Ttulo2] 4.6 Canais de atendimento
+P389 [] Canal
+P390 [] Onde está
+P391 [] Observação
+P392 [] Fale Conosco
+P393 [] Canais de comunicação
+P394 [] Presente
+P395 [] Perguntas Frequentes
+P396 [] Canais de comunicação
+P397 [] Presente, e é o melhor conteúdo do portal
+P398 [] Ouvidoria
+P399 [] Canais de comunicação, com link externo
+P400 [] Presente
+P401 [] A proposta é explicar a finalidade de cada entrada. “Perguntas frequentes” reúne orientações gerais; “Fale Conosco” já informa que recebe dúvidas e solicitações dos responsáveis pela reestruturação nas Secretarias e Autarquias; “Ouvidoria/Fala.SP” recebe manifestações, como reclamação, denúncia, sugestão, elogio e solicitação de providência. Devemos tornar essa distinção visível e informar prazos e responsáveis.
+P402 [Ttulo2] 4.7 Identidade visual
+P403 [] O portal adota o padrão do sistema de publicação do Estado: brasão, barra de governo, tipografia institucional e a ferramenta de acessibilidade no canto direito. O logotipo do canal é a palavra SIORG em tipografia de destaque.
+P404 [] O SIORG compartilha elementos institucionais com outros canais estaduais. Essa consistência é esperada; não há necessidade demonstrada de criar uma identidade visual independente. A diferenciação pode ocorrer por título do serviço, descrição de finalidade, organização de conteúdos e destaques próprios, dentro dos padrões autorizados e após teste com o público
+P405 [Ttulo2] 4.8 Desempenho e acessibilidade
+P406 [] Medida (lighthouse)
+P407 [] Celular
+P408 [] Desktop
+P409 [] Referência desejada
+P410 [] Desempenho
+P411 [] 65
+P412 [] 71
+P413 [] 90 ou mais
+P414 [] Acessibilidade
+P415 [] 83
+P416 [] 88
+P417 [] 100
+P418 [] Boas práticas
+P419 [] 73
+P420 [] 73
+P421 [] 90 ou mais
+P422 [] Otimização para busca
+P423 [] 73
+P424 [] 73
+P425 [] 90 ou mais
+P426 [] O teste de acessibilidade encontrou 33 ocorrências na página inicial. A explicação de cada tipo, em linguagem corrente, está no capítulo 6. No conjunto das 14 páginas alcançadas, 175 das 390 imagens não têm descrição em texto, 45% do conteúdo visual do portal é inacessível a quem depende de leitor de tela.
+P427 [Ttulo2] 4.9 Métricas de acesso e alcance
+P428 [] Não foi possível verificar. O portal não expõe dado público de acesso e não tivemos acesso ao Google Search Console nem a ferramenta de análise de uso. A consequência está registrada no item 3.4: as tarefas prioritárias deste capítulo foram inferidas por método de especialista, não confirmadas por dado de uso real.
+P429 [Ttulo2] 4.10 O que o dirigente esperaria encontrar
+P430 [] As tarefas abaixo são hipóteses iniciais, extraídas das normas, dos materiais e dos painéis publicados. A tabela indica onde há conteúdo relacionado e o que deve ser verificado com a área e os usuários. Ela não representa um levantamento estatístico de demanda. 
+P431 [] 
+P432 [] A pergunta de quem chega
+P433 [] Respondida?
+P434 [] Onde está hoje
+P435 [] Quantas cotas o meu órgão tem?
+P436 [] Há orientação na FAQ e painéis relacionados; verificar recorte, atualização e compreensão dos dados.
+P437 [] FAQ 1.4 e Transparência — painéis de cargos, cotas e reestruturações.
+P438 [] Que estrutura eu posso montar?
+P439 [] Sim, em texto
+P440 [] Abas 2 e 3 das perguntas frequentes, e Legislação
+P441 [] Que documento eu preciso produzir?
+P442 [] Sim
+P443 [] Modelo de Documentos, sob Produtos
+P444 [] Como instruo o processo?
+P445 [] Sim
+P446 [] Material Instrucional, sob Produtos
+P447 [] Quem já fez isso e como ficou?
+P448 [] Sim
+P449 [] Novas Estruturas
+P450 [] Em que etapa está a minha proposta?
+P451 [] Há painel de acompanhamento por fase; verificar a cobertura e o nível de detalhe disponível por proposta.
+P452 [] Transparência — Painel de Revisão das Estruturas de Secretarias e Autarquias.
+P453 [] Com quem eu falo sobre o meu caso?
+P454 [] Parcialmente
+P455 [] Fale Conosco, com finalidade informada; detalhar equipe responsável e prazo de resposta após pactuação.
+P456 [Ttulo2] 4.11 Síntese do SIORG
+P457 [] O que funciona
+P458 [] O que falta
+P459 [] Base técnica relevante, com pontos de atualização e remissão legal a revisar.
+P460 [] Perguntas frequentes bem estruturadas em quatro abas
+P461 [] Estruturas aprovadas publicadas como referência
+P462 [] Materiais e modelos disponíveis
+P463 [] Identidade consistente com o padrão do Estado
+P464 [] Rótulos de menu que descrevam tarefas, não setores.
+P465 [] Acesso mais claro aos painéis existentes e validação das necessidades de novas ferramentas.
+P466 [] Ligação explícita entre tarefa, orientação, modelo vigente e resultado esperado.
+P467 [] Validação da cobertura, atualização e compreensão dos painéis de acompanhamento já disponíveis.
+P468 [] Revisão das alternativas textuais das imagens, conforme sua função
+P469 [] Hierarquia que facilite o acesso ao tema do canal, respeitadas as regras de campanhas institucionais.
+P470 [] Em uma frase: o SIORG é uma boa biblioteca sobre reestruturação organizacional, e precisa se tornar também uma bancada de trabalho.
+P471 [] 
+P472 [] 
+P473 [] 
+P474 [] 
+P475 [] 
+P476 [] 
+P477 [] 
+P478 [] 
+P479 [] 
+P480 [] 
+P481 [] 
+P482 [] 
+P483 [] 
+P484 [] 
+P485 [] 
+P486 [] 
+P487 [] 
+P488 [] 
+P489 [Normal]                                                                             PARTE II
+P490 [] BR
+P491 [] Programa de Bonificação por Resultados
+P492 [] 
+P493 [Ttulo1] 5. BR
+P494 [Ttulo2] 5.1 O que é o portal e para que serve
+P495 [] A Bonificação por Resultados (BR) é um instrumento de gestão por resultados do Governo do Estado de São Paulo. A LC nº 1.361/2021 institui a BR para os servidores abrangidos por seu artigo 1º, com exclusões expressas; o canal também reúne informações de regimes específicos, como a BR da Segurança Pública, disciplinada pela LC nº 1.245/2014. As regras não devem ser tratadas como idênticas para todos os públicos. [9, 6, 25]
+P496 [] Em termos práticos, a bonificação é um benefício pecuniário eventual, distinto do salário do servidor, concedido conforme o cumprimento de metas previamente pactuadas. Não é gratificação permanente nem incorporável, é um pagamento condicionado a resultado apurado.
+P497 [] O canal reúne orientações sobre o programa, governança, legislação, capacitação e transparência. Há conteúdo para as comissões e áreas que formulam indicadores e metas e para os servidores que procuram informações sobre recebimento. A participação de cada público nos acessos ainda precisa ser medida. 
+P498 [] 
+P499 [Ttulo3] 5.1.1 Como o programa se organiza
+P500 [] Instância
+P501 [] Papel
+P502 [] Comissão Intersecretarial da BR (CIBR)
+P503 [] Delibera sobre indicadores, metas, apuração de resultados e periodicidade de pagamento, nos termos da legislação
+P504 [] Comissões Setoriais de BR (CSBR)
+P505 [] Organizam propostas, acompanham a implementação e apuram resultados no respectivo órgão ou autarquia
+P506 [] Secretaria de Gestão e Governo Digital
+P507 [] Por meio da Subsecretaria de Gestão, oferece apoio técnico e orienta a política, em articulação com a Casa Civil e a CIBR
+P508 [Ttulo3] 5.1.2 Públicos identificados no conteúdo do canal
+P509 [] Público
+P510 [] O que vem buscar
+P511 [] Volume provável
+P512 [] Servidor beneficiário
+P513 [] Se tem direito, quanto vai receber, quando é pago, como contestar
+P514 [] Perguntas de elegibilidade, cálculo e pagamento na FAQ; volume de acessos não medido
+P515 [] Áreas que pactuam metas
+P516 [] Como estruturar indicador, como funciona a apuração, o que é ICM e IACM
+P517 [] Perguntas e materiais sobre indicadores e metas; volume de acessos não medido
+P518 [] Comissões setoriais
+P519 [] Regras, prazos e atribuições formais
+P520 [] Competências formais e materiais do programa; volume de acessos não medido
+P521 [] Sociedade e controle
+P522 [] Indicadores, metas e resultados publicados
+P523 [] Conteúdos de transparência disponíveis; volume de acessos não medido
+P524 [Ttulo3] 5.1.3 O ciclo do programa
+P525 [] O canal publica indicadores, metas e resultados dos ciclos BR 2024 e BR 2025, e dados específicos de 2024 para a Secretaria da Educação, a Secretaria da Segurança Pública e o Centro Paula Souza. A existência de ciclos anuais tem consequência editorial direta: uma resposta correta em um ciclo pode estar incorreta no seguinte, o que exige rotina de revisão — tema do capítulo 10.
+P526 [Ttulo2] 5.2 Arquitetura da informação e navegação
+P527 [] O menu principal tem cinco itens, três deles com submenu:
+P528 [] Item de menu
+P529 [] Submenu
+P530 [] Natureza do rótulo
+P531 [] Institucional
+P532 [] — (página própria de governança)
+P533 [] Organizacional
+P534 [] Legislação
+P535 [] —
+P536 [] Documental
+P537 [] Capacitação
+P538 [] —
+P539 [] Documental
+P540 [] Transparência
+P541 [] Monitoramento do Programa · Dados da BR 2024: SEDUC, SSP e CEETEPS · Indicadores, Metas e Resultados — BR 2024 e BR 2025
+P542 [] Obrigação legal
+P543 [] Canais de comunicação
+P544 [] Ouvidoria · Privacidade e proteção de dados · Perguntas frequentes
+P545 [] Organizacional
+P546 [Ttulo3] 5.2.1 Avaliação
+P547 [] O menu organiza o conteúdo em seções institucionais.
+P548 [] Na revisão de 10/09/2026, o link “Institucional” abriu uma página com governança, CIBR, grupo de apoio e comissões setoriais. Para explicar a diferença em relação ao diagnóstico inicial, é necessário consultar o histórico de publicação no CMS; a leitura pública não permite afirmar que conteúdo foi excluído ou por quem. 
+P549 [] A aba “RH & Pagamento” permanece dentro de “Canais de comunicação” → “Perguntas frequentes”. Recomenda-se testar um atalho na página inicial, com o rótulo “Quem pode receber e como funciona o pagamento”, preservando o acesso à FAQ completa. [1, 9]
+P550 [] A revisão de rótulos pode apoiar-se nas orientações de tom e voz do CMS sobre linguagem conhecida pelo público. As alternativas precisam ser testadas com usuários e validadas pelas equipes responsáveis. Ver capítulo 9.
+P551 [] 
+P552 [Ttulo2] 5.3 Conteúdos disponíveis
+P553 [] Páginas que funcionam como índice podem ser adequadas se explicam o que o usuário encontrará nos destinos. A versão atual de Institucional tem conteúdo próprio e deve integrar uma nova contagem, caso essa medida seja mantida. 
+P554 [] A FAQ concentra muitas orientações úteis. A revisão deve avaliar, para cada tarefa, se a resposta é localizável, direta, suficiente e vinculada à norma correta. A conferência encontrou também pontos de conteúdo a validar; não se sustenta a conclusão de que todo o trabalho editorial já esteja concluído.
+P555 [] Seção
+P556 [] O que oferece
+P557 [] Avaliação
+P558 [] Institucional
+P559 [] Página de governança com CIBR, grupo de apoio e comissões setoriais
+P560 [] Página acessível na revisão de 10/09/2026
+P561 [] Legislação
+P562 [] Atos normativos do programa
+P563 [] Atos disponíveis; conferir vigência, alterações e ligação com as orientações
+P564 [] Capacitação
+P565 [] Materiais de capacitação
+P566 [] Materiais disponíveis; conferir versão, público e correspondência com o ciclo
+P567 [] Transparência
+P568 [] Monitoramento, dados de 2024 e indicadores e metas de 2024 e 2025
+P569 [] Há materiais de transparência; completude exige conferir todos os ciclos e órgãos
+P570 [] Perguntas frequentes
+P571 [] 37 perguntas em quatro abas
+P572 [] Conteúdo relevante, com pontos de exatidão e atualização a revisar
+P573 [Ttulo2] 5.4 Organização e atualização das informações
+P574 [] O mesmo problema estrutural do SIORG se repete: a primeira tela é ocupada por campanha institucional geral do Estado. E há um agravante próprio da BR.
+P575 [] O logotipo do canal é a sigla “BR” isolada, sem nenhuma expansão. Quem chega sem conhecer a sigla não descobre na página inicial que se trata de Bonificação por Resultados. Na avaliação heurística, isso é falha de reconhecimento em vez de memorização: o portal exige que o usuário já saiba o que veio procurar.
+P576 [] 
+P577 [] Figura 4 — Página inicial do canal BR em 03/09/2026. O logotipo traz apenas a sigla. O espaço de maior visibilidade é ocupado por campanha institucional sobre prevenção de incêndios, sem relação com bonificação. O menu, logo abaixo, não tem entrada dirigida ao servidor.
+P578 [] A página inicial concentra três achados em uma única tela: sigla não explicada, espaço nobre ocupado por assunto alheio, e menu sem porta de entrada para o público majoritário.
+P579 [Ttulo2] 5.5 Perguntas frequentes
+P580 [] São 37 perguntas organizadas em quatro abas temáticas. A estrutura é correta e demonstra que houve trabalho de segmentação por público — inclusive uma aba dedicada exclusivamente ao servidor.
+P581 [] Aba
+P582 [] Perguntas
+P583 [] Público principal
+P584 [] Dúvidas Gerais
+P585 [] 11
+P586 [] Todos os públicos
+P587 [] Pactuação e Apuração
+P588 [] 3
+P589 [] Áreas que pactuam metas
+P590 [] Indicadores e Metas
+P591 [] 13
+P592 [] Áreas técnicas
+P593 [] RH e Pagamento
+P594 [] 10
+P595 [] O servidor beneficiário
+P596 [Ttulo3] 5.5.1 A aba RH e Pagamento
+P597 [] As dez perguntas da aba RH & Pagamento tratam das seguintes dúvidas; isso não significa que todas estejam respondidas com a precisão ou o detalhamento necessários: [1]
+P598 [] Como consultar se tem direito à bonificação
+P599 [] Se trabalhadores de empresas terceirizadas têm direito [1, 6]
+P600 [] O que conta como dias de efetivo exercício
+P601 [] O que acontece em caso de mudança de secretaria, setor ou função durante o período de avaliação
+P602 [] Quando a bonificação é paga
+P603 [] Se o valor é fixo ou varia conforme o desempenho
+P604 [] Se a bonificação é tributada
+P605 [] Se afeta o cálculo de aposentadoria ou outros benefícios
+P606 [] O que fazer se o pagamento não sair no prazo esperado
+P607 [] Como contestar o valor ou a elegibilidade
+P608 [] A aba reúne temas relevantes para o servidor. Sua posição na navegação pode dificultar a descoberta, hipótese a testar. Além de melhorar a sinalização, é necessário validar as respostas de pagamento e elegibilidade com as áreas responsáveis.
+P609 [] A lista completa das 37 perguntas, classificada por aba e por público, está no Anexo B, aba “FAQ da BR”.
+P610 [Ttulo2] 5.6 Exatidão do conteúdo normativo
+P611 [] A lista de perguntas frequentes da BR é o principal canal de orientação do programa e, em vários pontos, cita expressamente a norma que fundamenta a resposta. Isso é boa prática. Torna também cada resposta conferível — e a conferência revelou uma divergência que precisa de encaminhamento imediato.
+P612 [Ttulo3] 5.6.1 Descontos previdenciários: distinguir os regimes
+P613 [] A pergunta “A BR está sujeita a tributação?” reúne Imposto de Renda e contribuição previdenciária em uma resposta geral, sem especificar o vínculo do beneficiário:
+P614 [] “Sim, a Bonificação por Resultados está sujeita aos descontos legais, como Imposto de Renda e contribuições previdenciárias.”
+P615 [] O artigo 2º, parágrafo único, da LC nº 1.361/2021 prevê que a BR não se incorpora à remuneração ou aos proventos e que não incidem descontos previdenciários. Para orientar o servidor, porém, é preciso considerar também seu regime previdenciário: 
+P616 [] Servidor efetivo vinculado ao RPPS/SPPREV: a orientação deve informar a regra de não incidência da LC nº 1.361/2021, quando essa for a lei aplicável à sua BR. O fato de ocupar cargo em comissão não transforma o servidor titular de cargo efetivo em comissionado exclusivo. 
+P617 [] Ocupante exclusivamente de cargo em comissão: vincula-se ao RGPS/INSS, conforme o art. 40, § 13, da Constituição Federal. A incidência sobre a BR precisa ser confirmada com a Diretoria de Pagamento à luz da legislação federal do RGPS e da rubrica utilizada. Não se deve prometer isenção nem afirmar cobrança para todos apenas com base na LC estadual.
+P618 [] 
+P619 [Ttulo3] 5.6.2  Imposto de Renda e aposentadoria: situações distintas
+P620 [] Imposto de Renda: o tratamento é independente da contribuição previdenciária. A Lei federal nº 7.713/1988 prevê tributação dos rendimentos do trabalho; o manual oficial da BR do Centro Paula Souza explicita a retenção sobre a BR. A resposta deve esclarecer a regra aplicável, sem prometer um desconto fixo, pois o valor depende da apuração e das condições do pagamento. 
+P621 [] Aposentadoria e pensão: a LC nº 1.361/2021 determina que a BR não se incorpora aos proventos ou pensões (art. 2º) e veda seu pagamento a aposentados e pensionistas (art. 12, III). Assim, a condição de aposentado ou pensionista, por si só, não gera direito à BR. 
+P622 [] Essa explicação não deve negar automaticamente valores relativos a um período de atividade anterior à aposentadoria, nem resolver situações de novo vínculo ativo. Esses casos precisam ser examinados pela área de pagamento, considerando o período avaliado, os requisitos e a legislação aplicável. Os efeitos no RGPS também não devem ser generalizados a partir da regra de não incorporação do regime estatutário.
+P623 [Ttulo3] 5.6.3 Por que a validação deve ser priorizada
+P624 [] Dimensão
+P625 [] Por quê
+P626 [] Natureza
+P627 [] Orientação sobre direito e descontos, com potencial de afetar a compreensão do pagamento pelo servidor; a resposta atual não distingue os regimes.
+P628 [] Alcance
+P629 [] O canal reúne públicos submetidos a normas e vínculos diferentes. A LC nº 1.361/2021 contém exclusões, e há programas específicos.
+P630 [] Fonte
+P631 [] A orientação está no canal oficial do programa e pode ser usada por servidores e equipes de RH.
+P632 [] Verificabilidade
+P633 [] O texto da FAQ e os dispositivos citados são verificáveis. A aplicação à folha e aos casos individuais depende da área competente.
+P634 [Ttulo3] 5.6.4 Construção conjunta com BR e Diretoria de Pagamento
+P635 [] Verificar primeiro com a equipe da BR se existe material aprovado em conjunto com a Diretoria de Pagamento. Se houver, adotá-lo como referência e conferir sua vigência; se não houver, construir as respostas com essas áreas e encaminhar as dúvidas de interpretação à assessoria jurídica.
+P636 [] Passo
+P637 [] Ação
+P638 [] 1
+P639 [] Preservar o texto atual e reunir normas, orientações de folha e materiais já validados, identificando a data e o âmbito de cada fonte
+P640 [] 2
+P641 [] Validar uma matriz por vínculo: efetivo/RPPS, comissionado exclusivo/RGPS, empregado público/RGPS e situações de aposentadoria. Separar IR, contribuição previdenciária, elegibilidade e processamento da folha.
+P642 [] 3
+P643 [] Publicar as respostas aprovadas com fonte, data de revisão, unidade responsável e caminho para o RH ou área de pagamento, atualizando os demais canais que as reproduzam
+P644 [] 4
+P645 [] Acompanhar as dúvidas recebidas para verificar se a nova orientação é compreendida e manter as respostas atualizadas
+P646 [Ttulo3] 5.6.5 Outros pontos de conferência editorial
+P647 [] Ponto observado
+P648 [] Situação
+P649 [] Encaminhamento
+P650 [] Calendário do programa
+P651 [] A resposta sobre cronograma descreve prazos dos ciclos de 2024 e 2025, com apuração de 2025 prevista até 28/02/2026. Não há referência ao ciclo corrente.
+P652 [] Atualizar a cada ciclo e separar calendário vigente de histórico
+P653 [] Resposta sobre terceirizados
+P654 [] A resposta lista os servidores abrangidos e as exclusões do art. 1º, mas não explica diretamente a situação do empregado de empresa contratada.
+P655 [] Proposta para validação: “Não. Quem trabalha por empresa terceirizada não é beneficiário da BR estadual na condição de terceirizado. A LC nº 1.361/2021 alcança os servidores nela previstos.” Evitar o termo “servidor terceirizado”, que pode confundir vínculos distintos.
+P656 [] Consulta de direito individual
+P657 [] Remete à página de Legislação ou ao RH da própria pasta, sem caminho objetivo
+P658 [] Indicar o caminho concreto, ou explicitar que a consulta é feita pelo RH
+P659 [] Erro de digitação
+P660 [] A resposta sobre dias de efetivo exercício traz “Depatamento” em vez de “Departamento”
+P661 [] Correção editorial simples
+P662 [] Outro ponto confirmado: em “Quem pode receber a Bonificação por Resultados?”, a FAQ atribui ao artigo 11 da LC nº 1.361/2021 a ausência de penalidades disciplinares graves e a comprovação de contribuição efetiva. Esses requisitos adicionais não constam desse artigo, que estabelece participação em pelo menos dois terços do período e trata das situações de afastamento e transferência. Solicitar à área do programa a base de eventual regra complementar ou revisar a redação. Esta é uma pergunta diferente daquela sobre cronograma, que cita o artigo 11 do Decreto nº 66.772/2022. A versão anterior do diagnóstico confundiu as duas referências e descartou indevidamente o apontamento.
+P663 [] 
+P664 [Ttulo2] 5.7 Canais de atendimento
+P665 [] Canal
+P666 [] Destino
+P667 [] Observação
+P668 [] Ouvidoria
+P669 [] fala.sp.gov.br
+P670 [] Link externo, canal geral do Estado
+P671 [] Privacidade e proteção de dados
+P672 [] Controladoria Geral do Estado
+P673 [] Link externo; ver capítulo 6
+P674 [] Perguntas frequentes
+P675 [] Página interna
+P676 [] Presente
+P677 [] 
+P678 [] Há contato próprio: a página de perguntas frequentes informa bonificacao@sp.gov.br para dúvidas à equipe técnica. A proposta é dar visibilidade ao contato existente, preferencialmente como link ou botão “Fale com a equipe da BR”, e explicar seu uso. Casos individuais de elegibilidade, cálculo e folha devem seguir ao RH ou à área de pagamento do órgão; manifestações de ouvidoria permanecem no Fala.SP. Confirmar com as áreas o escopo de cada canal e o prazo de resposta antes de publicá-los. Não é necessário criar um campo de cadastro de e-mail para essa melhoria. 
+P679 [Ttulo2] 5.8 Identidade visual
+P680 [] O canal utiliza elementos do padrão de publicação estadual, como barra de governo e rodapé, e apresenta a marca BR. 
+P681 [] A sigla e a navegação compartilham a identidade institucional do Estado. Recomenda-se tornar o nome completo e a finalidade da BR visíveis no início do canal, preservando o padrão oficial. Não foi feita pesquisa que demonstre dificuldade de reconhecimento apenas pela semelhança visual entre portais.
+P682 [Ttulo2] 5.9 Desempenho e acessibilidade
+P683 [] O quadro registra as pontuações atribuídas ao Lighthouse na versão recebida (escala de 0 a 100). Antes de qualquer nova coleta da BR, confirmar que foi carregado o portal e não a página intermediária de proteção. 
+P684 [] 
+P685 [] Medida
+P686 [] Celular
+P687 [] Desktop
+P688 [] Referência desejada
+P689 [] Desempenho
+P690 [] 45
+P691 [] 79
+P692 [] 90 ou mais
+P693 [] Acessibilidade
+P694 [] 85
+P695 [] 89
+P696 [] 100
+P697 [] Boas práticas
+P698 [] 77
+P699 [] 77
+P700 [] 90 ou mais
+P701 [] Otimização para busca
+P702 [] 75
+P703 [] 75
+P704 [] 90 ou mais
+P705 [] Para referência, a página inicial da própria Secretaria (sggd.sp.gov.br) apresenta desempenho de 9 no celular. O problema de desempenho em dispositivos móveis é, portanto, mais grave no endereço da Secretaria do que no do canal BR — o que sugere causa comum na plataforma, e não no canal.
+P706 [] As três ocorrências atribuídas à BR no levantamento anterior foram revalidadas. Na verificação atual, uma requisição automatizada recebeu página de proteção Imperva sem título e idioma e com iframe — combinação semelhante às ocorrências relatadas. Isso indica risco de medição da proteção.
+P707 [] Na página real de perguntas frequentes, aberta em navegador em 10/09/2026, foram confirmados título “Perguntas frequentes” e idioma pt-br. A afirmação de ausência de idioma em todas as 18 páginas da SGGD foi retirada. Uma nova amostra deve abranger páginas reais e documentar os critérios avaliados.
+P708 [Ttulo2] 5.10 Métricas de acesso e alcance
+P709 [] As métricas internas não foram acessadas. Para conhecer o uso, é necessário combinar dados de navegação e busca com dúvidas recebidas e testes com servidores e equipes técnicas. Essas fontes podem confirmar prioridades e tarefas; a divisão de públicos no diagnóstico é uma hipótese baseada no conteúdo disponível.
+P710 [Normal] 
+P711 [Ttulo2] 5.11 O que o servidor esperaria encontrar
+P712 [] A pergunta de quem chega
+P713 [] Respondida?
+P714 [] Onde está hoje
+P715 [] Eu tenho direito à bonificação?
+P716 [] Sim
+P717 [] Perguntas frequentes, abas Dúvidas Gerais e RH e Pagamento
+P718 [] Quanto vou receber e como o valor é calculado?
+P719 [] Sim
+P720 [] Perguntas frequentes, aba Dúvidas Gerais
+P721 [] Quando é pago?
+P722 [] Sim
+P723 [] Perguntas frequentes, abas Dúvidas Gerais e RH e Pagamento
+P724 [] Como consulto o meu caso?
+P725 [] Sim
+P726 [] Perguntas frequentes, aba RH e Pagamento
+P727 [] Discordo do resultado. Como contesto?
+P728 [] Sim
+P729 [] Perguntas frequentes, aba RH e Pagamento
+P730 [] A bonificação é tributada? Afeta a aposentadoria?
+P731 [] Sim
+P732 [] Perguntas frequentes, aba RH e Pagamento
+P733 [] Quais foram as metas da minha pasta?
+P734 [] Parcialmente
+P735 [] Transparência, em linguagem técnica
+P736 [] O que é a BR, afinal?
+P737 [] Sim, mas não na entrada
+P738 [] Perguntas frequentes, primeira questão
+P739 [] Sete das oito perguntas já têm resposta correta e escrita. Nenhuma delas aparece no menu, tem endereço próprio ou pode ser enviada por mensagem a um colega. É o resumo do diagnóstico da BR: o trabalho de conteúdo está feito, o de sinalização não começou.
+P740 [Ttulo2] 5.12 Síntese da BR
+P741 [] O que funciona
+P742 [] O que falta
+P743 [] Lista de perguntas bem segmentada em quatro abas
+P744 [] Uma aba inteiramente dedicada ao servidor
+P745 [] Referências normativas em várias respostas, que permitem conferir os fundamentos
+P746 [] Publicação de indicadores, metas e resultados, cuja cobertura deve ser conferida por ciclo e órgão
+P747 [] Base legal e capacitação disponíveis
+P748 [] Validação conjunta das respostas sobre elegibilidade, IR, contribuição previdenciária e aposentadoria
+P749 [] Uma porta de entrada para o servidor no menu principal
+P750 [] Nome completo e finalidade visíveis junto à entrada do canal
+P751 [] Calendário por ano, com etapas, prazos ou situação e link do ato; histórico separado
+P752 [] Orientações curtas que expliquem a finalidade e o próximo passo de cada página
+P753 [] Endereço próprio para cada resposta central
+P754 [] Destaque ao e-mail existente e orientação sobre quando procurar BR, RH/pagamento ou Ouvidoria
+P755 [] Revalidar acessibilidade nas páginas reais e corrigir as barreiras confirmadas
+P756 [] Maior visibilidade ao conteúdo do programa, respeitadas as regras das campanhas institucionais
+P757 [] Em uma frase: a BR tem a resposta certa guardada no lugar errado.
+P758 [] 
+P759 [Normal]                                                                           PARTE III
+P760 [] Comum aos dois canais
+P761 [] Acessibilidade, proteção de dados e a plataforma compartilhada
+P762 [] 
+P763 [Ttulo1] 6. Acessibilidade e proteção de dados
+P764 [] Os dois temas deste capítulo são obrigações legais, não preferências de projeto, e as ocorrências são as mesmas nos dois canais — razão pela qual estão reunidas aqui.
+P765 [Ttulo2] 6.1 A base legal da acessibilidade
+P766 [] O art. 63 da Lei nº 13.146/2015 exige acessibilidade nos sítios mantidos por órgãos de governo. A avaliação técnica deve explicitar os critérios e a versão das WCAG; recomenda-se WCAG 2.2 AA nesta revisão. O eMAG é referência brasileira complementar, institucionalizada no âmbito federal do SISP; sua aplicação estadual não deve ser presumida como obrigação autônoma sem verificar o normativo correspondente.
+P767 [] As explicações a seguir estão em linguagem corrente de propósito. Cada item traz o que o teste apontou, o que isso significa para uma pessoa real e por que precisa ser corrigido.
+P768 [Ttulo2] 6.2 O que foi encontrado no SIORG
+P769 [] Foram 33 ocorrências na página inicial, concentradas em três tipos:
+P770 [] O que o teste apontou
+P771 [] O que isso significa na prática
+P772 [] Ocorrências
+P773 [] Identificadores repetidos na mesma página
+P774 [] Cada elemento de uma página precisa ter um identificador único, como um número de matrícula. Quando dois elementos têm o mesmo, o leitor de tela usado por pessoas cegas pode ler o item errado, repetir conteúdo ou pular trechos inteiros. A pessoa não percebe que perdeu informação.
+P775 [] 19
+P776 [] Imagens sem descrição em texto
+P777 [] Toda imagem precisa de um texto que descreva o que ela mostra. Sem isso, quem usa leitor de tela ouve apenas a palavra “imagem” ou o nome do arquivo. Se a imagem carrega informação — um fluxo, um aviso, um número — essa informação não chega.
+P778 [] 13
+P779 [] Área de conteúdo principal declarada mais de uma vez
+P780 [] A página informa duas vezes qual é a sua área de conteúdo principal. Quem navega por teclado ou leitor de tela usa esse marcador para pular direto ao conteúdo; com dois, o atalho deixa de funcionar de forma previsível.
+P781 [] 1
+P782 [] No conjunto das 14 páginas alcançadas, 175 das 390 imagens não têm descrição em texto: 45% do conteúdo visual do portal é inacessível a quem depende de leitor de tela.
+P783 [Ttulo2] 6.3 O que foi encontrado na BR
+P784 [] Foram 2 ocorrências. Em número são poucas, mas duas são estruturais e se repetem em todas as páginas:
+P785 [] O que o teste apontou
+P786 [] O que isso significa na prática
+P787 [] Falta o título do documento
+P788 [] O título é a primeira coisa que o leitor de tela anuncia ao abrir a página, e é o que aparece na aba do navegador e nos favoritos. Sem ele, a pessoa não sabe onde está nem distingue uma página da outra ao voltar.
+P789 [] Conteúdo incorporado sem nome
+P790 [] Blocos trazidos de outros sistemas precisam ter um nome. Sem ele, quem navega por leitor de tela ouve apenas “quadro”, sem saber o que há dentro nem se vale a pena entrar.
+P791 [Ttulo2] 6.4 Por que isso importa além da lei
+P792 [] As informações da BR e do SIORG precisam ser acessíveis a seus públicos, incluindo pessoas com deficiência. Barreiras confirmadas podem impedir a compreensão de regras, documentos e procedimentos. A priorização deve considerar o impacto na tarefa, e não apenas a quantidade de alertas automáticos.
+P793 [Ttulo2] 6.5 Proteção de dados: três pontos de atenção
+P794 [] A revisão distingue o que é observável no aviso e nos links do que depende das configurações e da governança de dados. Cookies, finalidades, retenção, compartilhamento e base legal devem ser verificados antes de uma conclusão de conformidade.
+P795 [Ttulo3] 6.5.1 O aviso de cookies não oferece opção de recusa
+P796 [] O aviso exibido nos dois canais traz apenas o botão “Aceitar”, e o texto afirma que “ao continuar, você declara aceitar”. Não há alternativa para recusar nem para escolher categorias.
+P797 [] O que a lei pede
+P798 [] O que o aviso faz hoje
+P799 [] Transparência e adequação à finalidade (arts. 6º e 9º)
+P800 [] Inventariar cookies e rastreadores e alinhar o aviso às finalidades efetivas
+P801 [] Se a base for consentimento: manifestação livre, informada e inequívoca, específica e demonstrável
+P802 [] Oferecer escolha efetiva; manter o tratamento baseado em consentimento desativado até a manifestação válida
+P803 [] Se houver consentimento: revogação facilitada (art. 8º, §5º)
+P804 [] Disponibilizar caminho claro e gratuito para revisar a escolha e revogar o consentimento
+P805 [] A presença de cookies analíticos exige esclarecer a afirmação “apenas essenciais”, mas não prova, isoladamente, infração por falta de consentimento. A ANPD admite legítimo interesse para medição em determinados contextos (Guia de Cookies, p. 24–27). A adequação depende das finalidades, necessidade, salvaguardas e base legal documentada pelo controlador.
+P806 [Ttulo3] 6.5.2 O encarregado de dados não é identificado
+P807 [] A política do CMS consultada não identifica nominalmente o encarregado; orienta o visitante a usar o canal de atendimento da Secretaria ou órgão acessado. Essa formulação dificulta o percurso. Não se comprovou inexistência de encarregado nem ausência de divulgação em outros canais institucionais. 
+P808 [] O art. 41, §1º, da LGPD exige divulgação clara da identidade e do contato do encarregado, preferencialmente no site do controlador. Recomenda-se confirmar o responsável institucional vigente e oferecer link direto para sua identificação e canal oficial, sem exigir que o visitante deduza o caminho. 
+P809 [Ttulo3] 6.5.3 Os dois canais apontam para políticas diferentes
+P810 [] Canal
+P811 [] Política de privacidade referenciada
+P812 [] SIORG
+P813 [] Política do CMS no rodapé e no aviso de cookies
+P814 [] BR
+P815 [] Política do CMS no rodapé e no aviso da FAQ; há também link de LGPD para a Controladoria no menu
+P816 [] Recomenda-se mapear todos os pontos de entrada e esclarecer qual política e qual canal de direitos se aplicam ao tratamento de cada página.
+P817 [] 
+P818 [Ttulo1] 7. O que é herança da plataforma
+P819 [] Os canais apresentam componentes e marcas técnicas associados ao CMS estadual. A origem comum é uma hipótese relevante para investigar ocorrências repetidas, mas o acesso público não permite atribuir, sozinho, a causa e a responsabilidade a uma equipe. É necessário distinguir o que aparece na tela, o que chega às tecnologias assistivas e o que existe apenas no código, e depois verificar configuração, conteúdo e comportamento do componente com os administradores. 
+P820 [] Para encaminhar cada achado, registraremos página, passo de reprodução, público afetado, evidência e responsável a confirmar. A equipe editorial trata conteúdo e organização dentro das permissões existentes; alterações de componentes, segurança e integrações precisam de articulação com a gestão técnica. 
+P821 [] Sinal observado ou relatado
+P822 [] Escopo da verificação
+P823 [] Próximo passo
+P824 [] Rótulo técnico “Visualizador do Conteúdo da Web” na estrutura acessível
+P825 [] Páginas consultadas de ambos; não equivale a texto visível na tela
+P826 [] Componente ou configuração; causa e exposição a confirmar.
+P827 [] Referências a menus de edição no código ou na estrutura acessível
+P828 [] Exposição e interação pelo visitante a reproduzir
+P829 [] Componente ou configuração; causa e exposição a confirmar.
+P830 [] Identificadores internos registrados na extração da página
+P831 [] Presença no código não comprova exposição visual
+P832 [] Componente ou configuração; causa e exposição a confirmar.
+P833 [] Trechos técnicos relatados como texto no diagnóstico inicial
+P834 [] Exibição ao visitante não confirmada nesta revisão
+P835 [] Componente ou configuração; causa e exposição a confirmar.
+P836 [] Mensagem de expiração de sessão relatada no material inicial
+P837 [] BR; exibição pública não confirmada
+P838 [] Componente ou configuração; causa e exposição a confirmar.
+P839 [] Nome interno de arquivo relatado como título
+P840 [] BR; confirmar elemento e visibilidade
+P841 [] Verificar título editorial, configuração e nome exposto às tecnologias assistivas.
+P842 [] Aviso de manutenção de agosto ainda presente no HTML
+P843 [] SIORG; visibilidade pública a verificar
+P844 [] Responsável pelo aviso ou componente; confirmar exposição e permissão de edição.
+P845 [] Campanhas gerais antes do conteúdo específico na página inicial
+P846 [] Início dos dois canais; sem generalização às internas
+P847 [] Comunicação institucional e gestão do CMS; confirmar regra e possibilidade de ajuste.
+P848 [] Alternativas textuais de imagens a revisar
+P849 [] SIORG; contagens anteriores não revalidadas
+P850 [] Conteúdo ou componente, conforme finalidade da imagem e implementação.
+P851 [] 
+P852 [] Ocorrências semelhantes nos dois canais justificam uma análise conjunta com a equipe do CMS. Não comprovam que todos os sites estaduais estejam afetados nem que a causa seja única. Uma correção compartilhada deve ser aplicada somente após reproduzir o problema, identificar o componente e avaliar seu alcance. 
+P853 [] A revisão de textos, links e inventário pode começar imediatamente. Mudanças em blocos compartilhados, avisos, campanhas e configurações dependem da identificação de responsáveis e permissões e da validação do impacto com as áreas competentes. 
+P854 [] 
+P855 [] 
+P856 [Ttulo1] 8. SIORG como ferramenta de trabalho
+P857 [] 
+P858 [] A demanda por calculadora, simulador e gerador de minutas deve começar pelo inventário do que o SIORG e a DMO já oferecem. O portal já disponibiliza guias, modelos e painéis de cargos, cotas e fases da reestruturação. Precisamos verificar a cobertura, a atualização e as dificuldades de uso desses recursos e pesquisar as tarefas ainda não atendidas, evitando duplicar soluções ou prometer integrações sem sustentação. 
+P859 [] Na FAQ 1.4, a orientação remete ao Anexo VII do Decreto nº 68.742/2024. Uma melhoria possível é criar um caminho direto dessa resposta para a consulta por órgão nos painéis existentes, explicando o significado das cotas, a data da base e os atos que alteraram os quantitativos. O saldo disponível só deve ser apresentado quando houver definição e fonte validadas pela área responsável.
+P860 [] 
+P861 [Ttulo2] 8.1 As quatro ferramentas, por ordem de viabilidade
+P862 [] Ferramenta
+P863 [] O que resolve
+P864 [] O que precisa existir
+P865 [] Viabilidade
+P866 [] Melhoria da consulta de cargos e cotas já publicada
+P867 [] Ajuda a localizar o órgão e compreender os quantitativos e as cotas apresentados na fonte oficial.
+P868 [] Validar os painéis existentes, seus responsáveis, atualização, recorte dos dados e atos normativos posteriores.
+P869 [] A estimar após verificar os painéis, o acesso aos dados e o escopo da melhoria.
+P870 [] Gerador de minutas
+P871 [] Apoia o preenchimento e a conferência de modelos oficiais, sem substituir a análise técnica e jurídica.
+P872 [] Modelos vigentes, regras dos campos, revisão da DMO e jurídica, controle de versões e teste com quem instrui processos.
+P873 [] A estimar após validar modelos, regras, formato de saída e manutenção.
+P874 [] Simulador de estrutura
+P875 [] Permite explorar uma proposta de estrutura e sinalizar regras ou limites a conferir, sem aprovar a organização.
+P876 [] Regras da LC nº 1.395/2023, do Decreto nº 68.742/2024 e alterações; dados oficiais, validação técnica e jurídica e critérios de teste.
+P877 [] A estimar após o levantamento de regras e dependências de dados.
+P878 [] Melhoria da consulta às fases
+P879 [] Torna mais claro o andamento disponível no painel e os próximos passos; o detalhe por processo depende da fonte e das permissões.
+P880 [] Verificar o painel de revisão existente, sua cobertura, responsável e atualização; avaliar integração adicional somente para lacunas confirmadas.
+P881 [] A estimar após avaliar a solução existente e o detalhe adicional necessário.
+P882 [Ttulo2] 8.2 Como apareceria para o usuário
+P883 [] Um primeiro protótipo pode organizar a jornada em passos: identificar a tarefa e o órgão; consultar regras e dados disponíveis; localizar o guia e o modelo da etapa; conferir a proposta; e seguir o canal oficial de encaminhamento. Calculadora, simulação, preenchimento automático e acompanhamento detalhado devem aparecer apenas como hipóteses para teste até que dados, regras, responsáveis e integrações estejam validados. 
+P884 [] O benefício esperado é reduzir a dificuldade para localizar e relacionar materiais já existentes. Esse resultado precisa ser medido em testes com usuários; a proposta não substitui a leitura e a aplicação das normas nem permite afirmar antecipadamente que todas as tarefas serão resolvidas em uma tela.
+P885 [] 
+P886 [Ttulo2] 8.3 Antes da tela, o bastidor
+P887 [] Há um risco específico em propor ferramentas: publicar um botão cujo atendimento, dado ou aprovação ainda não existe. O usuário clica, a tela responde, e o processo por trás não sustenta a promessa. O resultado é pior do que não ter a ferramenta, porque cria expectativa e depois frustra.
+P888 [] A forma de evitar isso é mapear, para cada momento visível ao usuário, o que a equipe precisa garantir por trás:
+P889 [] Momento
+P890 [] O usuário recebe
+P891 [] O que precisa existir por trás
+P892 [] Orientação inicial
+P893 [] Finalidade, público, etapa e regras básicas
+P894 [] Responsável pela regra, redação validada, data de revisão
+P895 [] Busca de material
+P896 [] O documento certo, identificado por versão
+P897 [] Acervo único, taxonomia, histórico, verificação de links
+P898 [] Simulação
+P899 [] Resultado, inconsistências e limites
+P900 [] Regras homologadas juridicamente, fonte de dados atualizada, testes
+P901 [] Encaminhamento
+P902 [] Resumo conferível e caminho oficial
+P903 [] Integração ou direcionamento autorizado, permissões, confirmação
+P904 [] Acompanhamento
+P905 [] Situação compreensível e próximo passo
+P906 [] Estados padronizados, origem atualizada, responsável e prazo
+P907 [] Aprendizado
+P908 [] Resposta útil e orientação revisada
+P909 [] Análise de dúvidas e erros, atualização da base de conhecimento
+P910 [Ttulo3] 8.3.1 Três armadilhas a evitar
+P911 [PargrafodaLista] Situação de processo sem responsável por atualizá-la cria falsa transparência. Enquanto não houver integração confiável, apresentar como informação de referência, com data da fonte.
+P912 [PargrafodaLista] Modelo novo publicado sem retirada controlada do antigo aumenta a chance de uso da versão errada. Manter o histórico, mas destacar sem ambiguidade qual é a versão válida.
+P913 [PargrafodaLista] Formulário sem fluxo de triagem apenas transfere a dificuldade do portal para a caixa de entrada da equipe.
+P914 [Ttulo2] 8.4 Ressalva necessária
+P915 [] Uma calculadora ou um simulador deve apresentar a fonte e a data dos dados, as regras consideradas e os limites do resultado. Seu escopo precisa ser validado pela DMO, pelo órgão central e pela área jurídica competente. A simulação pode apoiar a preparação da proposta, mas não autoriza criação, recomposição, nomeação ou alteração da estrutura e não substitui o fluxo formal de análise e aprovação.
+P916 [] 
+P917 [Ttulo1] 9. Proposta de padronização
+P918 [] A demanda pedia identidade e estrutura visual minimamente padronizadas, sem que os canais perdessem suas particularidades. A saída é separar três camadas e definir o grau de liberdade de cada uma.
+P919 [] Camada
+P920 [] Grau de liberdade
+P921 [] O que inclui
+P922 [] Casca
+P923 [] Idêntica em todos
+P924 [] Barra do Governo, cabeçalho, rodapé, tipografia, cores, botões, tabelas, ferramentas de acessibilidade
+P925 [] Estrutura
+P926 [] Mesma gramática
+P927 [] Todo canal responde, na mesma ordem: o que é, para quem, como faço, materiais, perguntas frequentes, contato
+P928 [] Conteúdo e ferramentas
+P929 [] Livre
+P930 [] SIORG tem simulador e minutas; BR tem calendário e consulta de direito
+P931 [Ttulo2] 9.1 Padrões existentes e validação necessária
+P932 [] O Governo do Estado de São Paulo dispõe de manuais oficiais de identidade visual e de um catálogo de componentes digitais no CMS estadual. Esse catálogo apresenta elementos reutilizáveis, como busca, acordeões, cards, tabelas e organograma, com documentação e orientações de uso. Não é adequado, portanto, afirmar que o Estado possui apenas um manual de marca.
+P933 [] Para SIORG e BR, a primeira providência recomendada é confirmar com a equipe do CMS quais componentes estão disponíveis, quais versões são utilizadas e quais requisitos de acessibilidade já foram testados na implementação atual.
+P934 [] Como referências complementares, podem ser avaliados o Padrão Digital de Governo Federal, disponibilizado com licenças abertas, e os serviços de design oferecidos pela Prodesp. Na consulta realizada, a versão 4 federal estava em desenvolvimento, com recomendação de uso da versão 3 para novas implementações.
+P935 [] A recomendação é priorizar o reaproveitamento dos recursos estaduais já suportados e avaliar adaptações apenas para necessidades não atendidas. Essa abordagem pode reduzir retrabalho e melhorar a consistência, sem dispensar testes de acessibilidade, compatibilidade e manutenção.
+P936 [] Endereços consultados: cms.sp.gov.br/cms/componentes (catálogo estadual); gov.br/ds (Padrão Digital de Governo Federal); next-ds.estaleiro.serpro.gov.br (situação da versão 4); solucoes.prodesp.sp.gov.br/sistema-integrado-design (Prodesp).
+P937 [Ttulo2] 9.2 O que o CMS estadual já oferece além dos componentes
+P938 [] A verificação do catálogo revelou que o Estado mantém, no mesmo lugar, um conjunto de orientações de conteúdo mais amplo do que o esperado. Isso muda a natureza de várias recomendações deste diagnóstico: em vários pontos, não se trata de propor padrão novo, e sim de aplicar o que já está publicado.
+P939 [] Recurso disponível
+P940 [] O que oferece
+P941 [] Relevância para SIORG e BR
+P942 [] Catálogo de componentes
+P943 [] Elementos reutilizáveis com documentação: busca, acordeões, cards, tabelas, organograma
+P944 [] Base para a camada de casca proposta neste capítulo
+P945 [] Guia de tom e voz
+P946 [] Orientação sobre como o Estado se comunica e que voz utiliza
+P947 [] Referência para a linguagem dos dois canais
+P948 [] Vocabulário controlado
+P949 [] Palavras que não devem ser usadas e termos preferidos, escolhidos a partir da linguagem do público
+P950 [] Trata diretamente do problema de rótulos de menu apontado nos capítulos 4 e 5
+P951 [] Boas práticas de edição
+P952 [] Orientações para produção e manutenção de conteúdo
+P953 [] Insumo para a rotina editorial do capítulo 10
+P954 [] Edição de serviços públicos
+P955 [] Orientação específica para páginas de serviço
+P956 [] Aplicável às entradas de tarefa propostas
+P957 [] Treinamentos
+P958 [] Capacitação para quem publica nos canais
+P959 [] Apoio à formação dos responsáveis por cada canal
+P960 [Ttulo3] 9.2.1 Uma observação que fortalece as recomendações anteriores
+P961 [] O vocabulário controlado do Estado orienta expressamente a preferência por termos escolhidos com base na linguagem que o público usa no dia a dia. É exatamente o princípio por trás do achado central deste diagnóstico.
+P962 [] Isso reposiciona a recomendação sobre os rótulos de menu. Não se trata de propor um critério novo nem de importar prática externa: trata-se de aplicar, nos dois canais, a orientação que o próprio Estado já publicou e mantém. O argumento na conversa com as áreas deixa de ser de preferência e passa a ser de aderência a um padrão vigente.
+P963 [Ttulo2] 9.3 Referências internas que valem olhar
+P964 [] Referência
+P965 [] O que faz bem
+P966 [] O que aproveitar
+P967 [] Catálogo do CMS estadual
+P968 [] Componentes documentados, tom e voz, vocabulário controlado e boas práticas
+P969 [] Primeira fonte a consultar: já é suportado e mantido pelo Estado
+P970 [] servicos.sp.gov.br
+P971 [] Nota 100 em otimização para busca e boas práticas, 97 em acessibilidade e nenhuma violação nos testes
+P972 [] A régua técnica: prova que o padrão é atingível dentro do Estado
+P973 [] sp.gov.br
+P974 [] Barra de governo e identidade consistentes
+P975 [] A casca institucional e a navegação de topo
+P976 [] Manual GESP / UNICOM
+P977 [] Identidade de marca do Estado
+P978 [] Cores, brasão e aplicação — a camada já obrigatória
+P979 [] gov.br/ds (federal)
+P980 [] Sistema de design aberto, com licença livre
+P981 [] Referência complementar, para necessidade não atendida pelo catálogo estadual
+P982 [] Prodesp
+P983 [] Serviços de design de interface
+P984 [] Apoio especializado, quando houver necessidade de adaptação
+P985 [] 
+P986 [] Figura 5 — Portal sp.gov.br. Referência da casca institucional e da barra de governo que os dois canais já adotam parcialmente.
+P987 [] 
+P988 [Ttulo1] 10. Como manter os canais vivos
+P989 [] A demanda incluía pensar em como manter os canais ativos e atualizados ao longo do tempo. O aviso de manutenção vencido ainda publicado mostra que hoje não existe rotina: existe esforço pontual, que depende de alguém lembrar.
+P990 [] No caso da BR, a necessidade é maior, porque o programa tem ciclos anuais: uma resposta correta no ciclo de 2024 pode estar incorreta no de 2025.
+P991 [] Rotina
+P992 [] Frequência
+P993 [] O que previne
+P994 [] Dono nomeado para cada canal
+P995 [] Permanente
+P996 [] Conteúdo envelhecer sem que ninguém perceba
+P997 [] Data de revisão visível em cada página
+P998 [] A cada publicação
+P999 [] O usuário não saber se pode confiar na informação
+P1000 [] Revisão da lista de perguntas frequentes
+P1001 [] A cada ciclo do programa
+P1002 [] Resposta correta no ciclo anterior e errada no atual
+P1003 [] Varredura de avisos temporários
+P1004 [] Mensal
+P1005 [] Campanha e aviso de manutenção esquecidos no ar
+P1006 [] Auditoria técnica reproduzível
+P1007 [] Trimestral
+P1008 [] Acessibilidade e desempenho piorarem sem ninguém notar
+P1009 [] Verificação nos assistentes de IA
+P1010 [] Trimestral
+P1011 [] O assistente errar o procedimento e desinformar sobre um direito
+P1012 [] A auditoria técnica trimestral usa a mesma bateria de ferramentas desta coleta, descrita no capítulo 3. A comparação com a linha de base é automática e não depende de acesso que não temos.
+P1013 [] 
+P1014 [Ttulo1] 11. Como saberemos se melhorou
+P1015 [] Um indicador por achado, com a medição de hoje como ponto de partida. Sem isso, daqui a um ano a discussão sobre se os canais melhoraram vira troca de opiniões.
+P1016 [] Indicador
+P1017 [] Como medir
+P1018 [] Hoje
+P1019 [] 6 meses
+P1020 [] 12 meses
+P1021 [] Cliques até a resposta sobre direito à BR
+P1022 [] Contagem manual desde a página inicial
+P1023 [] 3 ou mais
+P1024 [] 1
+P1025 [] 1
+P1026 [] Ocorrências de acessibilidade — SIORG
+P1027 [] Teste automatizado trimestral
+P1028 [] 33
+P1029 [] 10 ou menos
+P1030 [] 0
+P1031 [] Ocorrências de acessibilidade — BR
+P1032 [] Teste automatizado trimestral
+P1033 [] 3
+P1034 [] 0
+P1035 [] 0
+P1036 [] Imagens com descrição em texto — SIORG
+P1037 [] Coletor próprio
+P1038 [] 55%
+P1039 [] 85%
+P1040 [] 100%
+P1041 [] Desempenho no celular — SIORG
+P1042 [] Lighthouse trimestral
+P1043 [] 65
+P1044 [] 75
+P1045 [] 85
+P1046 [] Desempenho no celular — BR
+P1047 [] Lighthouse trimestral
+P1048 [] 45
+P1049 [] 65
+P1050 [] 80
+P1051 [] Palavras por página — BR
+P1052 [] Coletor próprio, páginas de navegação
+P1053 [] 111
+P1054 [] 350
+P1055 [] 500
+P1056 [] Páginas com descrição para busca
+P1057 [] Coletor próprio
+P1058 [] 0%
+P1059 [] 80%
+P1060 [] 100%
+P1061 [] Páginas com data de revisão visível
+P1062 [] Inventário editorial
+P1063 [] 0%
+P1064 [] 70%
+P1065 [] 95%
+P1066 [] As nove linhas acima já têm ponto de partida medido e podem ser reapuradas a qualquer momento com a mesma bateria, sem depender de acesso concedido por terceiros.
+P1067 [] As três linhas a seguir dependem de acesso que ainda não temos. Estão listadas de propósito: um indicador que não conseguimos medir é, ele próprio, o argumento para destravar o acesso.
+P1068 [] Indicador
+P1069 [] Como medir
+P1070 [] Situação
+P1071 [] Consultas que o servidor faz e não encontra resposta
+P1072 [] Google Search Console
+P1073 [] Sem acesso
+P1074 [] Onde o usuário desiste da tarefa
+P1075 [] Ferramenta de análise de uso
+P1076 [] Sem acesso
+P1077 [] Dúvidas repetidas no Fale Conosco
+P1078 [] Classificação dos registros recebidos
+P1079 [] Sem acesso
+P1080 [] 
+P1081 [Ttulo1] 12. Plano de ação
+P1082 [] Quinze ações, ordenadas pela relação entre impacto e esforço. A primeira é a única classificada como crítica e tem prazo menor que as demais, porque trata de informação publicada que contraria a norma. Os prazos são deliberadamente folgados: em administração pública, entrega que depende de terceiros — equipe do CMS, jurídico, área de negócio — não cabe em ciclo curto, e prazo otimista que estoura custa mais credibilidade do que prazo longo cumprido. As ações de 30 dias são as que dependem apenas da nossa equipe.
+P1083 [] #
+P1084 [] Ação
+P1085 [] Canal
+P1086 [] Impacto
+P1087 [] Esforço
+P1088 [] Prazo
+P1089 [] 1
+P1090 [] Encaminhar à área técnica e jurídica a revisão da resposta sobre tributação da BR
+P1091 [] BR
+P1092 [] Crítico
+P1093 [] Baixo
+P1094 [] 15 dias
+P1095 [] 2
+P1096 [] Promover a aba RH e Pagamento da BR para o menu, com endereço próprio por resposta
+P1097 [] BR
+P1098 [] Alto
+P1099 [] Baixo
+P1100 [] 30 dias
+P1101 [] 3
+P1102 [] Substituir a campanha institucional do topo pelo conteúdo do próprio canal
+P1103 [] Ambos
+P1104 [] Alto
+P1105 [] Baixo
+P1106 [] 30 dias
+P1107 [] 4
+P1108 [] Solicitar acesso de leitura ao Search Console dos dois canais
+P1109 [] Ambos
+P1110 [] Alto
+P1111 [] Baixo
+P1112 [] 30 dias
+P1113 [] 5
+P1114 [] Retirar avisos temporários vencidos e implantar varredura mensal
+P1115 [] SIORG
+P1116 [] Médio
+P1117 [] Baixo
+P1118 [] 30 dias
+P1119 [] 6
+P1120 [] Expandir a sigla no logotipo e na primeira tela da BR
+P1121 [] BR
+P1122 [] Médio
+P1123 [] Baixo
+P1124 [] 30 dias
+P1125 [] 7
+P1126 [] Declarar idioma e título de documento em todas as páginas
+P1127 [] Ambos
+P1128 [] Alto
+P1129 [] Baixo
+P1130 [] 60 dias
+P1131 [] 8
+P1132 [] Revisar a lista de perguntas da BR contra o ciclo vigente e datar cada resposta
+P1133 [] BR
+P1134 [] Alto
+P1135 [] Médio
+P1136 [] 60 dias
+P1137 [] 9
+P1138 [] Reunir orientação e modelo por etapa do processo, no SIORG
+P1139 [] SIORG
+P1140 [] Médio
+P1141 [] Médio
+P1142 [] 90 dias
+P1143 [] 10
+P1144 [] Incluir descrição em texto nas 175 imagens sem alternativa
+P1145 [] SIORG
+P1146 [] Alto
+P1147 [] Médio
+P1148 [] 90 dias
+P1149 [] 11
+P1150 [] Levar à equipe do CMS os defeitos de plataforma e os pontos de LGPD
+P1151 [] Ambos
+P1152 [] Alto
+P1153 [] Médio
+P1154 [] 120 dias
+P1155 [] 12
+P1156 [] Definir a gramática comum de seções e aplicá-la aos dois canais
+P1157 [] Ambos
+P1158 [] Alto
+P1159 [] Médio
+P1160 [] 120 dias
+P1161 [] 13
+P1162 [] Levantar com a equipe do CMS os componentes disponíveis e aplicar a casca comum
+P1163 [] Ambos
+P1164 [] Alto
+P1165 [] Alto
+P1166 [] 180 dias
+P1167 [] 14
+P1168 [] Prova de conceito da consulta de cotas e do gerador de minutas
+P1169 [] SIORG
+P1170 [] Alto
+P1171 [] Alto
+P1172 [] 180 dias
+P1173 [] 15
+P1174 [] Simulador de estrutura com regra validada juridicamente
+P1175 [] SIORG
+P1176 [] Alto
+P1177 [] Alto
+P1178 [] 270 dias
+P1179 [] 
+P1180 [Ttulo1] 13. Próximos passos
+P1181 [] Este diagnóstico foi feito a partir de fora, sem conversar com quem opera os canais. É de propósito: era o primeiro olhar pedido, sem direcionamento prévio. O passo seguinte é confrontá-lo com quem conhece o negócio de cada canal — o roteiro está no Anexo D.
+P1182 [Ttulo2] 13.1 Encaminhamentos que ultrapassam a Diretoria
+P1183 [] Assunto
+P1184 [] Com quem
+P1185 [] Por quê
+P1186 [] Defeitos da plataforma de publicação
+P1187 [] Equipe do cms.sp.gov.br
+P1188 [] Atingem todos os canais do Estado que usam o sistema
+P1189 [] Aviso de cookies e identificação do encarregado
+P1190 [] Equipe do CMS e Controladoria Geral
+P1191 [] Conformidade com a LGPD, de alcance maior que os nossos canais
+P1192 [] Componentes, tom e voz e vocabulário controlado
+P1193 [] Equipe do cms.sp.gov.br
+P1194 [] Confirmar o que já é suportado antes de propor adaptação
+P1195 [] Base do QGCFC em formato consultável
+P1196 [] Subsecretaria de Gestão
+P1197 [] Pré-requisito das ferramentas propostas no capítulo 8
+P1198 [Ttulo2] 13.2 O que a nossa equipe pode começar imediatamente
+P1199 [] As ações de 1 a 5 do plano dependem apenas de conteúdo e de edição, e podem começar antes das conversas de validação. Juntas, elas atacam o achado central — o conteúdo sem sinalização — e o problema mais visível para quem entra nos canais, que é a primeira tela ocupada por assunto alheio.
+P1200 [] 
+P1201 [] 
+P1202 [] 
+P1203 [] ANEXOS
+P1204 [] Anexos
+P1205 [] Medições brutas, planilha, capturas e roteiro de entrevista
+P1206 [] 
+P1207 [Ttulo1] Anexo A — Medições brutas
+P1208 [] Todas as medições foram salvas em arquivo e podem ser reexecutadas com a mesma ferramenta para comparação futura. Os arquivos estão na pasta de evidências do projeto, organizados por canal.
+P1209 [] Canal
+P1210 [] Arquivo
+P1211 [] O que contém
+P1212 [] SIORG
+P1213 [] siorg.sp.gov.br/lh_mobile.json e lh_desktop.json
+P1214 [] Relatório completo do Lighthouse, com todas as auditorias
+P1215 [] SIORG
+P1216 [] siorg.sp.gov.br/dados.json
+P1217 [] Sinais de cada uma das 14 páginas alcançadas
+P1218 [] BR
+P1219 [] canal-br/lh_mobile.json e lh_desktop.json
+P1220 [] Relatório do Lighthouse medido diretamente no endereço do canal
+P1221 [] BR
+P1222 [] canal-br/a11y.json
+P1223 [] Resultado do teste de acessibilidade, com o seletor de cada ocorrência
+P1224 [] SGGD
+P1225 [] sggd.sp.gov.br/dados.json
+P1226 [] Sinais das 18 páginas alcançadas no endereço da Secretaria
+P1227 [] Referência
+P1228 [] servicos.sp.gov.br/
+P1229 [] Medição do canal usado como referência interna
+P1230 [Ttulo2] A.1 Síntese das notas
+P1231 [] Canal
+P1232 [] Desempenho celular
+P1233 [] Desempenho desktop
+P1234 [] Acessibilidade
+P1235 [] Boas práticas
+P1236 [] Busca
+P1237 [] SIORG
+P1238 [] 65
+P1239 [] 71
+P1240 [] 83 / 88
+P1241 [] 73
+P1242 [] 73
+P1243 [] BR (endereço /br)
+P1244 [] 45
+P1245 [] 79
+P1246 [] 85 / 89
+P1247 [] 77
+P1248 [] 75
+P1249 [] SGGD (página inicial)
+P1250 [] 9
+P1251 [] 82
+P1252 [] 87 / 91
+P1253 [] 88 / 77
+P1254 [] 75
+P1255 [] servicos.sp.gov.br
+P1256 [] 59
+P1257 [] 88
+P1258 [] 97 / 97
+P1259 [] 100
+P1260 [] 100
+P1261 [] sp.gov.br
+P1262 [] 85
+P1263 [] —
+P1264 [] 91
+P1265 [] 77
+P1266 [] 83
+P1267 [] Onde há dois números separados por barra, o primeiro é a medição no celular e o segundo no desktop. A medição da página inicial da Secretaria foi mantida por transparência: mostra que o problema de desempenho no celular é mais grave ali do que no canal BR, o que sugere causa comum na plataforma.
+P1268 [Ttulo2] A.2 Ocorrências de acessibilidade por tipo
+P1269 [] Canal
+P1270 [] Tipo de ocorrência
+P1271 [] Quantidade
+P1272 [] SIORG
+P1273 [] Identificadores repetidos na mesma página
+P1274 [] 19
+P1275 [] SIORG
+P1276 [] Imagens sem descrição em texto
+P1277 [] 13
+P1278 [] SIORG
+P1279 [] Área de conteúdo principal declarada mais de uma vez
+P1280 [] 1
+P1281 [] BR
+P1282 [] Falta o título do documento
+P1283 [] 1
+P1284 [] BR
+P1285 [] Idioma da página não declarado
+P1286 [] 1
+P1287 [] BR
+P1288 [] Conteúdo incorporado sem nome
+P1289 [] 1
+P1290 [Ttulo2] A.3 Acesso dos rastreadores de inteligência artificial
+P1291 [] Nenhum dos dois canais bloqueia rastreadores de IA, e ambos publicam o arquivo llms.txt, que descreve a estrutura do site para esses sistemas. Isso é incomum e é uma vantagem: quando um servidor pergunta a um assistente sobre bonificação, nada impede que o conteúdo oficial seja usado na resposta. Falta apenas que ele esteja escrito de forma citável.
+P1292 [] Rastreador
+P1293 [] O que alimenta
+P1294 [] SIORG
+P1295 [] BR
+P1296 [] GPTBot
+P1297 [] Treinamento do ChatGPT
+P1298 [] Permitido
+P1299 [] Permitido
+P1300 [] OAI-SearchBot
+P1301 [] Busca do ChatGPT
+P1302 [] Permitido
+P1303 [] Permitido
+P1304 [] ClaudeBot
+P1305 [] Treinamento do Claude
+P1306 [] Permitido
+P1307 [] Permitido
+P1308 [] PerplexityBot
+P1309 [] Índice do Perplexity
+P1310 [] Permitido
+P1311 [] Permitido
+P1312 [] Google-Extended
+P1313 [] Gemini
+P1314 [] Permitido
+P1315 [] Permitido
+P1316 [] Bingbot
+P1317 [] Bing, que alimenta o Copilot
+P1318 [] Permitido
+P1319 [] Permitido
+P1320 [] CCBot
+P1321 [] Common Crawl, base de vários modelos
+P1322 [] Permitido
+P1323 [] Permitido
+P1324 [] A lista completa dos treze rastreadores verificados está no Anexo B, aba “Crawlers de IA”.
+P1325 [] 
+P1326 [Ttulo1] Anexo B — Planilha de sinais por página
+P1327 [] Entregue como arquivo separado: Anexo_B_Sinais_por_pagina.xlsx. Cinco abas, com filtro ativado em todas.
+P1328 [] Aba
+P1329 [] Linhas
+P1330 [] Conteúdo
+P1331 [] Sinais por página
+P1332 [] 32
+P1333 [] Uma linha por página alcançada, com título, descrição, endereço canônico, idioma, palavras, imagens e dados estruturados
+P1334 [] Notas por canal
+P1335 [] 19
+P1336 [] Todas as notas de Lighthouse dos cinco endereços medidos, com a referência desejada
+P1337 [] Acessibilidade
+P1338 [] 21
+P1339 [] Ocorrências por código de teste, com a mensagem original de cada uma
+P1340 [] Crawlers de IA
+P1341 [] 13
+P1342 [] Situação de cada rastreador de inteligência artificial nos dois canais
+P1343 [] FAQ da BR
+P1344 [] 37
+P1345 [] Todas as perguntas, classificadas por aba temática e por público principal
+P1346 [] 
+P1347 [Ttulo1] Anexo C — Capturas de tela
+P1348 [] As capturas deste documento foram validadas uma a uma. Registramos o que foi possível obter e o que ficou pendente, para que a próxima versão complete o conjunto.
+P1349 [] Tela
+P1350 [] Situação
+P1351 [] Onde aparece
+P1352 [] Seção Modelos de Documentos do SIORG
+P1353 [] Obtida
+P1354 [] Figura 1
+P1355 [] Página inicial do SIORG
+P1356 [] Obtida
+P1357 [] Figura 2
+P1358 [] Lista de perguntas frequentes do SIORG
+P1359 [] Obtida
+P1360 [] Figura 3
+P1361 [] Página inicial do canal BR
+P1362 [] Obtida
+P1363 [] Figura 4
+P1364 [] Portal sp.gov.br
+P1365 [] Obtida
+P1366 [] Figura 5
+P1367 [] Seção Novas Estruturas do SIORG
+P1368 [] Obtida
+P1369 [] Pasta de evidências
+P1370 [] Páginas internas da BR
+P1371 [] Pendente
+P1372 [] Ver observação abaixo
+P1373 [] Observação de método: as páginas internas do canal BR não puderam ser capturadas de forma automatizada. O endereço é protegido por sistema de segurança que devolve uma tela de verificação a navegadores automatizados, mesmo após carregar a página inicial com sucesso. Foram tentadas três abordagens, inclusive com continuidade de sessão a partir da home. A página inicial da BR foi obtida e está na Figura 4. As telas internas — perguntas frequentes, legislação, capacitação e transparência — precisam ser capturadas manualmente. O conteúdo dessas páginas foi analisado por outros meios e está integralmente refletido no capítulo 5 e no Anexo B.
+P1374 [] Todas as capturas descartadas por não corresponderem à página pretendida foram mantidas em pasta separada, com registro do motivo, para que não sejam usadas por engano em versões futuras.
+P1375 [] 
+P1376 [Ttulo1] Anexo D — Roteiro de entrevista com os responsáveis
+P1377 [] Roteiro para as conversas de validação com quem conhece o negócio de cada canal. A ordem é intencional: começa pelo que a pessoa sabe e nós não, e só no fim apresenta as nossas hipóteses — para não contaminar a resposta.
+P1378 [Ttulo2] D.1 Abertura: o que só quem opera sabe
+P1379 [PargrafodaLista] Como você descreveria, em uma frase, para que serve este canal?
+P1380 [PargrafodaLista] Quem você imagina que entra aqui? Consegue lembrar de uma pessoa concreta?
+P1381 [PargrafodaLista] Qual é a dúvida que mais chega pelo Fale Conosco, pela Ouvidoria ou por telefone?
+P1382 [PargrafodaLista] Existe alguma dúvida que chega tanto que você já responde de cor?
+P1383 [Ttulo2] D.2 Conteúdo e manutenção
+P1384 [PargrafodaLista] Quem publica no canal hoje? Com que frequência?
+P1385 [PargrafodaLista] Quando foi a última revisão da lista de perguntas frequentes?
+P1386 [PargrafodaLista] Há algum conteúdo que você sabe que está desatualizado e não foi corrigido? Por quê?
+P1387 [PargrafodaLista] Existe algum conteúdo que você gostaria de publicar e não conseguiu? O que impediu?
+P1388 [Ttulo2] D.3 Sistemas e dados
+P1389 [PargrafodaLista] Existe consulta individual de direito à bonificação em algum sistema? Se existe, por que não está ligada ao canal?
+P1390 [PargrafodaLista] A base do Quadro Geral de Cargos existe em formato consultável por sistema? Quem a mantém?
+P1391 [PargrafodaLista] Há alguma restrição para publicar o calendário do ciclo antes da apuração?
+P1392 [PargrafodaLista] Alguém acompanha quantas pessoas acessam o canal? Como?
+P1393 [Ttulo2] D.4 Histórico: a pergunta mais importante
+P1394 [PargrafodaLista] O que já foi tentado antes neste canal e não funcionou?
+P1395 [] Essa pergunta costuma explicar a estrutura atual melhor do que qualquer análise externa. Uma escolha que parece estranha de fora quase sempre resolveu um problema real que não está documentado. Perguntar antes de propor evita repetir um erro já conhecido e evita propor algo que já foi vetado por um motivo que ninguém registrou.
+P1396 [Ttulo2] D.5 Fechamento: validação das nossas hipóteses
+P1397 [PargrafodaLista] Apresentar o achado central e perguntar se faz sentido com o que a pessoa observa na prática.
+P1398 [PargrafodaLista] Apresentar as entradas de menu propostas e perguntar se faltou alguma.
+P1399 [PargrafodaLista] Perguntar o que, na visão dela, deveria ser prioridade — e comparar com a nossa ordenação.
+P1400 [] Sugestão de condução: fazer os blocos D.1 a D.4 sem mostrar este documento. Só abrir o diagnóstico no bloco D.5. Assim a percepção de quem opera o canal chega sem influência da nossa leitura, e a divergência entre as duas versões — se houver — é em si um achado.
+
+COMMENTS
+[
+  {
+    "id": "1071617300",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T08:27:32",
+    "text": "?",
+    "paragraphs": [
+      117
+    ]
+  },
+  {
+    "id": "1586660372",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T08:34:26",
+    "text": "top",
+    "paragraphs": [
+      125
+    ]
+  },
+  {
+    "id": "651857810",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T08:38:47",
+    "text": "5",
+    "paragraphs": [
+      120
+    ]
+  },
+  {
+    "id": "1349745428",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T08:40:08",
+    "text": " Quais dados serão analisados e como eles contribuirão para as recomendações? Também precisamos identificar quem administra as propriedades dos dois canais e se elas já estão cadastradas na ferramenta.",
+    "paragraphs": [
+      124
+    ]
+  },
+  {
+    "id": "777727735",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T09:34:21",
+    "text": "Quais são as principais tarefas dos usuários do canal e como elas foram identificadas? ",
+    "paragraphs": [
+      333
+    ]
+  },
+  {
+    "id": "974614953",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T10:17:43",
+    "text": "Não entendi a relação entre a média de 846 palavras por página e a conclusão de que o conteúdo está adequado e é preciso.  Quais critérios foram utilizados para avaliar a adequação e a precisão do conteúdo? Essa média está sendo comparada com algum parâmetro ou referência?",
+    "paragraphs": [
+      340
+    ]
+  },
+  {
+    "id": "1056487337",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T10:26:21",
+    "text": "Notei que vários portais estão exibindo campanha, sabe se é alguma obrigatoriedade?",
+    "paragraphs": [
+      370
+    ]
+  },
+  {
+    "id": "1411378379",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T10:29:05",
+    "text": "Como essa pergunta poderia ser respondida com um único número, se a quantidade de cotas varia entre órgãos e entidades? A proposta seria criar uma consulta individualizada ou uma tabela com os quantitativos de cada órgão?",
+    "paragraphs": [
+      387
+    ]
+  },
+  {
+    "id": "124073338",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T10:29:40",
+    "text": "também acho",
+    "paragraphs": [
+      470
+    ]
+  },
+  {
+    "id": "1505084434",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T10:42:12",
+    "text": "A proposta é explicar ao usuário a finalidade de cada canal? ou seja, quando consultar as perguntas frequentes, quando falar com a equipe responsável e quando registrar reclamação, denúncia ou outra manifestação na Ouvidoria, é isso?",
+    "paragraphs": [
+      401
+    ]
+  },
+  {
+    "id": "1052835044",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:09:08",
+    "text": "Esses valores são pontuações produzidas pelo Lighthouse?",
+    "paragraphs": [
+      411,
+      412,
+      413
+    ]
+  },
+  {
+    "id": "722321532",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:24:18",
+    "text": "Sugiro separar as situações. Para os servidores ativos (efetivos ou comissionados), a pergunta deve esclarecer se a BR é tributada e quais descontos incidem sobre o pagamento. A Lei determina que não incidem descontos previdenciários sobre a bonificação, mas seria importante confirmar se a aplicação dessa regra é igual para o servidor efetivo vinculado ao RPPS/SPPREV e para o ocupante exclusivamente de cargo em comissão, vinculado ao RGPS/INSS. A incidência de Imposto de Renda deve ser tratada separadamente.  Quanto aos aposentados, a BR não integra o cálculo da aposentadoria e não é paga apenas em razão da condição de aposentado, pois depende do exercício e da participação no cumprimento das metas.",
+    "paragraphs": [
+      612
+    ]
+  },
+  {
+    "id": "369275438",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:31:05",
+    "text": "Historicamente, a inclusão de informações relacionadas a pagamento nas perguntas frequentes da BR tem sido um ponto sensível, pois as respostas sobre descontos, tributação, processamento da folha e situações individuais dependem da área responsável pelo pagamento. Seria válido verificar com a equipe da BR se já existe algum material elaborado em conjunto com a Diretoria de Pagamento ou se seria possível realizar essa construção conjunta. A partir dessa validação, poderíamos atualizar as respostas existentes e incluir novas perguntas, deixando claro o tratamento aplicável aos servidores ativos, efetivos e comissionados, bem como os efeitos previdenciários e a situação dos aposentados.",
+    "paragraphs": [
+      626,
+      627
+    ]
+  },
+  {
+    "id": "439052898",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:35:23",
+    "text": "de todo modo, eles não recebem",
+    "paragraphs": [
+      654,
+      655
+    ]
+  },
+  {
+    "id": "503441252",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:35:35",
+    "text": "eita",
+    "paragraphs": [
+      660
+    ]
+  },
+  {
+    "id": "669279907",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:36:45",
+    "text": "aqui vc sugere colocar um campo para o e-mail institucional?",
+    "paragraphs": [
+      664
+    ]
+  },
+  {
+    "id": "457449451",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:43:12",
+    "text": "discordo hehe, o portal estava comigo e ele está bem cru",
+    "paragraphs": [
+      970,
+      971,
+      972
+    ]
+  },
+  {
+    "id": "1611436264",
+    "author": "Marina Alves Passafaro",
+    "date": "2026-09-04T11:44:17",
+    "text": "isto ficará com nós",
+    "paragraphs": [
+      988
+    ]
+  },
+  {
+    "id": "1139632304",
+    "author": "Eduardo Farias Cappia",
+    "date": "2026-09-10T10:38:27",
+    "text": "O aviso de cookies.  Ele afirma que o site \"utiliza apenas cookies essenciais\". Testei em perfil limpo, simulando primeira visita, com o aviso ainda na tela e sem clicar em nada. Os dois canais já haviam gravado cookies do Google Analytics: _gae _ga_27EY8512R3 no SIORG, _ga e _ga_S62KL2P389 na BR. Analytics é cookie de  medição , não essencial. Na BR há também cookies do Imperva, e esses sim são de segurança e defensavelmente essenciais. As duas partes da afirmação, portanto, não se sustentam: existem cookies não essenciais, e eles são gravados  antes  do consentimento, não depois. A LGPD exige consentimento livre, informado e inequívoco (art. 8º), diz que autorização genérica é nula (§4º) e garante o direito de revogar (§5º), nenhum dos três acontece hoje.",
+    "paragraphs": [
+      117
+    ]
+  },
+  {
+    "id": "1725438176",
+    "author": "Eduardo Farias Cappia",
+    "date": "2026-09-10T12:43:06",
+    "text": "Complementando meu registro: mantive o teste como indício de possível divergência entre o aviso e os cookies utilizados, mas corrigi a conclusão jurídica. O consentimento não é a única base legal possível para cookies de medição; a ANPD admite outras bases em situações específicas. Precisamos documentar as finalidades, as configurações e a base legal adotada com os responsáveis pelo tratamento antes de concluir pela irregularidade.  Guia de Cookies da ANPD",
+    "paragraphs": [
+      117
+    ]
+  },
+  {
+    "id": "1114662891",
+    "author": "Eduardo Farias Cappia",
+    "date": "2026-09-10T12:43:48",
+    "text": "Incluí como primeiro passo identificar quem administra as propriedades que abrangem os dois canais e verificar se estão cadastradas. A análise proposta considera pesquisas feitas no Google, páginas exibidas, impressões, cliques, taxa de cliques e indexação, por período e dispositivo. Esses dados ajudam a priorizar conteúdos e títulos, mas não demonstram, sozinhos, se o usuário concluiu sua tarefa dentro do site.",
+    "paragraphs": [
+      124
+    ]
+  }
+]

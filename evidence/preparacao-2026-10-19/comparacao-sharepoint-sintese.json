@@ -1,0 +1,70 @@
+{
+  "checked_on": "2026-10-19",
+  "file": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/Diagnostico_SIORG_BR.docx",
+  "sha256": "0c485d4e78d35f58a60ca206759484ad7285113a0353cc62d793928d6a5d3523",
+  "core": {
+    "title": "Diagnóstico Inicial dos Canais SIORG e BR",
+    "creator": "Eduardo Farias Cappia",
+    "lastModifiedBy": "Marina Alves Passafaro",
+    "revision": "6",
+    "created": "2026-09-03T16:54:00Z",
+    "modified": "2026-09-10T20:15:10Z"
+  },
+  "paragraph_count": 1400,
+  "comment_count": 21,
+  "equivalent_to_C3": false,
+  "equivalent_to_R10": false,
+  "comparison_method": [
+    "ordered paragraph text including tables",
+    "comments id text author date and anchors",
+    "normalized paragraph text without blank paragraphs whitespace differences and numeric citation markers",
+    "core properties and OOXML comments extensions"
+  ],
+  "preserved_comments": [
+    "1052835044",
+    "1056487337",
+    "1071617300",
+    "1139632304",
+    "124073338",
+    "1349745428",
+    "1411378379",
+    "1505084434",
+    "1586660372",
+    "1611436264",
+    "369275438",
+    "439052898",
+    "457449451",
+    "503441252",
+    "651857810",
+    "669279907",
+    "722321532",
+    "777727735",
+    "974614953"
+  ],
+  "absent_comments_from_C3": [
+    "1444534827",
+    "23709037",
+    "568189757",
+    "634257690",
+    "750917781",
+    "887987198"
+  ],
+  "added_comments": [
+    "1114662891",
+    "1725438176"
+  ],
+  "preserved_comment_content_identical": true,
+  "six_items_supported_by_sharepoint_copy": true,
+  "selected_primary": "SP19",
+  "supplementary": [
+    "R10 for critical qualifications and URLs",
+    "C3 for comment history"
+  ],
+  "not_claimed": [
+    "institutional approval",
+    "live portal state on 2026-10-19",
+    "current normative accuracy",
+    "equivalence between the three files"
+  ],
+  "all_five_source_hashes_unchanged": true
+}

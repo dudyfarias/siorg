@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-12",
+  "id": "dpl_ExouzdkJbGDzpBAGQHcKpYjJUrsp",
+  "readyState": "READY",
+  "target": "production",
+  "alias": "https://siorg-calculadora-mvp.vercel.app",
+  "immutableUrl": "https://siorg-calculadora-kh2yauuct-dudycappia-4508s-projects.vercel.app",
+  "publicScript": "/assets/index-DbbtrK4A.js",
+  "buildPassed": true,
+  "testCount": 209,
+  "packagingTestCount": 4,
+  "uploadFileCount": 50,
+  "browserPublicAccess": true,
+  "httpStatus": null
+}

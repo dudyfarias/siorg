@@ -1,0 +1,154 @@
+{
+  "organizationId": "spi",
+  "act": {
+    "id": "spi-res-2026-08-12",
+    "title": "Resolução",
+    "actDate": "2026-08-12",
+    "publicationDate": "2026-08-13",
+    "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+    "rawFile": "spi-res-2026-08-12-raw.json",
+    "classification": "allocation-transfer",
+    "changes": [
+      {
+        "sourceUnitCode": "10200018",
+        "sourceUnit": "Subsecretaria de Gestão Corporativa",
+        "sourceVacancyId": "2412330",
+        "destinationUnitCode": "10200022",
+        "destinationUnit": "Diretoria de Gestão Administrativa",
+        "code": "CCESP 2.12",
+        "denomination": "Assessor IV",
+        "sourcePositionLabel": "Assessor IV",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "sourceRow": 2,
+        "codePrintedInMovementAct": false,
+        "codeBasis": {
+          "method": "unique-code-in-source-unit-and-denomination-in-official-baseline-plus-prior-explicit-movements",
+          "baseUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html",
+          "candidateCodes": [
+            "CCESP 2.12"
+          ]
+        }
+      },
+      {
+        "sourceUnitCode": "10200023",
+        "sourceUnit": "Coordenadoria de Gestão e Infraestrutura",
+        "sourceVacancyId": "2412366",
+        "destinationUnitCode": "10200025",
+        "destinationUnit": "Coordenadoria de Contratação e Convênios",
+        "code": "CCESP 2.11",
+        "denomination": "Assessor III",
+        "sourcePositionLabel": "Assessor III",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "sourceRow": 3,
+        "codePrintedInMovementAct": false,
+        "codeBasis": {
+          "method": "unique-code-in-source-unit-and-denomination-in-official-baseline-plus-prior-explicit-movements",
+          "baseUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html",
+          "candidateCodes": [
+            "CCESP 2.11"
+          ],
+          "sourceUnitPrintedInDecree": "Coordenadoria de Gestão Infraestrutura",
+          "sourceUnitPrintedInMovementAct": "Coordenadoria de Gestão e Infraestrutura",
+          "unitLabelReconciliation": "Variação textual entre quadros; pareamento documental registrado, não ato formal de renomeação."
+        }
+      },
+      {
+        "sourceUnitCode": "10200016",
+        "sourceUnit": "Coordenadoria de Gestão de Parcerias Sociais",
+        "sourceVacancyId": "2412390",
+        "destinationUnitCode": "10200018",
+        "destinationUnit": "Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.10",
+        "denomination": "Assessor II",
+        "sourcePositionLabel": "Assessor II",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "sourceRow": 4,
+        "codePrintedInMovementAct": false,
+        "codeBasis": {
+          "method": "unique-code-in-source-unit-and-denomination-in-official-baseline-plus-prior-explicit-movements",
+          "baseUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html",
+          "candidateCodes": [
+            "CCESP 2.10"
+          ]
+        }
+      },
+      {
+        "sourceUnitCode": "10200013",
+        "sourceUnit": "Coordenadoria de Gestão de Parcerias em Rodovias",
+        "sourceVacancyId": "2406012",
+        "destinationUnitCode": "10200022",
+        "destinationUnit": "Diretoria de Gestão Administrativa",
+        "code": "CCESP 2.09",
+        "denomination": "Assessor I",
+        "sourcePositionLabel": "Assessor I",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "sourceRow": 5,
+        "codePrintedInMovementAct": false,
+        "codeBasis": {
+          "method": "unique-code-in-source-unit-and-denomination-in-official-baseline-plus-prior-explicit-movements",
+          "baseUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html",
+          "candidateCodes": [
+            "CCESP 2.09"
+          ],
+          "sourceUnitPrintedInDecree": "Coordenadoria de Gestão de Parceiras em Rodovias",
+          "sourceUnitPrintedInMovementAct": "Coordenadoria de Gestão de Parcerias em Rodovias",
+          "unitLabelReconciliation": "Variação textual entre quadros; pareamento documental registrado, não ato formal de renomeação."
+        }
+      },
+      {
+        "sourceUnitCode": "10200025",
+        "sourceUnit": "Coordenadoria de Contratação e Convênios",
+        "sourceVacancyId": "2410991",
+        "destinationUnitCode": "10200023",
+        "destinationUnit": "Coordenadoria de Gestão e Infraestrutura",
+        "code": "CCESP 2.09",
+        "denomination": "Assessor I",
+        "sourcePositionLabel": "Assessor I",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "sourceRow": 6,
+        "codePrintedInMovementAct": false,
+        "codeBasis": {
+          "method": "unique-code-in-source-unit-and-denomination-in-official-baseline-plus-prior-explicit-movements",
+          "baseUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html",
+          "candidateCodes": [
+            "CCESP 2.09"
+          ]
+        }
+      },
+      {
+        "sourceUnitCode": "10200012",
+        "sourceUnit": "Diretoria de Gestão de Parcerias em Transportes",
+        "sourceVacancyId": "2412376",
+        "destinationUnitCode": "10200018",
+        "destinationUnit": "Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.07",
+        "denomination": "Assistente Técnico III",
+        "sourcePositionLabel": "Assistente Técnico III",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "sourceRow": 7,
+        "codePrintedInMovementAct": false,
+        "codeBasis": {
+          "method": "unique-code-in-source-unit-and-denomination-in-official-baseline-plus-prior-explicit-movements",
+          "baseUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html",
+          "candidateCodes": [
+            "CCESP 2.07"
+          ]
+        }
+      }
+    ],
+    "aggregateQuantityChange": "0",
+    "aggregateQuotaChangeCents": "0",
+    "status": "explicit-transfers-extracted-codes-cross-checked-with-baseline",
+    "effectiveRule": "10 dias úteis após publicação; data final não inferida sem calendário aplicável.",
+    "limitations": [
+      "A resolução identifica a denominação e a vaga, mas não imprime código CCESP/FCESP. Códigos foram conciliados somente quando únicos na unidade de origem e denominação do quadro oficial, respeitadas as movimentações anteriores.",
+      "O decreto imprime Gestão Infraestrutura (sem e) e Gestão de Parceiras em Rodovias; a resolução imprime Gestão e Infraestrutura e Gestão de Parcerias em Rodovias. Variantes preservadas no codeBasis para revisão do pareamento."
+    ]
+  }
+}

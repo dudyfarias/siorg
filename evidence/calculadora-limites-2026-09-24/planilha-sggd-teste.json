@@ -1,0 +1,4299 @@
+{
+  "sourceFile": "/Users/eduardofariascappia/Downloads/SGGD- TESTE.xlsx",
+  "sha256": "509a0cafcfa6506c48033fe94e7d674dc2de218438d1413f82b92f2883edaa94",
+  "inspectionDate": "2026-09-24",
+  "mode": "read-only; openpyxl extraction; no workbook export or modification; no native recalculation",
+  "privacy": "No author metadata or unnecessary personal data retained; no embedded instructions executed.",
+  "classification": "Combined calculator and allocation model; the present implementation should use calculator section only.",
+  "sheets": [
+    {
+      "name": "SGGD",
+      "state": "visible",
+      "formattedDimension": "A1:S359",
+      "nonemptyExtent": "A1:S75",
+      "nonemptyCells": 945,
+      "formulaCount": 479,
+      "mergedRanges": [
+        "A1:J1",
+        "A64:L64",
+        "A8:J8",
+        "A58:D58",
+        "A9:J9",
+        "A75:F75",
+        "A284:H284",
+        "A2:J2",
+        "A282:E282",
+        "A10:J10",
+        "O4:S4",
+        "A288:J288"
+      ],
+      "protection": false,
+      "freezePanes": null
+    }
+  ],
+  "titles": [
+    {
+      "cell": "A1",
+      "value": "Simulador de cargos e cotas — SGGD"
+    },
+    {
+      "cell": "A2",
+      "value": "Secretaria de Gestão e Governo Digital | Decreto nº 70.755, de 14 de julho de 2026"
+    },
+    {
+      "cell": "A8",
+      "value": "Edite somente a coluna “Quantidade proposta” na tabela detalhada abaixo. A calculadora verifica automaticamente os limites quantitativos e de cotas."
+    },
+    {
+      "cell": "A9",
+      "value": "DETALHAMENTO DA PROPOSTA POR CÓDIGO — editar somente “Quantidade proposta”"
+    },
+    {
+      "cell": "A10",
+      "value": "1. CALCULADORA — DETALHAMENTO DA PROPOSTA"
+    },
+    {
+      "cell": "A58",
+      "value": "2. DISTRIBUIÇÃO DE CARGOS"
+    },
+    {
+      "cell": "A64",
+      "value": "3. ESTRUTURA ORGANIZACIONAL — QUANTITATIVO POR BLOCO"
+    },
+    {
+      "cell": "O4",
+      "value": "CONFERÊNCIA CÓDIGO A CÓDIGO"
+    }
+  ],
+  "headerCells": {
+    "A4": {
+      "value": "Categoria",
+      "cached": "Categoria",
+      "type": "s"
+    },
+    "B4": {
+      "value": "Limite quantitativo",
+      "cached": "Limite quantitativo",
+      "type": "s"
+    },
+    "C4": {
+      "value": "Quantidade atual",
+      "cached": "Quantidade atual",
+      "type": "s"
+    },
+    "D4": {
+      "value": "Quantidade proposta",
+      "cached": "Quantidade proposta",
+      "type": "s"
+    },
+    "E4": {
+      "value": "Variação quantitativa",
+      "cached": "Variação quantitativa",
+      "type": "s"
+    },
+    "F4": {
+      "value": "Limite de cotas",
+      "cached": "Limite de cotas",
+      "type": "s"
+    },
+    "G4": {
+      "value": "Cotas atuais",
+      "cached": "Cotas atuais",
+      "type": "s"
+    },
+    "H4": {
+      "value": "Cotas propostas",
+      "cached": "Cotas propostas",
+      "type": "s"
+    },
+    "I4": {
+      "value": "Variação de cotas",
+      "cached": "Variação de cotas",
+      "type": "s"
+    },
+    "J4": {
+      "value": "Status",
+      "cached": "Status",
+      "type": "s"
+    },
+    "A5": {
+      "value": "CCESP",
+      "cached": "CCESP",
+      "type": "s"
+    },
+    "B5": {
+      "value": 298,
+      "cached": 298,
+      "type": "n"
+    },
+    "C5": {
+      "value": 298,
+      "cached": 298,
+      "type": "n"
+    },
+    "D5": {
+      "value": 298,
+      "cached": 298,
+      "type": "n"
+    },
+    "E5": {
+      "value": "=D5-C5",
+      "cached": 0,
+      "type": "f"
+    },
+    "F5": {
+      "value": 1066,
+      "cached": 1066,
+      "type": "n"
+    },
+    "G5": {
+      "value": 1066,
+      "cached": 1066,
+      "type": "n"
+    },
+    "H5": {
+      "value": 1066,
+      "cached": 1066,
+      "type": "n"
+    },
+    "I5": {
+      "value": "=H5-G5",
+      "cached": 0,
+      "type": "f"
+    },
+    "J5": {
+      "value": "=IF(AND(D5<=B5,H5<=F5),\"Enquadrada\",\"Fora do limite\")",
+      "cached": "Enquadrada",
+      "type": "f"
+    },
+    "A6": {
+      "value": "FCESP",
+      "cached": "FCESP",
+      "type": "s"
+    },
+    "B6": {
+      "value": 201,
+      "cached": 201,
+      "type": "n"
+    },
+    "C6": {
+      "value": 201,
+      "cached": 201,
+      "type": "n"
+    },
+    "D6": {
+      "value": 201,
+      "cached": 201,
+      "type": "n"
+    },
+    "E6": {
+      "value": "=D6-C6",
+      "cached": 0,
+      "type": "f"
+    },
+    "F6": {
+      "value": 349.35,
+      "cached": 349.35,
+      "type": "n"
+    },
+    "G6": {
+      "value": 349.35,
+      "cached": 349.35,
+      "type": "n"
+    },
+    "H6": {
+      "value": 349.35,
+      "cached": 349.35,
+      "type": "n"
+    },
+    "I6": {
+      "value": "=H6-G6",
+      "cached": 0,
+      "type": "f"
+    },
+    "J6": {
+      "value": "=IF(AND(D6<=B6,H6<=F6),\"Enquadrada\",\"Fora do limite\")",
+      "cached": "Enquadrada",
+      "type": "f"
+    },
+    "A7": {
+      "value": "TOTAL GERAL",
+      "cached": "TOTAL GERAL",
+      "type": "s"
+    },
+    "B7": {
+      "value": 499,
+      "cached": 499,
+      "type": "n"
+    },
+    "C7": {
+      "value": 499,
+      "cached": 499,
+      "type": "n"
+    },
+    "D7": {
+      "value": 499,
+      "cached": 499,
+      "type": "n"
+    },
+    "E7": {
+      "value": "=D7-C7",
+      "cached": 0,
+      "type": "f"
+    },
+    "F7": {
+      "value": 1415.35,
+      "cached": 1415.35,
+      "type": "n"
+    },
+    "G7": {
+      "value": 1415.35,
+      "cached": 1415.35,
+      "type": "n"
+    },
+    "H7": {
+      "value": 1415.35,
+      "cached": 1415.35,
+      "type": "n"
+    },
+    "I7": {
+      "value": "=H7-G7",
+      "cached": 0,
+      "type": "f"
+    },
+    "J7": {
+      "value": "=IF(AND(D7<=B7,H7<=F7),\"Enquadrada nos limites\",\"Fora dos limites\")",
+      "cached": "Enquadrada nos limites",
+      "type": "f"
+    }
+  },
+  "detailRows": [
+    {
+      "row": 12,
+      "group": "CCESP",
+      "code": "CCESP 1.18",
+      "remunerationValue": "26694",
+      "coefficient": "9",
+      "currentQuantity": 1,
+      "proposalQuantity": 1,
+      "currentQuotaIndependent": "9",
+      "proposalQuotaIndependent": "9",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 13,
+      "group": "CCESP",
+      "code": "CCESP 1.17",
+      "remunerationValue": "23728",
+      "coefficient": "8",
+      "currentQuantity": 7,
+      "proposalQuantity": 7,
+      "currentQuotaIndependent": "56",
+      "proposalQuotaIndependent": "56",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 14,
+      "group": "CCESP",
+      "code": "CCESP 1.16",
+      "remunerationValue": "20762",
+      "coefficient": "7",
+      "currentQuantity": 3,
+      "proposalQuantity": 3,
+      "currentQuotaIndependent": "21",
+      "proposalQuotaIndependent": "21",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 15,
+      "group": "CCESP",
+      "code": "CCESP 2.16",
+      "remunerationValue": "20762",
+      "coefficient": "7",
+      "currentQuantity": 1,
+      "proposalQuantity": 1,
+      "currentQuotaIndependent": "7",
+      "proposalQuotaIndependent": "7",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 16,
+      "group": "CCESP",
+      "code": "CCESP 1.15",
+      "remunerationValue": "17796",
+      "coefficient": "6",
+      "currentQuantity": 21,
+      "proposalQuantity": 21,
+      "currentQuotaIndependent": "126",
+      "proposalQuotaIndependent": "126",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 17,
+      "group": "CCESP",
+      "code": "CCESP 2.15",
+      "remunerationValue": "17796",
+      "coefficient": "6",
+      "currentQuantity": 2,
+      "proposalQuantity": 2,
+      "currentQuotaIndependent": "12",
+      "proposalQuotaIndependent": "12",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 18,
+      "group": "CCESP",
+      "code": "CCESP 1.14",
+      "remunerationValue": "16313",
+      "coefficient": "5.5",
+      "currentQuantity": 3,
+      "proposalQuantity": 3,
+      "currentQuotaIndependent": "16.5",
+      "proposalQuotaIndependent": "16.5",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 19,
+      "group": "CCESP",
+      "code": "CCESP 2.14",
+      "remunerationValue": "16313",
+      "coefficient": "5.5",
+      "currentQuantity": 1,
+      "proposalQuantity": 1,
+      "currentQuotaIndependent": "5.5",
+      "proposalQuotaIndependent": "5.5",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 20,
+      "group": "CCESP",
+      "code": "CCESP 1.13",
+      "remunerationValue": "13347",
+      "coefficient": "4.5",
+      "currentQuantity": 44,
+      "proposalQuantity": 44,
+      "currentQuotaIndependent": "198.0",
+      "proposalQuotaIndependent": "198.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 21,
+      "group": "CCESP",
+      "code": "CCESP 2.13",
+      "remunerationValue": "13347",
+      "coefficient": "4.5",
+      "currentQuantity": 7,
+      "proposalQuantity": 7,
+      "currentQuotaIndependent": "31.5",
+      "proposalQuotaIndependent": "31.5",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 22,
+      "group": "CCESP",
+      "code": "CCESP 2.12",
+      "remunerationValue": "11864",
+      "coefficient": "4",
+      "currentQuantity": 18,
+      "proposalQuantity": 18,
+      "currentQuotaIndependent": "72",
+      "proposalQuotaIndependent": "72",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 23,
+      "group": "CCESP",
+      "code": "CCESP 2.11",
+      "remunerationValue": "10381",
+      "coefficient": "3.5",
+      "currentQuantity": 8,
+      "proposalQuantity": 8,
+      "currentQuotaIndependent": "28.0",
+      "proposalQuotaIndependent": "28.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 24,
+      "group": "CCESP",
+      "code": "CCESP 1.10",
+      "remunerationValue": "9639.5",
+      "coefficient": "3.25",
+      "currentQuantity": 35,
+      "proposalQuantity": 35,
+      "currentQuotaIndependent": "113.75",
+      "proposalQuotaIndependent": "113.75",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 25,
+      "group": "CCESP",
+      "code": "CCESP 2.10",
+      "remunerationValue": "9639.5",
+      "coefficient": "3.25",
+      "currentQuantity": 16,
+      "proposalQuantity": 16,
+      "currentQuotaIndependent": "52.00",
+      "proposalQuotaIndependent": "52.00",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 26,
+      "group": "CCESP",
+      "code": "CCESP 2.09",
+      "remunerationValue": "8898",
+      "coefficient": "3",
+      "currentQuantity": 15,
+      "proposalQuantity": 15,
+      "currentQuotaIndependent": "45",
+      "proposalQuotaIndependent": "45",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 27,
+      "group": "CCESP",
+      "code": "CCESP 2.08",
+      "remunerationValue": "8156.5",
+      "coefficient": "2.75",
+      "currentQuantity": 53,
+      "proposalQuantity": 53,
+      "currentQuotaIndependent": "145.75",
+      "proposalQuotaIndependent": "145.75",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 28,
+      "group": "CCESP",
+      "code": "CCESP 1.07",
+      "remunerationValue": "7415",
+      "coefficient": "2.5",
+      "currentQuantity": 1,
+      "proposalQuantity": 1,
+      "currentQuotaIndependent": "2.5",
+      "proposalQuotaIndependent": "2.5",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 29,
+      "group": "CCESP",
+      "code": "CCESP 2.07",
+      "remunerationValue": "7415",
+      "coefficient": "2.5",
+      "currentQuantity": 10,
+      "proposalQuantity": 10,
+      "currentQuotaIndependent": "25.0",
+      "proposalQuotaIndependent": "25.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 30,
+      "group": "CCESP",
+      "code": "CCESP 2.06",
+      "remunerationValue": "6673.5",
+      "coefficient": "2.25",
+      "currentQuantity": 16,
+      "proposalQuantity": 16,
+      "currentQuotaIndependent": "36.00",
+      "proposalQuotaIndependent": "36.00",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 31,
+      "group": "CCESP",
+      "code": "CCESP 1.05",
+      "remunerationValue": "5932",
+      "coefficient": "2",
+      "currentQuantity": 7,
+      "proposalQuantity": 7,
+      "currentQuotaIndependent": "14",
+      "proposalQuotaIndependent": "14",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 32,
+      "group": "CCESP",
+      "code": "CCESP 2.05",
+      "remunerationValue": "5932",
+      "coefficient": "2",
+      "currentQuantity": 6,
+      "proposalQuantity": 6,
+      "currentQuotaIndependent": "12",
+      "proposalQuotaIndependent": "12",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 33,
+      "group": "CCESP",
+      "code": "CCESP 2.04",
+      "remunerationValue": "5190.5",
+      "coefficient": "1.75",
+      "currentQuantity": 17,
+      "proposalQuantity": 17,
+      "currentQuotaIndependent": "29.75",
+      "proposalQuotaIndependent": "29.75",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 34,
+      "group": "CCESP",
+      "code": "CCESP 2.03",
+      "remunerationValue": "4449",
+      "coefficient": "1.5",
+      "currentQuantity": 2,
+      "proposalQuantity": 2,
+      "currentQuotaIndependent": "3.0",
+      "proposalQuotaIndependent": "3.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 35,
+      "group": "CCESP",
+      "code": "CCESP 2.02",
+      "remunerationValue": "3707.5",
+      "coefficient": "1.25",
+      "currentQuantity": 3,
+      "proposalQuantity": 3,
+      "currentQuotaIndependent": "3.75",
+      "proposalQuotaIndependent": "3.75",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 36,
+      "group": "CCESP",
+      "code": "CCESP 2.01",
+      "remunerationValue": "2966",
+      "coefficient": "1",
+      "currentQuantity": 1,
+      "proposalQuantity": 1,
+      "currentQuotaIndependent": "1",
+      "proposalQuotaIndependent": "1",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 37,
+      "group": "FCESP",
+      "code": "FCESP 1.16",
+      "remunerationValue": "12457.2",
+      "coefficient": "4.2",
+      "currentQuantity": 1,
+      "proposalQuantity": 1,
+      "currentQuotaIndependent": "4.2",
+      "proposalQuotaIndependent": "4.2",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 38,
+      "group": "FCESP",
+      "code": "FCESP 1.15",
+      "remunerationValue": "10677.6",
+      "coefficient": "3.6",
+      "currentQuantity": 5,
+      "proposalQuantity": 5,
+      "currentQuotaIndependent": "18.0",
+      "proposalQuotaIndependent": "18.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 39,
+      "group": "FCESP",
+      "code": "FCESP 1.14",
+      "remunerationValue": "9787.8",
+      "coefficient": "3.3",
+      "currentQuantity": 3,
+      "proposalQuantity": 3,
+      "currentQuotaIndependent": "9.9",
+      "proposalQuotaIndependent": "9.9",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 40,
+      "group": "FCESP",
+      "code": "FCESP 1.13",
+      "remunerationValue": "8008.2",
+      "coefficient": "2.7",
+      "currentQuantity": 13,
+      "proposalQuantity": 13,
+      "currentQuotaIndependent": "35.1",
+      "proposalQuotaIndependent": "35.1",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 41,
+      "group": "FCESP",
+      "code": "FCESP 2.13",
+      "remunerationValue": "8008.2",
+      "coefficient": "2.7",
+      "currentQuantity": 3,
+      "proposalQuantity": 3,
+      "currentQuotaIndependent": "8.1",
+      "proposalQuotaIndependent": "8.1",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 42,
+      "group": "FCESP",
+      "code": "FCESP 2.12",
+      "remunerationValue": "7118.4",
+      "coefficient": "2.4",
+      "currentQuantity": 5,
+      "proposalQuantity": 5,
+      "currentQuotaIndependent": "12.0",
+      "proposalQuotaIndependent": "12.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 43,
+      "group": "FCESP",
+      "code": "FCESP 2.11",
+      "remunerationValue": "6228.6",
+      "coefficient": "2.1",
+      "currentQuantity": 2,
+      "proposalQuantity": 2,
+      "currentQuotaIndependent": "4.2",
+      "proposalQuotaIndependent": "4.2",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 44,
+      "group": "FCESP",
+      "code": "FCESP 1.10",
+      "remunerationValue": "5783.7",
+      "coefficient": "1.95",
+      "currentQuantity": 43,
+      "proposalQuantity": 43,
+      "currentQuotaIndependent": "83.85",
+      "proposalQuotaIndependent": "83.85",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 45,
+      "group": "FCESP",
+      "code": "FCESP 2.10",
+      "remunerationValue": "5783.7",
+      "coefficient": "1.95",
+      "currentQuantity": 10,
+      "proposalQuantity": 10,
+      "currentQuotaIndependent": "19.50",
+      "proposalQuotaIndependent": "19.50",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 46,
+      "group": "FCESP",
+      "code": "FCESP 2.09",
+      "remunerationValue": "5338.8",
+      "coefficient": "1.8",
+      "currentQuantity": 8,
+      "proposalQuantity": 8,
+      "currentQuotaIndependent": "14.4",
+      "proposalQuotaIndependent": "14.4",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 47,
+      "group": "FCESP",
+      "code": "FCESP 2.08",
+      "remunerationValue": "4893.9",
+      "coefficient": "1.65",
+      "currentQuantity": 12,
+      "proposalQuantity": 12,
+      "currentQuotaIndependent": "19.80",
+      "proposalQuotaIndependent": "19.80",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 48,
+      "group": "FCESP",
+      "code": "FCESP 1.07",
+      "remunerationValue": "4449",
+      "coefficient": "1.5",
+      "currentQuantity": 16,
+      "proposalQuantity": 16,
+      "currentQuotaIndependent": "24.0",
+      "proposalQuotaIndependent": "24.0",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 49,
+      "group": "FCESP",
+      "code": "FCESP 2.07",
+      "remunerationValue": "4449",
+      "coefficient": "1.5",
+      "currentQuantity": 9,
+      "proposalQuantity": 9,
+      "currentQuotaIndependent": "13.5",
+      "proposalQuotaIndependent": "13.5",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 50,
+      "group": "FCESP",
+      "code": "FCESP 2.06",
+      "remunerationValue": "4004.1",
+      "coefficient": "1.35",
+      "currentQuantity": 24,
+      "proposalQuantity": 24,
+      "currentQuotaIndependent": "32.40",
+      "proposalQuotaIndependent": "32.40",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 51,
+      "group": "FCESP",
+      "code": "FCESP 1.05",
+      "remunerationValue": "3559.2",
+      "coefficient": "1.2",
+      "currentQuantity": 14,
+      "proposalQuantity": 14,
+      "currentQuotaIndependent": "16.8",
+      "proposalQuotaIndependent": "16.8",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 52,
+      "group": "FCESP",
+      "code": "FCESP 2.05",
+      "remunerationValue": "3559.2",
+      "coefficient": "1.2",
+      "currentQuantity": 14,
+      "proposalQuantity": 14,
+      "currentQuotaIndependent": "16.8",
+      "proposalQuotaIndependent": "16.8",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 53,
+      "group": "FCESP",
+      "code": "FCESP 2.04",
+      "remunerationValue": "3114.3",
+      "coefficient": "1.05",
+      "currentQuantity": 8,
+      "proposalQuantity": 8,
+      "currentQuotaIndependent": "8.40",
+      "proposalQuotaIndependent": "8.40",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 54,
+      "group": "FCESP",
+      "code": "FCESP 2.03",
+      "remunerationValue": "2669.4",
+      "coefficient": "0.9",
+      "currentQuantity": 5,
+      "proposalQuantity": 5,
+      "currentQuotaIndependent": "4.5",
+      "proposalQuotaIndependent": "4.5",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 55,
+      "group": "FCESP",
+      "code": "FCESP 2.02",
+      "remunerationValue": "2224.5",
+      "coefficient": "0.75",
+      "currentQuantity": 2,
+      "proposalQuantity": 2,
+      "currentQuotaIndependent": "1.50",
+      "proposalQuotaIndependent": "1.50",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    },
+    {
+      "row": 56,
+      "group": "FCESP",
+      "code": "FCESP 2.01",
+      "remunerationValue": "1779.6",
+      "coefficient": "0.6",
+      "currentQuantity": 4,
+      "proposalQuantity": 4,
+      "currentQuotaIndependent": "2.4",
+      "proposalQuotaIndependent": "2.4",
+      "matchesAnnexIIIQuantity": true,
+      "matchesAnnexIIICoefficient": true
+    }
+  ],
+  "formulas": [
+    {
+      "cell": "E5",
+      "formula": "=D5-C5",
+      "cached": 0
+    },
+    {
+      "cell": "I5",
+      "formula": "=H5-G5",
+      "cached": 0
+    },
+    {
+      "cell": "J5",
+      "formula": "=IF(AND(D5<=B5,H5<=F5),\"Enquadrada\",\"Fora do limite\")",
+      "cached": "Enquadrada"
+    },
+    {
+      "cell": "E6",
+      "formula": "=D6-C6",
+      "cached": 0
+    },
+    {
+      "cell": "I6",
+      "formula": "=H6-G6",
+      "cached": 0
+    },
+    {
+      "cell": "J6",
+      "formula": "=IF(AND(D6<=B6,H6<=F6),\"Enquadrada\",\"Fora do limite\")",
+      "cached": "Enquadrada"
+    },
+    {
+      "cell": "P6",
+      "formula": "=SUMIF($B$12:$B$56,O6,$F$12:$F$56)",
+      "cached": 1
+    },
+    {
+      "cell": "R6",
+      "formula": "=P6-Q6",
+      "cached": 0
+    },
+    {
+      "cell": "S6",
+      "formula": "=IF(R6=0,\"Alocado corretamente\",IF(R6>0,\"Falta alocar \"&R6,\"Excesso alocado: \"&ABS(R6)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "E7",
+      "formula": "=D7-C7",
+      "cached": 0
+    },
+    {
+      "cell": "I7",
+      "formula": "=H7-G7",
+      "cached": 0
+    },
+    {
+      "cell": "J7",
+      "formula": "=IF(AND(D7<=B7,H7<=F7),\"Enquadrada nos limites\",\"Fora dos limites\")",
+      "cached": "Enquadrada nos limites"
+    },
+    {
+      "cell": "P7",
+      "formula": "=SUMIF($B$12:$B$56,O7,$F$12:$F$56)",
+      "cached": 7
+    },
+    {
+      "cell": "R7",
+      "formula": "=P7-Q7",
+      "cached": 0
+    },
+    {
+      "cell": "S7",
+      "formula": "=IF(R7=0,\"Alocado corretamente\",IF(R7>0,\"Falta alocar \"&R7,\"Excesso alocado: \"&ABS(R7)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "P8",
+      "formula": "=SUMIF($B$12:$B$56,O8,$F$12:$F$56)",
+      "cached": 3
+    },
+    {
+      "cell": "R8",
+      "formula": "=P8-Q8",
+      "cached": 0
+    },
+    {
+      "cell": "S8",
+      "formula": "=IF(R8=0,\"Alocado corretamente\",IF(R8>0,\"Falta alocar \"&R8,\"Excesso alocado: \"&ABS(R8)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "P9",
+      "formula": "=SUMIF($B$12:$B$56,O9,$F$12:$F$56)",
+      "cached": 21
+    },
+    {
+      "cell": "R9",
+      "formula": "=P9-Q9",
+      "cached": 2
+    },
+    {
+      "cell": "S9",
+      "formula": "=IF(R9=0,\"Alocado corretamente\",IF(R9>0,\"Falta alocar \"&R9,\"Excesso alocado: \"&ABS(R9)))",
+      "cached": "Falta alocar 2"
+    },
+    {
+      "cell": "P10",
+      "formula": "=SUMIF($B$12:$B$56,O10,$F$12:$F$56)",
+      "cached": 2
+    },
+    {
+      "cell": "R10",
+      "formula": "=P10-Q10",
+      "cached": 0
+    },
+    {
+      "cell": "S10",
+      "formula": "=IF(R10=0,\"Alocado corretamente\",IF(R10>0,\"Falta alocar \"&R10,\"Excesso alocado: \"&ABS(R10)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "P11",
+      "formula": "=SUMIF($B$12:$B$56,O11,$F$12:$F$56)",
+      "cached": 3
+    },
+    {
+      "cell": "R11",
+      "formula": "=P11-Q11",
+      "cached": 0
+    },
+    {
+      "cell": "S11",
+      "formula": "=IF(R11=0,\"Alocado corretamente\",IF(R11>0,\"Falta alocar \"&R11,\"Excesso alocado: \"&ABS(R11)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G12",
+      "formula": "=IF(F12=E12,\"Mantém\",IF(F12=0,\"Exclui\",IF(F12<E12,\"Reduz em \"&(E12-F12),\"Aumenta em \"&(F12-E12))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H12",
+      "formula": "=MAX(E12-F12,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I12",
+      "formula": "=MAX(F12-E12,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J12",
+      "formula": "=D12*E12",
+      "cached": 9
+    },
+    {
+      "cell": "K12",
+      "formula": "=D12*F12",
+      "cached": 9
+    },
+    {
+      "cell": "L12",
+      "formula": "=F12-E12",
+      "cached": 0
+    },
+    {
+      "cell": "M12",
+      "formula": "=K12-J12",
+      "cached": 0
+    },
+    {
+      "cell": "P12",
+      "formula": "=SUMIF($B$12:$B$56,O12,$F$12:$F$56)",
+      "cached": 1
+    },
+    {
+      "cell": "R12",
+      "formula": "=P12-Q12",
+      "cached": 0
+    },
+    {
+      "cell": "S12",
+      "formula": "=IF(R12=0,\"Alocado corretamente\",IF(R12>0,\"Falta alocar \"&R12,\"Excesso alocado: \"&ABS(R12)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G13",
+      "formula": "=IF(F13=E13,\"Mantém\",IF(F13=0,\"Exclui\",IF(F13<E13,\"Reduz em \"&(E13-F13),\"Aumenta em \"&(F13-E13))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H13",
+      "formula": "=MAX(E13-F13,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I13",
+      "formula": "=MAX(F13-E13,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J13",
+      "formula": "=D13*E13",
+      "cached": 56
+    },
+    {
+      "cell": "K13",
+      "formula": "=D13*F13",
+      "cached": 56
+    },
+    {
+      "cell": "L13",
+      "formula": "=F13-E13",
+      "cached": 0
+    },
+    {
+      "cell": "M13",
+      "formula": "=K13-J13",
+      "cached": 0
+    },
+    {
+      "cell": "P13",
+      "formula": "=SUMIF($B$12:$B$56,O13,$F$12:$F$56)",
+      "cached": 44
+    },
+    {
+      "cell": "R13",
+      "formula": "=P13-Q13",
+      "cached": 1
+    },
+    {
+      "cell": "S13",
+      "formula": "=IF(R13=0,\"Alocado corretamente\",IF(R13>0,\"Falta alocar \"&R13,\"Excesso alocado: \"&ABS(R13)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G14",
+      "formula": "=IF(F14=E14,\"Mantém\",IF(F14=0,\"Exclui\",IF(F14<E14,\"Reduz em \"&(E14-F14),\"Aumenta em \"&(F14-E14))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H14",
+      "formula": "=MAX(E14-F14,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I14",
+      "formula": "=MAX(F14-E14,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J14",
+      "formula": "=D14*E14",
+      "cached": 21
+    },
+    {
+      "cell": "K14",
+      "formula": "=D14*F14",
+      "cached": 21
+    },
+    {
+      "cell": "L14",
+      "formula": "=F14-E14",
+      "cached": 0
+    },
+    {
+      "cell": "M14",
+      "formula": "=K14-J14",
+      "cached": 0
+    },
+    {
+      "cell": "P14",
+      "formula": "=SUMIF($B$12:$B$56,O14,$F$12:$F$56)",
+      "cached": 7
+    },
+    {
+      "cell": "R14",
+      "formula": "=P14-Q14",
+      "cached": 0
+    },
+    {
+      "cell": "S14",
+      "formula": "=IF(R14=0,\"Alocado corretamente\",IF(R14>0,\"Falta alocar \"&R14,\"Excesso alocado: \"&ABS(R14)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G15",
+      "formula": "=IF(F15=E15,\"Mantém\",IF(F15=0,\"Exclui\",IF(F15<E15,\"Reduz em \"&(E15-F15),\"Aumenta em \"&(F15-E15))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H15",
+      "formula": "=MAX(E15-F15,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I15",
+      "formula": "=MAX(F15-E15,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J15",
+      "formula": "=D15*E15",
+      "cached": 7
+    },
+    {
+      "cell": "K15",
+      "formula": "=D15*F15",
+      "cached": 7
+    },
+    {
+      "cell": "L15",
+      "formula": "=F15-E15",
+      "cached": 0
+    },
+    {
+      "cell": "M15",
+      "formula": "=K15-J15",
+      "cached": 0
+    },
+    {
+      "cell": "P15",
+      "formula": "=SUMIF($B$12:$B$56,O15,$F$12:$F$56)",
+      "cached": 18
+    },
+    {
+      "cell": "R15",
+      "formula": "=P15-Q15",
+      "cached": 1
+    },
+    {
+      "cell": "S15",
+      "formula": "=IF(R15=0,\"Alocado corretamente\",IF(R15>0,\"Falta alocar \"&R15,\"Excesso alocado: \"&ABS(R15)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G16",
+      "formula": "=IF(F16=E16,\"Mantém\",IF(F16=0,\"Exclui\",IF(F16<E16,\"Reduz em \"&(E16-F16),\"Aumenta em \"&(F16-E16))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H16",
+      "formula": "=MAX(E16-F16,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I16",
+      "formula": "=MAX(F16-E16,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J16",
+      "formula": "=D16*E16",
+      "cached": 126
+    },
+    {
+      "cell": "K16",
+      "formula": "=D16*F16",
+      "cached": 126
+    },
+    {
+      "cell": "L16",
+      "formula": "=F16-E16",
+      "cached": 0
+    },
+    {
+      "cell": "M16",
+      "formula": "=K16-J16",
+      "cached": 0
+    },
+    {
+      "cell": "P16",
+      "formula": "=SUMIF($B$12:$B$56,O16,$F$12:$F$56)",
+      "cached": 8
+    },
+    {
+      "cell": "R16",
+      "formula": "=P16-Q16",
+      "cached": 0
+    },
+    {
+      "cell": "S16",
+      "formula": "=IF(R16=0,\"Alocado corretamente\",IF(R16>0,\"Falta alocar \"&R16,\"Excesso alocado: \"&ABS(R16)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G17",
+      "formula": "=IF(F17=E17,\"Mantém\",IF(F17=0,\"Exclui\",IF(F17<E17,\"Reduz em \"&(E17-F17),\"Aumenta em \"&(F17-E17))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H17",
+      "formula": "=MAX(E17-F17,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I17",
+      "formula": "=MAX(F17-E17,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J17",
+      "formula": "=D17*E17",
+      "cached": 12
+    },
+    {
+      "cell": "K17",
+      "formula": "=D17*F17",
+      "cached": 12
+    },
+    {
+      "cell": "L17",
+      "formula": "=F17-E17",
+      "cached": 0
+    },
+    {
+      "cell": "M17",
+      "formula": "=K17-J17",
+      "cached": 0
+    },
+    {
+      "cell": "P17",
+      "formula": "=SUMIF($B$12:$B$56,O17,$F$12:$F$56)",
+      "cached": 35
+    },
+    {
+      "cell": "R17",
+      "formula": "=P17-Q17",
+      "cached": 0
+    },
+    {
+      "cell": "S17",
+      "formula": "=IF(R17=0,\"Alocado corretamente\",IF(R17>0,\"Falta alocar \"&R17,\"Excesso alocado: \"&ABS(R17)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G18",
+      "formula": "=IF(F18=E18,\"Mantém\",IF(F18=0,\"Exclui\",IF(F18<E18,\"Reduz em \"&(E18-F18),\"Aumenta em \"&(F18-E18))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H18",
+      "formula": "=MAX(E18-F18,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I18",
+      "formula": "=MAX(F18-E18,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J18",
+      "formula": "=D18*E18",
+      "cached": 16.5
+    },
+    {
+      "cell": "K18",
+      "formula": "=D18*F18",
+      "cached": 16.5
+    },
+    {
+      "cell": "L18",
+      "formula": "=F18-E18",
+      "cached": 0
+    },
+    {
+      "cell": "M18",
+      "formula": "=K18-J18",
+      "cached": 0
+    },
+    {
+      "cell": "P18",
+      "formula": "=SUMIF($B$12:$B$56,O18,$F$12:$F$56)",
+      "cached": 16
+    },
+    {
+      "cell": "R18",
+      "formula": "=P18-Q18",
+      "cached": -1
+    },
+    {
+      "cell": "S18",
+      "formula": "=IF(R18=0,\"Alocado corretamente\",IF(R18>0,\"Falta alocar \"&R18,\"Excesso alocado: \"&ABS(R18)))",
+      "cached": "Excesso alocado: 1"
+    },
+    {
+      "cell": "G19",
+      "formula": "=IF(F19=E19,\"Mantém\",IF(F19=0,\"Exclui\",IF(F19<E19,\"Reduz em \"&(E19-F19),\"Aumenta em \"&(F19-E19))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H19",
+      "formula": "=MAX(E19-F19,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I19",
+      "formula": "=MAX(F19-E19,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J19",
+      "formula": "=D19*E19",
+      "cached": 5.5
+    },
+    {
+      "cell": "K19",
+      "formula": "=D19*F19",
+      "cached": 5.5
+    },
+    {
+      "cell": "L19",
+      "formula": "=F19-E19",
+      "cached": 0
+    },
+    {
+      "cell": "M19",
+      "formula": "=K19-J19",
+      "cached": 0
+    },
+    {
+      "cell": "P19",
+      "formula": "=SUMIF($B$12:$B$56,O19,$F$12:$F$56)",
+      "cached": 15
+    },
+    {
+      "cell": "R19",
+      "formula": "=P19-Q19",
+      "cached": 2
+    },
+    {
+      "cell": "S19",
+      "formula": "=IF(R19=0,\"Alocado corretamente\",IF(R19>0,\"Falta alocar \"&R19,\"Excesso alocado: \"&ABS(R19)))",
+      "cached": "Falta alocar 2"
+    },
+    {
+      "cell": "G20",
+      "formula": "=IF(F20=E20,\"Mantém\",IF(F20=0,\"Exclui\",IF(F20<E20,\"Reduz em \"&(E20-F20),\"Aumenta em \"&(F20-E20))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H20",
+      "formula": "=MAX(E20-F20,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I20",
+      "formula": "=MAX(F20-E20,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J20",
+      "formula": "=D20*E20",
+      "cached": 198
+    },
+    {
+      "cell": "K20",
+      "formula": "=D20*F20",
+      "cached": 198
+    },
+    {
+      "cell": "L20",
+      "formula": "=F20-E20",
+      "cached": 0
+    },
+    {
+      "cell": "M20",
+      "formula": "=K20-J20",
+      "cached": 0
+    },
+    {
+      "cell": "P20",
+      "formula": "=SUMIF($B$12:$B$56,O20,$F$12:$F$56)",
+      "cached": 53
+    },
+    {
+      "cell": "R20",
+      "formula": "=P20-Q20",
+      "cached": 0
+    },
+    {
+      "cell": "S20",
+      "formula": "=IF(R20=0,\"Alocado corretamente\",IF(R20>0,\"Falta alocar \"&R20,\"Excesso alocado: \"&ABS(R20)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G21",
+      "formula": "=IF(F21=E21,\"Mantém\",IF(F21=0,\"Exclui\",IF(F21<E21,\"Reduz em \"&(E21-F21),\"Aumenta em \"&(F21-E21))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H21",
+      "formula": "=MAX(E21-F21,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I21",
+      "formula": "=MAX(F21-E21,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J21",
+      "formula": "=D21*E21",
+      "cached": 31.5
+    },
+    {
+      "cell": "K21",
+      "formula": "=D21*F21",
+      "cached": 31.5
+    },
+    {
+      "cell": "L21",
+      "formula": "=F21-E21",
+      "cached": 0
+    },
+    {
+      "cell": "M21",
+      "formula": "=K21-J21",
+      "cached": 0
+    },
+    {
+      "cell": "P21",
+      "formula": "=SUMIF($B$12:$B$56,O21,$F$12:$F$56)",
+      "cached": 1
+    },
+    {
+      "cell": "R21",
+      "formula": "=P21-Q21",
+      "cached": 1
+    },
+    {
+      "cell": "S21",
+      "formula": "=IF(R21=0,\"Alocado corretamente\",IF(R21>0,\"Falta alocar \"&R21,\"Excesso alocado: \"&ABS(R21)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G22",
+      "formula": "=IF(F22=E22,\"Mantém\",IF(F22=0,\"Exclui\",IF(F22<E22,\"Reduz em \"&(E22-F22),\"Aumenta em \"&(F22-E22))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H22",
+      "formula": "=MAX(E22-F22,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I22",
+      "formula": "=MAX(F22-E22,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J22",
+      "formula": "=D22*E22",
+      "cached": 72
+    },
+    {
+      "cell": "K22",
+      "formula": "=D22*F22",
+      "cached": 72
+    },
+    {
+      "cell": "L22",
+      "formula": "=F22-E22",
+      "cached": 0
+    },
+    {
+      "cell": "M22",
+      "formula": "=K22-J22",
+      "cached": 0
+    },
+    {
+      "cell": "P22",
+      "formula": "=SUMIF($B$12:$B$56,O22,$F$12:$F$56)",
+      "cached": 10
+    },
+    {
+      "cell": "R22",
+      "formula": "=P22-Q22",
+      "cached": 0
+    },
+    {
+      "cell": "S22",
+      "formula": "=IF(R22=0,\"Alocado corretamente\",IF(R22>0,\"Falta alocar \"&R22,\"Excesso alocado: \"&ABS(R22)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G23",
+      "formula": "=IF(F23=E23,\"Mantém\",IF(F23=0,\"Exclui\",IF(F23<E23,\"Reduz em \"&(E23-F23),\"Aumenta em \"&(F23-E23))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H23",
+      "formula": "=MAX(E23-F23,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I23",
+      "formula": "=MAX(F23-E23,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J23",
+      "formula": "=D23*E23",
+      "cached": 28
+    },
+    {
+      "cell": "K23",
+      "formula": "=D23*F23",
+      "cached": 28
+    },
+    {
+      "cell": "L23",
+      "formula": "=F23-E23",
+      "cached": 0
+    },
+    {
+      "cell": "M23",
+      "formula": "=K23-J23",
+      "cached": 0
+    },
+    {
+      "cell": "P23",
+      "formula": "=SUMIF($B$12:$B$56,O23,$F$12:$F$56)",
+      "cached": 16
+    },
+    {
+      "cell": "R23",
+      "formula": "=P23-Q23",
+      "cached": 5
+    },
+    {
+      "cell": "S23",
+      "formula": "=IF(R23=0,\"Alocado corretamente\",IF(R23>0,\"Falta alocar \"&R23,\"Excesso alocado: \"&ABS(R23)))",
+      "cached": "Falta alocar 5"
+    },
+    {
+      "cell": "G24",
+      "formula": "=IF(F24=E24,\"Mantém\",IF(F24=0,\"Exclui\",IF(F24<E24,\"Reduz em \"&(E24-F24),\"Aumenta em \"&(F24-E24))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H24",
+      "formula": "=MAX(E24-F24,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I24",
+      "formula": "=MAX(F24-E24,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J24",
+      "formula": "=D24*E24",
+      "cached": 113.75
+    },
+    {
+      "cell": "K24",
+      "formula": "=D24*F24",
+      "cached": 113.75
+    },
+    {
+      "cell": "L24",
+      "formula": "=F24-E24",
+      "cached": 0
+    },
+    {
+      "cell": "M24",
+      "formula": "=K24-J24",
+      "cached": 0
+    },
+    {
+      "cell": "P24",
+      "formula": "=SUMIF($B$12:$B$56,O24,$F$12:$F$56)",
+      "cached": 7
+    },
+    {
+      "cell": "R24",
+      "formula": "=P24-Q24",
+      "cached": -1
+    },
+    {
+      "cell": "S24",
+      "formula": "=IF(R24=0,\"Alocado corretamente\",IF(R24>0,\"Falta alocar \"&R24,\"Excesso alocado: \"&ABS(R24)))",
+      "cached": "Excesso alocado: 1"
+    },
+    {
+      "cell": "G25",
+      "formula": "=IF(F25=E25,\"Mantém\",IF(F25=0,\"Exclui\",IF(F25<E25,\"Reduz em \"&(E25-F25),\"Aumenta em \"&(F25-E25))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H25",
+      "formula": "=MAX(E25-F25,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I25",
+      "formula": "=MAX(F25-E25,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J25",
+      "formula": "=D25*E25",
+      "cached": 52
+    },
+    {
+      "cell": "K25",
+      "formula": "=D25*F25",
+      "cached": 52
+    },
+    {
+      "cell": "L25",
+      "formula": "=F25-E25",
+      "cached": 0
+    },
+    {
+      "cell": "M25",
+      "formula": "=K25-J25",
+      "cached": 0
+    },
+    {
+      "cell": "P25",
+      "formula": "=SUMIF($B$12:$B$56,O25,$F$12:$F$56)",
+      "cached": 6
+    },
+    {
+      "cell": "R25",
+      "formula": "=P25-Q25",
+      "cached": 3
+    },
+    {
+      "cell": "S25",
+      "formula": "=IF(R25=0,\"Alocado corretamente\",IF(R25>0,\"Falta alocar \"&R25,\"Excesso alocado: \"&ABS(R25)))",
+      "cached": "Falta alocar 3"
+    },
+    {
+      "cell": "G26",
+      "formula": "=IF(F26=E26,\"Mantém\",IF(F26=0,\"Exclui\",IF(F26<E26,\"Reduz em \"&(E26-F26),\"Aumenta em \"&(F26-E26))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H26",
+      "formula": "=MAX(E26-F26,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I26",
+      "formula": "=MAX(F26-E26,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J26",
+      "formula": "=D26*E26",
+      "cached": 45
+    },
+    {
+      "cell": "K26",
+      "formula": "=D26*F26",
+      "cached": 45
+    },
+    {
+      "cell": "L26",
+      "formula": "=F26-E26",
+      "cached": 0
+    },
+    {
+      "cell": "M26",
+      "formula": "=K26-J26",
+      "cached": 0
+    },
+    {
+      "cell": "P26",
+      "formula": "=SUMIF($B$12:$B$56,O26,$F$12:$F$56)",
+      "cached": 17
+    },
+    {
+      "cell": "R26",
+      "formula": "=P26-Q26",
+      "cached": 1
+    },
+    {
+      "cell": "S26",
+      "formula": "=IF(R26=0,\"Alocado corretamente\",IF(R26>0,\"Falta alocar \"&R26,\"Excesso alocado: \"&ABS(R26)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G27",
+      "formula": "=IF(F27=E27,\"Mantém\",IF(F27=0,\"Exclui\",IF(F27<E27,\"Reduz em \"&(E27-F27),\"Aumenta em \"&(F27-E27))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H27",
+      "formula": "=MAX(E27-F27,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I27",
+      "formula": "=MAX(F27-E27,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J27",
+      "formula": "=D27*E27",
+      "cached": 145.75
+    },
+    {
+      "cell": "K27",
+      "formula": "=D27*F27",
+      "cached": 145.75
+    },
+    {
+      "cell": "L27",
+      "formula": "=F27-E27",
+      "cached": 0
+    },
+    {
+      "cell": "M27",
+      "formula": "=K27-J27",
+      "cached": 0
+    },
+    {
+      "cell": "P27",
+      "formula": "=SUMIF($B$12:$B$56,O27,$F$12:$F$56)",
+      "cached": 2
+    },
+    {
+      "cell": "R27",
+      "formula": "=P27-Q27",
+      "cached": 0
+    },
+    {
+      "cell": "S27",
+      "formula": "=IF(R27=0,\"Alocado corretamente\",IF(R27>0,\"Falta alocar \"&R27,\"Excesso alocado: \"&ABS(R27)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G28",
+      "formula": "=IF(F28=E28,\"Mantém\",IF(F28=0,\"Exclui\",IF(F28<E28,\"Reduz em \"&(E28-F28),\"Aumenta em \"&(F28-E28))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H28",
+      "formula": "=MAX(E28-F28,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I28",
+      "formula": "=MAX(F28-E28,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J28",
+      "formula": "=D28*E28",
+      "cached": 2.5
+    },
+    {
+      "cell": "K28",
+      "formula": "=D28*F28",
+      "cached": 2.5
+    },
+    {
+      "cell": "L28",
+      "formula": "=F28-E28",
+      "cached": 0
+    },
+    {
+      "cell": "M28",
+      "formula": "=K28-J28",
+      "cached": 0
+    },
+    {
+      "cell": "P28",
+      "formula": "=SUMIF($B$12:$B$56,O28,$F$12:$F$56)",
+      "cached": 3
+    },
+    {
+      "cell": "R28",
+      "formula": "=P28-Q28",
+      "cached": 0
+    },
+    {
+      "cell": "S28",
+      "formula": "=IF(R28=0,\"Alocado corretamente\",IF(R28>0,\"Falta alocar \"&R28,\"Excesso alocado: \"&ABS(R28)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G29",
+      "formula": "=IF(F29=E29,\"Mantém\",IF(F29=0,\"Exclui\",IF(F29<E29,\"Reduz em \"&(E29-F29),\"Aumenta em \"&(F29-E29))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H29",
+      "formula": "=MAX(E29-F29,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I29",
+      "formula": "=MAX(F29-E29,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J29",
+      "formula": "=D29*E29",
+      "cached": 25
+    },
+    {
+      "cell": "K29",
+      "formula": "=D29*F29",
+      "cached": 25
+    },
+    {
+      "cell": "L29",
+      "formula": "=F29-E29",
+      "cached": 0
+    },
+    {
+      "cell": "M29",
+      "formula": "=K29-J29",
+      "cached": 0
+    },
+    {
+      "cell": "P29",
+      "formula": "=SUMIF($B$12:$B$56,O29,$F$12:$F$56)",
+      "cached": 1
+    },
+    {
+      "cell": "R29",
+      "formula": "=P29-Q29",
+      "cached": 0
+    },
+    {
+      "cell": "S29",
+      "formula": "=IF(R29=0,\"Alocado corretamente\",IF(R29>0,\"Falta alocar \"&R29,\"Excesso alocado: \"&ABS(R29)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G30",
+      "formula": "=IF(F30=E30,\"Mantém\",IF(F30=0,\"Exclui\",IF(F30<E30,\"Reduz em \"&(E30-F30),\"Aumenta em \"&(F30-E30))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H30",
+      "formula": "=MAX(E30-F30,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I30",
+      "formula": "=MAX(F30-E30,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J30",
+      "formula": "=D30*E30",
+      "cached": 36
+    },
+    {
+      "cell": "K30",
+      "formula": "=D30*F30",
+      "cached": 36
+    },
+    {
+      "cell": "L30",
+      "formula": "=F30-E30",
+      "cached": 0
+    },
+    {
+      "cell": "M30",
+      "formula": "=K30-J30",
+      "cached": 0
+    },
+    {
+      "cell": "P30",
+      "formula": "=SUMIF($B$12:$B$56,O30,$F$12:$F$56)",
+      "cached": 1
+    },
+    {
+      "cell": "R30",
+      "formula": "=P30-Q30",
+      "cached": 0
+    },
+    {
+      "cell": "S30",
+      "formula": "=IF(R30=0,\"Alocado corretamente\",IF(R30>0,\"Falta alocar \"&R30,\"Excesso alocado: \"&ABS(R30)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G31",
+      "formula": "=IF(F31=E31,\"Mantém\",IF(F31=0,\"Exclui\",IF(F31<E31,\"Reduz em \"&(E31-F31),\"Aumenta em \"&(F31-E31))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H31",
+      "formula": "=MAX(E31-F31,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I31",
+      "formula": "=MAX(F31-E31,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J31",
+      "formula": "=D31*E31",
+      "cached": 14
+    },
+    {
+      "cell": "K31",
+      "formula": "=D31*F31",
+      "cached": 14
+    },
+    {
+      "cell": "L31",
+      "formula": "=F31-E31",
+      "cached": 0
+    },
+    {
+      "cell": "M31",
+      "formula": "=K31-J31",
+      "cached": 0
+    },
+    {
+      "cell": "P31",
+      "formula": "=SUMIF($B$12:$B$56,O31,$F$12:$F$56)",
+      "cached": 5
+    },
+    {
+      "cell": "R31",
+      "formula": "=P31-Q31",
+      "cached": 0
+    },
+    {
+      "cell": "S31",
+      "formula": "=IF(R31=0,\"Alocado corretamente\",IF(R31>0,\"Falta alocar \"&R31,\"Excesso alocado: \"&ABS(R31)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G32",
+      "formula": "=IF(F32=E32,\"Mantém\",IF(F32=0,\"Exclui\",IF(F32<E32,\"Reduz em \"&(E32-F32),\"Aumenta em \"&(F32-E32))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H32",
+      "formula": "=MAX(E32-F32,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I32",
+      "formula": "=MAX(F32-E32,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J32",
+      "formula": "=D32*E32",
+      "cached": 12
+    },
+    {
+      "cell": "K32",
+      "formula": "=D32*F32",
+      "cached": 12
+    },
+    {
+      "cell": "L32",
+      "formula": "=F32-E32",
+      "cached": 0
+    },
+    {
+      "cell": "M32",
+      "formula": "=K32-J32",
+      "cached": 0
+    },
+    {
+      "cell": "P32",
+      "formula": "=SUMIF($B$12:$B$56,O32,$F$12:$F$56)",
+      "cached": 3
+    },
+    {
+      "cell": "R32",
+      "formula": "=P32-Q32",
+      "cached": 1
+    },
+    {
+      "cell": "S32",
+      "formula": "=IF(R32=0,\"Alocado corretamente\",IF(R32>0,\"Falta alocar \"&R32,\"Excesso alocado: \"&ABS(R32)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G33",
+      "formula": "=IF(F33=E33,\"Mantém\",IF(F33=0,\"Exclui\",IF(F33<E33,\"Reduz em \"&(E33-F33),\"Aumenta em \"&(F33-E33))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H33",
+      "formula": "=MAX(E33-F33,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I33",
+      "formula": "=MAX(F33-E33,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J33",
+      "formula": "=D33*E33",
+      "cached": 29.75
+    },
+    {
+      "cell": "K33",
+      "formula": "=D33*F33",
+      "cached": 29.75
+    },
+    {
+      "cell": "L33",
+      "formula": "=F33-E33",
+      "cached": 0
+    },
+    {
+      "cell": "M33",
+      "formula": "=K33-J33",
+      "cached": 0
+    },
+    {
+      "cell": "P33",
+      "formula": "=SUMIF($B$12:$B$56,O33,$F$12:$F$56)",
+      "cached": 13
+    },
+    {
+      "cell": "R33",
+      "formula": "=P33-Q33",
+      "cached": -1
+    },
+    {
+      "cell": "S33",
+      "formula": "=IF(R33=0,\"Alocado corretamente\",IF(R33>0,\"Falta alocar \"&R33,\"Excesso alocado: \"&ABS(R33)))",
+      "cached": "Excesso alocado: 1"
+    },
+    {
+      "cell": "G34",
+      "formula": "=IF(F34=E34,\"Mantém\",IF(F34=0,\"Exclui\",IF(F34<E34,\"Reduz em \"&(E34-F34),\"Aumenta em \"&(F34-E34))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H34",
+      "formula": "=MAX(E34-F34,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I34",
+      "formula": "=MAX(F34-E34,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J34",
+      "formula": "=D34*E34",
+      "cached": 3
+    },
+    {
+      "cell": "K34",
+      "formula": "=D34*F34",
+      "cached": 3
+    },
+    {
+      "cell": "L34",
+      "formula": "=F34-E34",
+      "cached": 0
+    },
+    {
+      "cell": "M34",
+      "formula": "=K34-J34",
+      "cached": 0
+    },
+    {
+      "cell": "P34",
+      "formula": "=SUMIF($B$12:$B$56,O34,$F$12:$F$56)",
+      "cached": 3
+    },
+    {
+      "cell": "R34",
+      "formula": "=P34-Q34",
+      "cached": 1
+    },
+    {
+      "cell": "S34",
+      "formula": "=IF(R34=0,\"Alocado corretamente\",IF(R34>0,\"Falta alocar \"&R34,\"Excesso alocado: \"&ABS(R34)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G35",
+      "formula": "=IF(F35=E35,\"Mantém\",IF(F35=0,\"Exclui\",IF(F35<E35,\"Reduz em \"&(E35-F35),\"Aumenta em \"&(F35-E35))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H35",
+      "formula": "=MAX(E35-F35,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I35",
+      "formula": "=MAX(F35-E35,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J35",
+      "formula": "=D35*E35",
+      "cached": 3.75
+    },
+    {
+      "cell": "K35",
+      "formula": "=D35*F35",
+      "cached": 3.75
+    },
+    {
+      "cell": "L35",
+      "formula": "=F35-E35",
+      "cached": 0
+    },
+    {
+      "cell": "M35",
+      "formula": "=K35-J35",
+      "cached": 0
+    },
+    {
+      "cell": "P35",
+      "formula": "=SUMIF($B$12:$B$56,O35,$F$12:$F$56)",
+      "cached": 5
+    },
+    {
+      "cell": "R35",
+      "formula": "=P35-Q35",
+      "cached": 0
+    },
+    {
+      "cell": "S35",
+      "formula": "=IF(R35=0,\"Alocado corretamente\",IF(R35>0,\"Falta alocar \"&R35,\"Excesso alocado: \"&ABS(R35)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G36",
+      "formula": "=IF(F36=E36,\"Mantém\",IF(F36=0,\"Exclui\",IF(F36<E36,\"Reduz em \"&(E36-F36),\"Aumenta em \"&(F36-E36))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H36",
+      "formula": "=MAX(E36-F36,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I36",
+      "formula": "=MAX(F36-E36,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J36",
+      "formula": "=D36*E36",
+      "cached": 1
+    },
+    {
+      "cell": "K36",
+      "formula": "=D36*F36",
+      "cached": 1
+    },
+    {
+      "cell": "L36",
+      "formula": "=F36-E36",
+      "cached": 0
+    },
+    {
+      "cell": "M36",
+      "formula": "=K36-J36",
+      "cached": 0
+    },
+    {
+      "cell": "P36",
+      "formula": "=SUMIF($B$12:$B$56,O36,$F$12:$F$56)",
+      "cached": 2
+    },
+    {
+      "cell": "R36",
+      "formula": "=P36-Q36",
+      "cached": 0
+    },
+    {
+      "cell": "S36",
+      "formula": "=IF(R36=0,\"Alocado corretamente\",IF(R36>0,\"Falta alocar \"&R36,\"Excesso alocado: \"&ABS(R36)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G37",
+      "formula": "=IF(F37=E37,\"Mantém\",IF(F37=0,\"Exclui\",IF(F37<E37,\"Reduz em \"&(E37-F37),\"Aumenta em \"&(F37-E37))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H37",
+      "formula": "=MAX(E37-F37,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I37",
+      "formula": "=MAX(F37-E37,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J37",
+      "formula": "=D37*E37",
+      "cached": 4.2
+    },
+    {
+      "cell": "K37",
+      "formula": "=D37*F37",
+      "cached": 4.2
+    },
+    {
+      "cell": "L37",
+      "formula": "=F37-E37",
+      "cached": 0
+    },
+    {
+      "cell": "M37",
+      "formula": "=K37-J37",
+      "cached": 0
+    },
+    {
+      "cell": "P37",
+      "formula": "=SUMIF($B$12:$B$56,O37,$F$12:$F$56)",
+      "cached": 43
+    },
+    {
+      "cell": "R37",
+      "formula": "=P37-Q37",
+      "cached": 3
+    },
+    {
+      "cell": "S37",
+      "formula": "=IF(R37=0,\"Alocado corretamente\",IF(R37>0,\"Falta alocar \"&R37,\"Excesso alocado: \"&ABS(R37)))",
+      "cached": "Falta alocar 3"
+    },
+    {
+      "cell": "G38",
+      "formula": "=IF(F38=E38,\"Mantém\",IF(F38=0,\"Exclui\",IF(F38<E38,\"Reduz em \"&(E38-F38),\"Aumenta em \"&(F38-E38))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H38",
+      "formula": "=MAX(E38-F38,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I38",
+      "formula": "=MAX(F38-E38,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J38",
+      "formula": "=D38*E38",
+      "cached": 18
+    },
+    {
+      "cell": "K38",
+      "formula": "=D38*F38",
+      "cached": 18
+    },
+    {
+      "cell": "L38",
+      "formula": "=F38-E38",
+      "cached": 0
+    },
+    {
+      "cell": "M38",
+      "formula": "=K38-J38",
+      "cached": 0
+    },
+    {
+      "cell": "P38",
+      "formula": "=SUMIF($B$12:$B$56,O38,$F$12:$F$56)",
+      "cached": 10
+    },
+    {
+      "cell": "R38",
+      "formula": "=P38-Q38",
+      "cached": 1
+    },
+    {
+      "cell": "S38",
+      "formula": "=IF(R38=0,\"Alocado corretamente\",IF(R38>0,\"Falta alocar \"&R38,\"Excesso alocado: \"&ABS(R38)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G39",
+      "formula": "=IF(F39=E39,\"Mantém\",IF(F39=0,\"Exclui\",IF(F39<E39,\"Reduz em \"&(E39-F39),\"Aumenta em \"&(F39-E39))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H39",
+      "formula": "=MAX(E39-F39,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I39",
+      "formula": "=MAX(F39-E39,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J39",
+      "formula": "=D39*E39",
+      "cached": 9.899999999999999
+    },
+    {
+      "cell": "K39",
+      "formula": "=D39*F39",
+      "cached": 9.899999999999999
+    },
+    {
+      "cell": "L39",
+      "formula": "=F39-E39",
+      "cached": 0
+    },
+    {
+      "cell": "M39",
+      "formula": "=K39-J39",
+      "cached": 0
+    },
+    {
+      "cell": "P39",
+      "formula": "=SUMIF($B$12:$B$56,O39,$F$12:$F$56)",
+      "cached": 8
+    },
+    {
+      "cell": "R39",
+      "formula": "=P39-Q39",
+      "cached": 1
+    },
+    {
+      "cell": "S39",
+      "formula": "=IF(R39=0,\"Alocado corretamente\",IF(R39>0,\"Falta alocar \"&R39,\"Excesso alocado: \"&ABS(R39)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G40",
+      "formula": "=IF(F40=E40,\"Mantém\",IF(F40=0,\"Exclui\",IF(F40<E40,\"Reduz em \"&(E40-F40),\"Aumenta em \"&(F40-E40))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H40",
+      "formula": "=MAX(E40-F40,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I40",
+      "formula": "=MAX(F40-E40,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J40",
+      "formula": "=D40*E40",
+      "cached": 35.1
+    },
+    {
+      "cell": "K40",
+      "formula": "=D40*F40",
+      "cached": 35.1
+    },
+    {
+      "cell": "L40",
+      "formula": "=F40-E40",
+      "cached": 0
+    },
+    {
+      "cell": "M40",
+      "formula": "=K40-J40",
+      "cached": 0
+    },
+    {
+      "cell": "P40",
+      "formula": "=SUMIF($B$12:$B$56,O40,$F$12:$F$56)",
+      "cached": 12
+    },
+    {
+      "cell": "R40",
+      "formula": "=P40-Q40",
+      "cached": 0
+    },
+    {
+      "cell": "S40",
+      "formula": "=IF(R40=0,\"Alocado corretamente\",IF(R40>0,\"Falta alocar \"&R40,\"Excesso alocado: \"&ABS(R40)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G41",
+      "formula": "=IF(F41=E41,\"Mantém\",IF(F41=0,\"Exclui\",IF(F41<E41,\"Reduz em \"&(E41-F41),\"Aumenta em \"&(F41-E41))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H41",
+      "formula": "=MAX(E41-F41,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I41",
+      "formula": "=MAX(F41-E41,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J41",
+      "formula": "=D41*E41",
+      "cached": 8.100000000000001
+    },
+    {
+      "cell": "K41",
+      "formula": "=D41*F41",
+      "cached": 8.100000000000001
+    },
+    {
+      "cell": "L41",
+      "formula": "=F41-E41",
+      "cached": 0
+    },
+    {
+      "cell": "M41",
+      "formula": "=K41-J41",
+      "cached": 0
+    },
+    {
+      "cell": "P41",
+      "formula": "=SUMIF($B$12:$B$56,O41,$F$12:$F$56)",
+      "cached": 16
+    },
+    {
+      "cell": "R41",
+      "formula": "=P41-Q41",
+      "cached": 1
+    },
+    {
+      "cell": "S41",
+      "formula": "=IF(R41=0,\"Alocado corretamente\",IF(R41>0,\"Falta alocar \"&R41,\"Excesso alocado: \"&ABS(R41)))",
+      "cached": "Falta alocar 1"
+    },
+    {
+      "cell": "G42",
+      "formula": "=IF(F42=E42,\"Mantém\",IF(F42=0,\"Exclui\",IF(F42<E42,\"Reduz em \"&(E42-F42),\"Aumenta em \"&(F42-E42))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H42",
+      "formula": "=MAX(E42-F42,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I42",
+      "formula": "=MAX(F42-E42,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J42",
+      "formula": "=D42*E42",
+      "cached": 12
+    },
+    {
+      "cell": "K42",
+      "formula": "=D42*F42",
+      "cached": 12
+    },
+    {
+      "cell": "L42",
+      "formula": "=F42-E42",
+      "cached": 0
+    },
+    {
+      "cell": "M42",
+      "formula": "=K42-J42",
+      "cached": 0
+    },
+    {
+      "cell": "P42",
+      "formula": "=SUMIF($B$12:$B$56,O42,$F$12:$F$56)",
+      "cached": 9
+    },
+    {
+      "cell": "R42",
+      "formula": "=P42-Q42",
+      "cached": 0
+    },
+    {
+      "cell": "S42",
+      "formula": "=IF(R42=0,\"Alocado corretamente\",IF(R42>0,\"Falta alocar \"&R42,\"Excesso alocado: \"&ABS(R42)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G43",
+      "formula": "=IF(F43=E43,\"Mantém\",IF(F43=0,\"Exclui\",IF(F43<E43,\"Reduz em \"&(E43-F43),\"Aumenta em \"&(F43-E43))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H43",
+      "formula": "=MAX(E43-F43,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I43",
+      "formula": "=MAX(F43-E43,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J43",
+      "formula": "=D43*E43",
+      "cached": 4.2
+    },
+    {
+      "cell": "K43",
+      "formula": "=D43*F43",
+      "cached": 4.2
+    },
+    {
+      "cell": "L43",
+      "formula": "=F43-E43",
+      "cached": 0
+    },
+    {
+      "cell": "M43",
+      "formula": "=K43-J43",
+      "cached": 0
+    },
+    {
+      "cell": "P43",
+      "formula": "=SUMIF($B$12:$B$56,O43,$F$12:$F$56)",
+      "cached": 24
+    },
+    {
+      "cell": "R43",
+      "formula": "=P43-Q43",
+      "cached": 4
+    },
+    {
+      "cell": "S43",
+      "formula": "=IF(R43=0,\"Alocado corretamente\",IF(R43>0,\"Falta alocar \"&R43,\"Excesso alocado: \"&ABS(R43)))",
+      "cached": "Falta alocar 4"
+    },
+    {
+      "cell": "G44",
+      "formula": "=IF(F44=E44,\"Mantém\",IF(F44=0,\"Exclui\",IF(F44<E44,\"Reduz em \"&(E44-F44),\"Aumenta em \"&(F44-E44))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H44",
+      "formula": "=MAX(E44-F44,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I44",
+      "formula": "=MAX(F44-E44,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J44",
+      "formula": "=D44*E44",
+      "cached": 83.85
+    },
+    {
+      "cell": "K44",
+      "formula": "=D44*F44",
+      "cached": 83.85
+    },
+    {
+      "cell": "L44",
+      "formula": "=F44-E44",
+      "cached": 0
+    },
+    {
+      "cell": "M44",
+      "formula": "=K44-J44",
+      "cached": 0
+    },
+    {
+      "cell": "P44",
+      "formula": "=SUMIF($B$12:$B$56,O44,$F$12:$F$56)",
+      "cached": 14
+    },
+    {
+      "cell": "R44",
+      "formula": "=P44-Q44",
+      "cached": 0
+    },
+    {
+      "cell": "S44",
+      "formula": "=IF(R44=0,\"Alocado corretamente\",IF(R44>0,\"Falta alocar \"&R44,\"Excesso alocado: \"&ABS(R44)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G45",
+      "formula": "=IF(F45=E45,\"Mantém\",IF(F45=0,\"Exclui\",IF(F45<E45,\"Reduz em \"&(E45-F45),\"Aumenta em \"&(F45-E45))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H45",
+      "formula": "=MAX(E45-F45,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I45",
+      "formula": "=MAX(F45-E45,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J45",
+      "formula": "=D45*E45",
+      "cached": 19.5
+    },
+    {
+      "cell": "K45",
+      "formula": "=D45*F45",
+      "cached": 19.5
+    },
+    {
+      "cell": "L45",
+      "formula": "=F45-E45",
+      "cached": 0
+    },
+    {
+      "cell": "M45",
+      "formula": "=K45-J45",
+      "cached": 0
+    },
+    {
+      "cell": "P45",
+      "formula": "=SUMIF($B$12:$B$56,O45,$F$12:$F$56)",
+      "cached": 14
+    },
+    {
+      "cell": "R45",
+      "formula": "=P45-Q45",
+      "cached": 0
+    },
+    {
+      "cell": "S45",
+      "formula": "=IF(R45=0,\"Alocado corretamente\",IF(R45>0,\"Falta alocar \"&R45,\"Excesso alocado: \"&ABS(R45)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G46",
+      "formula": "=IF(F46=E46,\"Mantém\",IF(F46=0,\"Exclui\",IF(F46<E46,\"Reduz em \"&(E46-F46),\"Aumenta em \"&(F46-E46))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H46",
+      "formula": "=MAX(E46-F46,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I46",
+      "formula": "=MAX(F46-E46,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J46",
+      "formula": "=D46*E46",
+      "cached": 14.4
+    },
+    {
+      "cell": "K46",
+      "formula": "=D46*F46",
+      "cached": 14.4
+    },
+    {
+      "cell": "L46",
+      "formula": "=F46-E46",
+      "cached": 0
+    },
+    {
+      "cell": "M46",
+      "formula": "=K46-J46",
+      "cached": 0
+    },
+    {
+      "cell": "P46",
+      "formula": "=SUMIF($B$12:$B$56,O46,$F$12:$F$56)",
+      "cached": 8
+    },
+    {
+      "cell": "R46",
+      "formula": "=P46-Q46",
+      "cached": 3
+    },
+    {
+      "cell": "S46",
+      "formula": "=IF(R46=0,\"Alocado corretamente\",IF(R46>0,\"Falta alocar \"&R46,\"Excesso alocado: \"&ABS(R46)))",
+      "cached": "Falta alocar 3"
+    },
+    {
+      "cell": "G47",
+      "formula": "=IF(F47=E47,\"Mantém\",IF(F47=0,\"Exclui\",IF(F47<E47,\"Reduz em \"&(E47-F47),\"Aumenta em \"&(F47-E47))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H47",
+      "formula": "=MAX(E47-F47,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I47",
+      "formula": "=MAX(F47-E47,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J47",
+      "formula": "=D47*E47",
+      "cached": 19.799999999999997
+    },
+    {
+      "cell": "K47",
+      "formula": "=D47*F47",
+      "cached": 19.799999999999997
+    },
+    {
+      "cell": "L47",
+      "formula": "=F47-E47",
+      "cached": 0
+    },
+    {
+      "cell": "M47",
+      "formula": "=K47-J47",
+      "cached": 0
+    },
+    {
+      "cell": "P47",
+      "formula": "=SUMIF($B$12:$B$56,O47,$F$12:$F$56)",
+      "cached": 5
+    },
+    {
+      "cell": "R47",
+      "formula": "=P47-Q47",
+      "cached": 0
+    },
+    {
+      "cell": "S47",
+      "formula": "=IF(R47=0,\"Alocado corretamente\",IF(R47>0,\"Falta alocar \"&R47,\"Excesso alocado: \"&ABS(R47)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G48",
+      "formula": "=IF(F48=E48,\"Mantém\",IF(F48=0,\"Exclui\",IF(F48<E48,\"Reduz em \"&(E48-F48),\"Aumenta em \"&(F48-E48))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H48",
+      "formula": "=MAX(E48-F48,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I48",
+      "formula": "=MAX(F48-E48,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J48",
+      "formula": "=D48*E48",
+      "cached": 24
+    },
+    {
+      "cell": "K48",
+      "formula": "=D48*F48",
+      "cached": 24
+    },
+    {
+      "cell": "L48",
+      "formula": "=F48-E48",
+      "cached": 0
+    },
+    {
+      "cell": "M48",
+      "formula": "=K48-J48",
+      "cached": 0
+    },
+    {
+      "cell": "P48",
+      "formula": "=SUMIF($B$12:$B$56,O48,$F$12:$F$56)",
+      "cached": 2
+    },
+    {
+      "cell": "R48",
+      "formula": "=P48-Q48",
+      "cached": 0
+    },
+    {
+      "cell": "S48",
+      "formula": "=IF(R48=0,\"Alocado corretamente\",IF(R48>0,\"Falta alocar \"&R48,\"Excesso alocado: \"&ABS(R48)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G49",
+      "formula": "=IF(F49=E49,\"Mantém\",IF(F49=0,\"Exclui\",IF(F49<E49,\"Reduz em \"&(E49-F49),\"Aumenta em \"&(F49-E49))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H49",
+      "formula": "=MAX(E49-F49,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I49",
+      "formula": "=MAX(F49-E49,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J49",
+      "formula": "=D49*E49",
+      "cached": 13.5
+    },
+    {
+      "cell": "K49",
+      "formula": "=D49*F49",
+      "cached": 13.5
+    },
+    {
+      "cell": "L49",
+      "formula": "=F49-E49",
+      "cached": 0
+    },
+    {
+      "cell": "M49",
+      "formula": "=K49-J49",
+      "cached": 0
+    },
+    {
+      "cell": "P49",
+      "formula": "=SUMIF($B$12:$B$56,O49,$F$12:$F$56)",
+      "cached": 4
+    },
+    {
+      "cell": "R49",
+      "formula": "=P49-Q49",
+      "cached": 0
+    },
+    {
+      "cell": "S49",
+      "formula": "=IF(R49=0,\"Alocado corretamente\",IF(R49>0,\"Falta alocar \"&R49,\"Excesso alocado: \"&ABS(R49)))",
+      "cached": "Alocado corretamente"
+    },
+    {
+      "cell": "G50",
+      "formula": "=IF(F50=E50,\"Mantém\",IF(F50=0,\"Exclui\",IF(F50<E50,\"Reduz em \"&(E50-F50),\"Aumenta em \"&(F50-E50))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H50",
+      "formula": "=MAX(E50-F50,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I50",
+      "formula": "=MAX(F50-E50,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J50",
+      "formula": "=D50*E50",
+      "cached": 32.400000000000006
+    },
+    {
+      "cell": "K50",
+      "formula": "=D50*F50",
+      "cached": 32.400000000000006
+    },
+    {
+      "cell": "L50",
+      "formula": "=F50-E50",
+      "cached": 0
+    },
+    {
+      "cell": "M50",
+      "formula": "=K50-J50",
+      "cached": 0
+    },
+    {
+      "cell": "P50",
+      "formula": "=SUMIF($B$12:$B$56,O50,$F$12:$F$56)",
+      "cached": 0
+    },
+    {
+      "cell": "R50",
+      "formula": "=P50-Q50",
+      "cached": -1
+    },
+    {
+      "cell": "S50",
+      "formula": "=IF(R50=0,\"Alocado corretamente\",IF(R50>0,\"Falta alocar \"&R50,\"Excesso alocado: \"&ABS(R50)))",
+      "cached": "Excesso alocado: 1"
+    },
+    {
+      "cell": "G51",
+      "formula": "=IF(F51=E51,\"Mantém\",IF(F51=0,\"Exclui\",IF(F51<E51,\"Reduz em \"&(E51-F51),\"Aumenta em \"&(F51-E51))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H51",
+      "formula": "=MAX(E51-F51,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I51",
+      "formula": "=MAX(F51-E51,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J51",
+      "formula": "=D51*E51",
+      "cached": 16.8
+    },
+    {
+      "cell": "K51",
+      "formula": "=D51*F51",
+      "cached": 16.8
+    },
+    {
+      "cell": "L51",
+      "formula": "=F51-E51",
+      "cached": 0
+    },
+    {
+      "cell": "M51",
+      "formula": "=K51-J51",
+      "cached": 0
+    },
+    {
+      "cell": "G52",
+      "formula": "=IF(F52=E52,\"Mantém\",IF(F52=0,\"Exclui\",IF(F52<E52,\"Reduz em \"&(E52-F52),\"Aumenta em \"&(F52-E52))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H52",
+      "formula": "=MAX(E52-F52,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I52",
+      "formula": "=MAX(F52-E52,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J52",
+      "formula": "=D52*E52",
+      "cached": 16.8
+    },
+    {
+      "cell": "K52",
+      "formula": "=D52*F52",
+      "cached": 16.8
+    },
+    {
+      "cell": "L52",
+      "formula": "=F52-E52",
+      "cached": 0
+    },
+    {
+      "cell": "M52",
+      "formula": "=K52-J52",
+      "cached": 0
+    },
+    {
+      "cell": "G53",
+      "formula": "=IF(F53=E53,\"Mantém\",IF(F53=0,\"Exclui\",IF(F53<E53,\"Reduz em \"&(E53-F53),\"Aumenta em \"&(F53-E53))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H53",
+      "formula": "=MAX(E53-F53,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I53",
+      "formula": "=MAX(F53-E53,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J53",
+      "formula": "=D53*E53",
+      "cached": 8.4
+    },
+    {
+      "cell": "K53",
+      "formula": "=D53*F53",
+      "cached": 8.4
+    },
+    {
+      "cell": "L53",
+      "formula": "=F53-E53",
+      "cached": 0
+    },
+    {
+      "cell": "M53",
+      "formula": "=K53-J53",
+      "cached": 0
+    },
+    {
+      "cell": "G54",
+      "formula": "=IF(F54=E54,\"Mantém\",IF(F54=0,\"Exclui\",IF(F54<E54,\"Reduz em \"&(E54-F54),\"Aumenta em \"&(F54-E54))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H54",
+      "formula": "=MAX(E54-F54,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I54",
+      "formula": "=MAX(F54-E54,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J54",
+      "formula": "=D54*E54",
+      "cached": 4.5
+    },
+    {
+      "cell": "K54",
+      "formula": "=D54*F54",
+      "cached": 4.5
+    },
+    {
+      "cell": "L54",
+      "formula": "=F54-E54",
+      "cached": 0
+    },
+    {
+      "cell": "M54",
+      "formula": "=K54-J54",
+      "cached": 0
+    },
+    {
+      "cell": "G55",
+      "formula": "=IF(F55=E55,\"Mantém\",IF(F55=0,\"Exclui\",IF(F55<E55,\"Reduz em \"&(E55-F55),\"Aumenta em \"&(F55-E55))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H55",
+      "formula": "=MAX(E55-F55,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I55",
+      "formula": "=MAX(F55-E55,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J55",
+      "formula": "=D55*E55",
+      "cached": 1.5
+    },
+    {
+      "cell": "K55",
+      "formula": "=D55*F55",
+      "cached": 1.5
+    },
+    {
+      "cell": "L55",
+      "formula": "=F55-E55",
+      "cached": 0
+    },
+    {
+      "cell": "M55",
+      "formula": "=K55-J55",
+      "cached": 0
+    },
+    {
+      "cell": "G56",
+      "formula": "=IF(F56=E56,\"Mantém\",IF(F56=0,\"Exclui\",IF(F56<E56,\"Reduz em \"&(E56-F56),\"Aumenta em \"&(F56-E56))))",
+      "cached": "Mantém"
+    },
+    {
+      "cell": "H56",
+      "formula": "=MAX(E56-F56,0)",
+      "cached": 0
+    },
+    {
+      "cell": "I56",
+      "formula": "=MAX(F56-E56,0)",
+      "cached": 0
+    },
+    {
+      "cell": "J56",
+      "formula": "=D56*E56",
+      "cached": 2.4
+    },
+    {
+      "cell": "K56",
+      "formula": "=D56*F56",
+      "cached": 2.4
+    },
+    {
+      "cell": "L56",
+      "formula": "=F56-E56",
+      "cached": 0
+    },
+    {
+      "cell": "M56",
+      "formula": "=K56-J56",
+      "cached": 0
+    },
+    {
+      "cell": "B60",
+      "formula": "=D5",
+      "cached": 298
+    },
+    {
+      "cell": "C60",
+      "formula": "=C73",
+      "cached": 284
+    },
+    {
+      "cell": "D60",
+      "formula": "=B60-C60",
+      "cached": 14
+    },
+    {
+      "cell": "B61",
+      "formula": "=D6",
+      "cached": 201
+    },
+    {
+      "cell": "C61",
+      "formula": "=E73",
+      "cached": 188
+    },
+    {
+      "cell": "D61",
+      "formula": "=B61-C61",
+      "cached": 13
+    },
+    {
+      "cell": "B62",
+      "formula": "=D7",
+      "cached": 499
+    },
+    {
+      "cell": "C62",
+      "formula": "=B73",
+      "cached": 472
+    },
+    {
+      "cell": "D62",
+      "formula": "=B62-C62",
+      "cached": 27
+    },
+    {
+      "cell": "B66",
+      "formula": "=C66+E66",
+      "cached": 45
+    },
+    {
+      "cell": "B67",
+      "formula": "=C67+E67",
+      "cached": 72
+    },
+    {
+      "cell": "B68",
+      "formula": "=C68+E68",
+      "cached": 66
+    },
+    {
+      "cell": "B69",
+      "formula": "=C69+E69",
+      "cached": 185
+    },
+    {
+      "cell": "B70",
+      "formula": "=C70+E70",
+      "cached": 23
+    },
+    {
+      "cell": "B71",
+      "formula": "=C71+E71",
+      "cached": 36
+    },
+    {
+      "cell": "B72",
+      "formula": "=C72+E72",
+      "cached": 45
+    },
+    {
+      "cell": "B73",
+      "formula": "=SUM(B66:B72)",
+      "cached": 472
+    },
+    {
+      "cell": "C73",
+      "formula": "=SUM(C66:C72)",
+      "cached": 284
+    },
+    {
+      "cell": "E73",
+      "formula": "=SUM(E66:E72)",
+      "cached": 188
+    },
+    {
+      "cell": "A75",
+      "formula": "=IF(D62=0,\"Todos os cargos da proposta estão alocados.\",IF(D62>0,\"Ainda faltam \"&D62&\" cargos para alocar na estrutura.\",\"A estrutura ultrapassa a proposta em \"&ABS(D62)&\" cargos.\"))",
+      "cached": "Ainda faltam 27 cargos para alocar na estrutura."
+    }
+  ],
+  "comments": [],
+  "hyperlinksOrURLs": [],
+  "externalLinkCount": 0,
+  "definedNames": [],
+  "specialArchiveParts": [],
+  "dataValidations": [
+    {
+      "range": "F12:F56",
+      "type": null,
+      "operator": "greaterThanOrEqual",
+      "formula1": "0",
+      "showErrorMessage": false
+    }
+  ],
+  "conditionalFormatting": [
+    {
+      "ranges": "E278:E280 S6:S49",
+      "rules": [
+        {
+          "type": "expression",
+          "operator": null,
+          "formula": [
+            "E6=\"Alocado corretamente\""
+          ]
+        },
+        {
+          "type": "expression",
+          "operator": null,
+          "formula": [
+            "E6<>\"Alocado corretamente\""
+          ]
+        }
+      ]
+    },
+    {
+      "ranges": "I4:I6",
+      "rules": [
+        {
+          "type": "expression",
+          "operator": null,
+          "formula": [
+            "I4=\"Alocado corretamente\""
+          ]
+        },
+        {
+          "type": "expression",
+          "operator": null,
+          "formula": [
+            "I4<>\"Alocado corretamente\""
+          ]
+        }
+      ]
+    },
+    {
+      "ranges": "J290:J350",
+      "rules": [
+        {
+          "type": "expression",
+          "operator": null,
+          "formula": [
+            "J290=\"ULTRAPASSA LIMITE\""
+          ]
+        },
+        {
+          "type": "expression",
+          "operator": null,
+          "formula": [
+            "J290=\"Dentro do limite global\""
+          ]
+        }
+      ]
+    }
+  ],
+  "independentCalculatorTotals": {
+    "CCESP": {
+      "quantity": 298,
+      "quotas": "1066.00"
+    },
+    "FCESP": {
+      "quantity": 201,
+      "quotas": "349.35"
+    }
+  },
+  "independentCalculatorAggregate": {
+    "quantity": 499,
+    "quotas": "1415.35"
+  },
+  "comparisonToAnnexIII": {
+    "all45NonzeroCodesPresent": true,
+    "allQuantitiesAndCoefficientsMatch": true,
+    "currentEqualsProposal": true,
+    "normalization": "Anexo III CCESP NES represented as CCESP 1.18; same level and coefficient; original normalization already justified by Anexo II."
+  },
+  "comparisonToCurrentAppDocumentaryAnnexII": {
+    "annexII": {
+      "CCESP": {
+        "quantity": 299,
+        "quotaHundredths": 106950
+      },
+      "FCESP": {
+        "quantity": 201,
+        "quotaHundredths": 34875
+      }
+    },
+    "annexIII": {
+      "CCESP": {
+        "quantity": 298,
+        "quotas": "1066.00"
+      },
+      "FCESP": {
+        "quantity": 201,
+        "quotas": "349.35"
+      }
+    },
+    "status": "Sources differ; changing entire-secretariat calculator to III must explicitly change UI and export origin, while unit references remain II and no mixed consolidation is allowed."
+  },
+  "allocationBlocks": [
+    {
+      "row": 66,
+      "name": "Gabinete do Secretário",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 31,
+          "sumFromText": 31,
+          "quotaIndependent": "131.75",
+          "codes": {
+            "CCESP 2.16": 1,
+            "CCESP 2.15": 2,
+            "CCESP 2.14": 1,
+            "CCESP 2.13": 1,
+            "CCESP 2.12": 2,
+            "CCESP 2.11": 1,
+            "CCESP 2.10": 4,
+            "CCESP 2.09": 1,
+            "CCESP 2.08": 4,
+            "CCESP 2.07": 1,
+            "CCESP 2.06": 1,
+            "CCESP 2.04": 2,
+            "CCESP 1.18": 1,
+            "CCESP 1.17": 1,
+            "CCESP 1.16": 1,
+            "CCESP 1.15": 2,
+            "CCESP 1.13": 3,
+            "CCESP 1.10": 2
+          },
+          "sourceCells": [
+            "C66",
+            "D66"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 14,
+          "sumFromText": 14,
+          "quotaIndependent": "30.30",
+          "codes": {
+            "FCESP 2.12": 2,
+            "FCESP 2.10": 6,
+            "FCESP 2.08": 2,
+            "FCESP 2.01": 1,
+            "FCESP 1.15": 2,
+            "FCESP 1.13": 1
+          },
+          "sourceCells": [
+            "E66",
+            "F66"
+          ]
+        }
+      }
+    },
+    {
+      "row": 67,
+      "name": "Subsecretaria de Gestão Corporativa",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 52,
+          "sumFromText": 52,
+          "quotaIndependent": "173.50",
+          "codes": {
+            "CCESP 2.13": 1,
+            "CCESP 2.11": 2,
+            "CCESP 2.10": 4,
+            "CCESP 2.09": 2,
+            "CCESP 2.07": 4,
+            "CCESP 2.06": 1,
+            "CCESP 2.05": 2,
+            "CCESP 2.04": 7,
+            "CCESP 2.03": 1,
+            "CCESP 2.02": 3,
+            "CCESP 1.17": 1,
+            "CCESP 1.16": 1,
+            "CCESP 1.15": 3,
+            "CCESP 1.13": 10,
+            "CCESP 1.10": 9,
+            "CCESP 1.05": 1
+          },
+          "sourceCells": [
+            "C67",
+            "D67"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 20,
+          "sumFromText": 20,
+          "quotaIndependent": "31.35",
+          "codes": {
+            "FCESP 2.13": 2,
+            "FCESP 2.10": 1,
+            "FCESP 2.07": 1,
+            "FCESP 2.06": 2,
+            "FCESP 2.04": 2,
+            "FCESP 2.03": 2,
+            "FCESP 2.01": 1,
+            "FCESP 1.14": 1,
+            "FCESP 1.07": 8
+          },
+          "sourceCells": [
+            "E67",
+            "F67"
+          ]
+        }
+      }
+    },
+    {
+      "row": 68,
+      "name": "Subsecretaria de Gestão",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 43,
+          "sumFromText": 43,
+          "quotaIndependent": "160.25",
+          "codes": {
+            "CCESP 2.13": 1,
+            "CCESP 2.12": 10,
+            "CCESP 2.11": 1,
+            "CCESP 2.10": 3,
+            "CCESP 2.09": 7,
+            "CCESP 2.08": 3,
+            "CCESP 2.07": 2,
+            "CCESP 2.05": 1,
+            "CCESP 2.03": 1,
+            "CCESP 1.17": 1,
+            "CCESP 1.15": 3,
+            "CCESP 1.13": 6,
+            "CCESP 1.10": 3,
+            "CCESP 1.05": 1
+          },
+          "sourceCells": [
+            "C68",
+            "D68"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 23,
+          "sumFromText": 23,
+          "quotaIndependent": "43.50",
+          "codes": {
+            "FCESP 2.14": 1,
+            "FCESP 2.11": 1,
+            "FCESP 2.10": 2,
+            "FCESP 2.09": 1,
+            "FCESP 2.07": 2,
+            "FCESP 2.06": 2,
+            "FCESP 2.05": 3,
+            "FCESP 2.01": 1,
+            "FCESP 1.16": 1,
+            "FCESP 1.13": 1,
+            "FCESP 1.10": 8
+          },
+          "sourceCells": [
+            "E68",
+            "F68"
+          ]
+        }
+      }
+    },
+    {
+      "row": 69,
+      "name": "Subsecretaria de Gestão de Pessoas",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 112,
+          "sumFromText": 112,
+          "quotaIndependent": "371.00",
+          "codes": {
+            "CCESP 2.12": 2,
+            "CCESP 2.11": 4,
+            "CCESP 2.10": 3,
+            "CCESP 2.09": 3,
+            "CCESP 2.08": 46,
+            "CCESP 2.07": 3,
+            "CCESP 2.06": 4,
+            "CCESP 2.04": 6,
+            "CCESP 2.01": 1,
+            "CCESP 1.17": 1,
+            "CCESP 1.16": 1,
+            "CCESP 1.15": 6,
+            "CCESP 1.14": 2,
+            "CCESP 1.13": 13,
+            "CCESP 1.10": 17
+          },
+          "sourceCells": [
+            "C69",
+            "D69"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 73,
+          "sumFromText": 73,
+          "quotaIndependent": "128.55",
+          "codes": {
+            "FCESP 2.11": 1,
+            "FCESP 2.09": 6,
+            "FCESP 2.08": 10,
+            "FCESP 2.07": 6,
+            "FCESP 2.06": 7,
+            "FCESP 2.05": 6,
+            "FCESP 2.04": 3,
+            "FCESP 1.15": 1,
+            "FCESP 1.13": 6,
+            "FCESP 1.10": 23,
+            "FCESP 1.07": 3,
+            "FCESP 1.05": 1
+          },
+          "sourceCells": [
+            "E69",
+            "F69"
+          ]
+        }
+      }
+    },
+    {
+      "row": 70,
+      "name": "Subsecretaria de Governo Digital",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 20,
+          "sumFromText": 20,
+          "quotaIndependent": "93.00",
+          "codes": {
+            "CCESP 2.13": 2,
+            "CCESP 2.12": 3,
+            "CCESP 2.10": 2,
+            "CCESP 1.17": 1,
+            "CCESP 1.15": 4,
+            "CCESP 1.13": 7,
+            "CCESP 1.05": 1
+          },
+          "sourceCells": [
+            "C70",
+            "D70"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 3,
+          "sumFromText": 3,
+          "quotaIndependent": "7.2",
+          "codes": {
+            "FCESP 2.12": 3
+          },
+          "sourceCells": [
+            "E70",
+            "F70"
+          ]
+        }
+      }
+    },
+    {
+      "row": 71,
+      "name": "Subsecretaria de Patrimônio do Estado",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 12,
+          "sumFromText": 12,
+          "quotaIndependent": "44.25",
+          "codes": {
+            "CCESP 2.13": 2,
+            "CCESP 2.06": 4,
+            "CCESP 2.04": 1,
+            "CCESP 1.17": 1,
+            "CCESP 1.14": 1,
+            "CCESP 1.13": 1,
+            "CCESP 1.10": 2
+          },
+          "sourceCells": [
+            "C71",
+            "D71"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 24,
+          "sumFromText": 24,
+          "quotaIndependent": "38.85",
+          "codes": {
+            "FCESP 2.06": 7,
+            "FCESP 2.05": 3,
+            "FCESP 2.03": 2,
+            "FCESP 2.02": 2,
+            "FCESP 1.15": 1,
+            "FCESP 1.13": 4,
+            "FCESP 1.10": 2,
+            "FCESP 1.07": 2,
+            "FCESP 1.05": 1
+          },
+          "sourceCells": [
+            "E71",
+            "F71"
+          ]
+        }
+      }
+    },
+    {
+      "row": 72,
+      "name": "Subsecretaria do Arquivo Público do Estado",
+      "groups": {
+        "CCESP": {
+          "statedQuantity": 14,
+          "sumFromText": 14,
+          "quotaIndependent": "49.50",
+          "codes": {
+            "CCESP 2.10": 1,
+            "CCESP 2.06": 1,
+            "CCESP 1.17": 1,
+            "CCESP 1.15": 1,
+            "CCESP 1.13": 3,
+            "CCESP 1.10": 2,
+            "CCESP 1.05": 5
+          },
+          "sourceCells": [
+            "C72",
+            "D72"
+          ]
+        },
+        "FCESP": {
+          "statedQuantity": 31,
+          "sumFromText": 31,
+          "quotaIndependent": "49.95",
+          "codes": {
+            "FCESP 2.06": 2,
+            "FCESP 2.05": 2,
+            "FCESP 2.03": 1,
+            "FCESP 2.01": 1,
+            "FCESP 1.15": 1,
+            "FCESP 1.14": 1,
+            "FCESP 1.13": 2,
+            "FCESP 1.10": 7,
+            "FCESP 1.07": 2,
+            "FCESP 1.05": 12
+          },
+          "sourceCells": [
+            "E72",
+            "F72"
+          ]
+        }
+      }
+    }
+  ],
+  "allocationBlockTotalsIndependent": {
+    "CCESP": {
+      "quantity": 284,
+      "quotas": "1023.25"
+    },
+    "FCESP": {
+      "quantity": 188,
+      "quotas": "329.70"
+    }
+  },
+  "allocationCodeConference": [
+    {
+      "row": 6,
+      "code": "CCESP 1.18",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O6,$F$12:$F$56)",
+      "proposedIndependent": 1,
+      "allocatedHardcoded": 1,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 7,
+      "code": "CCESP 1.17",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O7,$F$12:$F$56)",
+      "proposedIndependent": 7,
+      "allocatedHardcoded": 7,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 8,
+      "code": "CCESP 1.16",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O8,$F$12:$F$56)",
+      "proposedIndependent": 3,
+      "allocatedHardcoded": 3,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 9,
+      "code": "CCESP 1.15",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O9,$F$12:$F$56)",
+      "proposedIndependent": 21,
+      "allocatedHardcoded": 19,
+      "differenceIndependent": 2,
+      "differenceCached": 2,
+      "statusCached": "Falta alocar 2"
+    },
+    {
+      "row": 10,
+      "code": "CCESP 2.15",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O10,$F$12:$F$56)",
+      "proposedIndependent": 2,
+      "allocatedHardcoded": 2,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 11,
+      "code": "CCESP 1.14",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O11,$F$12:$F$56)",
+      "proposedIndependent": 3,
+      "allocatedHardcoded": 3,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 12,
+      "code": "CCESP 2.14",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O12,$F$12:$F$56)",
+      "proposedIndependent": 1,
+      "allocatedHardcoded": 1,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 13,
+      "code": "CCESP 1.13",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O13,$F$12:$F$56)",
+      "proposedIndependent": 44,
+      "allocatedHardcoded": 43,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 14,
+      "code": "CCESP 2.13",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O14,$F$12:$F$56)",
+      "proposedIndependent": 7,
+      "allocatedHardcoded": 7,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 15,
+      "code": "CCESP 2.12",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O15,$F$12:$F$56)",
+      "proposedIndependent": 18,
+      "allocatedHardcoded": 17,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 16,
+      "code": "CCESP 2.11",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O16,$F$12:$F$56)",
+      "proposedIndependent": 8,
+      "allocatedHardcoded": 8,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 17,
+      "code": "CCESP 1.10",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O17,$F$12:$F$56)",
+      "proposedIndependent": 35,
+      "allocatedHardcoded": 35,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 18,
+      "code": "CCESP 2.10",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O18,$F$12:$F$56)",
+      "proposedIndependent": 16,
+      "allocatedHardcoded": 17,
+      "differenceIndependent": -1,
+      "differenceCached": -1,
+      "statusCached": "Excesso alocado: 1"
+    },
+    {
+      "row": 19,
+      "code": "CCESP 2.09",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O19,$F$12:$F$56)",
+      "proposedIndependent": 15,
+      "allocatedHardcoded": 13,
+      "differenceIndependent": 2,
+      "differenceCached": 2,
+      "statusCached": "Falta alocar 2"
+    },
+    {
+      "row": 20,
+      "code": "CCESP 2.08",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O20,$F$12:$F$56)",
+      "proposedIndependent": 53,
+      "allocatedHardcoded": 53,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 21,
+      "code": "CCESP 1.07",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O21,$F$12:$F$56)",
+      "proposedIndependent": 1,
+      "allocatedHardcoded": 0,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 22,
+      "code": "CCESP 2.07",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O22,$F$12:$F$56)",
+      "proposedIndependent": 10,
+      "allocatedHardcoded": 10,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 23,
+      "code": "CCESP 2.06",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O23,$F$12:$F$56)",
+      "proposedIndependent": 16,
+      "allocatedHardcoded": 11,
+      "differenceIndependent": 5,
+      "differenceCached": 5,
+      "statusCached": "Falta alocar 5"
+    },
+    {
+      "row": 24,
+      "code": "CCESP 1.05",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O24,$F$12:$F$56)",
+      "proposedIndependent": 7,
+      "allocatedHardcoded": 8,
+      "differenceIndependent": -1,
+      "differenceCached": -1,
+      "statusCached": "Excesso alocado: 1"
+    },
+    {
+      "row": 25,
+      "code": "CCESP 2.05",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O25,$F$12:$F$56)",
+      "proposedIndependent": 6,
+      "allocatedHardcoded": 3,
+      "differenceIndependent": 3,
+      "differenceCached": 3,
+      "statusCached": "Falta alocar 3"
+    },
+    {
+      "row": 26,
+      "code": "CCESP 2.04",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O26,$F$12:$F$56)",
+      "proposedIndependent": 17,
+      "allocatedHardcoded": 16,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 27,
+      "code": "CCESP 2.03",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O27,$F$12:$F$56)",
+      "proposedIndependent": 2,
+      "allocatedHardcoded": 2,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 28,
+      "code": "CCESP 2.02",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O28,$F$12:$F$56)",
+      "proposedIndependent": 3,
+      "allocatedHardcoded": 3,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 29,
+      "code": "CCESP 2.01",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O29,$F$12:$F$56)",
+      "proposedIndependent": 1,
+      "allocatedHardcoded": 1,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 30,
+      "code": "FCESP 1.16",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O30,$F$12:$F$56)",
+      "proposedIndependent": 1,
+      "allocatedHardcoded": 1,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 31,
+      "code": "FCESP 1.15",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O31,$F$12:$F$56)",
+      "proposedIndependent": 5,
+      "allocatedHardcoded": 5,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 32,
+      "code": "FCESP 1.14",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O32,$F$12:$F$56)",
+      "proposedIndependent": 3,
+      "allocatedHardcoded": 2,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 33,
+      "code": "FCESP 1.13",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O33,$F$12:$F$56)",
+      "proposedIndependent": 13,
+      "allocatedHardcoded": 14,
+      "differenceIndependent": -1,
+      "differenceCached": -1,
+      "statusCached": "Excesso alocado: 1"
+    },
+    {
+      "row": 34,
+      "code": "FCESP 2.13",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O34,$F$12:$F$56)",
+      "proposedIndependent": 3,
+      "allocatedHardcoded": 2,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 35,
+      "code": "FCESP 2.12",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O35,$F$12:$F$56)",
+      "proposedIndependent": 5,
+      "allocatedHardcoded": 5,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 36,
+      "code": "FCESP 2.11",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O36,$F$12:$F$56)",
+      "proposedIndependent": 2,
+      "allocatedHardcoded": 2,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 37,
+      "code": "FCESP 1.10",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O37,$F$12:$F$56)",
+      "proposedIndependent": 43,
+      "allocatedHardcoded": 40,
+      "differenceIndependent": 3,
+      "differenceCached": 3,
+      "statusCached": "Falta alocar 3"
+    },
+    {
+      "row": 38,
+      "code": "FCESP 2.10",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O38,$F$12:$F$56)",
+      "proposedIndependent": 10,
+      "allocatedHardcoded": 9,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 39,
+      "code": "FCESP 2.09",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O39,$F$12:$F$56)",
+      "proposedIndependent": 8,
+      "allocatedHardcoded": 7,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 40,
+      "code": "FCESP 2.08",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O40,$F$12:$F$56)",
+      "proposedIndependent": 12,
+      "allocatedHardcoded": 12,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 41,
+      "code": "FCESP 1.07",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O41,$F$12:$F$56)",
+      "proposedIndependent": 16,
+      "allocatedHardcoded": 15,
+      "differenceIndependent": 1,
+      "differenceCached": 1,
+      "statusCached": "Falta alocar 1"
+    },
+    {
+      "row": 42,
+      "code": "FCESP 2.07",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O42,$F$12:$F$56)",
+      "proposedIndependent": 9,
+      "allocatedHardcoded": 9,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 43,
+      "code": "FCESP 2.06",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O43,$F$12:$F$56)",
+      "proposedIndependent": 24,
+      "allocatedHardcoded": 20,
+      "differenceIndependent": 4,
+      "differenceCached": 4,
+      "statusCached": "Falta alocar 4"
+    },
+    {
+      "row": 44,
+      "code": "FCESP 1.05",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O44,$F$12:$F$56)",
+      "proposedIndependent": 14,
+      "allocatedHardcoded": 14,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 45,
+      "code": "FCESP 2.05",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O45,$F$12:$F$56)",
+      "proposedIndependent": 14,
+      "allocatedHardcoded": 14,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 46,
+      "code": "FCESP 2.04",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O46,$F$12:$F$56)",
+      "proposedIndependent": 8,
+      "allocatedHardcoded": 5,
+      "differenceIndependent": 3,
+      "differenceCached": 3,
+      "statusCached": "Falta alocar 3"
+    },
+    {
+      "row": 47,
+      "code": "FCESP 2.03",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O47,$F$12:$F$56)",
+      "proposedIndependent": 5,
+      "allocatedHardcoded": 5,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 48,
+      "code": "FCESP 2.02",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O48,$F$12:$F$56)",
+      "proposedIndependent": 2,
+      "allocatedHardcoded": 2,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 49,
+      "code": "FCESP 2.01",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O49,$F$12:$F$56)",
+      "proposedIndependent": 4,
+      "allocatedHardcoded": 4,
+      "differenceIndependent": 0,
+      "differenceCached": 0,
+      "statusCached": "Alocado corretamente"
+    },
+    {
+      "row": 50,
+      "code": "FCESP 2.14",
+      "proposalFormula": "=SUMIF($B$12:$B$56,O50,$F$12:$F$56)",
+      "proposedIndependent": 0,
+      "allocatedHardcoded": 1,
+      "differenceIndependent": -1,
+      "differenceCached": -1,
+      "statusCached": "Excesso alocado: 1"
+    }
+  ],
+  "allocationCodeTotalsIndependent": {
+    "CCESP": 283,
+    "FCESP": 188
+  },
+  "allocationConferenceMissingProposalCode": [
+    "CCESP 2.16"
+  ],
+  "allocationConferenceExtraCode": [
+    "FCESP 2.14"
+  ],
+  "allocationDifferencesFromAnnexII": [
+    {
+      "code": "CCESP 1.07",
+      "annexII": 1,
+      "allocatedInBlockText": 0,
+      "difference": -1
+    },
+    {
+      "code": "CCESP 1.10",
+      "annexII": 36,
+      "allocatedInBlockText": 35,
+      "difference": -1
+    },
+    {
+      "code": "CCESP 1.13",
+      "annexII": 44,
+      "allocatedInBlockText": 43,
+      "difference": -1
+    },
+    {
+      "code": "CCESP 1.15",
+      "annexII": 21,
+      "allocatedInBlockText": 19,
+      "difference": -2
+    },
+    {
+      "code": "CCESP 2.04",
+      "annexII": 17,
+      "allocatedInBlockText": 16,
+      "difference": -1
+    },
+    {
+      "code": "CCESP 2.05",
+      "annexII": 5,
+      "allocatedInBlockText": 3,
+      "difference": -2
+    },
+    {
+      "code": "CCESP 2.06",
+      "annexII": 16,
+      "allocatedInBlockText": 11,
+      "difference": -5
+    },
+    {
+      "code": "CCESP 2.09",
+      "annexII": 14,
+      "allocatedInBlockText": 13,
+      "difference": -1
+    },
+    {
+      "code": "CCESP 2.12",
+      "annexII": 18,
+      "allocatedInBlockText": 17,
+      "difference": -1
+    },
+    {
+      "code": "FCESP 1.07",
+      "annexII": 16,
+      "allocatedInBlockText": 15,
+      "difference": -1
+    },
+    {
+      "code": "FCESP 1.10",
+      "annexII": 43,
+      "allocatedInBlockText": 40,
+      "difference": -3
+    },
+    {
+      "code": "FCESP 2.04",
+      "annexII": 8,
+      "allocatedInBlockText": 5,
+      "difference": -3
+    },
+    {
+      "code": "FCESP 2.06",
+      "annexII": 25,
+      "allocatedInBlockText": 20,
+      "difference": -5
+    },
+    {
+      "code": "FCESP 2.09",
+      "annexII": 8,
+      "allocatedInBlockText": 7,
+      "difference": -1
+    }
+  ],
+  "counterexampleWithoutWorkbookMutation": {
+    "assumption": "F16:21 -> 22 (one additional CCESP 1.15)",
+    "independentExpectedCCESP": {
+      "quantity": 299,
+      "quotas": "1072.00"
+    },
+    "D5_and_H5_remainHardcoded": {
+      "D5": 298,
+      "H5": 1066
+    },
+    "J5_formula": "=IF(AND(D5<=B5,H5<=F5),\"Enquadrada\",\"Fora do limite\")",
+    "consequence": "Header status remains Enquadrada because it has no dependency on F16; this is dependency analysis, not a native Excel test."
+  },
+  "officialSources": [
+    {
+      "label": "Decreto 70.755/2026, Anexo III; PDF pp.39-40",
+      "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+    },
+    {
+      "label": "ALESP reproduction",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html"
+    }
+  ],
+  "limits": [
+    "Workbook is a supplied model, not institutional homologation.",
+    "Cotas/quantity rules and accepted SGGD reference remain under technical validation.",
+    "Cached formula results were inspected and relevant sums independently recomputed; Excel/LibreOffice recalculation and visual workbook rendering were not performed.",
+    "No remuneration validation or new exhaustive legal audit performed.",
+    "Allocation data should not be imported as a complete or reconciled structure."
+  ],
+  "sourceUnchangedAfterInspection": true
+}

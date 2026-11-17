@@ -1,0 +1,55 @@
+  1 Assessor IV CCESP 2.12
+  1 Assistente Técnico III FCESP 2.07
+  1 Assistente Técnico III CCESP 2.07
+Divisão de Articulação e Parcerias Estratégicas 1 Chefe de Divisão FCESP 1.10
+  1 Assessor I CCESP 2.09
+Divisão de Desempenho Institucional 1 Chefe de Divisão FCESP 1.10
+  1 Assessor I CCESP 2.09
+  1 Assistente Técnico I CCESP 2.05
+       
+DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA 1 Diretor CCESP 1.15
+  1 Assessor IV CCESP 2.12
+Coordenadoria de Inteligência em Gestão 1 Coordenador CCESP 1.13
+  1 Assessor II CCESP 2.12
+  1 Assessor II CCESP 2.10
+  2 Assistente Técnico II FCESP 2.06
+Laboratório de Logística Pública 1 Coordenador CCESP 1.13
+  1 Assessor II CCESP 2.10
+  1 Assessor II FCESP 2.10
+  1 Assistente Técnico IV CCESP 2.08
+       
+DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA 1 Diretor CCESP 1.15
+  1 Assessor III FCESP 2.11
+  1 Assessor III CCESP 2.11
+  1 Assessor I FCESP 2.09
+  1 Assessor I CCESP 2.09
+Coordenadoria de Normas e Procedimentos 1 Coordenador CCESP 1.13
+Divisão de Elaboração de Atos Normativos 1 Chefe de Divisão FCESP 1.10
+Divisão de Orientação Normativa e Atendimento
+Órgãos Controle
+1 Chefe de Divisão FCESP 1.10
+Coordenadoria de Sistemas de Logística 1 Coordenador CCESP 1.13
+Divisão de Gestão de Sistemas de Logística 1 Chefe de Divisão FCESP 1.10
+Divisão de Suporte ao Usuário 1 Chefe de Divisão CCESP 1.10
+Divisão de Capacitação e Gestão do Conhecimento 1 Chefe de Divisão FCESP 1.10
+Coordenadoria da Central de Compras 1 Coordenador CCESP 1.13
+  2 Assessor IV CCESP 2.12
+Divisão de Licitações e Contratações 1 Chefe de Divisão CCESP 1.10
+  2 Assessor I CCESP 2.09
+Divisão de Serviços Compartilhados 1 Chefe de Divisão CCESP 1.10
+  2 Assessor I CCESP 2.09
+       
+SUBSECRETARIA DE GESTÃO DE PESSOAS 1 Subsecretário CCESP 1.17
+Assessoria Técnica 1 Chefe de Assessoria CCESP 1.14
+  1 Assessor IV CCESP 2.12
+  2 Assessor III CCESP 2.11
+  2 Assessor II CCESP 2.10
+  1 Assessor I FCESP 2.09
+  1 Assistente Técnico IV CCESP 2.08
+  2 Assistente Técnico II CCESP 2.06
+Assessoria de Padronização e Sustentação de
+Processos de Gestão de Pessoas
+1 Chefe de Assessoria CCESP 1.14
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 32/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

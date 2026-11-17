@@ -1,0 +1,41 @@
+Artigo 33 - A Subsecretaria de Governo Digital tem as seguintes competências:
+I - formular, coordenar e implementar políticas direcionadas a:
+a) promoção da inclusão digital e ampliação da conectividade;
+b) uniﬁcação de canais digitais e uniformização de instrumentos;
+c) integração e compartilhamento de tecnologias;
+d) integração e interoperabilidade de sistemas e bases de dados;
+e) inteligência artiﬁcial;
+f) governança, gestão e análise de dados;
+g) segurança cibernética;
+II - atuar como órgão central do Sistema Estadual de Tecnologia da Informação e
+Comunicação - SETIC, previsto no Decreto nº 64.601, de 22 de novembro de 2019;
+III - coordenar a implementação da Estratégia de Governo Digital, prevista no Decreto
+nº 67.799, de 13 de julho de 2023, nos órgãos e entidades da Administração Pública estadual;
+IV - orientar os trabalhos da Unidade de Gestão do Projeto São Paulo Mais Digital,
+instituída pelo Decreto n° 68.051, de 31 de outubro de 2023;
+V - orientar ações estratégicas e prestar apoio técnico ao Conselho Estadual de
+Tecnologia da Informação e Comunicação - COETIC, ao Comitê Gestor do Sistema Biométrico e ao
+Comitê Gestor de Governança de Dados e Informações do Estado de São Paulo;
+VI - ﬁxar diretrizes gerais e estratégicas, modelos, normas e padrões técnicos e
+operacionais de tecnologia da informação e comunicação e de governança de dados e
+informações, especialmente quanto:
+a) à implementação de soluções integradas e padrões em tecnologia da informação e
+comunicação;
+b) à coordenação e controle do planejamento orçamentário de TIC no âmbito do SETIC;
+c) aos padrões de segurança de dados e informações;
+d) aos padrões de armazenamento de dados;
+VII - monitorar, do ponto de vista tecnológico, as atividades de governança de dados,
+assegurando o cumprimento das políticas relativas à gestão do repositório eletrônico de dados e
+informações, bem como seu compartilhamento, especialmente com relação:
+a) à aplicação e observância das diretrizes gerais e estratégicas, modelos, normas,
+padrões técnicos e operacionais de governança de dados e informações estabelecidos pelo Comitê
+Gestor de Governança de Dados e Informações do Estado de São Paulo;
+b) ao uso de dados e informações em conformidade com as deliberações e atos do
+Comitê Gestor de Governança de Dados e Informações do Estado de São Paulo;
+VIII - interagir com entidades públicas e privadas, nacionais e internacionais, visando
+ao intercâmbio técnico-cultural e à prospecção de tecnologia da informação e comunicação;
+IX - elaborar propostas, para encaminhamento à apreciação do Comitê Gestor de
+Governança de Dados e Informações do Estado de São Paulo, de normas e padrões que orientem a
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 18/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

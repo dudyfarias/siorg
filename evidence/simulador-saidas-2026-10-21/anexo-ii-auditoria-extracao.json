@@ -1,0 +1,17 @@
+{
+  "pdf": "anexo-ii-amostra.pdf",
+  "pages": 16,
+  "positiveRowsMatchedInOrder": 407,
+  "units": 221,
+  "quantitySum": "504",
+  "fullCodeOccurrences": 407,
+  "codeFrequencyMatches": true,
+  "repeatedHeadersOnEveryPage": true,
+  "pageNumbersOnEveryPage": true,
+  "zeroQuantityRows": 0,
+  "minTextFontSize": 9.0,
+  "portugueseAccentsPreserved": true,
+  "privateSourceUrlsAbsent": true,
+  "internalControlsAbsent": true,
+  "visualReview": "pending parent render and inspection"
+}

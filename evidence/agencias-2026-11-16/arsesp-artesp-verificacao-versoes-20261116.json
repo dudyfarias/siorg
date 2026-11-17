@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-11-16",
+  "scope": "Conferência focal de atualidade dos quadros ARSESP/ARTESP e do registro em src/data/agency-structures.mjs. Nenhuma alteração em src.",
+  "arsesp": {
+    "modelVersion": "arsesp-deliberacao-1811-2026",
+    "modelQuantity": "90",
+    "modelQuotaCents": "42550",
+    "bestLocatedAllocation": "Deliberação1.811/2026, publicada11/06/2026",
+    "finding": "Mantém-se como melhor quadro de distribuição encontrado; registro do modelo coincide com os anexos reconciliados.",
+    "officialRegistry": {
+      "url": "https://www.arsesp.sp.gov.br/_api/web/lists/getbytitle(%27Legislacao%27)/items?%24select=Id%2CNumero%2CData%2CDescricao%2CTipos&%24filter=Data%20ge%20datetime%272026-06-01T00%3A00%3A00Z%27&%24orderby=Data%20desc&%24top=500",
+      "records": 123,
+      "nextPage": null,
+      "firstDate": "2026-06-01T21:00:00Z",
+      "lastDate": "2026-11-16T12:00:00Z",
+      "numericRangeChecked": [
+        1811,
+        1864
+      ],
+      "missingNumbers": [],
+      "basis": "Ementas de todos os números 1811–1864 presentes; sem ementa posterior que substitua distribuição quantitativa; atos próximos analisados no inteiro teor."
+    },
+    "laterContextActs": [
+      {
+        "number": "1828",
+        "actDate": "2026-08-06",
+        "publicationDate": "2026-08-07",
+        "sourceUrl": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/1828.pdf",
+        "readScope": "Inteiro teor,1página",
+        "effect": "Mantém excepcionalmente a supervisão técnica da Deliberação1.800/2026 até novo ato. Não é novo quadro quantitativo nem altera hierarquia por si."
+      },
+      {
+        "number": "1862",
+        "actDate": "2026-11-13",
+        "publicationDate": "2026-11-16",
+        "sourceUrl": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/DELIBERA%C3%87%C3%83O%20ARSESP%20N%C2%BA%201.862%2C%20de%2013%20de%20novembro%20de%202026.pdf",
+        "readScope": "Inteiro teor,2páginas; dados pessoais não transcritos",
+        "effect": "Redefine membros da UGI em lotações/cargos existentes; revoga1445,1532,1781. Sem novo quantitativoCCESP."
+      }
+    ],
+    "hierarchyEvidence": "arsesp-hierarquia-parcial-1649.json"
+  },
+  "artesp": {
+    "modelVersion": "artesp-deliberacao-722-2026",
+    "modelQuantity": "154",
+    "modelQuotaCents": "58000",
+    "bestLocatedAllocation": "Deliberação722/2026, publicada23/09/2026",
+    "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-artesp-n-722-de-22-de-setembro-de-2026-2026092211351712032147160",
+    "finding": "Mantém-se como melhor distribuição integral encontrada no escopo; nenhuma substituta localizada, mas menor cobertura de atualidade que ARSESP.",
+    "limitations": [
+      "Portal institucional e página legislação2026 retornaram403/Imperva na consulta direta.",
+      "Portal oficial Dados Abertos grupoLegislação consultado; catálogo expõe essencialmentePortarias (2026 atualizado06/11,182recursos), não confirma varredura de todas asDeliberações.",
+      "Buscas indexadas de outubro/novembro para cargos e quantitativos não localizaram novo quadro. Ausência nos resultados não certifica inexistência de ato posterior."
+    ],
+    "sourcesChecked": [
+      "https://www.artesp.sp.gov.br/artesp/institucional/legislacao/2026",
+      "https://dadosabertos.artesp.sp.gov.br/pt_BR/group/legislacao"
+    ]
+  },
+  "recommendedCaption": "Quadro publicado de referência: ARSESP1.811/2026 e ARTESP722/2026. Fontes conferidas em16/11/2026; bases sujeitas à revisão técnica e à confirmação de atos posteriores. Trata-se de alocação deCCESP, não ocupação atual nem certificação de regularidade.",
+  "sourceBoundaries": [
+    "Não rotular todas as unidades como estrutura vigente completa apenas porque o quadro quantitativo fecha.",
+    "FCESP zero no recorte significa que estes atos distribuemCCESP; não certifica inexistência de qualquer outro regime de pessoal.",
+    "O campo limits do modelo usa o próprio quadro recomposto como referência comparativa; não apresentar como teto jurídico imutável de quantidade ou como prova de autorização de nova recomposição."
+  ]
+}

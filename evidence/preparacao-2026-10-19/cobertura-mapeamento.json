@@ -1,0 +1,6472 @@
+{
+  "path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+  "sheets": [
+    {
+      "sheet": "LEIA-ME",
+      "max_row": 10,
+      "max_column": 3,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "MAPEAMENTO DE CCESP/FCESP — GOVERNO DO ESTADO DE SÃO PAULO"
+          },
+          {
+            "cell": "C1",
+            "value": "perguntas"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Data de corte"
+          },
+          {
+            "cell": "B2",
+            "value": "01/10/2026"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Escopo"
+          },
+          {
+            "cell": "B3",
+            "value": "Administração direta e autarquias listadas no Anexo VII do Decreto 68.742/2024; regras centrais dos arts. 6, 7, 17 e 18; atos de atualização localizados até a data de corte."
+          },
+          {
+            "cell": "C3",
+            "value": "Existe informações em outros documentos?"
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Importante"
+          },
+          {
+            "cell": "B4",
+            "value": "'Quantidade possível' significa posição autorizada na estrutura/referencial, e não número de vagas desocupadas. O número de ocupantes/vacâncias exige base de pessoal atualizada."
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Cotas"
+          },
+          {
+            "cell": "B5",
+            "value": "O Anexo VII define quantitativo máximo e cotas por órgão/entidade. Quando um decreto posterior substitui o referencial, a planilha registra o ato e, quando localizado no anexo, o quantitativo/custo da nova estrutura."
+          },
+          {
+            "cell": "C5",
+            "value": "O que ocorre na distribuição com base no coeficiente de valor/unitário dos CCESP/FCESP, caso fique um decimal residual acima do teto?"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Limitação de auditoria"
+          },
+          {
+            "cell": "B6",
+            "value": "Para alguns órgãos, a pesquisa confirmou alteração de estrutura, mas não recuperou no mesmo passo o quadro consolidado de cotas. Nesses casos, a planilha não inventa números e marca a necessidade de conferência no ato mais recente."
+          },
+          {
+            "cell": "C6",
+            "value": "Como faz? Quem faz as auditorias?"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Critério jurídico"
+          },
+          {
+            "cell": "B7",
+            "value": "Arts. 17 e 18 não criam um número máximo geral de Subsecretarias, Diretorias Gerais, Coordenadorias Gerais ou Diretorias. Eles estabelecem requisitos mínimos de estrutura para que esses níveis sejam utilizados."
+          },
+          {
+            "cell": "C7",
+            "value": "Quais regras jurídicas se aplica?"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Fontes"
+          },
+          {
+            "cell": "B8",
+            "value": "Prioridade para textos oficiais da Assembleia Legislativa do Estado de São Paulo e legislação compilada."
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Atualização jurídica 2026"
+          },
+          {
+            "cell": "B9",
+            "value": "Foram acrescentadas as regras pertinentes da LC 1.395/2023 em texto atualizado, alterações pelas LC 1.413/2024, 1.426/2025 e 1.435/2025 e regulamentação do art. 22 pelo Decreto 70.435/2026."
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Fonte principal"
+          },
+          {
+            "cell": "B10",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Setores_Atual",
+      "max_row": 57,
+      "max_column": 10,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Tipo"
+          },
+          {
+            "cell": "B1",
+            "value": "Órgão/Entidade"
+          },
+          {
+            "cell": "C1",
+            "value": "CCESP qtd. Base atual"
+          },
+          {
+            "cell": "D1",
+            "value": "CCESP cotas base atual"
+          },
+          {
+            "cell": "E1",
+            "value": "FCESP qtd. Base atual"
+          },
+          {
+            "cell": "F1",
+            "value": "FCESP cotas base atual"
+          },
+          {
+            "cell": "G1",
+            "value": "total (CCESP+FCESP)"
+          },
+          {
+            "cell": "H1",
+            "value": "Último ato localizado"
+          },
+          {
+            "cell": "I1",
+            "value": "Situação atual até 01/10/2026"
+          },
+          {
+            "cell": "J1",
+            "value": "Observação"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B2",
+            "value": "Governadoria do Estado"
+          },
+          {
+            "cell": "C2",
+            "value": 470
+          },
+          {
+            "cell": "D2",
+            "value": 1568
+          },
+          {
+            "cell": "E2",
+            "value": 136
+          },
+          {
+            "cell": "F2",
+            "value": 235
+          },
+          {
+            "cell": "G2",
+            "value": "=C2+E2"
+          },
+          {
+            "cell": "H2",
+            "value": "Decreto 70.049/2025"
+          },
+          {
+            "cell": "I2",
+            "value": "532 / 1.978,25 / 250"
+          },
+          {
+            "cell": "J2",
+            "value": "Atualização estrutural da Governadoria; o decreto substituiu o referencial do Anexo VII."
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B3",
+            "value": "CC-Casa civil"
+          },
+          {
+            "cell": "D3",
+            "value": "????"
+          },
+          {
+            "cell": "G3",
+            "value": "=C3+E3"
+          },
+          {
+            "cell": "H3",
+            "value": "Decreto 70.049/2025"
+          },
+          {
+            "cell": "I3",
+            "value": "Não localizei decreto posterior ao 70.049/2025 que tenha alterado o quadro"
+          },
+          {
+            "cell": "J3",
+            "value": "A Casa Civil é um caso em que o Decreto 70.049/2025 deve prevalecer como fotografia jurídica do quadro, enquanto ocupados/vagos devem ser obtidos separadamente do Portal da Transparência. Não devemos interpretar 1.643,70 como “cota disponível”: é a cota do quadro aprovado."
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B4",
+            "value": "CMDC-Casa militar e defesa civil"
+          },
+          {
+            "cell": "D4",
+            "value": "????"
+          },
+          {
+            "cell": "G4",
+            "value": "=C4+E4"
+          },
+          {
+            "cell": "I4",
+            "value": "Não localizado"
+          },
+          {
+            "cell": "J4",
+            "value": "Não encontrei uma cota QGCFC publicada separadamente para a Casa Militar. Ela integra a Governadoria do Estado, e o quantitativo que aparece no Anexo VII é o da Governadoria como um todo"
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B5",
+            "value": "SEPE-Secretaria extraordinária de projetos estratégicos"
+          },
+          {
+            "cell": "D5",
+            "value": "????"
+          },
+          {
+            "cell": "G5",
+            "value": "=C5+E5"
+          },
+          {
+            "cell": "I5",
+            "value": "Não localizado"
+          },
+          {
+            "cell": "J5",
+            "value": "No Estado de São Paulo, a denominação oficial atual é Secretaria Extraordinária de Projetos Estratégicos, vinculada diretamente ao Gabinete do Governador; ela não aparece como uma das 24 Secretarias de Estado ordinárias."
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B6",
+            "value": "CGE-Controladoria Geral do Estado"
+          },
+          {
+            "cell": "C6",
+            "value": 128
+          },
+          {
+            "cell": "D6",
+            "value": 324.5
+          },
+          {
+            "cell": "E6",
+            "value": 38
+          },
+          {
+            "cell": "F6",
+            "value": 90.55
+          },
+          {
+            "cell": "G6",
+            "value": "=C6+E6"
+          },
+          {
+            "cell": "H6",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I6",
+            "value": "Não localizado novo referencial de cota até 01/10/2026"
+          },
+          {
+            "cell": "J6",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B7",
+            "value": "PGE-Procuradoria Geral do Estado"
+          },
+          {
+            "cell": "C7",
+            "value": 241
+          },
+          {
+            "cell": "D7",
+            "value": 412.5
+          },
+          {
+            "cell": "E7",
+            "value": 66
+          },
+          {
+            "cell": "F7",
+            "value": 112
+          },
+          {
+            "cell": "G7",
+            "value": "=C7+E7"
+          },
+          {
+            "cell": "H7",
+            "value": "Decreto 70.687/2026"
+          },
+          {
+            "cell": "I7",
+            "value": "Estrutura atualizada; quantitativos detalhados no Anexo II/III"
+          },
+          {
+            "cell": "J7",
+            "value": "Atualização de estrutura em 16/06/2026."
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B8",
+            "value": "SCEIC-Secretaria da Cultura, Economia e Indústria Criativas"
+          },
+          {
+            "cell": "C8",
+            "value": 134
+          },
+          {
+            "cell": "D8",
+            "value": 419.25
+          },
+          {
+            "cell": "E8",
+            "value": 21
+          },
+          {
+            "cell": "F8",
+            "value": 63
+          },
+          {
+            "cell": "G8",
+            "value": "=C8+E8"
+          },
+          {
+            "cell": "H8",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I8",
+            "value": "Não localizado novo referencial de cota até 01/10/2026"
+          },
+          {
+            "cell": "J8",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B9",
+            "value": "SFP-Secretaria da Fazenda e Planejamento"
+          },
+          {
+            "cell": "C9",
+            "value": 444
+          },
+          {
+            "cell": "D9",
+            "value": 1188.25
+          },
+          {
+            "cell": "E9",
+            "value": 117
+          },
+          {
+            "cell": "F9",
+            "value": 311.8
+          },
+          {
+            "cell": "G9",
+            "value": "=C9+E9"
+          },
+          {
+            "cell": "H9",
+            "value": "Decreto 70.756/2026"
+          },
+          {
+            "cell": "I9",
+            "value": "771 posições; custo total 2.283,95 UV"
+          },
+          {
+            "cell": "J9",
+            "value": "Estrutura atualizada em 14/07/2026."
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B10",
+            "value": "SEDUC-Secretaria da Educação"
+          },
+          {
+            "cell": "C10",
+            "value": 1382
+          },
+          {
+            "cell": "D10",
+            "value": 2986
+          },
+          {
+            "cell": "E10",
+            "value": 389
+          },
+          {
+            "cell": "F10",
+            "value": 838
+          },
+          {
+            "cell": "G10",
+            "value": "=C10+E10"
+          },
+          {
+            "cell": "H10",
+            "value": "Decreto 70.042/2025"
+          },
+          {
+            "cell": "I10",
+            "value": "2.066 posições; custo total 4.284,85 UV"
+          },
+          {
+            "cell": "J10",
+            "value": "Estrutura atualizada em 30/10/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B11",
+            "value": "SJC-Secretaria da Justiça e Cidadania"
+          },
+          {
+            "cell": "C11",
+            "value": 110
+          },
+          {
+            "cell": "D11",
+            "value": 322
+          },
+          {
+            "cell": "E11",
+            "value": 23
+          },
+          {
+            "cell": "F11",
+            "value": 68
+          },
+          {
+            "cell": "G11",
+            "value": "=C11+E11"
+          },
+          {
+            "cell": "H11",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I11",
+            "value": "Não localizado novo referencial de cota até 01/10/2026"
+          },
+          {
+            "cell": "J11",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B12",
+            "value": "SES-Secretaria da Saúde"
+          },
+          {
+            "cell": "C12",
+            "value": 2087
+          },
+          {
+            "cell": "D12",
+            "value": 5615
+          },
+          {
+            "cell": "E12",
+            "value": 587
+          },
+          {
+            "cell": "F12",
+            "value": 1578
+          },
+          {
+            "cell": "G12",
+            "value": "=C12+E12"
+          },
+          {
+            "cell": "H12",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I12",
+            "value": "Não localizado novo referencial consolidado até 01/10/2026"
+          },
+          {
+            "cell": "J12",
+            "value": "A pasta possui autarquias vinculadas com referenciais próprios."
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B13",
+            "value": "SSP-Secretaria da Segurança Pública"
+          },
+          {
+            "cell": "C13",
+            "value": 173
+          },
+          {
+            "cell": "D13",
+            "value": 398
+          },
+          {
+            "cell": "E13",
+            "value": 45
+          },
+          {
+            "cell": "F13",
+            "value": 103
+          },
+          {
+            "cell": "G13",
+            "value": "=C13+E13"
+          },
+          {
+            "cell": "H13",
+            "value": "Decreto 69.557/2025"
+          },
+          {
+            "cell": "I13",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J13",
+            "value": "Referencial do Anexo VII substituído para a pasta."
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B14",
+            "value": "SAP-Secretaria da Administração Penitenciária"
+          },
+          {
+            "cell": "C14",
+            "value": 1420
+          },
+          {
+            "cell": "D14",
+            "value": 3691
+          },
+          {
+            "cell": "E14",
+            "value": 399
+          },
+          {
+            "cell": "F14",
+            "value": 1038
+          },
+          {
+            "cell": "G14",
+            "value": "=C14+E14"
+          },
+          {
+            "cell": "H14",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I14",
+            "value": "Não localizado novo referencial consolidado até 01/10/2026"
+          },
+          {
+            "cell": "J14",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B15",
+            "value": "SAA-Secretaria de Agricultura e Abastecimento"
+          },
+          {
+            "cell": "C15",
+            "value": 416
+          },
+          {
+            "cell": "D15",
+            "value": 1056.5
+          },
+          {
+            "cell": "E15",
+            "value": 73
+          },
+          {
+            "cell": "F15",
+            "value": 184
+          },
+          {
+            "cell": "G15",
+            "value": "=C15+E15"
+          },
+          {
+            "cell": "H15",
+            "value": "Decreto 69.664/2025"
+          },
+          {
+            "cell": "I15",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J15",
+            "value": "Decreto também tratou de unidades com pro labore."
+          }
+        ],
+        [
+          {
+            "cell": "A16",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B16",
+            "value": "SCTI-Secretaria de Ciência, Tecnologia e Inovação"
+          },
+          {
+            "cell": "C16",
+            "value": 39
+          },
+          {
+            "cell": "D16",
+            "value": 115.5
+          },
+          {
+            "cell": "E16",
+            "value": 10
+          },
+          {
+            "cell": "F16",
+            "value": 30
+          },
+          {
+            "cell": "G16",
+            "value": "=C16+E16"
+          },
+          {
+            "cell": "H16",
+            "value": "Decreto 70.715/2026"
+          },
+          {
+            "cell": "I16",
+            "value": "36 CCESP; 0 FCESP; custo 157,50 UV"
+          },
+          {
+            "cell": "J16",
+            "value": "Estrutura atualizada em 26/06/2026."
+          }
+        ],
+        [
+          {
+            "cell": "A17",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B17",
+            "value": "SECOM-Secretaria de Comunicação"
+          },
+          {
+            "cell": "C17",
+            "value": 62
+          },
+          {
+            "cell": "D17",
+            "value": 270.75
+          },
+          {
+            "cell": "E17",
+            "value": 10
+          },
+          {
+            "cell": "F17",
+            "value": 40.5
+          },
+          {
+            "cell": "G17",
+            "value": "=C17+E17"
+          },
+          {
+            "cell": "H17",
+            "value": "Decreto 69.745/2025"
+          },
+          {
+            "cell": "I17",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J17",
+            "value": "Substituiu o referencial anterior."
+          }
+        ],
+        [
+          {
+            "cell": "A18",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B18",
+            "value": "SDE-Secretaria de Desenvolvimento Econômico"
+          },
+          {
+            "cell": "C18",
+            "value": 164
+          },
+          {
+            "cell": "D18",
+            "value": 470.5
+          },
+          {
+            "cell": "E18",
+            "value": 20
+          },
+          {
+            "cell": "F18",
+            "value": 57
+          },
+          {
+            "cell": "G18",
+            "value": "=C18+E18"
+          },
+          {
+            "cell": "H18",
+            "value": "Decreto 70.138/2025"
+          },
+          {
+            "cell": "I18",
+            "value": "197 CCESP; 0 FCESP; custo 593,25 UV"
+          },
+          {
+            "cell": "J18",
+            "value": "Estrutura atualizada em 01/12/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A19",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B19",
+            "value": "SEDS-Secretaria de Desenvolvimento Social"
+          },
+          {
+            "cell": "C19",
+            "value": 250
+          },
+          {
+            "cell": "D19",
+            "value": 649
+          },
+          {
+            "cell": "E19",
+            "value": 44
+          },
+          {
+            "cell": "F19",
+            "value": 113
+          },
+          {
+            "cell": "G19",
+            "value": "=C19+E19"
+          },
+          {
+            "cell": "H19",
+            "value": "Decreto 69.541/2025"
+          },
+          {
+            "cell": "I19",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J19",
+            "value": "Substituiu o referencial anterior."
+          }
+        ],
+        [
+          {
+            "cell": "A20",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B20",
+            "value": "SDUH-Secretaria de Desenvolvimento Urbano e Habitação"
+          },
+          {
+            "cell": "C20",
+            "value": 62
+          },
+          {
+            "cell": "D20",
+            "value": 181.25
+          },
+          {
+            "cell": "E20",
+            "value": 17
+          },
+          {
+            "cell": "F20",
+            "value": 48
+          },
+          {
+            "cell": "G20",
+            "value": "=C20+E20"
+          },
+          {
+            "cell": "H20",
+            "value": "Decreto 70.115/2025"
+          },
+          {
+            "cell": "I20",
+            "value": "145 posições; custo total 472,20 UV"
+          },
+          {
+            "cell": "J20",
+            "value": "Última alteração localizada: 18/11/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A21",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B21",
+            "value": "SESP-Secretaria de Esportes"
+          },
+          {
+            "cell": "C21",
+            "value": 72
+          },
+          {
+            "cell": "D21",
+            "value": 196.75
+          },
+          {
+            "cell": "E21",
+            "value": 10
+          },
+          {
+            "cell": "F21",
+            "value": 27.5
+          },
+          {
+            "cell": "G21",
+            "value": "=C21+E21"
+          },
+          {
+            "cell": "H21",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I21",
+            "value": "Não localizado novo referencial consolidado até 01/10/2026"
+          },
+          {
+            "cell": "J21",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A22",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B22",
+            "value": "SGGD-Secretaria de Gestão e Governo Digital"
+          },
+          {
+            "cell": "C22",
+            "value": 320
+          },
+          {
+            "cell": "D22",
+            "value": 659
+          },
+          {
+            "cell": "E22",
+            "value": 90
+          },
+          {
+            "cell": "F22",
+            "value": 183.6
+          },
+          {
+            "cell": "G22",
+            "value": "=C22+E22"
+          },
+          {
+            "cell": "H22",
+            "value": "Decreto 70.755/2026"
+          },
+          {
+            "cell": "I22",
+            "value": "298 CCESP + 64 FCESP? verificar subtotal no Anexo III; estrutura substituída"
+          },
+          {
+            "cell": "J22",
+            "value": "Decreto de 14/07/2026 substituiu Anexos I-III."
+          }
+        ],
+        [
+          {
+            "cell": "A23",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B23",
+            "value": "SGRI-Secretaria de Governo e Relações Institucionais"
+          },
+          {
+            "cell": "C23",
+            "value": 176
+          },
+          {
+            "cell": "D23",
+            "value": 602.5
+          },
+          {
+            "cell": "E23",
+            "value": 24
+          },
+          {
+            "cell": "F23",
+            "value": 74.4
+          },
+          {
+            "cell": "G23",
+            "value": "=C23+E23"
+          },
+          {
+            "cell": "H23",
+            "value": "Decreto 69.618/2025"
+          },
+          {
+            "cell": "I23",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J23",
+            "value": "Substituiu o referencial anterior."
+          }
+        ],
+        [
+          {
+            "cell": "A24",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B24",
+            "value": "SEMIL-Secretaria de Meio Ambiente, Infraestrutura e Logística"
+          },
+          {
+            "cell": "C24",
+            "value": 206
+          },
+          {
+            "cell": "D24",
+            "value": 691
+          },
+          {
+            "cell": "E24",
+            "value": 22
+          },
+          {
+            "cell": "F24",
+            "value": 75
+          },
+          {
+            "cell": "G24",
+            "value": "=C24+E24"
+          },
+          {
+            "cell": "H24",
+            "value": "Decreto 69.376/2025"
+          },
+          {
+            "cell": "I24",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J24",
+            "value": "Estrutura aprovada em 26/02/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A25",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B25",
+            "value": "SPI-Secretaria de Parcerias em Investimentos"
+          },
+          {
+            "cell": "C25",
+            "value": 83
+          },
+          {
+            "cell": "D25",
+            "value": 309.5
+          },
+          {
+            "cell": "E25",
+            "value": 8
+          },
+          {
+            "cell": "F25",
+            "value": 30
+          },
+          {
+            "cell": "G25",
+            "value": "=C25+E25"
+          },
+          {
+            "cell": "H25",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I25",
+            "value": "Não localizado novo referencial consolidado até 01/10/2026"
+          },
+          {
+            "cell": "J25",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A26",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B26",
+            "value": "SPM-Secretaria de Políticas para a Mulher"
+          },
+          {
+            "cell": "C26",
+            "value": 49
+          },
+          {
+            "cell": "D26",
+            "value": 178.75
+          },
+          {
+            "cell": "E26",
+            "value": 0
+          },
+          {
+            "cell": "F26",
+            "value": 0
+          },
+          {
+            "cell": "G26",
+            "value": "=C26+E26"
+          },
+          {
+            "cell": "H26",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I26",
+            "value": "Não localizado novo referencial consolidado até 01/10/2026"
+          },
+          {
+            "cell": "J26",
+            "value": "Referencial-base; não há FCESP no Anexo VII."
+          }
+        ],
+        [
+          {
+            "cell": "A27",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B27",
+            "value": "STV-Secretaria de Turismo e Viagens"
+          },
+          {
+            "cell": "C27",
+            "value": 48
+          },
+          {
+            "cell": "D27",
+            "value": 152.25
+          },
+          {
+            "cell": "E27",
+            "value": 5
+          },
+          {
+            "cell": "F27",
+            "value": 16
+          },
+          {
+            "cell": "G27",
+            "value": "=C27+E27"
+          },
+          {
+            "cell": "H27",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I27",
+            "value": "Não localizado novo referencial consolidado até 01/10/2026"
+          },
+          {
+            "cell": "J27",
+            "value": "Referencial-base."
+          }
+        ],
+        [
+          {
+            "cell": "A28",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B28",
+            "value": "SDPcD-Secretaria dos Direitos da Pessoa com Deficiência"
+          },
+          {
+            "cell": "C28",
+            "value": 40
+          },
+          {
+            "cell": "D28",
+            "value": 128.75
+          },
+          {
+            "cell": "E28",
+            "value": 8
+          },
+          {
+            "cell": "F28",
+            "value": 24
+          },
+          {
+            "cell": "G28",
+            "value": "=C28+E28"
+          },
+          {
+            "cell": "H28",
+            "value": "Decreto 69.470/2025"
+          },
+          {
+            "cell": "I28",
+            "value": "Atualização por decreto específico"
+          },
+          {
+            "cell": "J28",
+            "value": "Substituiu o referencial anterior."
+          }
+        ],
+        [
+          {
+            "cell": "A29",
+            "value": "Administração Direta"
+          },
+          {
+            "cell": "B29",
+            "value": "STM-Secretaria dos Transportes Metropolitanos"
+          },
+          {
+            "cell": "C29",
+            "value": 49
+          },
+          {
+            "cell": "D29",
+            "value": 163.25
+          },
+          {
+            "cell": "E29",
+            "value": 7
+          },
+          {
+            "cell": "F29",
+            "value": 31
+          },
+          {
+            "cell": "G29",
+            "value": "=C29+E29"
+          },
+          {
+            "cell": "H29",
+            "value": "Decreto 70.360/2026"
+          },
+          {
+            "cell": "I29",
+            "value": "60 posições; custo total 213,50 UV"
+          },
+          {
+            "cell": "J29",
+            "value": "Estrutura atualizada em 04/02/2026."
+          }
+        ],
+        [
+          {
+            "cell": "A30",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B30",
+            "value": "CBPM-Caixa beneficente da polícia militar do estado de São Paulo"
+          },
+          {
+            "cell": "C30",
+            "value": 14
+          },
+          {
+            "cell": "D30",
+            "value": 39
+          },
+          {
+            "cell": "E30",
+            "value": 4
+          },
+          {
+            "cell": "F30",
+            "value": 10
+          },
+          {
+            "cell": "G30",
+            "value": "=C30+E30"
+          },
+          {
+            "cell": "H30",
+            "value": "Decreto 69.591/2025"
+          },
+          {
+            "cell": "I30",
+            "value": "Atualização por decreto específico"
+          }
+        ],
+        [
+          {
+            "cell": "A31",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B31",
+            "value": "CEETEPS-Centro Paula Souza"
+          },
+          {
+            "cell": "C31",
+            "value": 1356
+          },
+          {
+            "cell": "D31",
+            "value": 3482
+          },
+          {
+            "cell": "E31",
+            "value": 382
+          },
+          {
+            "cell": "F31",
+            "value": 980
+          },
+          {
+            "cell": "G31",
+            "value": "=C31+E31"
+          },
+          {
+            "cell": "H31",
+            "value": "Decreto 70.751/2026"
+          },
+          {
+            "cell": "I31",
+            "value": "1.766 posições; custo total 4.475,55 UV"
+          }
+        ],
+        [
+          {
+            "cell": "A32",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B32",
+            "value": "DER-Departamento de estradas de rodagem"
+          },
+          {
+            "cell": "C32",
+            "value": 701
+          },
+          {
+            "cell": "D32",
+            "value": 1198.25
+          },
+          {
+            "cell": "E32",
+            "value": 196
+          },
+          {
+            "cell": "F32",
+            "value": 336
+          },
+          {
+            "cell": "G32",
+            "value": "=C32+E32"
+          },
+          {
+            "cell": "H32",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I32",
+            "value": "Referencial-base; não localizado novo referencial consolidado"
+          }
+        ],
+        [
+          {
+            "cell": "A33",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B33",
+            "value": "DETRAN-Departamento estadual de trânsito"
+          },
+          {
+            "cell": "C33",
+            "value": 620
+          },
+          {
+            "cell": "D33",
+            "value": 1567
+          },
+          {
+            "cell": "E33",
+            "value": 174
+          },
+          {
+            "cell": "F33",
+            "value": 440
+          },
+          {
+            "cell": "G33",
+            "value": "=C33+E33"
+          },
+          {
+            "cell": "H33",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I33",
+            "value": "Referencial-base; não localizado novo referencial consolidado"
+          }
+        ],
+        [
+          {
+            "cell": "A34",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B34",
+            "value": "FAMERP-Faculdade de medicina de Marília"
+          },
+          {
+            "cell": "C34",
+            "value": 75
+          },
+          {
+            "cell": "D34",
+            "value": 171.5
+          },
+          {
+            "cell": "E34",
+            "value": 0
+          },
+          {
+            "cell": "F34",
+            "value": 0
+          },
+          {
+            "cell": "G34",
+            "value": "=C34+E34"
+          },
+          {
+            "cell": "H34",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I34",
+            "value": "Referencial-base"
+          }
+        ],
+        [
+          {
+            "cell": "A35",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B35",
+            "value": "HC Botucatu-Hospital das clínicas da faculdade de Botucatu"
+          },
+          {
+            "cell": "C35",
+            "value": 76
+          },
+          {
+            "cell": "D35",
+            "value": 204.25
+          },
+          {
+            "cell": "E35",
+            "value": 20
+          },
+          {
+            "cell": "F35",
+            "value": 56
+          },
+          {
+            "cell": "G35",
+            "value": "=C35+E35"
+          },
+          {
+            "cell": "H35",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I35",
+            "value": "Referencial-base"
+          }
+        ],
+        [
+          {
+            "cell": "A36",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B36",
+            "value": "HC FAMEMA-Hospital das clínicas da faculdade de medicina de Marília"
+          },
+          {
+            "cell": "C36",
+            "value": 83
+          },
+          {
+            "cell": "D36",
+            "value": 273.5
+          },
+          {
+            "cell": "E36",
+            "value": 2
+          },
+          {
+            "cell": "F36",
+            "value": 5
+          },
+          {
+            "cell": "G36",
+            "value": "=C36+E36"
+          },
+          {
+            "cell": "H36",
+            "value": "Decreto 69.816/2025"
+          },
+          {
+            "cell": "I36",
+            "value": "Atualização por decreto específico"
+          }
+        ],
+        [
+          {
+            "cell": "A37",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B37",
+            "value": "HC USP-RP-Hospital da clínicas da faculdade de medicina de Ribeirão Preto"
+          },
+          {
+            "cell": "C37",
+            "value": 253
+          },
+          {
+            "cell": "D37",
+            "value": 365.75
+          },
+          {
+            "cell": "E37",
+            "value": 0
+          },
+          {
+            "cell": "F37",
+            "value": 0
+          },
+          {
+            "cell": "G37",
+            "value": "=C37+E37"
+          },
+          {
+            "cell": "H37",
+            "value": "Decreto 70.648/2026"
+          },
+          {
+            "cell": "I37",
+            "value": "346 posições; custo total 844,50 UV"
+          },
+          {
+            "cell": "J37",
+            "value": "No guia prático de revisão (versão 1.2). Consta 51 FCESP (verificar números)"
+          }
+        ],
+        [
+          {
+            "cell": "A38",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B38",
+            "value": "HC USP-SP-Hospital das clínicas da faculdade de medicina de São Paulo"
+          },
+          {
+            "cell": "C38",
+            "value": 586
+          },
+          {
+            "cell": "D38",
+            "value": 1164.25
+          },
+          {
+            "cell": "E38",
+            "value": 164
+          },
+          {
+            "cell": "F38",
+            "value": 326
+          },
+          {
+            "cell": "G38",
+            "value": "=C38+E38"
+          },
+          {
+            "cell": "H38",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I38",
+            "value": "Referencial-base"
+          }
+        ],
+        [
+          {
+            "cell": "A39",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B39",
+            "value": "IAMSPE-Instituto de assistência médica ao servidor público estadual"
+          },
+          {
+            "cell": "C39",
+            "value": 269
+          },
+          {
+            "cell": "D39",
+            "value": 574.5
+          },
+          {
+            "cell": "E39",
+            "value": 30
+          },
+          {
+            "cell": "F39",
+            "value": 63
+          },
+          {
+            "cell": "G39",
+            "value": "=C39+E39"
+          },
+          {
+            "cell": "H39",
+            "value": "Decreto 70.378/2026"
+          },
+          {
+            "cell": "I39",
+            "value": "433 posições; custo total 778,90 UV"
+          }
+        ],
+        [
+          {
+            "cell": "A40",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B40",
+            "value": "IMESC-Instituto de medicina social e criminologia de São Paulo"
+          },
+          {
+            "cell": "C40",
+            "value": 19
+          },
+          {
+            "cell": "D40",
+            "value": 52
+          },
+          {
+            "cell": "E40",
+            "value": 5
+          },
+          {
+            "cell": "F40",
+            "value": 13
+          },
+          {
+            "cell": "G40",
+            "value": "=C40+E40"
+          },
+          {
+            "cell": "H40",
+            "value": "Decreto 69.590/2025"
+          },
+          {
+            "cell": "I40",
+            "value": "Atualização por decreto específico"
+          }
+        ],
+        [
+          {
+            "cell": "A41",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B41",
+            "value": "IPEM-SP-Instituto de pesod e medidas do estado"
+          },
+          {
+            "cell": "C41",
+            "value": 89
+          },
+          {
+            "cell": "D41",
+            "value": 225.25
+          },
+          {
+            "cell": "E41",
+            "value": 1
+          },
+          {
+            "cell": "F41",
+            "value": 2
+          },
+          {
+            "cell": "G41",
+            "value": "=C41+E41"
+          },
+          {
+            "cell": "H41",
+            "value": "Decreto 70.362/2026"
+          },
+          {
+            "cell": "I41",
+            "value": "151 posições; custo total 462,70 UV"
+          }
+        ],
+        [
+          {
+            "cell": "A42",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B42",
+            "value": "JUCESP-Junta comercial do estado"
+          },
+          {
+            "cell": "C42",
+            "value": 111
+          },
+          {
+            "cell": "D42",
+            "value": 284.75
+          },
+          {
+            "cell": "E42",
+            "value": 13
+          },
+          {
+            "cell": "F42",
+            "value": 35
+          },
+          {
+            "cell": "G42",
+            "value": "=C42+E42"
+          },
+          {
+            "cell": "H42",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "I42",
+            "value": "Referencial-base"
+          }
+        ],
+        [
+          {
+            "cell": "A43",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B43",
+            "value": "SPPREV-São Paulo orevidência"
+          },
+          {
+            "cell": "C43",
+            "value": 72
+          },
+          {
+            "cell": "D43",
+            "value": 186.75
+          },
+          {
+            "cell": "E43",
+            "value": 0
+          },
+          {
+            "cell": "F43",
+            "value": 0
+          },
+          {
+            "cell": "G43",
+            "value": "=C43+E43"
+          },
+          {
+            "cell": "H43",
+            "value": "Decreto 70.388/2026"
+          },
+          {
+            "cell": "I43",
+            "value": "72 posições; custo total 215,85 UV"
+          }
+        ],
+        [
+          {
+            "cell": "A44",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B44",
+            "value": "USP (Universidade de São Paulo)"
+          },
+          {
+            "cell": "C44",
+            "value": "não se aplica"
+          }
+        ],
+        [
+          {
+            "cell": "A45",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B45",
+            "value": "Unicamp (Universidade Estadual de Campinas)"
+          },
+          {
+            "cell": "C45",
+            "value": "não se aplica"
+          }
+        ],
+        [
+          {
+            "cell": "A46",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B46",
+            "value": "Artesp (Agência de Transporte de São Paulo)"
+          },
+          {
+            "cell": "C46",
+            "value": 106
+          },
+          {
+            "cell": "D46",
+            "value": 580
+          },
+          {
+            "cell": "E46",
+            "value": "não se aplica"
+          },
+          {
+            "cell": "G46",
+            "value": "=C46"
+          },
+          {
+            "cell": "H46",
+            "value": "lei complementar 1413/2024"
+          },
+          {
+            "cell": "I46",
+            "value": "referência de 2024 (base não atualizada)"
+          }
+        ],
+        [
+          {
+            "cell": "A47",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B47",
+            "value": "Arsesp (Agência Reguladora de Saneamento e Energia)"
+          },
+          {
+            "cell": "C47",
+            "value": 76
+          },
+          {
+            "cell": "D47",
+            "value": 425.5
+          },
+          {
+            "cell": "E47",
+            "value": "não se aplica"
+          },
+          {
+            "cell": "G47",
+            "value": "=C47"
+          },
+          {
+            "cell": "H47",
+            "value": "lei complementar 1413/2024"
+          },
+          {
+            "cell": "I47",
+            "value": "deliberação-base da estrutura 1650/2025 (última alteração deliberação 1774/2026"
+          }
+        ],
+        [
+          {
+            "cell": "A48",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B48",
+            "value": "SP Águas (Departamento de Águas e Energia Elétrica / Saneamento)"
+          },
+          {
+            "cell": "C48",
+            "value": 253
+          },
+          {
+            "cell": "D48",
+            "value": 805
+          },
+          {
+            "cell": "E48",
+            "value": 89
+          },
+          {
+            "cell": "F48",
+            "value": 167.25
+          },
+          {
+            "cell": "G48",
+            "value": "=C48+E48"
+          },
+          {
+            "cell": "H48",
+            "value": "Decreto 69.339/2025"
+          },
+          {
+            "cell": "I48",
+            "value": "Atualizações nas deliberações SP-ÁGUAS n°17 e n°25 de 2026"
+          }
+        ],
+        [
+          {
+            "cell": "A49",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B49",
+            "value": "AGEM (Baixada Santista)"
+          },
+          {
+            "cell": "D49",
+            "value": "????"
+          },
+          {
+            "cell": "G49",
+            "value": "=C49+E49"
+          },
+          {
+            "cell": "I49",
+            "value": "Não localizado"
+          }
+        ],
+        [
+          {
+            "cell": "A50",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B50",
+            "value": "AGEMCAMP (Campinas)"
+          },
+          {
+            "cell": "D50",
+            "value": "????"
+          },
+          {
+            "cell": "I50",
+            "value": "Não localizado"
+          }
+        ],
+        [
+          {
+            "cell": "A51",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B51",
+            "value": "AGEMVALE (Vale do Paraíba)"
+          },
+          {
+            "cell": "D51",
+            "value": "????"
+          },
+          {
+            "cell": "I51",
+            "value": "Não localizado"
+          }
+        ],
+        [
+          {
+            "cell": "A52",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B52",
+            "value": "AGEM-Sorocaba"
+          },
+          {
+            "cell": "D52",
+            "value": "????"
+          },
+          {
+            "cell": "I52",
+            "value": "Não localizado"
+          }
+        ],
+        [
+          {
+            "cell": "A53",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B53",
+            "value": "UNESP- Universidade estadual Paulista Júlio de Mesquita Filho"
+          },
+          {
+            "cell": "C53",
+            "value": "não se aplica"
+          },
+          {
+            "cell": "I53",
+            "value": "Não localizado"
+          },
+          {
+            "cell": "J53",
+            "value": "Art. 28 da Lei Complementar nº 1.395/2023: o regime do QGCFC não se aplica às universidades públicas estaduais."
+          }
+        ],
+        [
+          {
+            "cell": "A54",
+            "value": "Autarquia"
+          },
+          {
+            "cell": "B54",
+            "value": "IPEN- Instituto de pesquisas energéticas e nucleares"
+          },
+          {
+            "cell": "C54",
+            "value": "não se aplica"
+          },
+          {
+            "cell": "I54",
+            "value": "Não localizado"
+          },
+          {
+            "cell": "J54",
+            "value": "IPEN – Instituto de Pesquisas Energéticas e Nucleares: autarquia estadual vinculada à Secretaria de Ciência, Tecnologia e Inovação, porém com gestão técnica e administrativa pela Comissão Nacional de Energia Nuclear (CNEN)"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Regras_dec. 68.742-2023",
+      "max_row": 9,
+      "max_column": 4,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Dispositivo"
+          },
+          {
+            "cell": "B1",
+            "value": "Regra"
+          },
+          {
+            "cell": "C1",
+            "value": "Aplicação prática para mapeamento"
+          },
+          {
+            "cell": "D1",
+            "value": "Fonte"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Art. 6º"
+          },
+          {
+            "cell": "B2",
+            "value": "Estrutura hierárquica decrescente com CCESP/FCESP; FCESP equivale ao CCESP do mesmo nível; titular é o maior nível da unidade; não há subordinação entre cargos/funções do mesmo nível."
+          },
+          {
+            "cell": "C2",
+            "value": "Validar organograma, níveis e titularidade; impedir subordinação entre posições de mesmo nível."
+          },
+          {
+            "cell": "D2",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Art. 7º"
+          },
+          {
+            "cell": "B3",
+            "value": "CCESP/FCESP são Comando ou Assessoramento. Comando é obrigatório para titulares de unidades; Assessoramento é destinado ao assessoramento direto/imediato às autoridades e titulares de comando. Assessoria exige quantidade de assessores que justifique a unidade e Chefe de Assessoria de nível 10 a 17."
+          },
+          {
+            "cell": "C3",
+            "value": "Para cada unidade, classificar o posto como comando ou assessoramento e conferir a relação chefe/subordinados."
+          },
+          {
+            "cell": "D3",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Art. 17, caput"
+          },
+          {
+            "cell": "B4",
+            "value": "Subsecretaria só pode ser usada se houver no mínimo 3 unidades subordinadas de até 2 níveis imediatamente inferiores + ações previstas nos instrumentos de planejamento; ou por complexidade/transversalidade em órgãos centrais de sistemas administrativos ou CGE no combate à corrupção."
+          },
+          {
+            "cell": "C4",
+            "value": "Uma Subsecretaria existente deve ser testada contra esses requisitos. Não existe um teto numérico geral no artigo."
+          },
+          {
+            "cell": "D4",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Art. 17, parágrafo único"
+          },
+          {
+            "cell": "B5",
+            "value": "Secretarias, PGE e CGE que tenham administração interna e órgãos setoriais dos sistemas administrativos devem organizá-los por meio de Subsecretaria de Gestão Corporativa com no mínimo 2 unidades subordinadas de até 4 níveis inferiores."
+          },
+          {
+            "cell": "C5",
+            "value": "Verificar existência e composição da SGC em cada secretaria aplicável."
+          },
+          {
+            "cell": "D5",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Art. 18, caput"
+          },
+          {
+            "cell": "B6",
+            "value": "Diretoria Geral e Coordenadoria Geral exigem cumulativamente justificativa, mínimo de 2 unidades subordinadas de nível imediatamente inferior e ações previstas nos instrumentos de planejamento."
+          },
+          {
+            "cell": "C6",
+            "value": "Para cada DG/CG, contar unidades filhas imediatas e verificar vínculo com planejamento."
+          },
+          {
+            "cell": "D6",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Art. 18, parágrafo único"
+          },
+          {
+            "cell": "B7",
+            "value": "Diretoria exige no mínimo 2 unidades subordinadas de até 2 níveis hierárquicos inferiores."
+          },
+          {
+            "cell": "C7",
+            "value": "Para cada Diretoria, contar filhas e netas conforme o decreto de estrutura."
+          },
+          {
+            "cell": "D7",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Art. 19"
+          },
+          {
+            "cell": "B8",
+            "value": "Decreto de estrutura deve consolidar a estrutura, relacionar CCESP/FCESP inferiores a 14 e discriminar quantitativos/custos; atos complementares detalham unidades inferiores a 14."
+          },
+          {
+            "cell": "C8",
+            "value": "A 'vaga possível' aqui deve ser tratada como posição autorizada na estrutura vigente, não como vaga efetivamente desocupada."
+          },
+          {
+            "cell": "D8",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Art. 26"
+          },
+          {
+            "cell": "B9",
+            "value": "Cada órgão/entidade recebe montante de cotas do Anexo VII; alteração do referencial exige justificativa, avaliação da SGGD, análise da SFP e aprovação pela Casa Civil/Governador."
+          },
+          {
+            "cell": "C9",
+            "value": "Comparar cota-base com a última cota/referencial vigente localizada."
+          },
+          {
+            "cell": "D9",
+            "value": "Decreto 68.742/2024"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Atos_Atualizacoes",
+      "max_row": 40,
+      "max_column": 5,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Data"
+          },
+          {
+            "cell": "B1",
+            "value": "Ato"
+          },
+          {
+            "cell": "C1",
+            "value": "Órgão/entidade"
+          },
+          {
+            "cell": "D1",
+            "value": "Efeito no mapeamento CCESP/FCESP"
+          },
+          {
+            "cell": "E1",
+            "value": "Fonte oficial"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "2025-05-11 00:00:00"
+          },
+          {
+            "cell": "B2",
+            "value": "Decreto 70.049/2025"
+          },
+          {
+            "cell": "C2",
+            "value": "Governadoria"
+          },
+          {
+            "cell": "D2",
+            "value": "Atualiza a estrutura da casa civil/governadoria-altera o quantitativo e cotas QGCFC considerada"
+          },
+          {
+            "cell": "E2",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "2025-10-30 00:00:00"
+          },
+          {
+            "cell": "B3",
+            "value": "Decreto 70.042/2025"
+          },
+          {
+            "cell": "C3",
+            "value": "Secretaria da Educação"
+          },
+          {
+            "cell": "D3",
+            "value": "Substituiu Anexos II/III do decreto nº 69.665/2025"
+          },
+          {
+            "cell": "E3",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "2025-12-01 00:00:00"
+          },
+          {
+            "cell": "B4",
+            "value": "Decreto 70.138/2025"
+          },
+          {
+            "cell": "C4",
+            "value": "Secretaria de Desenvolvimento Econômico"
+          },
+          {
+            "cell": "D4",
+            "value": "Substituiu Anexos II/III do decreto nº 69.332/2025"
+          },
+          {
+            "cell": "E4",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "2025-11-18 00:00:00"
+          },
+          {
+            "cell": "B5",
+            "value": "Decreto 70.115/2025"
+          },
+          {
+            "cell": "C5",
+            "value": "Secretaria de Desenvolvimento Urbano e Habitação"
+          },
+          {
+            "cell": "D5",
+            "value": "Substituiu Anexos II/III do decreto nº 69.760/2025"
+          },
+          {
+            "cell": "E5",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "2026-02-04"
+          },
+          {
+            "cell": "B6",
+            "value": "Decreto 70.360/2026"
+          },
+          {
+            "cell": "C6",
+            "value": "Secretaria dos Transportes Metropolitanos"
+          },
+          {
+            "cell": "D6",
+            "value": "Atualiza e Substitui Anexo VII do decreto 68.742/2024"
+          },
+          {
+            "cell": "E6",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "2026-02-04"
+          },
+          {
+            "cell": "B7",
+            "value": "Decreto 70.362/2026"
+          },
+          {
+            "cell": "C7",
+            "value": "IPEM/SP"
+          },
+          {
+            "cell": "D7",
+            "value": "atualiza os quantitativos e as cota-substitui Anexo VII do decreto n°69.486/2025"
+          },
+          {
+            "cell": "E7",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "2026-02-13"
+          },
+          {
+            "cell": "B8",
+            "value": "Decreto 70.378/2026"
+          },
+          {
+            "cell": "C8",
+            "value": "IAMSPE"
+          },
+          {
+            "cell": "D8",
+            "value": "atualiza os quantitativos e as cota-substitui Anexo VII do decreto n°68.742/2024"
+          },
+          {
+            "cell": "E8",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "2026-03-10"
+          },
+          {
+            "cell": "B9",
+            "value": "Decreto 70.431/2026"
+          },
+          {
+            "cell": "C9",
+            "value": "Centro Paula Souza"
+          },
+          {
+            "cell": "D9",
+            "value": "Cria novas unidade (4FATECs e 1 ETEC) altrera o quantitativos e cotas-substitui Anexos II e III do decreto nº 69.666/2025 "
+          },
+          {
+            "cell": "E9",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "2026-05-28"
+          },
+          {
+            "cell": "B10",
+            "value": "Decreto 70.648/2026"
+          },
+          {
+            "cell": "C10",
+            "value": "HC USP-RP"
+          },
+          {
+            "cell": "D10",
+            "value": "atualiza os quantitativos e as cota-substitui Anexo VII do decreto n°68.742/2024"
+          },
+          {
+            "cell": "E10",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": "2026-06-16"
+          },
+          {
+            "cell": "B11",
+            "value": "Decreto 70.687/2026"
+          },
+          {
+            "cell": "C11",
+            "value": "PGE"
+          },
+          {
+            "cell": "D11",
+            "value": "Substituiu Anexos II/III do Decreto 69.761/2025."
+          },
+          {
+            "cell": "E11",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": "2026-06-26"
+          },
+          {
+            "cell": "B12",
+            "value": "Decreto 70.715/2026"
+          },
+          {
+            "cell": "C12",
+            "value": "Secretaria de Ciência, Tecnologia e Inovação"
+          },
+          {
+            "cell": "D12",
+            "value": "atualiza o QGCFC -altera os Anexos II e III do decreto n° 69.333/2025"
+          },
+          {
+            "cell": "E12",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "2026-07-03"
+          },
+          {
+            "cell": "B13",
+            "value": "Decreto 70.751/2026"
+          },
+          {
+            "cell": "C13",
+            "value": "Centro Paula Souza"
+          },
+          {
+            "cell": "D13",
+            "value": "atualiza os quantitativos e as cota-substitui os Anexos II e III do decreto n°69.666/2025"
+          },
+          {
+            "cell": "E13",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": "2026-07-14"
+          },
+          {
+            "cell": "B14",
+            "value": "Decreto 70.755/2026"
+          },
+          {
+            "cell": "C14",
+            "value": "Secretaria de Gestão e Governo Digital"
+          },
+          {
+            "cell": "D14",
+            "value": "atualiza os quantitativos e as cota e estrutura -Substituiu os Anexos II e III do Decreto 69.052/2024"
+          },
+          {
+            "cell": "E14",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "2026-07-14"
+          },
+          {
+            "cell": "B15",
+            "value": "Decreto 70.756/2026"
+          },
+          {
+            "cell": "C15",
+            "value": "Secretaria da Fazenda e Planejamento"
+          },
+          {
+            "cell": "D15",
+            "value": "atualiza os quantitativos, as cota os quadros de custo e estrutura  -Substituiu os Anexos II e III do Decreto 69.182/2024"
+          },
+          {
+            "cell": "E15",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "A16",
+            "value": "2025-02-04 00:00:00"
+          },
+          {
+            "cell": "B16",
+            "value": "Decreto 69.339/2025"
+          },
+          {
+            "cell": "C16",
+            "value": "Governadoria"
+          },
+          {
+            "cell": "D16",
+            "value": "O decreto não define sozinho quantos QGCFC cada agência possui. Ele principalmente organiza como os cargos em comissão devem ser estruturados e distribuídos nas agências reguladoras."
+          },
+          {
+            "cell": "E16",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B17",
+            "value": "Decreto 69.052/2024"
+          },
+          {
+            "cell": "C17",
+            "value": "SGGD"
+          },
+          {
+            "cell": "D17",
+            "value": "Alterou as quantidades de cotas"
+          },
+          {
+            "cell": "E17",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B18",
+            "value": "Decreto 69.183/2024"
+          },
+          {
+            "cell": "C18",
+            "value": "SGGD"
+          },
+          {
+            "cell": "D18",
+            "value": "Reestruturou a controladoria de estado de São Paulo- recomposição dos cargos-funções"
+          },
+          {
+            "cell": "E18",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B19",
+            "value": "Decreto 69.228/2024"
+          },
+          {
+            "cell": "D19",
+            "value": "Alterou as quantidades de cotas- substituiu valores anteriores no anexo VII do Decreto 68.742/2024"
+          },
+          {
+            "cell": "E19",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B20",
+            "value": "Decreto 69.332/2025"
+          },
+          {
+            "cell": "C20",
+            "value": "Secretaria de Desenvolvimento Econômico"
+          },
+          {
+            "cell": "D20",
+            "value": "cria/organiza a estrutura da SDE- Anexos I, II e III são os principais para QGCFC- Anexo V controla extinções → depois conferir 69.625/2025 e 70.138/2025 para chegar ao quantitativo vigente."
+          },
+          {
+            "cell": "E20",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B21",
+            "value": "Decreto 69.376/2025"
+          },
+          {
+            "cell": "C21",
+            "value": "Secretaria de Meio Ambiente, Infraestrutura e Logística"
+          },
+          {
+            "cell": "D21",
+            "value": "Relevância a ser considerada no artigo 4° anexos II, III quantidades - V-A e V-B cargos/funções extintos e gratificação"
+          },
+          {
+            "cell": "E21",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B22",
+            "value": "Decreto 69.377/2025"
+          },
+          {
+            "cell": "C22",
+            "value": "Secretaria de Parcerias em Investimentos"
+          },
+          {
+            "cell": "D22",
+            "value": "Alterou as quantidades/cotas no artigo 4º anexo III"
+          },
+          {
+            "cell": "E22",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B23",
+            "value": "Decreto 69.378/2025"
+          },
+          {
+            "cell": "C23",
+            "value": "Secretaria de turismo e viagens "
+          },
+          {
+            "cell": "D23",
+            "value": "Alterou as quantidades/cotas no artigo 4º anexo III"
+          },
+          {
+            "cell": "E23",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B24",
+            "value": "Decreto 69.436/2025"
+          },
+          {
+            "cell": "C24",
+            "value": "Secretaria de Esportes"
+          },
+          {
+            "cell": "D24",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E24",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B25",
+            "value": "Decreto 69.449/2025"
+          },
+          {
+            "cell": "C25",
+            "value": "Secretaria de justiça e cidadania"
+          },
+          {
+            "cell": "D25",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E25",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B26",
+            "value": "Decreto 69.470/2025"
+          },
+          {
+            "cell": "C26",
+            "value": "Secretaria dos Direitos da Pessoa com Deficiência"
+          },
+          {
+            "cell": "D26",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E26",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B27",
+            "value": "Decreto 69.486/2025"
+          },
+          {
+            "cell": "C27",
+            "value": "Governadoria"
+          },
+          {
+            "cell": "D27",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E27",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B28",
+            "value": "Decreto 69.507/2025"
+          },
+          {
+            "cell": "C28",
+            "value": "Secretaria da Cultura, Economia e Indústria Criativas"
+          },
+          {
+            "cell": "D28",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E28",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B29",
+            "value": "Decreto 69.541/2025"
+          },
+          {
+            "cell": "C29",
+            "value": "Secretaria de Desenvolvimento Social"
+          },
+          {
+            "cell": "D29",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E29",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B30",
+            "value": "Decreto 69.557/2025"
+          },
+          {
+            "cell": "C30",
+            "value": "Secretaria da Segurança Pública"
+          },
+          {
+            "cell": "D30",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E30",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B31",
+            "value": "Decreto 69.590/2025"
+          },
+          {
+            "cell": "C31",
+            "value": "IMESC"
+          },
+          {
+            "cell": "D31",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E31",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B32",
+            "value": "Decreto 69.591/2025"
+          },
+          {
+            "cell": "C32",
+            "value": "CBPM"
+          },
+          {
+            "cell": "D32",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E32",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B33",
+            "value": "Decreto 69.618/2025"
+          },
+          {
+            "cell": "C33",
+            "value": "Secretaria de Governo e Relações Institucionais"
+          },
+          {
+            "cell": "D33",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E33",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B34",
+            "value": "Decreto 69.664/2025"
+          },
+          {
+            "cell": "C34",
+            "value": "Secretaria de Agricultura e Abastecimento"
+          },
+          {
+            "cell": "D34",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E34",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B35",
+            "value": "Decreto 69.665/2025"
+          },
+          {
+            "cell": "C35",
+            "value": "Secretaria da Educação"
+          },
+          {
+            "cell": "D35",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E35",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B36",
+            "value": "Decreto 69.745/2025"
+          },
+          {
+            "cell": "C36",
+            "value": "Secretaria de Comunicação"
+          },
+          {
+            "cell": "D36",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E36",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B37",
+            "value": "Decreto 69.760/2025"
+          },
+          {
+            "cell": "C37",
+            "value": "Secretaria de Desenvolvimento Urbano e Habitação"
+          },
+          {
+            "cell": "D37",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E37",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B38",
+            "value": "Decreto 69.761/2025"
+          },
+          {
+            "cell": "C38",
+            "value": "alteração de quantitativos/cotas"
+          },
+          {
+            "cell": "D38",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E38",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B39",
+            "value": "Decreto 69.816/2025"
+          },
+          {
+            "cell": "C39",
+            "value": "HCFAMEMA"
+          },
+          {
+            "cell": "D39",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E39",
+            "value": "Alesp"
+          }
+        ],
+        [
+          {
+            "cell": "B40",
+            "value": "Decreto 70.499/2026"
+          },
+          {
+            "cell": "C40",
+            "value": "HCFMB"
+          },
+          {
+            "cell": "D40",
+            "value": "Reorganização do QGCFC "
+          },
+          {
+            "cell": "E40",
+            "value": "Alesp"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Niveis_e_Conformidade",
+      "max_row": 15,
+      "max_column": 4,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Nível"
+          },
+          {
+            "cell": "B1",
+            "value": "Unidade/denominação padronizada"
+          },
+          {
+            "cell": "C1",
+            "value": "Categoria"
+          },
+          {
+            "cell": "D1",
+            "value": "Regra mínima / observação"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": 18
+          },
+          {
+            "cell": "B2",
+            "value": "Secretaria Executiva"
+          },
+          {
+            "cell": "C2",
+            "value": "Comando"
+          },
+          {
+            "cell": "D2",
+            "value": "Nível superior da estrutura direta; regras do Anexo III."
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": 17
+          },
+          {
+            "cell": "B3",
+            "value": "Subsecretaria / Chefe de Assessoria (conforme tipo)"
+          },
+          {
+            "cell": "C3",
+            "value": "Comando"
+          },
+          {
+            "cell": "D3",
+            "value": "Subsecretaria sujeita ao Art. 17."
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": 16
+          },
+          {
+            "cell": "B4",
+            "value": "Gabinete do Secretário / Diretoria Geral / Assessoria"
+          },
+          {
+            "cell": "C4",
+            "value": "Comando"
+          },
+          {
+            "cell": "D4",
+            "value": "DG sujeita ao Art. 18."
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": 15
+          },
+          {
+            "cell": "B5",
+            "value": "Diretoria / Assessoria"
+          },
+          {
+            "cell": "C5",
+            "value": "Comando"
+          },
+          {
+            "cell": "D5",
+            "value": "Diretoria sujeita ao Art. 18, parágrafo único."
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": 14
+          },
+          {
+            "cell": "B6",
+            "value": "Coordenadoria Geral / Assessoria"
+          },
+          {
+            "cell": "C6",
+            "value": "Comando"
+          },
+          {
+            "cell": "D6",
+            "value": "CG sujeita ao Art. 18."
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": 13
+          },
+          {
+            "cell": "B7",
+            "value": "Coordenadoria / Assessoria"
+          },
+          {
+            "cell": "C7",
+            "value": "Comando"
+          },
+          {
+            "cell": "D7",
+            "value": "Sem requisito numérico específico no Art. 18; observar Art. 16/19."
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": 12
+          },
+          {
+            "cell": "B8",
+            "value": "Departamento / Superintendência"
+          },
+          {
+            "cell": "C8",
+            "value": "Comando"
+          },
+          {
+            "cell": "D8",
+            "value": "Observar hierarquia e complexidade."
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": 11
+          },
+          {
+            "cell": "B9",
+            "value": "Assessor III"
+          },
+          {
+            "cell": "C9",
+            "value": "Assessoramento"
+          },
+          {
+            "cell": "D9",
+            "value": "Não é unidade de comando."
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": 10
+          },
+          {
+            "cell": "B10",
+            "value": "Divisão / Assessoria"
+          },
+          {
+            "cell": "C10",
+            "value": "Comando/Assessoramento"
+          },
+          {
+            "cell": "D10",
+            "value": "Se Divisão, aplicar Art. 18 parágrafo único por analogia estrutural da unidade; se Assessoria, Art. 7º."
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": 9
+          },
+          {
+            "cell": "B11",
+            "value": "Divisão"
+          },
+          {
+            "cell": "C11",
+            "value": "Comando"
+          },
+          {
+            "cell": "D11",
+            "value": "Observar Art. 16 e hierarquia."
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": 8
+          },
+          {
+            "cell": "B12",
+            "value": "Serviço"
+          },
+          {
+            "cell": "C12",
+            "value": "Comando"
+          },
+          {
+            "cell": "D12",
+            "value": "Observar Art. 16 e hierarquia."
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": 7
+          },
+          {
+            "cell": "B13",
+            "value": "Assistente Técnico III"
+          },
+          {
+            "cell": "C13",
+            "value": "Assessoramento"
+          },
+          {
+            "cell": "D13",
+            "value": "Não é unidade de comando."
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": 6
+          },
+          {
+            "cell": "B14",
+            "value": "Seção"
+          },
+          {
+            "cell": "C14",
+            "value": "Comando"
+          },
+          {
+            "cell": "D14",
+            "value": "Observar Art. 16 e hierarquia."
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": 5
+          },
+          {
+            "cell": "B15",
+            "value": "Assistente Técnico I / Seção"
+          },
+          {
+            "cell": "C15",
+            "value": "Assessoramento/Comando"
+          },
+          {
+            "cell": "D15",
+            "value": "Conforme denominação e decreto específico."
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Fontes",
+      "max_row": 23,
+      "max_column": 4,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Fonte"
+          },
+          {
+            "cell": "B1",
+            "value": "Tipo"
+          },
+          {
+            "cell": "C1",
+            "value": "URL"
+          },
+          {
+            "cell": "D1",
+            "value": "Uso"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "B2",
+            "value": "Decreto-base"
+          },
+          {
+            "cell": "C2",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+          },
+          {
+            "cell": "D2",
+            "value": "Arts. 6,7,17,18; Anexos III, VII e VIII."
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "B3",
+            "value": "Lei Complementar"
+          },
+          {
+            "cell": "C3",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          },
+          {
+            "cell": "D3",
+            "value": "QGCFC, CCESP/FCESP e regras gerais."
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Decreto 70.049/2025"
+          },
+          {
+            "cell": "B4",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C4",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70049-05.11.2025.html"
+          },
+          {
+            "cell": "D4",
+            "value": "Governadoria."
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Decreto 70.042/2025"
+          },
+          {
+            "cell": "B5",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C5",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70042-30.10.2025.html"
+          },
+          {
+            "cell": "D5",
+            "value": "Educação."
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Decreto 70.138/2025"
+          },
+          {
+            "cell": "B6",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C6",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70138-01.12.2025.html"
+          },
+          {
+            "cell": "D6",
+            "value": "Desenvolvimento Econômico."
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Decreto 70.115/2025"
+          },
+          {
+            "cell": "B7",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C7",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70115-18.11.2025.html"
+          },
+          {
+            "cell": "D7",
+            "value": "Desenvolvimento Urbano e Habitação."
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Decreto 70.360/2026"
+          },
+          {
+            "cell": "B8",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C8",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70360-04.02.2026.html"
+          },
+          {
+            "cell": "D8",
+            "value": "Transportes Metropolitanos."
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Decreto 70.362/2026"
+          },
+          {
+            "cell": "B9",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C9",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70362-04.02.2026.html"
+          },
+          {
+            "cell": "D9",
+            "value": "IPEM."
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Decreto 70.378/2026"
+          },
+          {
+            "cell": "B10",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C10",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70378-13.02.2026.html"
+          },
+          {
+            "cell": "D10",
+            "value": "IAMSPE."
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": "Decreto 70.388/2026"
+          },
+          {
+            "cell": "B11",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C11",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70388-24.02.2026.html"
+          },
+          {
+            "cell": "D11",
+            "value": "SPPREV."
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": "Decreto 70.431/2026"
+          },
+          {
+            "cell": "B12",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C12",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70431-10.03.2026.html"
+          },
+          {
+            "cell": "D12",
+            "value": "Centro Paula Souza; posteriormente alterado."
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "Decreto 70.648/2026"
+          },
+          {
+            "cell": "B13",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C13",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70648-28.05.2026.html"
+          },
+          {
+            "cell": "D13",
+            "value": "HC USP-RP."
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": "Decreto 70.687/2026"
+          },
+          {
+            "cell": "B14",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C14",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70687-16.06.2026.html"
+          },
+          {
+            "cell": "D14",
+            "value": "PGE."
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "Decreto 70.715/2026"
+          },
+          {
+            "cell": "B15",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C15",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70715-26.06.2026.html"
+          },
+          {
+            "cell": "D15",
+            "value": "Ciência, Tecnologia e Inovação."
+          }
+        ],
+        [
+          {
+            "cell": "A16",
+            "value": "Decreto 70.751/2026"
+          },
+          {
+            "cell": "B16",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C16",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70751-03.07.2026.html"
+          },
+          {
+            "cell": "D16",
+            "value": "Centro Paula Souza; situação mais recente localizada."
+          }
+        ],
+        [
+          {
+            "cell": "A17",
+            "value": "Decreto 70.755/2026"
+          },
+          {
+            "cell": "B17",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C17",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html"
+          },
+          {
+            "cell": "D17",
+            "value": "Gestão e Governo Digital."
+          }
+        ],
+        [
+          {
+            "cell": "A18",
+            "value": "Decreto 70.756/2026"
+          },
+          {
+            "cell": "B18",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C18",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70756-14.07.2026.html"
+          },
+          {
+            "cell": "D18",
+            "value": "Fazenda e Planejamento."
+          }
+        ],
+        [
+          {
+            "cell": "A19",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "B19",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C19",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+          },
+          {
+            "cell": "D19",
+            "value": "Governo do estado"
+          }
+        ],
+        [
+          {
+            "cell": "A20",
+            "value": "Decreto 69.286/2024"
+          },
+          {
+            "cell": "B20",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C20",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69286-30.12.2024.html"
+          },
+          {
+            "cell": "D20",
+            "value": "Vice-governador do estado"
+          }
+        ],
+        [
+          {
+            "cell": "A21",
+            "value": "Decreto 70.435/2026"
+          },
+          {
+            "cell": "B21",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C21",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70435-10.03.2026.html"
+          },
+          {
+            "cell": "D21",
+            "value": "Governo do estado"
+          }
+        ],
+        [
+          {
+            "cell": "A22",
+            "value": "decreto 69.339/2025"
+          },
+          {
+            "cell": "B22",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C22",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html"
+          },
+          {
+            "cell": "D22",
+            "value": "Governo do estado"
+          }
+        ],
+        [
+          {
+            "cell": "A23",
+            "value": "Decreto 70.049/2025"
+          },
+          {
+            "cell": "B23",
+            "value": "Decreto"
+          },
+          {
+            "cell": "C23",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70049-05.11.2025.html"
+          },
+          {
+            "cell": "D23",
+            "value": "Governo do estado"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "LC_1395_Detalhada",
+      "max_row": 34,
+      "max_column": 5,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Dispositivo"
+          },
+          {
+            "cell": "B1",
+            "value": "Conteúdo pertinente ao mapeamento"
+          },
+          {
+            "cell": "C1",
+            "value": "Impacto no levantamento de cargos/cotas"
+          },
+          {
+            "cell": "D1",
+            "value": "Norma/atualização"
+          },
+          {
+            "cell": "E1",
+            "value": "Fonte oficial"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Art. 1º"
+          },
+          {
+            "cell": "B2",
+            "value": "Estrutura os cargos em comissão e funções de confiança da Administração Pública direta e das autarquias nos termos da LC."
+          },
+          {
+            "cell": "C2",
+            "value": "Define o universo principal do QGCFC analisado."
+          },
+          {
+            "cell": "D2",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E2",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Art. 2º"
+          },
+          {
+            "cell": "B3",
+            "value": "Institui o Quadro Geral de Cargos em Comissão e Funções de Confiança (QGCFC), composto por CCESP e FCESP, destinados a direção, chefia e assessoramento."
+          },
+          {
+            "cell": "C3",
+            "value": "Base jurídica para classificar as posições levantadas na planilha."
+          },
+          {
+            "cell": "D3",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E3",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Art. 3º"
+          },
+          {
+            "cell": "B4",
+            "value": "Estabelece a denominação, níveis e sistemática dos CCESP/FCESP e respectivos valores/retribuições nos anexos da lei."
+          },
+          {
+            "cell": "C4",
+            "value": "Permite comparar nível do cargo/função, nomenclatura e valor unitário."
+          },
+          {
+            "cell": "D4",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E4",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Art. 4º"
+          },
+          {
+            "cell": "B5",
+            "value": "Dispõe sobre a composição e os anexos do QGCFC, incluindo quantitativos/referenciais vinculados à estrutura legal."
+          },
+          {
+            "cell": "C5",
+            "value": "Deve ser confrontado com os decretos de estrutura e com os quantitativos posteriores."
+          },
+          {
+            "cell": "D5",
+            "value": "LC 1.395/2023 + alterações"
+          },
+          {
+            "cell": "E5",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Art. 5º"
+          },
+          {
+            "cell": "B6",
+            "value": "Disciplina a recomposição de cargos/funções e estabelece hipóteses que não entram na recomposição; §2º foi alterado para excluir Secretário, PGE, CGE, dirigentes máximos de autarquias e membros dos Conselhos Diretores das agências reguladoras."
+          },
+          {
+            "cell": "C6",
+            "value": "Evita contar determinadas posições de direção máxima como parte da recomposição ordinária de CCESP/FCESP."
+          },
+          {
+            "cell": "D6",
+            "value": "LC 1.413/2024"
+          },
+          {
+            "cell": "E6",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Art. 6º"
+          },
+          {
+            "cell": "B7",
+            "value": "Estabelece a estrutura remuneratória/retribuição e regras relacionadas aos CCESP/FCESP conforme a sistemática do QGCFC."
+          },
+          {
+            "cell": "C7",
+            "value": "Usar para conferir valor unitário e natureza remuneratória, sem confundir valor com quantidade de cotas."
+          },
+          {
+            "cell": "D7",
+            "value": "LC 1.395/2023 + alterações"
+          },
+          {
+            "cell": "E7",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Art. 8º"
+          },
+          {
+            "cell": "B8",
+            "value": "Disciplina critérios de provimento/ocupação dos cargos em comissão e funções de confiança, conforme a sistemática da LC."
+          },
+          {
+            "cell": "C8",
+            "value": "Importante para diferenciar posição autorizada de posição efetivamente ocupável por determinada categoria de servidor."
+          },
+          {
+            "cell": "D8",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E8",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Art. 9º"
+          },
+          {
+            "cell": "B9",
+            "value": "Estabelece regras de nomeação/designação e requisitos associados ao QGCFC."
+          },
+          {
+            "cell": "C9",
+            "value": "Deve ser considerado na análise de preenchimento e elegibilidade, quando a pergunta for sobre vagas efetivamente preenchíveis."
+          },
+          {
+            "cell": "D9",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E9",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Art. 10º"
+          },
+          {
+            "cell": "B10",
+            "value": "Trata da remuneração/retribuição dos ocupantes do QGCFC e situações funcionais relacionadas."
+          },
+          {
+            "cell": "C10",
+            "value": "Apoia análise financeira, mas não altera sozinho o quantitativo de cotas."
+          },
+          {
+            "cell": "D10",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E10",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": "Art. 11º"
+          },
+          {
+            "cell": "B11",
+            "value": "Prevê regras para servidores titulares de cargo efetivo nomeados para CCESP e para ocupantes de FCESP."
+          },
+          {
+            "cell": "C11",
+            "value": "Importante para separar cargo em comissão de função de confiança no levantamento."
+          },
+          {
+            "cell": "D11",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E11",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": "Art. 12º"
+          },
+          {
+            "cell": "B12",
+            "value": "Estabelece disciplina funcional relativa ao exercício de CCESP/FCESP."
+          },
+          {
+            "cell": "C12",
+            "value": "Usar como regra complementar na análise de ocupação."
+          },
+          {
+            "cell": "D12",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E12",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "Art. 13º"
+          },
+          {
+            "cell": "B13",
+            "value": "Prevê disposições sobre afastamento/cessão e efeitos funcionais do QGCFC."
+          },
+          {
+            "cell": "C13",
+            "value": "Pode afetar situação do ocupante, mas não cria automaticamente nova cota."
+          },
+          {
+            "cell": "D13",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E13",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": "Art. 14º"
+          },
+          {
+            "cell": "B14",
+            "value": "Disciplina efeitos remuneratórios/funcionais associados ao QGCFC."
+          },
+          {
+            "cell": "C14",
+            "value": "Relevante para auditoria da situação de ocupação."
+          },
+          {
+            "cell": "D14",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E14",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "Art. 15º"
+          },
+          {
+            "cell": "B15",
+            "value": "Prevê regras complementares de aplicação do QGCFC."
+          },
+          {
+            "cell": "C15",
+            "value": "Aplicação conjunta com decreto regulamentador e decreto específico de estrutura."
+          },
+          {
+            "cell": "D15",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E15",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A16",
+            "value": "Art. 16º"
+          },
+          {
+            "cell": "B16",
+            "value": "Contém disposições complementares do regime do QGCFC."
+          },
+          {
+            "cell": "C16",
+            "value": "Consultar junto aos decretos de estrutura e ocupação."
+          },
+          {
+            "cell": "D16",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E16",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A17",
+            "value": "Art. 17, I"
+          },
+          {
+            "cell": "B17",
+            "value": "Decreto do Chefe do Executivo deve disciplinar o quantitativo de cotas por órgão e entidade."
+          },
+          {
+            "cell": "C17",
+            "value": "É a regra central para transformar o QGCFC em cotas distribuídas por órgão."
+          },
+          {
+            "cell": "D17",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E17",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A18",
+            "value": "Art. 17, II"
+          },
+          {
+            "cell": "B18",
+            "value": "Decreto deve estabelecer padronização do emprego de CCESP/FCESP, garantindo correspondência entre enquadramento hierárquico, nomenclatura, nível, classificação e requisitos."
+          },
+          {
+            "cell": "C18",
+            "value": "Fundamenta a matriz de correspondência entre nível hierárquico e cargo/função encontrada em cada estrutura."
+          },
+          {
+            "cell": "D18",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E18",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A19",
+            "value": "Art. 17, III"
+          },
+          {
+            "cell": "B19",
+            "value": "Decreto deve disciplinar normas para propostas de alteração do quantitativo e distribuição de cotas."
+          },
+          {
+            "cell": "C19",
+            "value": "Explica por que alterações posteriores exigem ato específico e não devem ser tratadas como simples 'vagas'."
+          },
+          {
+            "cell": "D19",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E19",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A20",
+            "value": "Art. 17, parágrafo único"
+          },
+          {
+            "cell": "B20",
+            "value": "Para ARTESP, ARSESP e SP-ÁGUAS, a aplicação do artigo observa, no mínimo, o quantitativo do art. 71 da LC 1.413/2024."
+          },
+          {
+            "cell": "C20",
+            "value": "Cria piso específico de 222 cargos em comissão para as três agências, distribuídos conforme Anexo I da LC 1.413/2024."
+          },
+          {
+            "cell": "D20",
+            "value": "LC 1.413/2024"
+          },
+          {
+            "cell": "E20",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A21",
+            "value": "Art. 18, I"
+          },
+          {
+            "cell": "B21",
+            "value": "Decretos de estrutura devem discriminar competências do órgão/entidade e de suas unidades."
+          },
+          {
+            "cell": "C21",
+            "value": "Permite validar se a unidade e seu comando estão juridicamente estruturados."
+          },
+          {
+            "cell": "D21",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E21",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A22",
+            "value": "Art. 18, II"
+          },
+          {
+            "cell": "B22",
+            "value": "Decretos devem trazer quadro da estrutura em ordem hierárquica decrescente, com nomenclaturas, níveis e quantidades de CCESP/FCESP."
+          },
+          {
+            "cell": "C22",
+            "value": "Base para comparar o 'autorizado na estrutura' com o Anexo VII/cotas."
+          },
+          {
+            "cell": "D22",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E22",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A23",
+            "value": "Art. 18, III"
+          },
+          {
+            "cell": "B23",
+            "value": "Decretos devem trazer quadro-resumo com quantidades, valores unitários e comparativo entre situação atual e nova."
+          },
+          {
+            "cell": "C23",
+            "value": "Fonte principal para medir variação quantitativa e financeira em cada reestruturação."
+          },
+          {
+            "cell": "D23",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E23",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A24",
+            "value": "Art. 18, IV"
+          },
+          {
+            "cell": "B24",
+            "value": "Devem ser indicados requisitos complementares de preenchimento, quando houver."
+          },
+          {
+            "cell": "C24",
+            "value": "Usar para identificar restrições que não aparecem no simples número de cargos."
+          },
+          {
+            "cell": "D24",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E24",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A25",
+            "value": "Art. 18, V"
+          },
+          {
+            "cell": "B25",
+            "value": "Devem ser indicadas gratificações incompatíveis com o regime QGCFC."
+          },
+          {
+            "cell": "C25",
+            "value": "Evita dupla contagem ou acumulação indevida na análise de posições."
+          },
+          {
+            "cell": "D25",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E25",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A26",
+            "value": "Art. 19"
+          },
+          {
+            "cell": "B26",
+            "value": "Extingue 4.707 cargos em comissão e funções-atividade em confiança dos quadros indicados, integrando-os ao BCEP na implantação da LC."
+          },
+          {
+            "cell": "C26",
+            "value": "É o marco de transição para a substituição do estoque anterior pelo QGCFC; não deve ser somado automaticamente às cotas atuais."
+          },
+          {
+            "cell": "D26",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E26",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A27",
+            "value": "Art. 22"
+          },
+          {
+            "cell": "B27",
+            "value": "Permite regulamentação do gozo de férias adquiridas por servidor nomeado para CCESP ou designado para FCESP sob outro regime jurídico."
+          },
+          {
+            "cell": "C27",
+            "value": "Regulamentado pelo Decreto 70.435/2026; relevante para regime funcional, não para criação de cotas."
+          },
+          {
+            "cell": "D27",
+            "value": "Decreto 70.435/2026"
+          },
+          {
+            "cell": "E27",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A28",
+            "value": "Art. 23, I"
+          },
+          {
+            "cell": "B28",
+            "value": "Provimento/designação depende de decreto específico de reorganização e identificação da quantidade de cargos/funções atribuídos a cada órgão, PGE, CGE e autarquias."
+          },
+          {
+            "cell": "C28",
+            "value": "Regra essencial: não considerar apenas a LC; verificar o decreto de estrutura vigente de cada órgão."
+          },
+          {
+            "cell": "D28",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E28",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A29",
+            "value": "Art. 23, II"
+          },
+          {
+            "cell": "B29",
+            "value": "Exige adequação orçamentária e financeira das despesas de pessoal."
+          },
+          {
+            "cell": "C29",
+            "value": "Quantidade estrutural autorizada não equivale, por si só, a disponibilidade orçamentária para provimento."
+          },
+          {
+            "cell": "D29",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E29",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A30",
+            "value": "Art. 23, parágrafo único"
+          },
+          {
+            "cell": "B30",
+            "value": "Decretos de reorganização devem identificar cargos/funções/empregos/funções-atividade/pro labore a extinguir em razão da implementação do QGCFC."
+          },
+          {
+            "cell": "C30",
+            "value": "Fundamenta o controle de transformação/extinção para evitar somar estoque antigo ao novo."
+          },
+          {
+            "cell": "D30",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E30",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A31",
+            "value": "Art. 24"
+          },
+          {
+            "cell": "B31",
+            "value": "Exclui os cargos de Assessor de Apoio Fazendário II, em extinção, do regime da LC."
+          },
+          {
+            "cell": "C31",
+            "value": "Não incluir esses cargos como CCESP/FCESP ordinários."
+          },
+          {
+            "cell": "D31",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E31",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A32",
+            "value": "Art. 28"
+          },
+          {
+            "cell": "B32",
+            "value": "A LC não se aplica às Universidades Públicas Estaduais."
+          },
+          {
+            "cell": "C32",
+            "value": "Evitar aplicar automaticamente o QGCFC às universidades; autarquias hospitalares vinculadas podem ter tratamento específico conforme seus decretos."
+          },
+          {
+            "cell": "D32",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E32",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A33",
+            "value": "Disposições Transitórias, art. 1º"
+          },
+          {
+            "cell": "B33",
+            "value": "Secretários, PGE, CGE e dirigentes de autarquias deveriam encaminhar propostas de revisão de estruturas para adequação ao QGCFC em até 12 meses, com possibilidade de prorrogação única pelo Governador."
+          },
+          {
+            "cell": "C33",
+            "value": "Explica a fase de transição e a necessidade de conferir decretos específicos posteriores."
+          },
+          {
+            "cell": "D33",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E33",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ],
+        [
+          {
+            "cell": "A34",
+            "value": "Disposições Transitórias, art. 4º"
+          },
+          {
+            "cell": "B34",
+            "value": "Enquanto não editados os decretos de adequação, mantêm-se as disposições do regime anterior para os ocupantes, até os atos necessários à adequação."
+          },
+          {
+            "cell": "C34",
+            "value": "Importante na análise histórica; não usar como justificativa para somar quantitativos antigos ao quadro atual."
+          },
+          {
+            "cell": "D34",
+            "value": "LC 1.395/2023"
+          },
+          {
+            "cell": "E34",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Alteracoes_LC1395",
+      "max_row": 9,
+      "max_column": 5,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Norma"
+          },
+          {
+            "cell": "B1",
+            "value": "Data"
+          },
+          {
+            "cell": "C1",
+            "value": "Dispositivo/efeito"
+          },
+          {
+            "cell": "D1",
+            "value": "Pertinência ao mapeamento"
+          },
+          {
+            "cell": "E1",
+            "value": "Fonte oficial"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "LC 1.413/2024"
+          },
+          {
+            "cell": "B2",
+            "value": "23/09/2024"
+          },
+          {
+            "cell": "C2",
+            "value": "Alterou o §2º do art. 5º e o parágrafo único do art. 17 da LC 1.395; acrescentou §3º ao art. 5º. O art. 71 criou 222 CCESP para ARTESP, ARSESP e SP-ÁGUAS, com mínimo de 30% destinados aos servidores permanentes indicados na lei."
+          },
+          {
+            "cell": "D2",
+            "value": "Alta: cria piso específico para agências reguladoras e altera regra de recomposição."
+          },
+          {
+            "cell": "E2",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "LC 1.426/2025"
+          },
+          {
+            "cell": "B3",
+            "value": "17/06/2025"
+          },
+          {
+            "cell": "C3",
+            "value": "Acrescentou ao Anexo IV da LC 1.395 o quantitativo de FCESP constante de seu Anexo V."
+          },
+          {
+            "cell": "D3",
+            "value": "Alta: altera quantitativo do universo de funções de confiança do QGCFC."
+          },
+          {
+            "cell": "E3",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2025/lei.complementar-1426-17.06.2025.html"
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "LC 1.435/2025"
+          },
+          {
+            "cell": "B4",
+            "value": "31/10/2025"
+          },
+          {
+            "cell": "C4",
+            "value": "Acrescentou quantitativo de funções ao Anexo IV da LC 1.395 (art. 18) e criou disciplina específica de FCESP para funções de direção/chefia/assessoramento de unidades de Pesquisador Científico."
+          },
+          {
+            "cell": "D4",
+            "value": "Alta: altera estoque legal de FCESP e deve ser considerado antes de calcular disponibilidade."
+          },
+          {
+            "cell": "E4",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2025/lei.complementar-1435-31.10.2025.html"
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Decreto 68.742/2024"
+          },
+          {
+            "cell": "B5",
+            "value": "05/08/2024"
+          },
+          {
+            "cell": "C5",
+            "value": "Regulamentou a LC 1.395 e estabeleceu a organização da Administração Direta e autarquias; Anexo VII distribuiu quantitativos/cotas por órgão."
+          },
+          {
+            "cell": "D5",
+            "value": "Alta: principal ato operacional de distribuição de cotas."
+          },
+          {
+            "cell": "E5",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Decreto 69.286/2024"
+          },
+          {
+            "cell": "B6",
+            "value": "30/12/2024"
+          },
+          {
+            "cell": "C6",
+            "value": "Alterou o Decreto 68.742/2024 e suas regras de transição/estrutura."
+          },
+          {
+            "cell": "D6",
+            "value": "Alta: atualizar a leitura do regulamento-base."
+          },
+          {
+            "cell": "E6",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69286-30.12.2024.html"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Decreto 70.435/2026"
+          },
+          {
+            "cell": "B7",
+            "value": "10/03/2026"
+          },
+          {
+            "cell": "C7",
+            "value": "Regulamentou o art. 22 da LC 1.395, sobre férias de servidor nomeado para CCESP ou designado para FCESP."
+          },
+          {
+            "cell": "D7",
+            "value": "Média: afeta regime funcional, não cria cotas."
+          },
+          {
+            "cell": "E7",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70435-10.03.2026.html"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "decreto 69.339/2025"
+          },
+          {
+            "cell": "B8",
+            "value": "2025-02-01 00:00:00"
+          },
+          {
+            "cell": "C8",
+            "value": "Estabelece o regime jurídico das agências reguladoras do estado, sua autonimia administrativa, orçamentária e financeira, e diretrizes de organização."
+          },
+          {
+            "cell": "D8",
+            "value": "alta: regulamenta a lei complementar n°1413/2024"
+          },
+          {
+            "cell": "E8",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html"
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Decreto 70.049/2025"
+          },
+          {
+            "cell": "B9",
+            "value": "2025-11-05 00:00:00"
+          },
+          {
+            "cell": "C9",
+            "value": "aprova a estrutura organizacional e o quadro de cargos em comissão e funções de confiança da Casa Civil e da Governadoria do Estado de São Paulo."
+          },
+          {
+            "cell": "D9",
+            "value": "Alta: principal ato operacional de distribuição de cotas."
+          },
+          {
+            "cell": "E9",
+            "value": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70049-05.11.2025.html"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Matriz_Juridica_Cotas",
+      "max_row": 10,
+      "max_column": 5,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Tema"
+          },
+          {
+            "cell": "B1",
+            "value": "Regra legal"
+          },
+          {
+            "cell": "C1",
+            "value": "Documento que deve ser conferido"
+          },
+          {
+            "cell": "D1",
+            "value": "Campo da planilha principal"
+          },
+          {
+            "cell": "E1",
+            "value": "Risco de erro se ignorado"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Universo QGCFC"
+          },
+          {
+            "cell": "B2",
+            "value": "CCESP + FCESP destinados a direção, chefia e assessoramento"
+          },
+          {
+            "cell": "C2",
+            "value": "LC 1.395, art. 2º"
+          },
+          {
+            "cell": "D2",
+            "value": "Tipo/natureza da posição"
+          },
+          {
+            "cell": "E2",
+            "value": "Misturar cargos antigos, funções e gratificações com QGCFC"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Cota por órgão"
+          },
+          {
+            "cell": "B3",
+            "value": "Decreto deve disciplinar quantitativo de cotas por órgão/entidade"
+          },
+          {
+            "cell": "C3",
+            "value": "LC 1.395, art. 17, I + Decreto 68.742/2024 Anexo VII e alterações"
+          },
+          {
+            "cell": "D3",
+            "value": "CCESP/FCESP cota base"
+          },
+          {
+            "cell": "E3",
+            "value": "Usar quantidade de cargos como se fosse cota"
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Estrutura vigente"
+          },
+          {
+            "cell": "B4",
+            "value": "Decreto específico deve identificar quantidade atribuída a cada órgão/entidade"
+          },
+          {
+            "cell": "C4",
+            "value": "LC 1.395, art. 23, I"
+          },
+          {
+            "cell": "D4",
+            "value": "Último ato localizado / situação atual"
+          },
+          {
+            "cell": "E4",
+            "value": "Considerar apenas o texto original da LC"
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Quadro comparativo"
+          },
+          {
+            "cell": "B5",
+            "value": "Decreto deve apresentar situação atual x nova, quantidade e valor unitário"
+          },
+          {
+            "cell": "C5",
+            "value": "LC 1.395, art. 18, III"
+          },
+          {
+            "cell": "D5",
+            "value": "Variação e observação"
+          },
+          {
+            "cell": "E5",
+            "value": "Não detectar criação, transformação ou redução"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Agências reguladoras"
+          },
+          {
+            "cell": "B6",
+            "value": "Mínimo do art. 71 da LC 1.413/2024; 222 cargos para ARTESP/ARSESP/SP-ÁGUAS"
+          },
+          {
+            "cell": "C6",
+            "value": "LC 1.413, art. 71 + art. 87"
+          },
+          {
+            "cell": "D6",
+            "value": "Regra especial"
+          },
+          {
+            "cell": "E6",
+            "value": "Aplicar regra geral do Anexo VII sem considerar piso legal"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "FCESP adicionadas ao Anexo IV"
+          },
+          {
+            "cell": "B7",
+            "value": "Quantitativos acrescidos por LC 1.426/2025 e LC 1.435/2025"
+          },
+          {
+            "cell": "C7",
+            "value": "LC 1.426 art. 19; LC 1.435 art. 18"
+          },
+          {
+            "cell": "D7",
+            "value": "Base legal de FCESP"
+          },
+          {
+            "cell": "E7",
+            "value": "Subestimar o estoque legal de funções"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Pesquisador Científico"
+          },
+          {
+            "cell": "B8",
+            "value": "Funções de direção/chefia/assessoramento podem ser remuneradas por FCESP, conforme disciplina específica"
+          },
+          {
+            "cell": "C8",
+            "value": "LC 1.435/2025, art. 17"
+          },
+          {
+            "cell": "D8",
+            "value": "Observação/regra especial"
+          },
+          {
+            "cell": "E8",
+            "value": "Excluir funções específicas da análise"
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Universidades"
+          },
+          {
+            "cell": "B9",
+            "value": "LC 1.395 não se aplica às Universidades Públicas Estaduais"
+          },
+          {
+            "cell": "C9",
+            "value": "LC 1.395, art. 28"
+          },
+          {
+            "cell": "D9",
+            "value": "Escopo"
+          },
+          {
+            "cell": "E9",
+            "value": "Aplicar QGCFC diretamente às universidades"
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Cargo máximo"
+          },
+          {
+            "cell": "B10",
+            "value": "Secretário, PGE, CGE e dirigentes máximos de autarquias têm regra de não recomposição no art. 5º, §2º"
+          },
+          {
+            "cell": "C10",
+            "value": "LC 1.413/2024"
+          },
+          {
+            "cell": "D10",
+            "value": "Escopo/recomposição"
+          },
+          {
+            "cell": "E10",
+            "value": "Contabilizar posição máxima como cota recomponível"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "CONSOLIDAÇÃO Admin. Direta",
+      "max_row": 41,
+      "max_column": 9,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Tipo de unidade"
+          },
+          {
+            "cell": "B1",
+            "value": "Nível"
+          },
+          {
+            "cell": "C1",
+            "value": "QGCFC"
+          },
+          {
+            "cell": "D1",
+            "value": "Classificação"
+          },
+          {
+            "cell": "E1",
+            "value": "Denominação cargo/função"
+          },
+          {
+            "cell": "F1",
+            "value": "Requisitos de criação da unidade"
+          },
+          {
+            "cell": "G1",
+            "value": "Critério para ocupação do cargo ou função"
+          },
+          {
+            "cell": "H1",
+            "value": "Regra geral para estruturação"
+          },
+          {
+            "cell": "I1",
+            "value": "Fontes Oficiais"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Secretaria Executiva"
+          },
+          {
+            "cell": "B2",
+            "value": "NES (1.18)"
+          },
+          {
+            "cell": "C2",
+            "value": "CCESP/FCESP NES 1.18"
+          },
+          {
+            "cell": "D2",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "E2",
+            "value": "Secretário Executivo"
+          },
+          {
+            "cell": "F2",
+            "value": "Subordinação exclusiva ao Gabinete do Secretário.\nLimite de 1 Secretaria Executiva por Secretaria.\nFonte: art. 5º do Decreto nº 68.742/2024."
+          },
+          {
+            "cell": "G2",
+            "value": "Natureza especial"
+          },
+          {
+            "cell": "H2",
+            "value": " No Cap. V, Seção I, Art. 16 do Decreto nº 68.742/2024: utilizar as nomenclaturas e níveis hierárquicos do Anexo III; definir os níveis das unidades e respectivos CCESP/FCESP conforme responsabilidade, complexidade, subordinados, abrangência, planejamento, recursos e decisões estratégicas; e informar os quantitativos, categorias e níveis de CCESP/FCESP previstos na estrutura.                                                                                                                No Cap. VIII, Arts. 29 a 32 – SIORG: O SIORG é composto por órgão central (SGGD/Subsecretaria de Gestão) e órgãos setoriais (Secretarias, PGE, CGE e autarquias). Art. 30: compete ao órgão central padronizar e coordenar a organização institucional, propor alterações na estrutura de órgãos e entidades, administrar o sistema e controlar o QGCFC. Art. 31: cabe aos órgãos setoriais cumprir as normas do SIORG e manter atualizadas as informações sobre estrutura organizacional, hierarquia, CCESP/FCESP e contatos institucionais. Art. 32: o sistema mantém o cadastro oficial das estruturas, competências, CCESP/FCESP e informações institucionais.                                                                                                              Fonte: D. 68.742/2024"
+          },
+          {
+            "cell": "I2",
+            "value": "LC 1395/2023 e LC 1419/2024 + decretos 68.742/2024, 69.286/2024, 69.761/2025, 70.048/2025, 70.687/2026  e 70.755/2026"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Gabinete do Governador"
+          },
+          {
+            "cell": "C3",
+            "value": "CCESP NES 1.18"
+          },
+          {
+            "cell": "E3",
+            "value": "Chefe do gabinete do Governador"
+          },
+          {
+            "cell": "F3",
+            "value": "Subordinação diretamente ao Governador do Estado.                     Comando estrátegico máximo.                                                           Fonte: Anexo III art. 8° do D. 68.742/2024 e Art. 8° do D. 70.047/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Controladoria Geral Executiva"
+          },
+          {
+            "cell": "E4",
+            "value": "Controlador Geral Executivo"
+          },
+          {
+            "cell": "F4",
+            "value": "Subordinação exclusiva ao gabinete do Governador                Possui 2 unidades subordinadas de até 4 níveis hierárquicos inferiores. (conforme Art. 17°, parágrafo único do D. 68.742/2024)                                                                                                    Fonte:  art. 7° da LC. 1419/2024 e Art. 1° do D.  69.183/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Escritório do Governo de Estado de São Paulo em Brasília"
+          },
+          {
+            "cell": "B6",
+            "value": "NES (1.18)"
+          },
+          {
+            "cell": "C6",
+            "value": "CCESP NES 1.18"
+          },
+          {
+            "cell": "E6",
+            "value": "Chefe de escritório do Governo de Estado de São Paulo em Brasília"
+          },
+          {
+            "cell": "F6",
+            "value": "Subordinação exclusiva ao Gabinete do Secretário. Possui 1 unidade de comando. Com atribuições em decreto expecífico.  Fonte: Art. 8° do D. 70.049/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Gabinete do Vice-Governador"
+          },
+          {
+            "cell": "B8",
+            "value": "1.17"
+          },
+          {
+            "cell": "C8",
+            "value": "CCESP 1.17"
+          },
+          {
+            "cell": "E8",
+            "value": "Chefe do Gabinete do Vice-Governador"
+          },
+          {
+            "cell": "F8",
+            "value": "Subordinação diretamente ao Vice-Governador do Estado.    Comando estrátegico diteramente inferior ao nível 18.          Fonte: Anexo III art. 8° do D. 68.742/2024 e Art. 2° do D. 70.048/2025."
+          },
+          {
+            "cell": "G8",
+            "value": "Experiência profissional mínima de 5 anos em atividades correlatas à área de atuação do órgão/entidade ou às atribuições e competências do cargo/função, em qualquer dos Poderes e esferas de governo, inclusive na Administração Pública indireta; \nou\nTítulo de mestre ou doutor em área correlata ao campo funcional do órgão/entidade ou às atribuições do cargo/função.\nFonte: Inciso III, do art.9º do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Subsecretaria "
+          },
+          {
+            "cell": "B9",
+            "value": "1.17"
+          },
+          {
+            "cell": "C9",
+            "value": "CCESP/FCESP 1.17"
+          },
+          {
+            "cell": "E9",
+            "value": "Subsecretário"
+          },
+          {
+            "cell": "F9",
+            "value": "Atender a pelo menos uma das seguintes condições:\nExercer atribuições de órgãos centrais dos Sistemas Administrativos, em razão da complexidade, do grau de responsabilidade e da transversalidade, ou, no caso da Controladoria Geral do Estado, exercer atribuições de combate à corrupção; ou\nPossuir, no mínimo, 3 unidades subordinadas, distribuídas em até 2 níveis hierárquicos imediatamente inferiores, e exercer atribuições relacionadas aos instrumentos de planejamento, especialmente ao PPA e ao Programa de Metas.\nFonte: item 5 do § 2º do art. 16 e inciso I do art. 17 do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "Subsecretaria de Gestão Corporativa"
+          },
+          {
+            "cell": "E13",
+            "value": "Subsecretário de Gestão"
+          },
+          {
+            "cell": "F13",
+            "value": "Possuir, no mínimo, 2 unidades subordinadas, distribuídas em até 4 níveis hierárquicos imediatamente inferiores.\nFonte: parágrafo único do art. 17 do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "Chefia de Gabinete"
+          },
+          {
+            "cell": "B15",
+            "value": "1.16"
+          },
+          {
+            "cell": "C15",
+            "value": "CCESP/FCESP 1.16"
+          },
+          {
+            "cell": "E15",
+            "value": "Chefe de Gabinete"
+          },
+          {
+            "cell": "F15",
+            "value": "Subordinação direta ao Gabinete do Secretário.\nLimite de 1 Chefia de Gabinete por Secretaria.\nFonte: art. 5º do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A18",
+            "value": "Diretoria Geral"
+          },
+          {
+            "cell": "C18",
+            "value": "CCESP/FCESP 1.16"
+          },
+          {
+            "cell": "E18",
+            "value": "Diretor Geral "
+          },
+          {
+            "cell": "F18",
+            "value": "Atender cumulativamente às seguintes condições:\nPossuir, no mínimo, 2 unidades subordinadas de nível hierárquico imediatamente inferior;\nPossuir, entre suas atribuições, ações previstas nos instrumentos de planejamento, especialmente no PPA e no Programa de Metas.\nFonte: art. 18 do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A20",
+            "value": "Diretoria Geral Adjunta Corregedoria Geral da Polícia Penal (exclusivas da SAP)"
+          },
+          {
+            "cell": "B20",
+            "value": "1.16"
+          },
+          {
+            "cell": "C20",
+            "value": "CCESP/FCESP 1.16"
+          },
+          {
+            "cell": "E20",
+            "value": "Diretor geral da Polícia Penitenciária"
+          },
+          {
+            "cell": "F20",
+            "value": "Subordinação direta ao Secretário de Administração Penitenciária (Nível enquadrado no Anexo II do D. 69.228/2024 e Art. 5º da LC 1416/2024)"
+          }
+        ],
+        [
+          {
+            "cell": "B21",
+            "value": "1.15"
+          },
+          {
+            "cell": "C21",
+            "value": "CCESP/FCESP 1.15"
+          },
+          {
+            "cell": "E21",
+            "value": "Diretor Geral Adjunto"
+          },
+          {
+            "cell": "F21",
+            "value": "Limite de 1 chefia de Gabinete; estruturação especifica na LC. 1416/2024 e D. 69.228/2024"
+          }
+        ],
+        [
+          {
+            "cell": "B22",
+            "value": "1.15"
+          },
+          {
+            "cell": "C22",
+            "value": "FCESP 1.15"
+          },
+          {
+            "cell": "E22",
+            "value": "Corregedor da Polícia Penitenciária"
+          },
+          {
+            "cell": "F22",
+            "value": "Fonte: Art. 8º e 10º LC. 1416/2024 e Anexo II do D. 69.228/2024"
+          }
+        ],
+        [
+          {
+            "cell": "A23",
+            "value": "Diretoria"
+          },
+          {
+            "cell": "B23",
+            "value": "1.15"
+          },
+          {
+            "cell": "C23",
+            "value": "CCESP/FCESP 1.15"
+          },
+          {
+            "cell": "E23",
+            "value": "Diretor"
+          },
+          {
+            "cell": "F23",
+            "value": "O nível de Diretoria somente poderá ser utilizado em unidades administrativas que possuam, no mínimo, duas unidades subordinadas de até dois níveis hierarquicamente inferiores.\nFonte: art. 18 do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A24",
+            "value": "Coordenadoria Geral "
+          },
+          {
+            "cell": "B24",
+            "value": "1.14"
+          },
+          {
+            "cell": "C24",
+            "value": "CCESP/FCESP 1.14"
+          },
+          {
+            "cell": "E24",
+            "value": "Coordenador geral"
+          },
+          {
+            "cell": "F24",
+            "value": "Atender cumulativamente às seguintes condições:\nPossuir, no mínimo, 2 unidades subordinadas de nível hierárquico imediatamente inferior;\nPossuir, entre suas atribuições, ações previstas nos instrumentos de planejamento, especialmente no PPA e no Programa de Metas.\nFonte: art. 18 do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A25",
+            "value": "Coordenadoria "
+          },
+          {
+            "cell": "B25",
+            "value": "1.13"
+          },
+          {
+            "cell": "C25",
+            "value": "CCESP/FCESP 1.13"
+          },
+          {
+            "cell": "D25",
+            "value": "Intermediário"
+          },
+          {
+            "cell": "E25",
+            "value": "Coordenador  "
+          },
+          {
+            "cell": "F25",
+            "value": "Não se aplica"
+          },
+          {
+            "cell": "G25",
+            "value": "Experiência profissional mínima de 3 anos em atividades correlatas à área de atuação do órgão/entidade ou às atribuições e competências do cargo/função, em qualquer dos Poderes e esferas de governo, inclusive na Administração Pública indireta; ou\nTítulo de especialista, mestre ou doutor em área correlata ao campo funcional do órgão/entidade ou às atribuições do cargo/função."
+          }
+        ],
+        [
+          {
+            "cell": "A26",
+            "value": "Departamento"
+          },
+          {
+            "cell": "B26",
+            "value": "1.12"
+          },
+          {
+            "cell": "C26",
+            "value": "CCESP/FCESP 1.12"
+          },
+          {
+            "cell": "E26",
+            "value": "Chefe de Departamento"
+          }
+        ],
+        [
+          {
+            "cell": "B27",
+            "value": "1.11"
+          },
+          {
+            "cell": "C27",
+            "value": "CCESP/FCESP 1.11"
+          }
+        ],
+        [
+          {
+            "cell": "A28",
+            "value": "Divisão "
+          },
+          {
+            "cell": "B28",
+            "value": "1.10"
+          },
+          {
+            "cell": "C28",
+            "value": "CCESP/FCESP 1.10"
+          },
+          {
+            "cell": "E28",
+            "value": "Chefe de divisão"
+          }
+        ],
+        [
+          {
+            "cell": "B29",
+            "value": "1.09"
+          },
+          {
+            "cell": "C29",
+            "value": "CCESP/FCESP 1.09"
+          }
+        ],
+        [
+          {
+            "cell": "A30",
+            "value": "Serviços "
+          },
+          {
+            "cell": "B30",
+            "value": "1.08"
+          },
+          {
+            "cell": "C30",
+            "value": "CCESP/FCESP 1.08"
+          },
+          {
+            "cell": "D30",
+            "value": "Operacional"
+          },
+          {
+            "cell": "E30",
+            "value": "Chefe de serviço"
+          }
+        ],
+        [
+          {
+            "cell": "B31",
+            "value": "1.07"
+          },
+          {
+            "cell": "C31",
+            "value": "CCESP/FCESP 1.07"
+          }
+        ],
+        [
+          {
+            "cell": "A32",
+            "value": "Seção"
+          },
+          {
+            "cell": "B32",
+            "value": "1.06"
+          },
+          {
+            "cell": "C32",
+            "value": "CCESP/FCESP 1.06"
+          },
+          {
+            "cell": "E32",
+            "value": "Chefe de Seção"
+          }
+        ],
+        [
+          {
+            "cell": "B33",
+            "value": "1.05"
+          },
+          {
+            "cell": "C33",
+            "value": "CCESP/FCESP 1.05"
+          }
+        ],
+        [
+          {
+            "cell": "A34",
+            "value": "Setor"
+          },
+          {
+            "cell": "B34",
+            "value": "1.04"
+          },
+          {
+            "cell": "C34",
+            "value": "CCESP/FCESP 1.04"
+          },
+          {
+            "cell": "E34",
+            "value": "Chefe de Setor"
+          },
+          {
+            "cell": "G34",
+            "value": "Experiência profissional mínima de 1 ano em atividades correlatas à área de atuação do órgão/entidade, em qualquer dos Poderes e esferas de governo, inclusive na Administração Pública indireta;\nSer servidor público ou empregado público ocupante de cargo efetivo, função-atividade de natureza permanente ou emprego público;\nConcluir, nos primeiros 6 meses de nomeação ou designação, cursos de capacitação em escolas de governo, em áreas correlatas ao cargo/função, com carga horária mínima acumulada de 80 horas."
+          }
+        ],
+        [
+          {
+            "cell": "A35",
+            "value": "Núcleo"
+          },
+          {
+            "cell": "B35",
+            "value": "1.03"
+          },
+          {
+            "cell": "C35",
+            "value": "CCESP/FCESP 1.03"
+          },
+          {
+            "cell": "E35",
+            "value": "Chefe de Núcleo"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "CONSOLIDAÇÃO Cargos Assessoria",
+      "max_row": 9,
+      "max_column": 8,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "Tipo de unidade"
+          },
+          {
+            "cell": "B1",
+            "value": "Denominação cargo/função"
+          },
+          {
+            "cell": "C1",
+            "value": "Nível"
+          },
+          {
+            "cell": "D1",
+            "value": "QGCFC"
+          },
+          {
+            "cell": "E1",
+            "value": "Classificação"
+          },
+          {
+            "cell": "F1",
+            "value": "Requisitos de criação da unidade"
+          },
+          {
+            "cell": "G1",
+            "value": "Critério para ocupação do cargo ou função"
+          },
+          {
+            "cell": "H1",
+            "value": "Fontes Oficiais"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Assessoria"
+          },
+          {
+            "cell": "B2",
+            "value": "Chefe de Assessoria"
+          },
+          {
+            "cell": "C2",
+            "value": "1.17"
+          },
+          {
+            "cell": "D2",
+            "value": "CCESP/FCESP 1.17"
+          },
+          {
+            "cell": "E2",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F2",
+            "value": "O Decreto nº 68.742/2024, art. 7º, § 4º, item 1, não estabelece quantitativo mínimo numérico de assessores; exige que a quantidade de assessores subordinados justifique a criação da unidade administrativa de Assessoria. Mas Segundo o SIORG, que convencionou como referência, a quantidade mínima de assessores subordinados deve ser de 02 assessores. "
+          },
+          {
+            "cell": "G2",
+            "value": "Experiência profissional mínima de 5 anos em atividades correlatas à área de atuação do órgão/entidade ou às atribuições e competências do cargo/função, em qualquer dos Poderes e esferas de governo, inclusive na Administração Pública indireta; \nou\nTítulo de mestre ou doutor em área correlata ao campo funcional do órgão/entidade ou às atribuições do cargo/função.\nFonte: Inciso III, do art.9º do Decreto nº 68.742/2024."
+          },
+          {
+            "cell": "H2",
+            "value": "Decreto 68.742/2024"
+          }
+        ],
+        [
+          {
+            "cell": "C3",
+            "value": "1.16"
+          },
+          {
+            "cell": "D3",
+            "value": "CCESP/FCESP 1.16"
+          },
+          {
+            "cell": "E3",
+            "value": "Estratégico"
+          }
+        ],
+        [
+          {
+            "cell": "C4",
+            "value": "1.15"
+          },
+          {
+            "cell": "D4",
+            "value": "CCESP/FCESP 1.15"
+          },
+          {
+            "cell": "E4",
+            "value": "Estratégico"
+          }
+        ],
+        [
+          {
+            "cell": "C5",
+            "value": "1.14"
+          },
+          {
+            "cell": "D5",
+            "value": "CCESP/FCESP 1.14"
+          },
+          {
+            "cell": "E5",
+            "value": "Estratégico"
+          }
+        ],
+        [
+          {
+            "cell": "C6",
+            "value": "1.13"
+          },
+          {
+            "cell": "D6",
+            "value": "CCESP/FCESP 1.13"
+          },
+          {
+            "cell": "E6",
+            "value": "Intermediário"
+          },
+          {
+            "cell": "G6",
+            "value": "Experiência profissional mínima de 3 anos em atividades correlatas à área de atuação do órgão/entidade ou às atribuições e competências do cargo/função, em qualquer dos Poderes e esferas de governo, inclusive na Administração Pública indireta; ou\nTítulo de especialista, mestre ou doutor em área correlata ao campo funcional do órgão/entidade ou às atribuições do cargo/função."
+          }
+        ],
+        [
+          {
+            "cell": "C7",
+            "value": "1.12"
+          },
+          {
+            "cell": "D7",
+            "value": "CCESP/FCESP 1.12"
+          },
+          {
+            "cell": "E7",
+            "value": "Intermediário"
+          }
+        ],
+        [
+          {
+            "cell": "C8",
+            "value": "1.11"
+          },
+          {
+            "cell": "D8",
+            "value": "CCESP/FCESP 1.11"
+          },
+          {
+            "cell": "E8",
+            "value": "Intermediário"
+          }
+        ],
+        [
+          {
+            "cell": "C9",
+            "value": "1.10"
+          },
+          {
+            "cell": "D9",
+            "value": "CCESP/FCESP 1.10"
+          },
+          {
+            "cell": "E9",
+            "value": "Intermediário"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Planilha1",
+      "max_row": 1,
+      "max_column": 1,
+      "rows": []
+    },
+    {
+      "sheet": "Planilha2",
+      "max_row": 1,
+      "max_column": 1,
+      "rows": []
+    },
+    {
+      "sheet": "CONSOLIDAÇÃO Autarquias",
+      "max_row": 18,
+      "max_column": 10,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "tipo de unidade "
+          },
+          {
+            "cell": "B1",
+            "value": "denominação cargo/função"
+          },
+          {
+            "cell": "C1",
+            "value": "nível"
+          },
+          {
+            "cell": "D1",
+            "value": "nível QGCFC"
+          },
+          {
+            "cell": "E1",
+            "value": "classificação"
+          },
+          {
+            "cell": "F1",
+            "value": "Requisitos de criação de cargo/função e estrutura da unidade"
+          },
+          {
+            "cell": "G1",
+            "value": "Critério para ocupação do cargo ou função"
+          },
+          {
+            "cell": "H1",
+            "value": "Regras geral de estruturação"
+          },
+          {
+            "cell": "J1",
+            "value": "Fontes Oficiais"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Presidência"
+          },
+          {
+            "cell": "B2",
+            "value": "presidente "
+          },
+          {
+            "cell": "C2",
+            "value": "1.17 "
+          },
+          {
+            "cell": "D2",
+            "value": "CCESP/FCESP 1.17"
+          },
+          {
+            "cell": "E2",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F2",
+            "value": "O enquadramento do Presidente de autarquia  depende de previsão legal específica e da classificação constante do quadro de cargos vigente da entidade. O art. 3º da LC nº 180/1978 trata dos órgãos integrantes do Sistema de Administração de Pessoal, enquanto o art. 10 do Decreto nº 68.742/2024 disciplina a manutenção dos perfis profissionais dos níveis 14 a 17. Como regra geral, o Anexo III, item B, do Decreto nº 68.742/2024 "
+          },
+          {
+            "cell": "G2",
+            "value": "Mínimo de 5 anos de experiência; mestrado ou doutorado na área correlata"
+          },
+          {
+            "cell": "H2",
+            "value": "Classificação e distribuição do QGCFC"
+          },
+          {
+            "cell": "I2",
+            "value": "Criação de autarquias"
+          },
+          {
+            "cell": "J2",
+            "value": "LC 1395/2023 e LC 1419/2024 + decretos 68.742/2024, 69.286/2024, 70.048/2025 e 70.755/2026"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Vice presidência"
+          },
+          {
+            "cell": "B3",
+            "value": "Vice-presidente"
+          },
+          {
+            "cell": "C3",
+            "value": "1.16"
+          },
+          {
+            "cell": "D3",
+            "value": "CCESP/FCESP 1.16"
+          },
+          {
+            "cell": "F3",
+            "value": "Nas autarquias, a estrutura deve definir competências, hierarquia, nomenclaturas, níveis e quantitativos de CCESP/FCESP, com respectivos valores e custos, conforme a LC nº 1.395/2023 e o Decreto nº 68.742/2024. No art. 18° do mesmo decreto estabelece: Os níveis de Diretoria Geral e Coordenadoria Geral somente poderão ser utilizados em unidades administrativas que, mediante justificativa da medida e observadas as diretrizes do artigo 16 deste decreto, possuam, cumulativamente:  \n\nI - no mínimo, duas unidades subordinadas de nível imediatamente inferior;  \n\nII - em suas atribuições, ações previstas nos instrumentos de planejamento mencionados no item \"5\" do § 2° do artigo 16 deste decreto.                     No art. 19 do mesmo decreto,é estabelecido:                                                     § I - estabelecerá o campo funcional do órgão ou entidade e as atribuições de suas unidades administrativas com CCESP ou FCESP de nível 14 ou superior;  \n\n§ II - relacionará os CCESP e as FCESP de nível inferior a 14, em anexo específico, com demonstração, de forma agrupada e representativa da hierarquia organizacional, das categorias, dos níveis e dos quantitativos;  Alterações que impliquem aumento de cotas exigem fundamentação, análise de impacto orçamentário pela SGGD e Secretaria da Fazenda e Planejamento e aprovação. O provimento depende de previsão na estrutura organizacional e observância dos requisitos legais."
+          },
+          {
+            "cell": "H3",
+            "value": "Decreto nº 68.742/2024 – arts. 19 e 20, § 1º: o decreto de estrutura deve discriminar as unidades administrativas, hierarquia, categorias, níveis e quantitativos de CCESP/FCESP. As unidades de nível inferior a 14 devem ter suas atribuições estabelecidas por ato próprio, publicado no Diário Oficial, compatível com a estrutura aprovada e abrangendo todas essas unidades. Art. 20, § 2º: permite nova classificação de CCESP/FCESP, desde que não implique alteração da estrutura organizacional, observadas as condições legais. Arts. 24 e 26: disciplinam a recomposição de cargos/funções e o aumento excepcional de cotas, mediante justificativa e observância dos limites legais. Anexo VII e Comunicado SIORG nº 02/2024: estabelecem os limites de cotas e quantitativos de CCESP/FCESP por órgão ou entidade; os pedidos de recomposição e quantitativos adicionais ficam sujeitos ao teto de 10% previsto no comunicado, podendo ser consideradas conjuntamente as quantidades da Secretaria e de suas vinculadas. Comunicado SIORG nº 05/2024: reforça que os atos relativos às unidades de nível inferior a 14 devem ser publicados até a entrada em vigor do decreto da nova estrutura, respeitar sua organização e abranger todas as unidades. Para o mapeamento, verificar a estrutura aprovada, os limites de cotas, os quantitativos de CCESP/FCESP, as atribuições das unidades e a formalização dos atos correspondentes.”                                                                                                              Fonte: decreto 68.742/2024 e Comunicados SIORG. N°02 e n°05 de 2024"
+          },
+          {
+            "cell": "I3",
+            "value": "A criação de autarquias e agências reguladoras depende de lei específica que estabeleça suas competências e finalidades. A estruturação deve observar os arts. 17 e 18 da LC nº 1.395/2023 e os arts. 4º, 6º a 8º, 16 e 19 a 21 do Decreto nº 68.742/2024, quanto à organização hierárquica, nomenclaturas, níveis, quantitativos e cotas de CCESP/FCESP. Alterações estruturais devem ser justificadas e seguir os procedimentos de aprovação e análise de impacto financeiro. Para agências reguladoras, como ARTESP, ARSESP e SP-ÁGUAS, também devem ser observadas as regras específicas aplicáveis, incluindo o art. 39 do Decreto nº 69.339/2025."
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Gabinete, Diretoria"
+          },
+          {
+            "cell": "B4",
+            "value": "Chefe de Gabinete"
+          },
+          {
+            "cell": "C4",
+            "value": "1.15"
+          },
+          {
+            "cell": "D4",
+            "value": "CCESP/FCESP 1.15"
+          }
+        ],
+        [
+          {
+            "cell": "B5",
+            "value": "diretor"
+          },
+          {
+            "cell": "C5",
+            "value": "1.15"
+          },
+          {
+            "cell": "D5",
+            "value": "CCESP/FCESP 1.15"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Coordenadoria Geral"
+          },
+          {
+            "cell": "B6",
+            "value": "Coordenador geral"
+          },
+          {
+            "cell": "C6",
+            "value": "1.14"
+          },
+          {
+            "cell": "D6",
+            "value": "CCESP/FCESP 1.14"
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Coordenadoria  "
+          },
+          {
+            "cell": "B7",
+            "value": "Coordenador   "
+          },
+          {
+            "cell": "C7",
+            "value": "1.13"
+          },
+          {
+            "cell": "D7",
+            "value": "CCESP/FCESP 1.13"
+          },
+          {
+            "cell": "E7",
+            "value": "Intermediário"
+          },
+          {
+            "cell": "G7",
+            "value": "Mínimo de 3 anos de experiência; mestrado ou doutorado na área correlata"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Superintendência"
+          },
+          {
+            "cell": "B8",
+            "value": "Superintendente"
+          },
+          {
+            "cell": "C8",
+            "value": "1.11 ou 1.12"
+          },
+          {
+            "cell": "D8",
+            "value": "CCESP/FCESP 1.11 ou 1.12"
+          }
+        ],
+        [
+          {
+            "cell": "A9",
+            "value": "Divisão"
+          },
+          {
+            "cell": "B9",
+            "value": "Chefe de Divisão"
+          },
+          {
+            "cell": "C9",
+            "value": "1.09 ou 1.10"
+          },
+          {
+            "cell": "D9",
+            "value": "CCESP/FCESP 1.09 ou 1.10  "
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Serviço"
+          },
+          {
+            "cell": "B10",
+            "value": "Chefe de Serviço"
+          },
+          {
+            "cell": "C10",
+            "value": "1.07 ou 1.08"
+          },
+          {
+            "cell": "D10",
+            "value": "CCESP/FCESP 1.07 ou 1.08"
+          },
+          {
+            "cell": "E10",
+            "value": "Operacional"
+          },
+          {
+            "cell": "G10",
+            "value": "Mínimo 1 Ano de experiência/Servidor efetivo/ conclusão de cursos de capacitação com carga horária mínima de 80h"
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": "Seção"
+          },
+          {
+            "cell": "B11",
+            "value": "Chefe de Seção "
+          },
+          {
+            "cell": "C11",
+            "value": "1.05 ou 1.06"
+          },
+          {
+            "cell": "D11",
+            "value": "CCESP/FCESP 1.05 ou 1.06"
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": "Setor "
+          },
+          {
+            "cell": "B12",
+            "value": "Chefe de Setor "
+          },
+          {
+            "cell": "C12",
+            "value": "1.04"
+          },
+          {
+            "cell": "D12",
+            "value": "CCESP/FCESP 1.04"
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "Núcleo"
+          },
+          {
+            "cell": "B13",
+            "value": "Chefe de Núcleo"
+          },
+          {
+            "cell": "C13",
+            "value": "1.03"
+          },
+          {
+            "cell": "D13",
+            "value": "CCESP/FCESP 1.03"
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": "Unidade"
+          },
+          {
+            "cell": "B14",
+            "value": "Chefe de Unidade"
+          },
+          {
+            "cell": "C14",
+            "value": "1.02"
+          },
+          {
+            "cell": "D14",
+            "value": "CCESP/FCESP 1.02"
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "Equipe"
+          },
+          {
+            "cell": "B15",
+            "value": "Chefe de Equipe"
+          },
+          {
+            "cell": "C15",
+            "value": "1.01"
+          },
+          {
+            "cell": "D15",
+            "value": "CCESP/FCESP 1.01"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "CONSOLIDAÇÃO Agenc. reguladoras",
+      "max_row": 17,
+      "max_column": 10,
+      "rows": [
+        [
+          {
+            "cell": "A1",
+            "value": "tipo de unidade "
+          },
+          {
+            "cell": "B1",
+            "value": "denominação cargo/função"
+          },
+          {
+            "cell": "C1",
+            "value": "nível"
+          },
+          {
+            "cell": "D1",
+            "value": "nível QGCFC"
+          },
+          {
+            "cell": "E1",
+            "value": "classificação"
+          },
+          {
+            "cell": "F1",
+            "value": "Requisitos de criação da unidade"
+          },
+          {
+            "cell": "G1",
+            "value": "Critério para ocupação do cargo ou função"
+          },
+          {
+            "cell": "H1",
+            "value": "Regras gerais"
+          },
+          {
+            "cell": "J1",
+            "value": "Fontes Oficiais"
+          }
+        ],
+        [
+          {
+            "cell": "A2",
+            "value": "Gabinete da Presidência"
+          },
+          {
+            "cell": "B2",
+            "value": "secretário Executivo"
+          },
+          {
+            "cell": "C2",
+            "value": "1.17 ou 1.18"
+          },
+          {
+            "cell": "D2",
+            "value": "CCESP /FCESP 1.17 ou 1.18"
+          },
+          {
+            "cell": "E2",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F2",
+            "value": "1-A criação de nova Agência Reguladora Estadual exige lei específica, que defina sua competência, estrutura e quadro de pessoal. Seus cargos em comissão devem observar a LC nº 1.395/2023 e regulamentação do QGCFC, enquanto o funcionamento das agências está sujeito à LC nº 1.413/2024."
+          },
+          {
+            "cell": "G2",
+            "value": "Mínimo de 5 anos de experiência; mestrado ou doutorado na área correlata"
+          },
+          {
+            "cell": "H2",
+            "value": "Classificação e distribuição do QGCFC"
+          },
+          {
+            "cell": "I2",
+            "value": "Criação de agências reguladoras"
+          },
+          {
+            "cell": "J2",
+            "value": "LC 1395/2023, 1413/2024 e 1419/2024 + decretos 68.742/2024, 69.286/2024, 69.339/2025, 70.048/2025 e 70.755/2026"
+          }
+        ],
+        [
+          {
+            "cell": "A3",
+            "value": "Superintendência"
+          },
+          {
+            "cell": "B3",
+            "value": "Superintendente"
+          },
+          {
+            "cell": "C3",
+            "value": "1.17  ou (NES)"
+          },
+          {
+            "cell": "D3",
+            "value": "CCESP/FCESP1.17 ou (NES 1.18)"
+          },
+          {
+            "cell": "E3",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "H3",
+            "value": "LC nº 1.395/2023 – arts. 7º e 8º: estabelece requisitos gerais de provimento e reserva de cargos para servidores/empregados permanentes. Art. 17, parágrafo único: determina quantitativo mínimo de referência para ARTESP, ARSESP e SP-ÁGUAS, conforme art. 71 da LC nº 1.413/2024. Art. 18, incisos II a IV: exige a definição de hierarquia, nomenclaturas, níveis, quantitativos, valores e requisitos complementares. LC nº 1.413/2024 – art. 5º, inciso II, alínea ‘b’: permite o provimento de cargos em comissão sem autorização governamental, observada a disponibilidade orçamentária. Art. 7º, § 2º, item 2, alínea ‘a’: prevê restrições ao provimento em situação de desequilíbrio financeiro, com exceções legais. Art. 23, inciso I: atribui ao Conselho Diretor a submissão de propostas de fixação ou alteração da estrutura ao Governador. Art. 71: estabelece o quantitativo de cargos em comissão para as agências reguladoras."
+          },
+          {
+            "cell": "I3",
+            "value": "LC nº 1.413/2024 – art. 2º, incisos I a III e §§ 1º e 2º: define as agências reguladoras abrangidas e sua vinculação administrativa. Capítulo IV, arts. 21 a 23: estabelece a estrutura básica e atribui ao Conselho Diretor a competência de submeter ao Governador a fixação e alteração da estrutura organizacional. Art. 66: transforma o DAEE em SP-ÁGUAS. Título V, art. 71: cria 222 cargos em comissão decorrentes da extinção de cargos, funções e empregos anteriores. A estruturação e a aplicação das regras de CCESP/FCESP devem observar também o Decreto nº 69.339/2025, arts. 32 e 39 a 41, e a legislação específica de cada agência."
+          }
+        ],
+        [
+          {
+            "cell": "A4",
+            "value": "Ouvidoria"
+          },
+          {
+            "cell": "B4",
+            "value": "Ouvidor"
+          },
+          {
+            "cell": "C4",
+            "value": "1.14 até 1.17"
+          },
+          {
+            "cell": "D4",
+            "value": "CCESP/FCESP 1.14 até 1.17"
+          },
+          {
+            "cell": "E4",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F4",
+            "value": "2-A criação ou alteração de CCESP/FCESP exige unidade administrativa e observância do QGCFC, categoria, nível hierárquico, quantitativo, justificativa e impacto financeiro. A proposta deve apresentar estrutura/organograma, quantitativos, custos, justificativa e parecer jurídico, conforme arts. 19 a 22 do Decreto nº 68.742/2024."
+          }
+        ],
+        [
+          {
+            "cell": "A5",
+            "value": "Corregedoria"
+          },
+          {
+            "cell": "B5",
+            "value": "Corregedor"
+          },
+          {
+            "cell": "C5",
+            "value": "1.14 até 1.17"
+          },
+          {
+            "cell": "D5",
+            "value": "CCESP/FCESP 1.14 até 1.17"
+          },
+          {
+            "cell": "E5",
+            "value": "Estratégico"
+          }
+        ],
+        [
+          {
+            "cell": "A6",
+            "value": "Gerências"
+          },
+          {
+            "cell": "B6",
+            "value": "Gerente"
+          },
+          {
+            "cell": "C6",
+            "value": "1.14 até 1.17"
+          },
+          {
+            "cell": "D6",
+            "value": "CCESP/FCESP 1.14 até 1.17"
+          },
+          {
+            "cell": "E6",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F6",
+            "value": "Nas agências reguladoras, o Decreto nº 69.339/2025 aplica as regras de CCESP/FCESP do Decreto nº 68.742/2024 e permite ao Conselho Diretor alocar os cargos atribuídos à agência, observando os quantitativos, níveis e valores definidos na legislação."
+          }
+        ],
+        [
+          {
+            "cell": "A7",
+            "value": "Assessoria Especial"
+          },
+          {
+            "cell": "B7",
+            "value": "Chefe de Assessoria"
+          },
+          {
+            "cell": "C7",
+            "value": "1.14 até 1.17"
+          },
+          {
+            "cell": "D7",
+            "value": "CCESP/FCESP 1.14 até 1.17"
+          },
+          {
+            "cell": "E7",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F7",
+            "value": "Nas Agências reguladoras, o chefe de  assessoria pode se enquadrar em regime especial, conforme Arts. 32 e 34 e no anexo único do decreto 69.339/2025"
+          }
+        ],
+        [
+          {
+            "cell": "A8",
+            "value": "Diretoria"
+          },
+          {
+            "cell": "B8",
+            "value": "Diretor presidente"
+          },
+          {
+            "cell": "C8",
+            "value": "1.15 e 1.16"
+          },
+          {
+            "cell": "D8",
+            "value": "CCESP/FCESP 1.15 ou1.16"
+          },
+          {
+            "cell": "E8",
+            "value": "Estratégico"
+          },
+          {
+            "cell": "F8",
+            "value": "1-ARTESP, ARSESP e a SP-ÁGUAS possuem regras específicas de enquadramento de CCESP/FCESP, com exceções previstas em legislação própria. Aplicam-se, especialmente, o art. 70 da LC nº 1.413/2024, art. 71 da LC nº 1.395/2023, art. 5º da LC nº 1.395/2023, arts. 4º, 6º, 7º, 9º, 11, 12 e 14 do Decreto nº 68.742/2024 e art. 39 do Decreto nº 69.339/2025.                                                                        2-Será composto por 01 Diretor-Presidente e 04 Diretores                                                                        Fonte: Art. 22° da LC 1413/2024"
+          }
+        ],
+        [
+          {
+            "cell": "B9",
+            "value": "Diretor   "
+          },
+          {
+            "cell": "C9",
+            "value": "1.15"
+          },
+          {
+            "cell": "D9",
+            "value": "CCESP/FCESP 1.15 "
+          },
+          {
+            "cell": "E9",
+            "value": "Estratégico"
+          }
+        ],
+        [
+          {
+            "cell": "A10",
+            "value": "Coordenadoria"
+          },
+          {
+            "cell": "B10",
+            "value": "Coordenador"
+          },
+          {
+            "cell": "C10",
+            "value": "1.11 a 1.13"
+          },
+          {
+            "cell": "D10",
+            "value": "CCESP/FCESP 1.11 a 1.13"
+          },
+          {
+            "cell": "E10",
+            "value": "Intermediário"
+          },
+          {
+            "cell": "F10",
+            "value": "3-Fluxo de análise: lei específica de criação → definição do quadro e estrutura → criação/alteração das cotas QGCFC → definição de unidades, níveis e quantitativos de CCESP/FCESP → aprovação da estrutura → alocação dos cargos/funções → provimento, conforme os requisitos do ocupante."
+          },
+          {
+            "cell": "G10",
+            "value": "Mínimo de 3 anos de experiência; mestrado ou doutorado na área correlata"
+          }
+        ],
+        [
+          {
+            "cell": "A11",
+            "value": "Divisão"
+          },
+          {
+            "cell": "B11",
+            "value": "Chefe de Divisão"
+          },
+          {
+            "cell": "C11",
+            "value": "1.09 ou 1.10"
+          },
+          {
+            "cell": "D11",
+            "value": "CCESP/FCESP 1.09 ou 1.10  "
+          },
+          {
+            "cell": "E11",
+            "value": "Intermediário"
+          }
+        ],
+        [
+          {
+            "cell": "A12",
+            "value": "Serviço"
+          },
+          {
+            "cell": "B12",
+            "value": "Chefe de Serviço"
+          },
+          {
+            "cell": "C12",
+            "value": "1.07 ou1.08"
+          },
+          {
+            "cell": "D12",
+            "value": "CCESP/FCESP 1.07 ou 1.08"
+          },
+          {
+            "cell": "E12",
+            "value": "Operacional"
+          },
+          {
+            "cell": "F12",
+            "value": "Fontes principais: Lei Complementar nº 1.395/2023, especialmente arts. 4º, 5º, 7º, 8º, 17º e 18º; Decreto nº 68.742/2024, especialmente arts. 4º, 6º a 10, 16 a 22; Lei Complementar nº 1.413/2024, especialmente arts. 5º, 7º, 70 e 71; e Decreto nº 69.339/2025, especialmente arts. 39 a 42."
+          },
+          {
+            "cell": "G12",
+            "value": "Mínimo 1 Ano de experiência/Servidor efetivo/ conclusão de cursos de capacitação com carga horária mínima de 80h"
+          }
+        ],
+        [
+          {
+            "cell": "A13",
+            "value": "Seção"
+          },
+          {
+            "cell": "B13",
+            "value": "Chefe de Seção "
+          },
+          {
+            "cell": "C13",
+            "value": "1.05 ou 1.06"
+          },
+          {
+            "cell": "D13",
+            "value": "CCESP/FCESP 1.05 ou 1.06"
+          },
+          {
+            "cell": "E13",
+            "value": "Operacional"
+          }
+        ],
+        [
+          {
+            "cell": "A14",
+            "value": "Setor "
+          },
+          {
+            "cell": "B14",
+            "value": "Chefe de Setor "
+          },
+          {
+            "cell": "C14",
+            "value": "1.04"
+          },
+          {
+            "cell": "D14",
+            "value": "CCESP/FCESP 1.04"
+          },
+          {
+            "cell": "E14",
+            "value": "Operacional"
+          }
+        ],
+        [
+          {
+            "cell": "A15",
+            "value": "Núcleo"
+          },
+          {
+            "cell": "B15",
+            "value": "Chefe de Núcleo"
+          },
+          {
+            "cell": "C15",
+            "value": "1.03"
+          },
+          {
+            "cell": "D15",
+            "value": "CCESP/FCESP 1.03"
+          },
+          {
+            "cell": "E15",
+            "value": "Operacional"
+          }
+        ],
+        [
+          {
+            "cell": "A16",
+            "value": "Unidade"
+          },
+          {
+            "cell": "B16",
+            "value": "Chefe de Unidade"
+          },
+          {
+            "cell": "C16",
+            "value": "1.02"
+          },
+          {
+            "cell": "D16",
+            "value": "CCESP/FCESP 1.02"
+          },
+          {
+            "cell": "E16",
+            "value": "Operacional"
+          }
+        ],
+        [
+          {
+            "cell": "A17",
+            "value": "Equipe"
+          },
+          {
+            "cell": "B17",
+            "value": "Chefe de Equipe"
+          },
+          {
+            "cell": "C17",
+            "value": "1.01"
+          },
+          {
+            "cell": "D17",
+            "value": "CCESP/FCESP 1.01"
+          },
+          {
+            "cell": "E17",
+            "value": "Operacional"
+          }
+        ]
+      ]
+    },
+    {
+      "sheet": "Planilha6",
+      "max_row": 1,
+      "max_column": 1,
+      "rows": []
+    },
+    {
+      "sheet": "Planilha7",
+      "max_row": 1,
+      "max_column": 1,
+      "rows": []
+    },
+    {
+      "sheet": "Planilha8",
+      "max_row": 1,
+      "max_column": 1,
+      "rows": []
+    }
+  ]
+}

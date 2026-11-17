@@ -1,0 +1,3271 @@
+{
+  "purpose": "Amostra de QA com alterações fictícias explícitas; não é proposta oficial nem arquivo publicado.",
+  "generatedAt": "2026-10-21T15:00:00.000Z",
+  "pages": 16,
+  "rowCount": 407,
+  "unitCount": 221,
+  "columns": [
+    "UNIDADE",
+    "QTD",
+    "DENOMINAÇÃO CARGO/FUNÇÃO",
+    "CCESP/FCESP"
+  ],
+  "rows": [
+    {
+      "unitId": "sggd-unit-ii-6",
+      "positionId": "sggd-position-ii-6",
+      "unitName": "Secretaria Executiva - proposta de revisão",
+      "quantity": "2",
+      "denomination": "Secretário Executivo",
+      "code": "CCESP 1.18"
+    },
+    {
+      "unitId": "sggd-unit-ii-6",
+      "positionId": "sggd-position-ii-8",
+      "unitName": "Secretaria Executiva - proposta de revisão",
+      "quantity": "2",
+      "denomination": "Assessor Especial III",
+      "code": "CCESP 2.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-6",
+      "positionId": "sggd-position-ii-9",
+      "unitName": "Secretaria Executiva - proposta de revisão",
+      "quantity": "1",
+      "denomination": "Assessor Especial II",
+      "code": "CCESP 2.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-6",
+      "positionId": "sggd-position-ii-10",
+      "unitName": "Secretaria Executiva - proposta de revisão",
+      "quantity": "1",
+      "denomination": "Assistente I",
+      "code": "FCESP 2.01"
+    },
+    {
+      "unitId": "sggd-unit-ii-12",
+      "positionId": "sggd-position-ii-12",
+      "unitName": "CHEFIA DE GABINETE",
+      "quantity": "1",
+      "denomination": "Chefe de Gabinete",
+      "code": "CCESP 1.16"
+    },
+    {
+      "unitId": "sggd-unit-ii-12",
+      "positionId": "sggd-position-ii-13",
+      "unitName": "CHEFIA DE GABINETE",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "FCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-12",
+      "positionId": "sggd-position-ii-14",
+      "unitName": "CHEFIA DE GABINETE",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-16",
+      "positionId": "sggd-position-ii-16",
+      "unitName": "Ouvidoria e Serviço de Informações ao Cidadão - SIC",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-18",
+      "positionId": "sggd-position-ii-18",
+      "unitName": "Consultoria Jurídica",
+      "quantity": "2",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-18",
+      "positionId": "sggd-position-ii-19",
+      "unitName": "Consultoria Jurídica",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-18",
+      "positionId": "sggd-position-ii-20",
+      "unitName": "Consultoria Jurídica",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-22",
+      "positionId": "sggd-position-ii-22",
+      "unitName": "Assessoria de Comunicação e Cerimonial",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-22",
+      "positionId": "sggd-position-ii-23",
+      "unitName": "Assessoria de Comunicação e Cerimonial",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-25",
+      "positionId": "sggd-position-ii-25",
+      "unitName": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-25",
+      "positionId": "sggd-position-ii-26",
+      "unitName": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-25",
+      "positionId": "sggd-position-ii-27",
+      "unitName": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-29",
+      "positionId": "sggd-position-ii-29",
+      "unitName": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "FCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-29",
+      "positionId": "sggd-position-ii-30",
+      "unitName": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-29",
+      "positionId": "sggd-position-ii-31",
+      "unitName": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-29",
+      "positionId": "sggd-position-ii-32",
+      "unitName": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-34",
+      "positionId": "sggd-position-ii-34",
+      "unitName": "ASSESSORIA TÉCNICA",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-34",
+      "positionId": "sggd-position-ii-35",
+      "unitName": "ASSESSORIA TÉCNICA",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-34",
+      "positionId": "sggd-position-ii-36",
+      "unitName": "ASSESSORIA TÉCNICA",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-34",
+      "positionId": "sggd-position-ii-37",
+      "unitName": "ASSESSORIA TÉCNICA",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-39",
+      "positionId": "sggd-position-ii-39",
+      "unitName": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "FCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-39",
+      "positionId": "sggd-position-ii-40",
+      "unitName": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "FCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-39",
+      "positionId": "sggd-position-ii-41",
+      "unitName": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-39",
+      "positionId": "sggd-position-ii-42",
+      "unitName": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-44",
+      "positionId": "sggd-position-ii-44",
+      "unitName": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-44",
+      "positionId": "sggd-position-ii-45",
+      "unitName": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-46",
+      "positionId": "sggd-position-ii-46",
+      "unitName": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-46",
+      "positionId": "sggd-position-ii-47",
+      "unitName": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+      "quantity": "2",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-48",
+      "positionId": "sggd-position-ii-48",
+      "unitName": "Coordenadoria de Formação e Desenvolvimento de Competências",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-48",
+      "positionId": "sggd-position-ii-49",
+      "unitName": "Coordenadoria de Formação e Desenvolvimento de Competências",
+      "quantity": "2",
+      "denomination": "Assessor II",
+      "code": "FCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-50",
+      "positionId": "sggd-position-ii-50",
+      "unitName": "Coordenadoria de Conhecimento Aplicado",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-50",
+      "positionId": "sggd-position-ii-51",
+      "unitName": "Coordenadoria de Conhecimento Aplicado",
+      "quantity": "2",
+      "denomination": "Assessor II",
+      "code": "FCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-52",
+      "positionId": "sggd-position-ii-52",
+      "unitName": "Coordenadoria de Administração",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-52",
+      "positionId": "sggd-position-ii-53",
+      "unitName": "Coordenadoria de Administração",
+      "quantity": "2",
+      "denomination": "Assessor II",
+      "code": "FCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-55",
+      "positionId": "sggd-position-ii-55",
+      "unitName": "SUBSECRETARIA DE GESTÃO CORPORATIVA",
+      "quantity": "1",
+      "denomination": "Subsecretário",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-56",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "FCESP 1.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-57",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assessor Especial I",
+      "code": "FCESP 2.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-58",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-59",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-60",
+      "unitName": "Assessoria Técnica",
+      "quantity": "3",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-61",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "FCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-62",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-63",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-56",
+      "positionId": "sggd-position-ii-64",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-65",
+      "positionId": "sggd-position-ii-65",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-67",
+      "positionId": "sggd-position-ii-67",
+      "unitName": "DIRETORIA GERAL DE TECNOLOGIA E ADMINISTRAÇÃO",
+      "quantity": "1",
+      "denomination": "Diretor Geral",
+      "code": "CCESP 1.16"
+    },
+    {
+      "unitId": "sggd-unit-ii-69",
+      "positionId": "sggd-position-ii-69",
+      "unitName": "DIRETORIA DE ADMINISTRAÇÃO",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-70",
+      "positionId": "sggd-position-ii-70",
+      "unitName": "Coordenadoria de Licitações e Contratos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-70",
+      "positionId": "sggd-position-ii-71",
+      "unitName": "Coordenadoria de Licitações e Contratos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-70",
+      "positionId": "sggd-position-ii-72",
+      "unitName": "Coordenadoria de Licitações e Contratos",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-73",
+      "positionId": "sggd-position-ii-73",
+      "unitName": "Divisão de Licitações",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-74",
+      "positionId": "sggd-position-ii-74",
+      "unitName": "Divisão de Contratos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-75",
+      "positionId": "sggd-position-ii-75",
+      "unitName": "Divisão de Fiscalização",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-75",
+      "positionId": "sggd-position-ii-76",
+      "unitName": "Divisão de Fiscalização",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-75",
+      "positionId": "sggd-position-ii-77",
+      "unitName": "Divisão de Fiscalização",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-78",
+      "positionId": "sggd-position-ii-78",
+      "unitName": "Coordenadoria de Orçamento e Finanças",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-78",
+      "positionId": "sggd-position-ii-79",
+      "unitName": "Coordenadoria de Orçamento e Finanças",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-80",
+      "positionId": "sggd-position-ii-80",
+      "unitName": "Divisão de Orçamento",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-80",
+      "positionId": "sggd-position-ii-81",
+      "unitName": "Divisão de Orçamento",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-82",
+      "positionId": "sggd-position-ii-82",
+      "unitName": "Divisão de Finanças",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-82",
+      "positionId": "sggd-position-ii-83",
+      "unitName": "Divisão de Finanças",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-82",
+      "positionId": "sggd-position-ii-84",
+      "unitName": "Divisão de Finanças",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-82",
+      "positionId": "sggd-position-ii-85",
+      "unitName": "Divisão de Finanças",
+      "quantity": "2",
+      "denomination": "Assistente II",
+      "code": "CCESP 2.02"
+    },
+    {
+      "unitId": "sggd-unit-ii-87",
+      "positionId": "sggd-position-ii-87",
+      "unitName": "DIRETORIA DE SERVIÇOS E TIC",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-87",
+      "positionId": "sggd-position-ii-88",
+      "unitName": "DIRETORIA DE SERVIÇOS E TIC",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-87",
+      "positionId": "sggd-position-ii-89",
+      "unitName": "DIRETORIA DE SERVIÇOS E TIC",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-90",
+      "positionId": "sggd-position-ii-90",
+      "unitName": "Coordenadoria de Infraestrutura",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-90",
+      "positionId": "sggd-position-ii-91",
+      "unitName": "Coordenadoria de Infraestrutura",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-90",
+      "positionId": "sggd-position-ii-92",
+      "unitName": "Coordenadoria de Infraestrutura",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-90",
+      "positionId": "sggd-position-ii-93",
+      "unitName": "Coordenadoria de Infraestrutura",
+      "quantity": "2",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-90",
+      "positionId": "sggd-position-ii-94",
+      "unitName": "Coordenadoria de Infraestrutura",
+      "quantity": "1",
+      "denomination": "Assistente I",
+      "code": "FCESP 2.01"
+    },
+    {
+      "unitId": "sggd-unit-ii-95",
+      "positionId": "sggd-position-ii-95",
+      "unitName": "Divisão de Administração Predial",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-96",
+      "positionId": "sggd-position-ii-96",
+      "unitName": "Divisão de Engenharia",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-97",
+      "positionId": "sggd-position-ii-97",
+      "unitName": "Coordenadoria de Bens e Serviços",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-98",
+      "positionId": "sggd-position-ii-98",
+      "unitName": "Divisão de Gestão Patrimonial e Almoxarifado",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-98",
+      "positionId": "sggd-position-ii-99",
+      "unitName": "Divisão de Gestão Patrimonial e Almoxarifado",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-100",
+      "positionId": "sggd-position-ii-100",
+      "unitName": "Divisão de Gestão Documental",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-101",
+      "positionId": "sggd-position-ii-101",
+      "unitName": "Coordenadoria de Redes e Suporte",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-102",
+      "positionId": "sggd-position-ii-102",
+      "unitName": "Coordenadoria de Soluções Digitais",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-104",
+      "positionId": "sggd-position-ii-104",
+      "unitName": "DIRETORIA DE GESTÃO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-105",
+      "positionId": "sggd-position-ii-105",
+      "unitName": "Coordenadoria de Cadastro e Expediente",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-106",
+      "positionId": "sggd-position-ii-106",
+      "unitName": "Serviço de Controle Funcional",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-106",
+      "positionId": "sggd-position-ii-107",
+      "unitName": "Serviço de Controle Funcional",
+      "quantity": "1",
+      "denomination": "Assistente III",
+      "code": "FCESP 2.03"
+    },
+    {
+      "unitId": "sggd-unit-ii-108",
+      "positionId": "sggd-position-ii-108",
+      "unitName": "Serviço de Controle dos Sistemas de Recursos Humanos",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-108",
+      "positionId": "sggd-position-ii-109",
+      "unitName": "Serviço de Controle dos Sistemas de Recursos Humanos",
+      "quantity": "1",
+      "denomination": "Assistente III",
+      "code": "CCESP 2.03"
+    },
+    {
+      "unitId": "sggd-unit-ii-110",
+      "positionId": "sggd-position-ii-110",
+      "unitName": "Coordenadoria de Concessão de Vantagens e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-111",
+      "positionId": "sggd-position-ii-111",
+      "unitName": "Serviço de Administração da Vida Funcional",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-112",
+      "positionId": "sggd-position-ii-112",
+      "unitName": "Serviço de Gestão de Inativos e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-112",
+      "positionId": "sggd-position-ii-113",
+      "unitName": "Serviço de Gestão de Inativos e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Assistente III",
+      "code": "FCESP 2.03"
+    },
+    {
+      "unitId": "sggd-unit-ii-114",
+      "positionId": "sggd-position-ii-114",
+      "unitName": "Coordenadoria de Demandas Judiciais e Administrativas",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-115",
+      "positionId": "sggd-position-ii-115",
+      "unitName": "Serviço de Cumprimento de Ações Judiciais",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-115",
+      "positionId": "sggd-position-ii-116",
+      "unitName": "Serviço de Cumprimento de Ações Judiciais",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-117",
+      "positionId": "sggd-position-ii-117",
+      "unitName": "Serviço de Apuração Preliminar",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-117",
+      "positionId": "sggd-position-ii-118",
+      "unitName": "Serviço de Apuração Preliminar",
+      "quantity": "1",
+      "denomination": "Assistente II",
+      "code": "CCESP 2.02"
+    },
+    {
+      "unitId": "sggd-unit-ii-119",
+      "positionId": "sggd-position-ii-119",
+      "unitName": "Coordenadoria de Evolução Funcional e Encargos Sociais",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-120",
+      "positionId": "sggd-position-ii-120",
+      "unitName": "Serviço de Controle dos Encargos Sociais",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-120",
+      "positionId": "sggd-position-ii-121",
+      "unitName": "Serviço de Controle dos Encargos Sociais",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-122",
+      "positionId": "sggd-position-ii-122",
+      "unitName": "Serviço de Administração das Evoluções Funcionais",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-124",
+      "positionId": "sggd-position-ii-124",
+      "unitName": "SUBSECRETARIA DE GESTÃO",
+      "quantity": "1",
+      "denomination": "Subsecretário",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-126",
+      "positionId": "sggd-position-ii-126",
+      "unitName": "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+      "quantity": "1",
+      "denomination": "Diretor Geral",
+      "code": "FCESP 1.16"
+    },
+    {
+      "unitId": "sggd-unit-ii-127",
+      "positionId": "sggd-position-ii-127",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "FCESP 2.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-127",
+      "positionId": "sggd-position-ii-128",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-127",
+      "positionId": "sggd-position-ii-129",
+      "unitName": "Assessoria Técnica",
+      "quantity": "3",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-130",
+      "positionId": "sggd-position-ii-130",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-130",
+      "positionId": "sggd-position-ii-131",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Assistente III",
+      "code": "CCESP 2.03"
+    },
+    {
+      "unitId": "sggd-unit-ii-130",
+      "positionId": "sggd-position-ii-132",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Assistente I",
+      "code": "FCESP 2.01"
+    },
+    {
+      "unitId": "sggd-unit-ii-134",
+      "positionId": "sggd-position-ii-134",
+      "unitName": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-134",
+      "positionId": "sggd-position-ii-135",
+      "unitName": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "quantity": "2",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-134",
+      "positionId": "sggd-position-ii-136",
+      "unitName": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-134",
+      "positionId": "sggd-position-ii-137",
+      "unitName": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "FCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-134",
+      "positionId": "sggd-position-ii-138",
+      "unitName": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "quantity": "2",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-139",
+      "positionId": "sggd-position-ii-139",
+      "unitName": "Coordenadoria de Modelos Organizacionais",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-139",
+      "positionId": "sggd-position-ii-140",
+      "unitName": "Coordenadoria de Modelos Organizacionais",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-139",
+      "positionId": "sggd-position-ii-141",
+      "unitName": "Coordenadoria de Modelos Organizacionais",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-142",
+      "positionId": "sggd-position-ii-142",
+      "unitName": "Divisão de Desenvolvimento Organizacional",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-143",
+      "positionId": "sggd-position-ii-143",
+      "unitName": "Divisão Central de Estruturas Organizacionais",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-143",
+      "positionId": "sggd-position-ii-144",
+      "unitName": "Divisão Central de Estruturas Organizacionais",
+      "quantity": "3",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-145",
+      "positionId": "sggd-position-ii-145",
+      "unitName": "Coordenadoria de Gestão de Políticas Públicas",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-145",
+      "positionId": "sggd-position-ii-146",
+      "unitName": "Coordenadoria de Gestão de Políticas Públicas",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-145",
+      "positionId": "sggd-position-ii-147",
+      "unitName": "Coordenadoria de Gestão de Políticas Públicas",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-145",
+      "positionId": "sggd-position-ii-148",
+      "unitName": "Coordenadoria de Gestão de Políticas Públicas",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-149",
+      "positionId": "sggd-position-ii-149",
+      "unitName": "Divisão de Articulação e Parcerias Estratégicas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-149",
+      "positionId": "sggd-position-ii-150",
+      "unitName": "Divisão de Articulação e Parcerias Estratégicas",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-151",
+      "positionId": "sggd-position-ii-151",
+      "unitName": "Divisão de Desempenho Institucional",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-151",
+      "positionId": "sggd-position-ii-152",
+      "unitName": "Divisão de Desempenho Institucional",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-151",
+      "positionId": "sggd-position-ii-153",
+      "unitName": "Divisão de Desempenho Institucional",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-155",
+      "positionId": "sggd-position-ii-155",
+      "unitName": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-155",
+      "positionId": "sggd-position-ii-156",
+      "unitName": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-157",
+      "positionId": "sggd-position-ii-157",
+      "unitName": "Coordenadoria de Inteligência em Gestão",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-157",
+      "positionId": "sggd-position-ii-158",
+      "unitName": "Coordenadoria de Inteligência em Gestão",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-157",
+      "positionId": "sggd-position-ii-159",
+      "unitName": "Coordenadoria de Inteligência em Gestão",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-157",
+      "positionId": "sggd-position-ii-160",
+      "unitName": "Coordenadoria de Inteligência em Gestão",
+      "quantity": "2",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-161",
+      "positionId": "sggd-position-ii-161",
+      "unitName": "Laboratório de Logística Pública",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-161",
+      "positionId": "sggd-position-ii-162",
+      "unitName": "Laboratório de Logística Pública",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-161",
+      "positionId": "sggd-position-ii-163",
+      "unitName": "Laboratório de Logística Pública",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "FCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-161",
+      "positionId": "sggd-position-ii-164",
+      "unitName": "Laboratório de Logística Pública",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-166",
+      "positionId": "sggd-position-ii-166",
+      "unitName": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-166",
+      "positionId": "sggd-position-ii-167",
+      "unitName": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "quantity": "1",
+      "denomination": "Assessor III",
+      "code": "FCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-166",
+      "positionId": "sggd-position-ii-168",
+      "unitName": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "quantity": "1",
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-166",
+      "positionId": "sggd-position-ii-169",
+      "unitName": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-166",
+      "positionId": "sggd-position-ii-170",
+      "unitName": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-171",
+      "positionId": "sggd-position-ii-171",
+      "unitName": "Coordenadoria de Normas e Procedimentos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-172",
+      "positionId": "sggd-position-ii-172",
+      "unitName": "Divisão de Elaboração de Atos Normativos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-173",
+      "positionId": "sggd-position-ii-173",
+      "unitName": "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-174",
+      "positionId": "sggd-position-ii-174",
+      "unitName": "Coordenadoria de Sistemas de Logística",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-175",
+      "positionId": "sggd-position-ii-175",
+      "unitName": "Divisão de Gestão de Sistemas de Logística",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-176",
+      "positionId": "sggd-position-ii-176",
+      "unitName": "Divisão de Suporte ao Usuário",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-177",
+      "positionId": "sggd-position-ii-177",
+      "unitName": "Divisão de Capacitação e Gestão do Conhecimento",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-178",
+      "positionId": "sggd-position-ii-178",
+      "unitName": "Coordenadoria da Central de Compras",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-178",
+      "positionId": "sggd-position-ii-179",
+      "unitName": "Coordenadoria da Central de Compras",
+      "quantity": "2",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-180",
+      "positionId": "sggd-position-ii-180",
+      "unitName": "Divisão de Licitações e Contratações",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-180",
+      "positionId": "sggd-position-ii-181",
+      "unitName": "Divisão de Licitações e Contratações",
+      "quantity": "2",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-182",
+      "positionId": "sggd-position-ii-182",
+      "unitName": "Divisão de Serviços Compartilhados",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-182",
+      "positionId": "sggd-position-ii-183",
+      "unitName": "Divisão de Serviços Compartilhados",
+      "quantity": "2",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-185",
+      "positionId": "sggd-position-ii-185",
+      "unitName": "SUBSECRETARIA DE GESTÃO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Subsecretário",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-186",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-187",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-188",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-189",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-190",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-191",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-186",
+      "positionId": "sggd-position-ii-192",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-193",
+      "positionId": "sggd-position-ii-193",
+      "unitName": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-193",
+      "positionId": "sggd-position-ii-194",
+      "unitName": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-193",
+      "positionId": "sggd-position-ii-195",
+      "unitName": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-196",
+      "positionId": "sggd-position-ii-196",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-198",
+      "positionId": "sggd-position-ii-198",
+      "unitName": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-198",
+      "positionId": "sggd-position-ii-199",
+      "unitName": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-198",
+      "positionId": "sggd-position-ii-200",
+      "unitName": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-201",
+      "positionId": "sggd-position-ii-201",
+      "unitName": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-201",
+      "positionId": "sggd-position-ii-202",
+      "unitName": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-201",
+      "positionId": "sggd-position-ii-203",
+      "unitName": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-204",
+      "positionId": "sggd-position-ii-204",
+      "unitName": "Divisão de Planejamento, Inovação e Modelos de Carreiras",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-205",
+      "positionId": "sggd-position-ii-205",
+      "unitName": "Divisão de Gestão de Carreiras",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-206",
+      "positionId": "sggd-position-ii-206",
+      "unitName": "Coordenadoria de Desenvolvimento de Pessoas",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-206",
+      "positionId": "sggd-position-ii-207",
+      "unitName": "Coordenadoria de Desenvolvimento de Pessoas",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-206",
+      "positionId": "sggd-position-ii-208",
+      "unitName": "Coordenadoria de Desenvolvimento de Pessoas",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-209",
+      "positionId": "sggd-position-ii-209",
+      "unitName": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-209",
+      "positionId": "sggd-position-ii-210",
+      "unitName": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-211",
+      "positionId": "sggd-position-ii-211",
+      "unitName": "Divisão de Gestão de Desempenho e Evolução Funcional",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-213",
+      "positionId": "sggd-position-ii-213",
+      "unitName": "DIRETORIA DE GESTÃO FUNCIONAL",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-213",
+      "positionId": "sggd-position-ii-214",
+      "unitName": "DIRETORIA DE GESTÃO FUNCIONAL",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-215",
+      "positionId": "sggd-position-ii-215",
+      "unitName": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-215",
+      "positionId": "sggd-position-ii-216",
+      "unitName": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-215",
+      "positionId": "sggd-position-ii-217",
+      "unitName": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-215",
+      "positionId": "sggd-position-ii-218",
+      "unitName": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-215",
+      "positionId": "sggd-position-ii-219",
+      "unitName": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-220",
+      "positionId": "sggd-position-ii-220",
+      "unitName": "Divisão de Concursos Públicos e Processos Seletivos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-221",
+      "positionId": "sggd-position-ii-221",
+      "unitName": "Divisão de Estágio",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-222",
+      "positionId": "sggd-position-ii-222",
+      "unitName": "Coordenadoria de Gestão Funcional",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-222",
+      "positionId": "sggd-position-ii-223",
+      "unitName": "Coordenadoria de Gestão Funcional",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-222",
+      "positionId": "sggd-position-ii-224",
+      "unitName": "Coordenadoria de Gestão Funcional",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-222",
+      "positionId": "sggd-position-ii-225",
+      "unitName": "Coordenadoria de Gestão Funcional",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-222",
+      "positionId": "sggd-position-ii-226",
+      "unitName": "Coordenadoria de Gestão Funcional",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-227",
+      "positionId": "sggd-position-ii-227",
+      "unitName": "Divisão de Planejamento da Força de Trabalho",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-228",
+      "positionId": "sggd-position-ii-228",
+      "unitName": "Divisão de Gestão de Pessoal",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-230",
+      "positionId": "sggd-position-ii-230",
+      "unitName": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-230",
+      "positionId": "sggd-position-ii-231",
+      "unitName": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-230",
+      "positionId": "sggd-position-ii-232",
+      "unitName": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-233",
+      "positionId": "sggd-position-ii-233",
+      "unitName": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-233",
+      "positionId": "sggd-position-ii-234",
+      "unitName": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-235",
+      "positionId": "sggd-position-ii-235",
+      "unitName": "Divisão de Levantamento de Requisitos e Homologação dos Sistemas de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-236",
+      "positionId": "sggd-position-ii-236",
+      "unitName": "Divisão de Capacitação e Suporte aos Usuários dos Sistemas de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-237",
+      "positionId": "sggd-position-ii-237",
+      "unitName": "Coordenadoria de Apoio aos Sistemas e Processos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-238",
+      "positionId": "sggd-position-ii-238",
+      "unitName": "Divisão de Apoio aos Sistemas Corporativos de Gestão de Pessoas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-239",
+      "positionId": "sggd-position-ii-239",
+      "unitName": "Divisão de Apoio aos Processos de Gestão de Pessoas e Tratamento de Exceções",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-241",
+      "positionId": "sggd-position-ii-241",
+      "unitName": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-241",
+      "positionId": "sggd-position-ii-242",
+      "unitName": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-241",
+      "positionId": "sggd-position-ii-243",
+      "unitName": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-244",
+      "positionId": "sggd-position-ii-244",
+      "unitName": "Serviço de Gestão Técnico-Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-244",
+      "positionId": "sggd-position-ii-245",
+      "unitName": "Serviço de Gestão Técnico-Administrativo",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-244",
+      "positionId": "sggd-position-ii-246",
+      "unitName": "Serviço de Gestão Técnico-Administrativo",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-247",
+      "positionId": "sggd-position-ii-247",
+      "unitName": "Serviço de Gestão da Informação Pericial",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-247",
+      "positionId": "sggd-position-ii-248",
+      "unitName": "Serviço de Gestão da Informação Pericial",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-249",
+      "positionId": "sggd-position-ii-249",
+      "unitName": "Serviço de Atendimento e Gestão de Protocolos",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-250",
+      "positionId": "sggd-position-ii-250",
+      "unitName": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-250",
+      "positionId": "sggd-position-ii-251",
+      "unitName": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-252",
+      "positionId": "sggd-position-ii-252",
+      "unitName": "Divisão de Insalubridade",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-252",
+      "positionId": "sggd-position-ii-253",
+      "unitName": "Divisão de Insalubridade",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-254",
+      "positionId": "sggd-position-ii-254",
+      "unitName": "Divisão de Acidentes do Trabalho",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-255",
+      "positionId": "sggd-position-ii-255",
+      "unitName": "Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-256",
+      "positionId": "sggd-position-ii-256",
+      "unitName": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-256",
+      "positionId": "sggd-position-ii-257",
+      "unitName": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "quantity": "2",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-256",
+      "positionId": "sggd-position-ii-258",
+      "unitName": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "quantity": "4",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-256",
+      "positionId": "sggd-position-ii-259",
+      "unitName": "Divisão de Perícias de Ingresso e Licenças Médicas",
+      "quantity": "2",
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-260",
+      "positionId": "sggd-position-ii-260",
+      "unitName": "Divisão de Readaptação e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-260",
+      "positionId": "sggd-position-ii-261",
+      "unitName": "Divisão de Readaptação e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-260",
+      "positionId": "sggd-position-ii-262",
+      "unitName": "Divisão de Readaptação e Aposentadoria",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-263",
+      "positionId": "sggd-position-ii-263",
+      "unitName": "Coordenadoria de Saúde Ocupacional",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-264",
+      "positionId": "sggd-position-ii-264",
+      "unitName": "Divisão de Segurança no Trabalho",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-264",
+      "positionId": "sggd-position-ii-265",
+      "unitName": "Divisão de Segurança no Trabalho",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-264",
+      "positionId": "sggd-position-ii-266",
+      "unitName": "Divisão de Segurança no Trabalho",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-267",
+      "positionId": "sggd-position-ii-267",
+      "unitName": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-267",
+      "positionId": "sggd-position-ii-268",
+      "unitName": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-267",
+      "positionId": "sggd-position-ii-269",
+      "unitName": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-271",
+      "positionId": "sggd-position-ii-271",
+      "unitName": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-271",
+      "positionId": "sggd-position-ii-272",
+      "unitName": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-271",
+      "positionId": "sggd-position-ii-273",
+      "unitName": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "FCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-271",
+      "positionId": "sggd-position-ii-274",
+      "unitName": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+      "quantity": "1",
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09"
+    },
+    {
+      "unitId": "sggd-unit-ii-275",
+      "positionId": "sggd-position-ii-275",
+      "unitName": "Coordenadoria de Benefícios",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-276",
+      "positionId": "sggd-position-ii-276",
+      "unitName": "Coordenadoria de Remuneração",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-276",
+      "positionId": "sggd-position-ii-277",
+      "unitName": "Coordenadoria de Remuneração",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "FCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-279",
+      "positionId": "sggd-position-ii-279",
+      "unitName": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Diretor Geral",
+      "code": "CCESP 1.16"
+    },
+    {
+      "unitId": "sggd-unit-ii-279",
+      "positionId": "sggd-position-ii-280",
+      "unitName": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-279",
+      "positionId": "sggd-position-ii-281",
+      "unitName": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-283",
+      "positionId": "sggd-position-ii-283",
+      "unitName": "DIRETORIA DE DESPESA DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-283",
+      "positionId": "sggd-position-ii-284",
+      "unitName": "DIRETORIA DE DESPESA DE PESSOAL",
+      "quantity": "30",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-283",
+      "positionId": "sggd-position-ii-285",
+      "unitName": "DIRETORIA DE DESPESA DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-283",
+      "positionId": "sggd-position-ii-286",
+      "unitName": "DIRETORIA DE DESPESA DE PESSOAL",
+      "quantity": "4",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-287",
+      "positionId": "sggd-position-ii-287",
+      "unitName": "Coordenadoria de Instrução e Padronização de Pagamentos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-288",
+      "positionId": "sggd-position-ii-288",
+      "unitName": "Divisão de Complementação de Aposentadoria e Pensão",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-289",
+      "positionId": "sggd-position-ii-289",
+      "unitName": "Divisão de Despesa da Educação da Região Metropolitana",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-290",
+      "positionId": "sggd-position-ii-290",
+      "unitName": "Divisão de Despesa da Educação do Interior I",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-291",
+      "positionId": "sggd-position-ii-291",
+      "unitName": "Divisão de Despesa da Educação do Interior II",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-292",
+      "positionId": "sggd-position-ii-292",
+      "unitName": "Divisão de Despesa da Saúde",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-293",
+      "positionId": "sggd-position-ii-293",
+      "unitName": "Divisão de Despesa da Segurança Pública e Administração Penitenciária",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-294",
+      "positionId": "sggd-position-ii-294",
+      "unitName": "Divisão de Despesa das Secretarias Diversas",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-295",
+      "positionId": "sggd-position-ii-295",
+      "unitName": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-295",
+      "positionId": "sggd-position-ii-296",
+      "unitName": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-295",
+      "positionId": "sggd-position-ii-297",
+      "unitName": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-298",
+      "positionId": "sggd-position-ii-298",
+      "unitName": "Divisão de Aplicação Normativa da Folha e de Legislação",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-299",
+      "positionId": "sggd-position-ii-299",
+      "unitName": "Divisão de Inovação e Melhoria de Processos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-300",
+      "positionId": "sggd-position-ii-300",
+      "unitName": "Divisão de Inteligência e Informações Gerenciais",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-301",
+      "positionId": "sggd-position-ii-301",
+      "unitName": "Divisão de Suporte e Atendimento aos Setoriais e Subsetoriais",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-302",
+      "positionId": "sggd-position-ii-302",
+      "unitName": "Coordenadoria de Atendimento a Demandas Judiciais",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-303",
+      "positionId": "sggd-position-ii-303",
+      "unitName": "Divisão de Análise e Informações Processuais",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-303",
+      "positionId": "sggd-position-ii-304",
+      "unitName": "Divisão de Análise e Informações Processuais",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-305",
+      "positionId": "sggd-position-ii-305",
+      "unitName": "Divisão de Cumprimento de Obrigações",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-307",
+      "positionId": "sggd-position-ii-307",
+      "unitName": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-307",
+      "positionId": "sggd-position-ii-308",
+      "unitName": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "quantity": "12",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-307",
+      "positionId": "sggd-position-ii-309",
+      "unitName": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "quantity": "6",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-307",
+      "positionId": "sggd-position-ii-310",
+      "unitName": "DIRETORIA DA FOLHA DE PAGAMENTO",
+      "quantity": "1",
+      "denomination": "Assistente I",
+      "code": "CCESP 2.01"
+    },
+    {
+      "unitId": "sggd-unit-ii-311",
+      "positionId": "sggd-position-ii-311",
+      "unitName": "Coordenadoria de Processamento da Folha",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-312",
+      "positionId": "sggd-position-ii-312",
+      "unitName": "Divisão de Orçamento da Folha",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-313",
+      "positionId": "sggd-position-ii-313",
+      "unitName": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-313",
+      "positionId": "sggd-position-ii-314",
+      "unitName": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-315",
+      "positionId": "sggd-position-ii-315",
+      "unitName": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-315",
+      "positionId": "sggd-position-ii-316",
+      "unitName": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-317",
+      "positionId": "sggd-position-ii-317",
+      "unitName": "Coordenadoria de Soluções e Produtos de Pagamento de Pessoal",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-318",
+      "positionId": "sggd-position-ii-318",
+      "unitName": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-318",
+      "positionId": "sggd-position-ii-319",
+      "unitName": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+      "quantity": "1",
+      "denomination": "Assistente Técnico III",
+      "code": "FCESP 2.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-320",
+      "positionId": "sggd-position-ii-320",
+      "unitName": "Divisão de Qualificação Cadastral",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-321",
+      "positionId": "sggd-position-ii-321",
+      "unitName": "Coordenadoria de Consignados",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-322",
+      "positionId": "sggd-position-ii-322",
+      "unitName": "Divisão de Relacionamento com as Consignatárias",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-323",
+      "positionId": "sggd-position-ii-323",
+      "unitName": "Divisão de Operacionalização de Consignados",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-324",
+      "positionId": "sggd-position-ii-324",
+      "unitName": "Coordenadoria do e-Social",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-325",
+      "positionId": "sggd-position-ii-325",
+      "unitName": "Divisão de Atendimento do e-Social à Administração Direta",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-326",
+      "positionId": "sggd-position-ii-326",
+      "unitName": "Divisão de Atendimento do e-Social à Administração Indireta",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-328",
+      "positionId": "sggd-position-ii-328",
+      "unitName": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "FCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-328",
+      "positionId": "sggd-position-ii-329",
+      "unitName": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+      "quantity": "1",
+      "denomination": "Assessor III",
+      "code": "FCESP 2.11"
+    },
+    {
+      "unitId": "sggd-unit-ii-330",
+      "positionId": "sggd-position-ii-330",
+      "unitName": "Coordenadoria de Riscos de Operação",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-330",
+      "positionId": "sggd-position-ii-331",
+      "unitName": "Coordenadoria de Riscos de Operação",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-332",
+      "positionId": "sggd-position-ii-332",
+      "unitName": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-332",
+      "positionId": "sggd-position-ii-333",
+      "unitName": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-332",
+      "positionId": "sggd-position-ii-334",
+      "unitName": "Divisão de Projetos e Aperfeiçoamento da Folha",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-335",
+      "positionId": "sggd-position-ii-335",
+      "unitName": "Divisão de Qualidade e Conformidade de Registros",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-335",
+      "positionId": "sggd-position-ii-336",
+      "unitName": "Divisão de Qualidade e Conformidade de Registros",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-335",
+      "positionId": "sggd-position-ii-337",
+      "unitName": "Divisão de Qualidade e Conformidade de Registros",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-338",
+      "positionId": "sggd-position-ii-338",
+      "unitName": "Coordenadoria de Gestão de Riscos e Integridade",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-338",
+      "positionId": "sggd-position-ii-339",
+      "unitName": "Coordenadoria de Gestão de Riscos e Integridade",
+      "quantity": "1",
+      "denomination": "Assistente Técnico IV",
+      "code": "FCESP 2.08"
+    },
+    {
+      "unitId": "sggd-unit-ii-340",
+      "positionId": "sggd-position-ii-340",
+      "unitName": "Divisão de Integridade e Conformidade",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-340",
+      "positionId": "sggd-position-ii-341",
+      "unitName": "Divisão de Integridade e Conformidade",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-340",
+      "positionId": "sggd-position-ii-342",
+      "unitName": "Divisão de Integridade e Conformidade",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-343",
+      "positionId": "sggd-position-ii-343",
+      "unitName": "Divisão de Monitoramento e Análise de Riscos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-343",
+      "positionId": "sggd-position-ii-344",
+      "unitName": "Divisão de Monitoramento e Análise de Riscos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-343",
+      "positionId": "sggd-position-ii-345",
+      "unitName": "Divisão de Monitoramento e Análise de Riscos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-347",
+      "positionId": "sggd-position-ii-347",
+      "unitName": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "quantity": "1",
+      "denomination": "Subsecretário",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-347",
+      "positionId": "sggd-position-ii-348",
+      "unitName": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "quantity": "2",
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-347",
+      "positionId": "sggd-position-ii-349",
+      "unitName": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "quantity": "3",
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-347",
+      "positionId": "sggd-position-ii-350",
+      "unitName": "SUBSECRETARIA DE GOVERNO DIGITAL",
+      "quantity": "2",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-351",
+      "positionId": "sggd-position-ii-351",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-353",
+      "positionId": "sggd-position-ii-353",
+      "unitName": "DIRETORIA DE GOVERNANÇA, DESEMPENHO E CANAIS DE ATENDIMENTO",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-354",
+      "positionId": "sggd-position-ii-354",
+      "unitName": "Coordenadoria de Gestão do Programa Poupatempo",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-355",
+      "positionId": "sggd-position-ii-355",
+      "unitName": "Coordenadoria de Gestão de Recursos de TIC",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-356",
+      "positionId": "sggd-position-ii-356",
+      "unitName": "Coordenadoria de Planejamento e Gestão de Resultados",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-358",
+      "positionId": "sggd-position-ii-358",
+      "unitName": "DIRETORIA DE SEGURANÇA CIBERNÉTICA",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-359",
+      "positionId": "sggd-position-ii-359",
+      "unitName": "Coordenadoria de Regulação e Acompanhamento em Cibersegurança",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-360",
+      "positionId": "sggd-position-ii-360",
+      "unitName": "Coordenadoria de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-362",
+      "positionId": "sggd-position-ii-362",
+      "unitName": "DIRETORIA DE PLATAFORMAS E TRANSFORMAÇÃO DIGITAL",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-363",
+      "positionId": "sggd-position-ii-363",
+      "unitName": "Coordenadoria de Dados e Inteligência Artificial",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-364",
+      "positionId": "sggd-position-ii-364",
+      "unitName": "Coordenadoria de Arquitetura e Implementação de Plataformas",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-366",
+      "positionId": "sggd-position-ii-366",
+      "unitName": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-366",
+      "positionId": "sggd-position-ii-367",
+      "unitName": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+      "quantity": "3",
+      "denomination": "Assessor IV",
+      "code": "FCESP 2.12"
+    },
+    {
+      "unitId": "sggd-unit-ii-369",
+      "positionId": "sggd-position-ii-369",
+      "unitName": "SUBSECRETARIA DE PATRIMÔNIO DO ESTADO",
+      "quantity": "1",
+      "denomination": "Subsecretário",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-370",
+      "positionId": "sggd-position-ii-370",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-370",
+      "positionId": "sggd-position-ii-371",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-370",
+      "positionId": "sggd-position-ii-372",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-373",
+      "positionId": "sggd-position-ii-373",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-373",
+      "positionId": "sggd-position-ii-374",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "2",
+      "denomination": "Assistente III",
+      "code": "FCESP 2.03"
+    },
+    {
+      "unitId": "sggd-unit-ii-376",
+      "positionId": "sggd-position-ii-376",
+      "unitName": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-376",
+      "positionId": "sggd-position-ii-377",
+      "unitName": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-376",
+      "positionId": "sggd-position-ii-378",
+      "unitName": "DIRETORIA DE BENS IMOBILIÁRIOS",
+      "quantity": "1",
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04"
+    },
+    {
+      "unitId": "sggd-unit-ii-379",
+      "positionId": "sggd-position-ii-379",
+      "unitName": "Serviço de Apoio Financeiro e Orçamentário",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-380",
+      "positionId": "sggd-position-ii-380",
+      "unitName": "Serviço de Apoio ao CPI",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "CCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-381",
+      "positionId": "sggd-position-ii-381",
+      "unitName": "Coordenadoria de Gestão Imobiliária",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-381",
+      "positionId": "sggd-position-ii-382",
+      "unitName": "Coordenadoria de Gestão Imobiliária",
+      "quantity": "2",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-383",
+      "positionId": "sggd-position-ii-383",
+      "unitName": "Serviço de Apoio à Regularização Imobiliária",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-383",
+      "positionId": "sggd-position-ii-384",
+      "unitName": "Serviço de Apoio à Regularização Imobiliária",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-385",
+      "positionId": "sggd-position-ii-385",
+      "unitName": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-385",
+      "positionId": "sggd-position-ii-386",
+      "unitName": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-385",
+      "positionId": "sggd-position-ii-387",
+      "unitName": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-388",
+      "positionId": "sggd-position-ii-388",
+      "unitName": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-388",
+      "positionId": "sggd-position-ii-389",
+      "unitName": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-388",
+      "positionId": "sggd-position-ii-390",
+      "unitName": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+      "quantity": "1",
+      "denomination": "Assistente II",
+      "code": "FCESP 2.02"
+    },
+    {
+      "unitId": "sggd-unit-ii-391",
+      "positionId": "sggd-position-ii-391",
+      "unitName": "Coordenadoria de Controle Técnico Processual",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-391",
+      "positionId": "sggd-position-ii-392",
+      "unitName": "Coordenadoria de Controle Técnico Processual",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-391",
+      "positionId": "sggd-position-ii-393",
+      "unitName": "Coordenadoria de Controle Técnico Processual",
+      "quantity": "3",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-391",
+      "positionId": "sggd-position-ii-394",
+      "unitName": "Coordenadoria de Controle Técnico Processual",
+      "quantity": "1",
+      "denomination": "Assistente II",
+      "code": "FCESP 2.02"
+    },
+    {
+      "unitId": "sggd-unit-ii-396",
+      "positionId": "sggd-position-ii-396",
+      "unitName": "DIRETORIA DE MOBILIDADE INTERNA",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "FCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-397",
+      "positionId": "sggd-position-ii-397",
+      "unitName": "Coordenadoria da Gestão da Mobilidade",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-397",
+      "positionId": "sggd-position-ii-398",
+      "unitName": "Coordenadoria da Gestão da Mobilidade",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-399",
+      "positionId": "sggd-position-ii-399",
+      "unitName": "Divisão de Monitoramento da Mobilidade",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-399",
+      "positionId": "sggd-position-ii-400",
+      "unitName": "Divisão de Monitoramento da Mobilidade",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-401",
+      "positionId": "sggd-position-ii-401",
+      "unitName": "Divisão de Cadastro, Normas e Procedimentos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-401",
+      "positionId": "sggd-position-ii-402",
+      "unitName": "Divisão de Cadastro, Normas e Procedimentos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-403",
+      "positionId": "sggd-position-ii-403",
+      "unitName": "Coordenadoria de Gestão de Ativos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-404",
+      "positionId": "sggd-position-ii-404",
+      "unitName": "Divisão de Arrolamento e Regularização Veicular",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-405",
+      "positionId": "sggd-position-ii-405",
+      "unitName": "Divisão de Alienação de Veículos",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-405",
+      "positionId": "sggd-position-ii-406",
+      "unitName": "Divisão de Alienação de Veículos",
+      "quantity": "1",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-408",
+      "positionId": "sggd-position-ii-408",
+      "unitName": "SUBSECRETARIA DO ARQUIVO PÚBLICO DO ESTADO",
+      "quantity": "1",
+      "denomination": "Subsecretário",
+      "code": "CCESP 1.17"
+    },
+    {
+      "unitId": "sggd-unit-ii-409",
+      "positionId": "sggd-position-ii-409",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Chefe de Assessoria",
+      "code": "FCESP 1.14"
+    },
+    {
+      "unitId": "sggd-unit-ii-409",
+      "positionId": "sggd-position-ii-410",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-409",
+      "positionId": "sggd-position-ii-411",
+      "unitName": "Assessoria Técnica",
+      "quantity": "1",
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-409",
+      "positionId": "sggd-position-ii-412",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assistente Técnico II",
+      "code": "FCESP 2.06"
+    },
+    {
+      "unitId": "sggd-unit-ii-409",
+      "positionId": "sggd-position-ii-413",
+      "unitName": "Assessoria Técnica",
+      "quantity": "2",
+      "denomination": "Assistente Técnico I",
+      "code": "FCESP 2.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-414",
+      "positionId": "sggd-position-ii-414",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-414",
+      "positionId": "sggd-position-ii-415",
+      "unitName": "Seção de Apoio Administrativo",
+      "quantity": "1",
+      "denomination": "Assistente III",
+      "code": "FCESP 2.03"
+    },
+    {
+      "unitId": "sggd-unit-ii-417",
+      "positionId": "sggd-position-ii-417",
+      "unitName": "DIRETORIA DE ACERVOS E SISTEMA DE ARQUIVOS",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "CCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-418",
+      "positionId": "sggd-position-ii-418",
+      "unitName": "Coordenadoria do Sistema de Arquivos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-419",
+      "positionId": "sggd-position-ii-419",
+      "unitName": "Divisão de Gestão Documental",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-420",
+      "positionId": "sggd-position-ii-420",
+      "unitName": "Seção de Normas Técnicas",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-421",
+      "positionId": "sggd-position-ii-421",
+      "unitName": "Seção de Assistência ao SAESP",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-422",
+      "positionId": "sggd-position-ii-422",
+      "unitName": "Seção de Monitoria e Fiscalização",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-423",
+      "positionId": "sggd-position-ii-423",
+      "unitName": "Divisão de Assistência Técnica aos Municípios",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-424",
+      "positionId": "sggd-position-ii-424",
+      "unitName": "Coordenadoria de Arquivo Digital",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-425",
+      "positionId": "sggd-position-ii-425",
+      "unitName": "Divisão de Gestão e Inovação Digital",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-426",
+      "positionId": "sggd-position-ii-426",
+      "unitName": "Seção de Conformidade dos Sistemas Arquivísticos",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-427",
+      "positionId": "sggd-position-ii-427",
+      "unitName": "Seção de Gestão de Sistemas e Inovação",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-428",
+      "positionId": "sggd-position-ii-428",
+      "unitName": "Divisão de Preservação e Acesso Digital",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-429",
+      "positionId": "sggd-position-ii-429",
+      "unitName": "Seção de Repositórios e Plataformas",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-430",
+      "positionId": "sggd-position-ii-430",
+      "unitName": "Seção de Tratamento de Acervos Digitais",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-431",
+      "positionId": "sggd-position-ii-431",
+      "unitName": "Seção de Digitalização e Microfilmagem",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-432",
+      "positionId": "sggd-position-ii-432",
+      "unitName": "Coordenadoria de Tratamento de Acervos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "FCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-433",
+      "positionId": "sggd-position-ii-433",
+      "unitName": "Serviço ao Cidadão e Acesso",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-434",
+      "positionId": "sggd-position-ii-434",
+      "unitName": "Divisão de Arquivo Intermediário",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-435",
+      "positionId": "sggd-position-ii-435",
+      "unitName": "Divisão de Acervo Iconográfico",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "CCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-436",
+      "positionId": "sggd-position-ii-436",
+      "unitName": "Seção do Acervo Cartográfico",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-437",
+      "positionId": "sggd-position-ii-437",
+      "unitName": "Divisão de Acervo Permanente",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-437",
+      "positionId": "sggd-position-ii-438",
+      "unitName": "Divisão de Acervo Permanente",
+      "quantity": "1",
+      "denomination": "Assistente I",
+      "code": "FCESP 2.01"
+    },
+    {
+      "unitId": "sggd-unit-ii-439",
+      "positionId": "sggd-position-ii-439",
+      "unitName": "Seção de Acervo Textual Público e Privado",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-440",
+      "positionId": "sggd-position-ii-440",
+      "unitName": "Seção de Paleografia e Diplomática",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-441",
+      "positionId": "sggd-position-ii-441",
+      "unitName": "Seção de Biblioteca e Hemeroteca",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-443",
+      "positionId": "sggd-position-ii-443",
+      "unitName": "DIRETORIA DE PRESERVAÇÃO, DIFUSÃO E FORMAÇÃO",
+      "quantity": "1",
+      "denomination": "Diretor",
+      "code": "FCESP 1.15"
+    },
+    {
+      "unitId": "sggd-unit-ii-444",
+      "positionId": "sggd-position-ii-444",
+      "unitName": "Coordenadoria de Preservação e Ingresso de Acervos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-445",
+      "positionId": "sggd-position-ii-445",
+      "unitName": "Serviço de Ingresso e Logística",
+      "quantity": "1",
+      "denomination": "Chefe de Serviço",
+      "code": "FCESP 1.07"
+    },
+    {
+      "unitId": "sggd-unit-ii-446",
+      "positionId": "sggd-position-ii-446",
+      "unitName": "Divisão de Conservação",
+      "quantity": "1",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-447",
+      "positionId": "sggd-position-ii-447",
+      "unitName": "Seção de Laboratório de Conservação e Restauro",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-448",
+      "positionId": "sggd-position-ii-448",
+      "unitName": "Seção de Gerenciamento de Riscos e Acondicionamento",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-449",
+      "positionId": "sggd-position-ii-449",
+      "unitName": "Coordenadoria de Difusão de Acervos",
+      "quantity": "1",
+      "denomination": "Coordenador",
+      "code": "CCESP 1.13"
+    },
+    {
+      "unitId": "sggd-unit-ii-450",
+      "positionId": "sggd-position-ii-450",
+      "unitName": "Seção de Divulgação e Produção Cultural",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "CCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-451",
+      "positionId": "sggd-position-ii-451",
+      "unitName": "Seção de Difusão e Ação Educativa",
+      "quantity": "1",
+      "denomination": "Chefe de Seção",
+      "code": "FCESP 1.05"
+    },
+    {
+      "unitId": "sggd-unit-ii-452",
+      "positionId": "sggd-position-ii-452",
+      "unitName": "Divisão de Formação e Treinamento",
+      "quantity": "3",
+      "denomination": "Chefe de Divisão",
+      "code": "FCESP 1.10"
+    },
+    {
+      "unitId": "sggd-unit-ii-452",
+      "positionId": "proposal-position-1",
+      "unitName": "Divisão de Formação e Treinamento",
+      "quantity": "2",
+      "denomination": "Secretário Executivo",
+      "code": "CCESP 1.18"
+    }
+  ]
+}

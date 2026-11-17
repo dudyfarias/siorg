@@ -1,0 +1,23 @@
+{
+  "project": "siorg-calculadora-mvp",
+  "projectId": "prj_DDfAKiTokIvaEuOSNq55HrwpKEFH",
+  "team": "dudycappia-4508s-projects",
+  "deploymentId": "dpl_5ccpCPTy8kq56q6w12uN8beZGEuC",
+  "deploymentUrl": "https://siorg-calculadora-hhx4s6oli-dudycappia-4508s-projects.vercel.app",
+  "publicUrl": "https://siorg-calculadora-mvp.vercel.app/",
+  "readyState": "READY",
+  "target": "production",
+  "localTests": {
+    "passed": 59,
+    "failed": 0
+  },
+  "browserChecks": {
+    "publicPage": true,
+    "dmoAutofill": "7 postos / 24,70 cotas",
+    "editedDmo": "8 postos / 27,45 cotas; delta +1 / +2,75",
+    "innovationAutofill": "2 postos / 10,00 cotas",
+    "summarySourceAndDelta": true,
+    "consoleErrors": []
+  },
+  "nonBlockingBuildWarning": "npm allow-scripts: esbuild postinstall pending coverage; installation and build succeeded"
+}

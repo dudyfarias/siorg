@@ -1,0 +1,116 @@
+{
+  "retrievedAt": "2026-11-16",
+  "url": "https://baleg-api-prd.al.sp.gov.br/norma/210569",
+  "data": {
+    "idNorma": "210569",
+    "tipo": "Decreto",
+    "nuNorma": "69339",
+    "data": "04/02/2025",
+    "dataPublicacao": "05/02/2025",
+    "nomeNorma": "Decreto nº 69.339, de 04/02/2025",
+    "nomeNormaApelido": "( Decreto 69.339/2025 )",
+    "idTipo": "3",
+    "idPropositura": null,
+    "nomePropositura": null,
+    "dsEmenta": "Regulamenta a <a target='_blank' class='anotacao-link' href='/norma/210012'>Lei Complementar nº 1.413, de 23 de setembro de 2024</a>, que dispõe sobre o regime jurídico das agências reguladoras estaduais, bem como estabelece diretrizes para a organização das agências e dá providências correlatas.",
+    "alespExplica": null,
+    "tpPublicacaoAlespExplica": "N",
+    "dsSituacao": "Sem revogação expressa",
+    "tpPromulgacao": "Executivo",
+    "nomePublicacaoDO": "DOESP Executivo Seção 1, 05/02/2025, p.1",
+    "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69339-de-4-de-fevereiro-de-2025",
+    "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+    "urlIntegraAtualizada": null,
+    "urlTextoAtualizado": null,
+    "urlIntegraListaPesquisa": null,
+    "completa": "sim",
+    "observacoes": [],
+    "constitucionalidades": [],
+    "publicacoesPosteriores": [],
+    "anotacoesAlteracao": [],
+    "anotacoesRegulamentacao": [],
+    "anotacoesCorrelata": [
+      {
+        "idAnotacao": "67936",
+        "idNormaAnotadora": "211240",
+        "nomeNorma": "Decreto nº 69.743, de 22/07/2025",
+        "anotadoraDsCaderno": null,
+        "anotadoraDtPublicacao": null,
+        "anotadoraNuPagina": null,
+        "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/211240",
+        "anotadoraTxNorma": "<p>Artigo 1º - Constituem Unidades Orçamentárias da Secretaria de Parcerias em Investimentos:</p><p>(…)</p><p>II - Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP;</p><p>III - Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP;</p><p>(…)</p><p>Artigo 5º - A disposição da ARTESP e da ARSESP como Unidades Orçamentárias da Secretaria de Parcerias em Investimentos não compromete o pleno exercício pelas entidades públicas de sua autonomia orçamentária e financeira regrada nos termos da <a target='_blank' class='anotacao-link' href='/norma/210012'>Lei Complementar nº 1.413, de 23 de setembro de 2024</a>, e do Decreto nº 69.339, de 4 de fevereiro de 2025.</p><p>Artigo 6º - A indicação das Unidades de Despesa da ARTESP e da ARSESP ocorrerá por meio de ato próprio de cada agência reguladora.</p>",
+        "anotadoraTpNorma": "Decreto",
+        "anotadoraNuNorma": "69743",
+        "anotadoraDsComplementoNorma": null,
+        "anotadoraDtNorma": "22/07/2025",
+        "anotadoraDsSituacao": "Sem revogação expressa",
+        "tipoAnotacao": "Correlata",
+        "internaExterna": "Interna",
+        "flMudaStatus": null,
+        "dataOrdenacao": "2025-07-22T00:00:00",
+        "normaAnotada": null,
+        "artigos": [
+          {
+            "idAnotacaoArtigo": "2295",
+            "txArtigo": "<p>Artigo 1º - Constituem Unidades Orçamentárias da Secretaria de Parcerias em Investimentos:</p><p>(…)</p><p>II - Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP;</p><p>III - Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP;</p><p>(…)</p><p>Artigo 5º - A disposição da ARTESP e da ARSESP como Unidades Orçamentárias da Secretaria de Parcerias em Investimentos não compromete o pleno exercício pelas entidades públicas de sua autonomia orçamentária e financeira regrada nos termos da Lei Complementar nº 1.413, de 23 de setembro de 2024, e do Decreto nº 69.339, de 4 de fevereiro de 2025.</p><p>Artigo 6º - A indicação das Unidades de Despesa da ARTESP e da ARSESP ocorrerá por meio de ato próprio de cada agência reguladora.</p>",
+            "dsArtigoAnot": null
+          }
+        ]
+      }
+    ],
+    "anotacaoOutras": [],
+    "temas": [
+      {
+        "idTema": "551",
+        "nmTema": "Administração Pública"
+      },
+      {
+        "idTema": "1001",
+        "nmTema": "Funcionalismo"
+      }
+    ],
+    "autores": [],
+    "indexadores": [
+      {
+        "idTermo": "331130",
+        "nmTermo": "Agência de Águas do Estado de São Paulo - SP-ÁGUAS"
+      },
+      {
+        "idTermo": "324979",
+        "nmTermo": "Agência Reguladora"
+      },
+      {
+        "idTermo": "324981",
+        "nmTermo": "Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP"
+      },
+      {
+        "idTermo": "324982",
+        "nmTermo": "Agência Reguladora dos Serviços Públicos do Estado de São Paulo - ARSESP"
+      },
+      {
+        "idTermo": "325621",
+        "nmTermo": "Cargo e Função"
+      },
+      {
+        "idTermo": "325974",
+        "nmTermo": "Competência e Atribuições"
+      },
+      {
+        "idTermo": "326030",
+        "nmTermo": "Conselho de Administração"
+      },
+      {
+        "idTermo": "326339",
+        "nmTermo": "Departamento de Águas e Energia Elétrica - DAEE"
+      },
+      {
+        "idTermo": "130845",
+        "nmTermo": "Regime Jurídico"
+      },
+      {
+        "idTermo": "328741",
+        "nmTermo": "Regulamento"
+      }
+    ]
+  }
+}

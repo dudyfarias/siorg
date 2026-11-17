@@ -1,0 +1,25 @@
+{
+  "id": "decreto-70705-2026",
+  "title": "Decreto 70.705/2026",
+  "actDate": "2026-06-22",
+  "publicationDate": "2026-06-23",
+  "sourceUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70705-22.06.2026.html",
+  "rawFile": "stm-posterior-70705-alesp.html",
+  "classification": "unit-rename-only",
+  "quantityOrQuotaChange": false,
+  "effectiveDate": "2026-06-23",
+  "changes": [
+    {
+      "type": "unit-rename",
+      "before": "Coordenadoria de Gestão de Empreendimentos, Investimentos e Orçamento",
+      "after": "Coordenadoria de Desenvolvimento e Dados de Mobilidade Metropolitana",
+      "provision": "Artigo 1º"
+    }
+  ],
+  "workbookAlreadyApplied": true,
+  "workbookEvidence": [
+    "Instruções!B7",
+    "Reestruturação!A150",
+    "Resumo!A28"
+  ]
+}

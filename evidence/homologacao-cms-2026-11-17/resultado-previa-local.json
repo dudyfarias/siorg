@@ -1,0 +1,18 @@
+{
+  "quantidade": "298",
+  "saldo": "2,50\nDisponível",
+  "resumo": [
+    "CCESP · Cotas\t1.069,50\t1.063,50\t−6,00",
+    "Quantidade alterada",
+    "Assessor Especial III",
+    "−6,00"
+  ],
+  "url": "http://127.0.0.1:4187/preview/index.html",
+  "pdf": "/Users/eduardofariascappia/Downloads/SGGD-Anexo-II-proposta-2026-11-17.pdf",
+  "xlsx": "/Users/eduardofariascappia/Downloads/SGGD-proposta-2026-11-17.xlsx",
+  "excelConf": [
+    "      - button \"Baixar Anexo II em PDF\"",
+    "      - button \"Baixar proposta em Excel\"",
+    "      - status: Excel gerado com a estrutura, os cálculos, o resumo e o Anexo II desta proposta."
+  ]
+}

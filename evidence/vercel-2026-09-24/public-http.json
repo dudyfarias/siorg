@@ -1,0 +1,24 @@
+{
+  "url": "https://siorg-calculadora-mvp.vercel.app/",
+  "finalUrl": "https://siorg-calculadora-mvp.vercel.app/",
+  "status": 200,
+  "contentType": "text/html; charset=utf-8",
+  "title": "Calculadora de Cotas | SIORG — Protótipo",
+  "loginRedirect": false,
+  "assets": [
+    {
+      "path": "/assets/index-BiqyB3F9.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 275024,
+      "sameAsLocal": true
+    },
+    {
+      "path": "/assets/index-Cy6YPRIF.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 39193,
+      "sameAsLocal": true
+    }
+  ]
+}

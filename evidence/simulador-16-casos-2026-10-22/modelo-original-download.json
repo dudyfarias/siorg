@@ -1,0 +1,15 @@
+{
+  "identical": true,
+  "files": [
+    {
+      "path": "/Users/eduardofariascappia/Downloads/SGGD-SGGD (1).xlsx",
+      "bytes": 795591,
+      "sha256": "dfb7d13d88d75dfa3ffa4c6de149ca9e06817b04688fc030e2e99866e9772a11"
+    },
+    {
+      "path": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/public/modelos/SGGD-modelo-v3.xlsx",
+      "bytes": 795591,
+      "sha256": "dfb7d13d88d75dfa3ffa4c6de149ca9e06817b04688fc030e2e99866e9772a11"
+    }
+  ]
+}

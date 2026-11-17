@@ -1,0 +1,29 @@
+{
+  "url": "https://siorg-calculadora-mvp.vercel.app/#calculadora",
+  "script": [
+    "/assets/index-JUwX20-X.js"
+  ],
+  "errors": [],
+  "baseSummary": "Resumo das alterações\nSecretaria inteira\n\nCompare a alocação do Anexo II com sua proposta. Para corrigir algum valor, volte à unidade no simulador.\n\nComparação entre a alocação de referência e a proposta de todas as unidades\nMedida\tAlocado\nAnexo II\n\tProposta\tVariação\nProposta − alocado\n\nCCESP · Quantidade\t299\t299\t0\nCCESP · Cotas\t1.069,50\t1.069,50\t0,00\nFCESP · Quantidade\t201\t201\t0\nFCESP · Cotas\t348,75\t348,75\t0,00\n\nNenhuma alteração em relação à base.\n\nBaixar resumo em texto\nInclui alterações, quantitativos, cotas e saldos.",
+  "liveChecked": [
+    "quantidade final",
+    "troca de unidade",
+    "inclusão de cargo",
+    "retirada por zero",
+    "extrapolação de quantidade e cotas",
+    "entrada negativa",
+    "renomeação",
+    "transferência",
+    "criação e retirada de Diretoria",
+    "alteração CCESP/FCESP",
+    "ausência de titular bloqueia exportações",
+    "resumo",
+    "PDF",
+    "Excel",
+    "JSON salvar e abrir",
+    "recarregar conserva proposta",
+    "linha do tempo ordenar e expandir",
+    "retorno entre páginas"
+  ],
+  "date": "2026-10-23"
+}

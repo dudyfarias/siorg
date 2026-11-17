@@ -1,0 +1,10 @@
+{
+  "url": "https://siorg-calculadora-mvp.vercel.app/",
+  "heading": "SIMULADOR DE REESTRUTURAÇÃO",
+  "summary": "Resumo das alterações\nSecretaria inteira\n\nCompare a alocação do Anexo II com sua proposta. Para corrigir algum valor, volte à unidade no simulador.\n\nComparação entre a alocação de referência e a proposta de todas as unidades\nMedida\tAlocado\nAnexo II\n\tProposta\tVariação\nProposta − alocado\n\nCCESP · Quantidade\t299\t299\t0\nCCESP · Cotas\t1.069,50\t1.069,50\t0,00\nFCESP · Quantidade\t201\t201\t0\nFCESP · Cotas\t348,75\t348,75\t0,00\n\nNenhuma alteração em relação à base.\n\nBaixar resumo em texto\nInclui alterações, quantitativos, cotas e saldos.",
+  "annex": "Anexo II · Estrutura proposta\nGerado automaticamente\n\nO quadro reúne a proposta inteira, com os nomes e as quantidades que você informou. Linhas com quantidade zero não entram no Anexo II.\n\n407 linhas de cargos e funções em 221 unidades com quantitativo positivo.\n\nConferir o quadro completo\nBaixar Anexo II em PDF\nBaixar proposta em Excel\nMinutas para revisão técnica. O Excel registra esta simulação; use a cópia da proposta para retomá-la no portal.",
+  "errors": [],
+  "scripts": [
+    "/assets/index-3l7Lv_o8.js"
+  ]
+}

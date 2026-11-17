@@ -1,0 +1,30 @@
+{
+  "mobilePicker": {
+    "menu": {
+      "bottom": 751.0859375,
+      "height": 306,
+      "left": 130,
+      "right": 355,
+      "top": 445.0859375,
+      "width": 225,
+      "x": 130,
+      "y": 445.0859375
+    },
+    "overflow": false,
+    "selector": {
+      "bottom": 441.0859375,
+      "height": 38,
+      "left": 130,
+      "right": 355,
+      "top": 403.0859375,
+      "width": 225,
+      "x": 130,
+      "y": 403.0859375
+    }
+  },
+  "mobileSelection": {
+    "name": "Assessoria Técnica",
+    "parent": "Vínculo na proposta: SUBSECRETARIA DE GESTÃO CORPORATIVA",
+    "value": "Assessoria Técnica · SUBSECRETARIA DE GESTÃO CORPORATIVA"
+  }
+}

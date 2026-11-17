@@ -1,0 +1,994 @@
+{
+  "checkedAt": "2026-11-16",
+  "sourcePage": "https://www.arsesp.sp.gov.br/SitePages/Legisla%C3%A7%C3%A3o.aspx",
+  "sourceApiUrl": "https://www.arsesp.sp.gov.br/_api/web/lists/getbytitle(%27Legislacao%27)/items?%24select=Id%2CNumero%2CData%2CDescricao%2CTipos&%24filter=Data%20ge%20datetime%272026-06-01T00%3A00%3A00Z%27&%24orderby=Data%20desc&%24top=500",
+  "method": "GET público; mesma lista Legislacao usada pela busca do portal, campos públicos de ementa. Sem login e sem interação de escrita.",
+  "response": {
+    "value": [
+      {
+        "Id": 4401,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1864",
+        "Data": "2026-11-16T12:00:00Z",
+        "Descricao": "Dispõe sobre medida regulatória temporária aplicável à operação do abastecimento de água em setores da Região Metropolitana de São Paulo, e dá outras providências, no âmbito do Processo SEI nº 133.00004484/2026-71.",
+        "ID": 4401
+      },
+      {
+        "Id": 4403,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1863",
+        "Data": "2026-11-16T11:00:00Z",
+        "Descricao": "Declara a Faixa de Normalidade para a Região Metropolitana de São Paulo, determina o encerramento das medidas excepcionais decorrentes das condições hidrológicas, determina o restabelecimento do regime ordinário de abastecimento, e revoga a Deliberação ARSESP nº 1.827/2026 (Processo SEI nº 133.00003010/2025-21).",
+        "ID": 4403
+      },
+      {
+        "Id": 4402,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1862",
+        "Data": "2026-11-16T03:00:00Z",
+        "Descricao": "Altera a Deliberação ARSESP nº 1.416, de 16 de junho de 2023, para redefinir, no âmbito da ARSESP, a composição da Unidade de Gestão de Integridade (UGI), de que trata o Decreto Estadual nº 67.683, de 03 de maio de 2023, e revoga a Deliberação ARSESP nº 1.445, de 27 de setembro de 2023, 1.532, de 25 de junho de 2024, e 1.781, de 25 de fevereiro de 2026 (Processo SEI nº 133.00001755/2023-93).",
+        "ID": 4402
+      },
+      {
+        "Id": 4400,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1861",
+        "Data": "2026-11-13T03:00:00Z",
+        "Descricao": "Homologa e torna público o quinto Processo de Promoção, divulgando os resultados da Avaliação Teórica e/ou Prática referentes às carreiras de Especialista em Regulação e Fiscalização dos Serviços Públicos e Analista de Suporte à Regulação da ARSESP, nos termos da Lei Complementar nº 1.322, de 15 de maio de 2018.\r\n\r\nProcesso Sei nº 133.00003326/2026-01.",
+        "ID": 4400
+      },
+      {
+        "Id": 4399,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1860",
+        "Data": "2026-11-12T03:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo, as diferenças e os procedimentos para o recolhimento à ARSESP dos valores de ajuste referentes à Taxa de Fiscalização, Controle e Regulação (TFCR), relativa ao exercício de 2025 para a concessionária de saneamento TERRASANTOS e para a comercializadoras de gás PETROBRAS S.A. (Processo SEI nº 133.00002510/2026-26).",
+        "ID": 4399
+      },
+      {
+        "Id": 4398,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1859",
+        "Data": "2026-11-11T03:00:00Z",
+        "Descricao": "Dispõe sobre a classificação, finalidade, subscrição, aprovação, tramitação e publicação dos documentos e atos administrativos da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP), Processo SEI nº 133.00002554/2026-56",
+        "ID": 4398
+      },
+      {
+        "Id": 4397,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "609",
+        "Data": "2026-11-10T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Ibiúna para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00004457/2026-06.",
+        "ID": 4397
+      },
+      {
+        "Id": 4396,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "608",
+        "Data": "2026-11-09T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Socorro para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00004427/2026-91.",
+        "ID": 4396
+      },
+      {
+        "Id": 4395,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "607",
+        "Data": "2026-11-06T03:05:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Nova Granada para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00003611/2025-33.",
+        "ID": 4395
+      },
+      {
+        "Id": 4394,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "606",
+        "Data": "2026-11-06T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Queluz para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00004318/2026-74.",
+        "ID": 4394
+      },
+      {
+        "Id": 4393,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1858",
+        "Data": "2026-11-03T03:00:00Z",
+        "Descricao": "Dispõe sobre a classificação, finalidade, subscrição, aprovação, tramitação e publicação dos documentos e atos administrativos da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP), Processo SEI nº 133.00002554/2026 56.",
+        "ID": 4393
+      },
+      {
+        "Id": 4392,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1857",
+        "Data": "2026-10-29T03:05:00Z",
+        "Descricao": "Autoriza o reajuste das tarifas de água e esgoto e dos preços dos serviços complementares a serem praticados pela BRK Ambiental Santa Gertrudes S.A. no Município de Santa Gertrudes e revoga a Deliberação ARSESP nº 1.732, de 29 de outubro de 2025 (Processo SEI nº 133.00004351/2026-02).",
+        "ID": 4392
+      },
+      {
+        "Id": 4391,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1856",
+        "Data": "2026-10-29T03:00:00Z",
+        "Descricao": "Homologa o resultado do 5º Processo de Progressão referente aos empregados públicos permanentes da ARSESP. Processo SEI nº 133.00003851/2026-19.",
+        "ID": 4391
+      },
+      {
+        "Id": 4390,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "605",
+        "Data": "2026-10-28T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Agudos para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00002026/2026-05.",
+        "ID": 4390
+      },
+      {
+        "Id": 4389,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "604",
+        "Data": "2026-10-22T03:05:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Ribeirão Branco para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00001809/2026-63.",
+        "ID": 4389
+      },
+      {
+        "Id": 4388,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "603",
+        "Data": "2026-10-22T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Itirapuã para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00004172/2026-67",
+        "ID": 4388
+      },
+      {
+        "Id": 4387,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "602",
+        "Data": "2026-10-20T03:05:00Z",
+        "Descricao": "Concessão de adicional por tempo de serviço.",
+        "ID": 4387
+      },
+      {
+        "Id": 4386,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1855",
+        "Data": "2026-10-20T03:00:00Z",
+        "Descricao": "Dispõe sobre as diretrizes para a disponibilização, utilização, gestão e controle de dispositivos corporativos no âmbito da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP) e revoga a Deliberação ARSESP nº 1.637, de 21 de janeiro de 2025 (Processo SEI nº 133.00003156/2026-57).",
+        "ID": 4386
+      },
+      {
+        "Id": 4384,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1748 - RETIFICAÇÃO",
+        "Data": "2026-10-19T03:05:00Z",
+        "Descricao": "Republica-se integralmente a Deliberação ARSESP nº 1.748, de 1º de dezembro de 2025, em virtude de erro material na publicação realizada no Diário Oficial do Estado em 01/12/2025, para reapresentação das Tabelas Tarifárias de Equilíbrio, indicando-se o número da Nota Técnica que traz esta adequação, e as devidas Tabelas Tarifárias.",
+        "ID": 4384
+      },
+      {
+        "Id": 4383,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1854",
+        "Data": "2026-10-19T03:00:00Z",
+        "Descricao": "Institui o Edital que estabelece os critérios e procedimentos para a realização do quinto processo de Avaliação Teórica e/ou Prática, para fins de operacionalização do quinto concurso de promoção, nos termos da Lei Complementar nº 1.322, de 15 de maio de 2018. Processo SEI nº 133.00003326/2026-01.",
+        "ID": 4383
+      },
+      {
+        "Id": 4382,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1853",
+        "Data": "2026-10-15T03:00:00Z",
+        "Descricao": "Estabelece cronograma excepcional e transitório para a primeira implementação da Tarifa Social de Água e Esgoto prevista na Deliberação ARSESP nº 1.758/2025 (Processo SEI nº 133.00000490/2025\r\n78)",
+        "ID": 4382
+      },
+      {
+        "Id": 4381,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1852",
+        "Data": "2026-10-09T03:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo e os procedimentos para o recolhimento à ARSESP dos valores referentes à Taxa de Fiscalização, Controle e Regulação (TFCR) relativa aos exercícios de 2026 e 2027 pela MTX Comercializadora de Gás Ltda (Processo SEI nº 133.00003604/2026-12).",
+        "ID": 4381
+      },
+      {
+        "Id": 4380,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1851",
+        "Data": "2026-10-08T03:10:00Z",
+        "Descricao": "Dispõe sobre a aprovação de Programa Comercial para Indústria de Transformação e minuta de contrato comercial (Processo SEI nº 133.00002637/2026-45).",
+        "ID": 4380
+      },
+      {
+        "Id": 4379,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1850",
+        "Data": "2026-10-08T03:05:00Z",
+        "Descricao": "Altera o artigo 3º, da Deliberação ARSESP n. 1.676, de 26 de março de 2025, que dispõe sobre a composição da Câmara Técnica de Resíduos Sólidos (Processo SEI nº. 133.00002016/2023-1).",
+        "ID": 4379
+      },
+      {
+        "Id": 4378,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "601",
+        "Data": "2026-10-08T03:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4378
+      },
+      {
+        "Id": 4376,
+        "Tipos": "Deliberação Conjunta",
+        "Numero": "1",
+        "Data": "2026-10-06T03:00:00Z",
+        "Descricao": "Define as atribuições da ARSESP e do COFAUSP e os procedimentos para o desembolso dos recursos\r\ndo Fundo de Apoio à Universalização do Saneamento no Estado de São Paulo – FAUSP no âmbito do Contrato de Concessão nº 01/2024, disciplina o acompanhamento das Contas Vinculadas e o dever de sigilo das informações, e dá outras providências.",
+        "ID": 4376
+      },
+      {
+        "Id": 4375,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "600",
+        "Data": "2026-10-05T03:10:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Nova Luzitânia para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00002850/2026-57.",
+        "ID": 4375
+      },
+      {
+        "Id": 4374,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "599",
+        "Data": "2026-10-05T03:05:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de\r\nTupã para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00003603/2026-78.",
+        "ID": 4374
+      },
+      {
+        "Id": 4373,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "598",
+        "Data": "2026-10-05T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de\r\nFartura para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00003928/2026-51.",
+        "ID": 4373
+      },
+      {
+        "Id": 4372,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "597",
+        "Data": "2026-10-02T03:00:00Z",
+        "Descricao": "Exoneração",
+        "ID": 4372
+      },
+      {
+        "Id": 4371,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "596",
+        "Data": "2026-10-01T03:00:00Z",
+        "Descricao": "Designa, os substitutos para os cargos de Gerentes, de Chefe de Assessoria, Superintendentes e\r\nSecretário Executivo, do Quadro de Cargos em Comissão do Estado de São Paulo (CCESP) da ARSESP, na hipótese de impedimento legal e temporário dos titulares.",
+        "ID": 4371
+      },
+      {
+        "Id": 4370,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "595",
+        "Data": "2026-09-28T03:00:00Z",
+        "Descricao": "Dispensa a pedido",
+        "ID": 4370
+      },
+      {
+        "Id": 4369,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "594",
+        "Data": "2026-09-25T03:00:00Z",
+        "Descricao": "Instauração do processo sancionatório disciplinar. \r\nSEI nº 133.00001050/2026-19",
+        "ID": 4369
+      },
+      {
+        "Id": 4368,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1849",
+        "Data": "2026-09-24T03:00:00Z",
+        "Descricao": "Institui o Edital que estabelece os critérios e procedimentos para a realização do quinto processo de Avaliação Teórica e/ou Prática, para fins de operacionalização do quinto concurso de promoção, nos termos da Lei Complementar nº 1.322, de 15 de maio de 2018. Processo SEI nº 133.00003326/2026-01.",
+        "ID": 4368
+      },
+      {
+        "Id": 4367,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "593",
+        "Data": "2026-09-22T05:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Riversul para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003992/2026-31.",
+        "ID": 4367
+      },
+      {
+        "Id": 4366,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "592",
+        "Data": "2026-09-22T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Capão Bonito para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003664/2026-35.",
+        "ID": 4366
+      },
+      {
+        "Id": 4365,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "591",
+        "Data": "2026-09-18T03:00:00Z",
+        "Descricao": "Adicional por tempo de serviço",
+        "ID": 4365
+      },
+      {
+        "Id": 4364,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "590",
+        "Data": "2026-09-14T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Altair o para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002708/2026-18.",
+        "ID": 4364
+      },
+      {
+        "Id": 4363,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "589",
+        "Data": "2026-09-14T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Presidente Epitácio para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003804/2026-75.",
+        "ID": 4363
+      },
+      {
+        "Id": 4362,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1848",
+        "Data": "2026-09-11T03:00:00Z",
+        "Descricao": "Aprova o Edital de Abertura do 5º. Processo de Progressão da ARSESP. Processo SEI nº 133.00003851/2026-19",
+        "ID": 4362
+      },
+      {
+        "Id": 4361,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1847",
+        "Data": "2026-09-10T07:00:00Z",
+        "Descricao": "Dispõe sobre a atualização das Tabelas Tarifárias a serem aplicadas pela concessionária de distribuição de gás canalizado NECTA Gás Natural S.A. (NECTA), inclusive das Tarifas de Uso do Sistema de Distribuição (TUSD) a serem aplicadas no mercado livre e revoga a Deliberação ARSESP nº 1.817, de 25 de junho de 2026 (Processo SEI nº 133.00003337/2026-83).",
+        "ID": 4361
+      },
+      {
+        "Id": 4360,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1846",
+        "Data": "2026-09-10T05:00:00Z",
+        "Descricao": "Dispõe sobre a atualização das Tabelas Tarifárias a serem aplicadas pela concessionária de distribuição de gás canalizado Companhia de Gás de São Paulo (COMGÁS), inclusive das Tarifas de Uso do Sistema de Distribuição (TUSD) a serem aplicadas no mercado livre, e revoga a Deliberação ARSESP nº 1.809, de 09 de junho de 2026 (Processo SEI nº 133.00003338/2026-28).",
+        "ID": 4360
+      },
+      {
+        "Id": 4359,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "588",
+        "Data": "2026-09-10T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Alambari para os fins da Deliberação Arsesp nº. 1.766/2026.",
+        "ID": 4359
+      },
+      {
+        "Id": 4358,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "587",
+        "Data": "2026-09-10T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de\r\nPracinha para os fins da Deliberação Arsesp nº. 1.766/2026.",
+        "ID": 4358
+      },
+      {
+        "Id": 4357,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1845",
+        "Data": "2026-09-09T03:00:00Z",
+        "Descricao": "Dispõe sobre a Política de Governança, Compartilhamento e Proteção de Dados da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP), altera a Deliberação ARSESP nº 147/2010, 360/2012, 1.143/2021, 1.543/2024 e 1.690/2025 (Processo SEI nº 133.00003019/2025-31).",
+        "ID": 4357
+      },
+      {
+        "Id": 4356,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1844",
+        "Data": "2026-09-08T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação do Contrato de Compra e Venda de Biometano a ser celebrado entre a Companhia de Gás de São Paulo (COMGÁS) e a Edge Comercialização S.A. (EDGE), Processo SEI nº 133.00003879/2025-75.",
+        "ID": 4356
+      },
+      {
+        "Id": 4354,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1843",
+        "Data": "2026-09-01T06:00:00Z",
+        "Descricao": "Estabelece critérios para apuração, cálculo e compensação das despesas com perdas regulatórias das concessionárias de distribuição de gás canalizado no Estado de São Paulo, no que se refere ao cativo verde (Processo SEI nº 133.00003879/2025-75).",
+        "ID": 4354
+      },
+      {
+        "Id": 4353,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1842",
+        "Data": "2026-09-01T04:00:00Z",
+        "Descricao": "Dispõe sobre os critérios de cálculo e limites para compensação na tarifa dos valores incorridos em Penalidades (P) nas contratações entre concessionárias, fornecedores e usuários do Estado de São Paulo, relacionados ao Cativo Verde (Processo SEI nº 133.00003879/2025-75).",
+        "ID": 4353
+      },
+      {
+        "Id": 4352,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1841",
+        "Data": "2026-09-01T03:00:00Z",
+        "Descricao": "Dispõe sobre o mecanismo de atualização do custo médio ponderado do gás biometano e transporte nas tarifas de gás canalizado e sobre o mecanismo de recuperação do saldo da conta gráfica do segmento cativo verde, em razão de variações do preço do biometano e do transporte (Processo SEI nº 133.00003879/2025-75).",
+        "ID": 4352
+      },
+      {
+        "Id": 4351,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1840",
+        "Data": "2026-08-31T04:00:00Z",
+        "Descricao": "Dispõe sobre a atualização das Tabelas Tarifárias a serem aplicadas pela concessionária de distribuição de gás canalizado Gás Natural São Paulo Sul S.A – NATURGY, inclusive das Tarifas de Uso do Sistema de Distribuição (TUSD) a serem aplicadas no mercado livre.\r\n\r\n(Processo SEI: 133.00003619/2026-81)",
+        "ID": 4351
+      },
+      {
+        "Id": 4350,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1839",
+        "Data": "2026-08-31T03:00:00Z",
+        "Descricao": "Dispõe sobre o pronunciamento das partes nos processos submetidos à deliberação do Conselho Diretor da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP), nos termos do art. 16, inciso II, do Regimento Interno (Processo SEI nº 133.00003417/2026-39",
+        "ID": 4350
+      },
+      {
+        "Id": 4349,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "586",
+        "Data": "2026-08-28T03:00:00Z",
+        "Descricao": "Designação",
+        "ID": 4349
+      },
+      {
+        "Id": 4348,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1838",
+        "Data": "2026-08-27T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação dos novos valores de serviços complementares referentes aos serviços de abastecimento de água e esgotamento sanitário prestados pela Igarapava Saneamento S.A. no Município de Igarapava.\r\n\r\n(Processo SEI 133.00003374/2026-91)",
+        "ID": 4348
+      },
+      {
+        "Id": 4347,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1837",
+        "Data": "2026-08-27T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação dos novos valores das tarifas dos serviços de abastecimento de água e esgotamento sanitário prestados pela Igarapava Saneamento S.A. no Município de Igarapava.\r\n\r\n(Processo SEI 133.00003374/2026-91)",
+        "ID": 4347
+      },
+      {
+        "Id": 4346,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "585",
+        "Data": "2026-08-26T03:00:00Z",
+        "Descricao": "Adicional por tempo de serviço",
+        "ID": 4346
+      },
+      {
+        "Id": 4345,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "584",
+        "Data": "2026-08-25T10:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Quatá para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002907/2026-18.",
+        "ID": 4345
+      },
+      {
+        "Id": 4344,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "583",
+        "Data": "2026-08-25T09:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Pariquera-Açu para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002222/2026-71.",
+        "ID": 4344
+      },
+      {
+        "Id": 4343,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "582",
+        "Data": "2026-08-25T07:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Nova Canaã Paulista para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002707/2026-65.",
+        "ID": 4343
+      },
+      {
+        "Id": 4342,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "581",
+        "Data": "2026-08-25T05:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Jales para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002753/2026-64.",
+        "ID": 4342
+      },
+      {
+        "Id": 4341,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "580",
+        "Data": "2026-08-25T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Buritizal para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002783/2025-90.\r\nDispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Buritizal para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002783/2025-90.\r\n\r\n*Portaria republicada",
+        "ID": 4341
+      },
+      {
+        "Id": 4340,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1836",
+        "Data": "2026-08-24T10:00:00Z",
+        "Descricao": "Altera os arts. 2º, 62, 63 e 64 da Deliberação ARSESP nº 106/2009, para dispor sobre regras de leitura, faturamento e proporcionalização de consumo (Processo SEI nº 133.00000345/2024-14).",
+        "ID": 4340
+      },
+      {
+        "Id": 4339,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1835",
+        "Data": "2026-08-24T07:00:00Z",
+        "Descricao": "Dispõe sobre a delegação para atuação em sistemas eletrônicos governamentais de planejamento, contratação pública e gestão administrativa no âmbito da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP), Processo SEI nº 133.00002859/2026-68.",
+        "ID": 4339
+      },
+      {
+        "Id": 4338,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "579",
+        "Data": "2026-08-24T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Cajati para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003533/2026-58",
+        "ID": 4338
+      },
+      {
+        "Id": 4337,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1834",
+        "Data": "2026-08-20T03:00:00Z",
+        "Descricao": "Institui procedimentos regulatórios para monitoramento e avaliação da universalização, dos indicadores operacionais e da qualidade das informações dos serviços públicos de abastecimento de água e esgotamento sanitário, em aplicação às Normas de Referência ANA nº 08/2024 e nº 09/2024 (Processo SEI nº 133.00000460/2026-42).",
+        "ID": 4337
+      },
+      {
+        "Id": 4336,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1833",
+        "Data": "2026-08-13T03:00:00Z",
+        "Descricao": "Institui o Edital que estabelece os critérios e procedimentos para a realização do quinto processo de Avaliação Teórica e/ou Prática, para fins de operacionalização do quinto concurso de promoção, nos termos da Lei Complementar nº 1.322, de 15 de maio de 2018. - Atualizada em 03/11/2026\r\n\r\nProcesso SEI nº 133.00003326/2026-01",
+        "ID": 4336
+      },
+      {
+        "Id": 4335,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1832",
+        "Data": "2026-08-10T08:00:00Z",
+        "Descricao": "Dispõe sobre a matriz de riscos aplicável aos contratos de prestação dos serviços públicos de abastecimento de água e esgotamento sanitário nos municípios regulados pela ARSESP em observância à Norma de Referência ANA nº 5/2024, revogando a Deliberação ARSESP nº 1.393, de 24de março de 2023 (Processo SEI nº 133.000002205/2026-34).",
+        "ID": 4335
+      },
+      {
+        "Id": 4334,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1831",
+        "Data": "2026-08-10T05:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo, as diferenças e os procedimentos para o recolhimento à ARSESP dos valoresde ajuste referentes à Taxa de Fiscalização, Controle e Regulação (TFCR) relativa aos exercícios de2025 e 2026 pelas concessionárias, comercializadoras de gás e operadoras municipais desaneamento descritas no Sumário desta Deliberação\r\n(Processo SEI nº 133.00002510/2026-26).",
+        "ID": 4334
+      },
+      {
+        "Id": 4333,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1830",
+        "Data": "2026-08-10T04:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo, as diferenças e os procedimentos para o recolhimento à ARSESP dos valores de ajuste referentes à Taxa de Fiscalização, Controle e Regulação (TFCR), relativa ao exercício de 2026pelas concessionárias, comercializadoras de gás e operadoras municipais de saneamento descritasno Sumário desta Deliberação (Processo SEI nº 133.00002511/2026-71).",
+        "ID": 4333
+      },
+      {
+        "Id": 4332,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1829",
+        "Data": "2026-08-10T03:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo e os procedimentos para o recolhimento à ARSESP dos valores referentes àTaxa de Fiscalização, Controle e Regulação (TFCR) relativa ao exercício de 2027 pelas concessionárias,comercializadoras de gás e operadoras municipais de saneamento descritas no Sumário desta Deliberação\r\n(Processo SEI nº 133.00002512/2026-15).",
+        "ID": 4332
+      },
+      {
+        "Id": 4331,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1828",
+        "Data": "2026-08-07T03:00:00Z",
+        "Descricao": "Dispõe sobre a manutenção, em caráter excepcional e transitório, da atual distribuição da supervisão\r\ntécnica das Superintendências da ARSESP e dá providências correlatas (Processo SEI nº\r\n133.00003295/2026-81).\r\n",
+        "ID": 4331
+      },
+      {
+        "Id": 4330,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "578",
+        "Data": "2026-08-05T03:00:00Z",
+        "Descricao": "Dispensa a pedido",
+        "ID": 4330
+      },
+      {
+        "Id": 4328,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1827",
+        "Data": "2026-08-03T03:00:00Z",
+        "Descricao": "Declara a Faixa de Atuação vigente para a Região Metropolitana de São Paulo, consigna a aplicação das medidas operacionais de contingência correspondentes e revoga a Deliberação ARSESP nº 1.814, de 17 de junho de 2026 (Processo SEI nº 133.00003010/2025-21).",
+        "ID": 4328
+      },
+      {
+        "Id": 4329,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1826",
+        "Data": "2026-07-30T03:00:00Z",
+        "Descricao": "Institui o Manual de Fiscalização Econômico-Financeira, aplicável aos setores regulados pela ARSESP, e aprova o respectivo Manual (Processo SEI nº 133.00000493/2025-10).",
+        "ID": 4329
+      },
+      {
+        "Id": 4327,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "577",
+        "Data": "2026-07-27T08:00:00Z",
+        "Descricao": "Exoneração",
+        "ID": 4327
+      },
+      {
+        "Id": 4326,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1825",
+        "Data": "2026-07-27T05:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação do Aditivo nº 7 ao Contrato de Compra e Venda de Gás Natural na Modalidade Firme Inflexível (“NMG 2024-34”), a ser celebrado entre a Necta Gás Natural S.A. (NECTA) e a Petróleo Brasileiro S.A. (PETROBRAS), Processo SEI nº 133.00001817/2023-67.",
+        "ID": 4326
+      },
+      {
+        "Id": 4325,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1824",
+        "Data": "2026-07-27T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação do Aditivo nº 11 ao Contrato de Compra e Venda de Gás Natural na Modalidade Firme Inflexível (“NMG 2024-34”), a ser celebrado entre a Gás Natural São Paulo Sul S.A. (NATURGY) e a Petróleo Brasileiro S.A. (PETROBRAS), Processo SEI nº 133.00001326/2023-16.",
+        "ID": 4325
+      },
+      {
+        "Id": 4324,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1823",
+        "Data": "2026-07-27T03:00:00Z",
+        "Descricao": "Aprova o 2º Programa de Integridade da Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP), referente ao ciclo 2026-2027 (Processo SEI nº 133.00001550/2026-51).",
+        "ID": 4324
+      },
+      {
+        "Id": 4322,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "576",
+        "Data": "2026-07-24T03:15:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Santa Salete para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003075/2026-57.",
+        "ID": 4322
+      },
+      {
+        "Id": 4321,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "575",
+        "Data": "2026-07-24T03:05:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Nova Campina para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003113/2026-71.",
+        "ID": 4321
+      },
+      {
+        "Id": 4323,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "574",
+        "Data": "2026-07-24T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Espírito Santo do Pinhal para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00003010/2026-10.",
+        "ID": 4323
+      },
+      {
+        "Id": 4320,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "573",
+        "Data": "2026-07-20T03:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4320
+      },
+      {
+        "Id": 4319,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1822",
+        "Data": "2026-07-17T03:00:00Z",
+        "Descricao": "Aprova o modelo padrão de Contrato de Uso do Sistema de Distribuição Verde (CUSD-Verde), a ser firmado entre concessionárias e fornecedores de biometano com plantas interconectadas ao sistema de distribuição de gás canalizado do Estado de São Paulo, nos termos da Deliberação ARSESP nº 1.765, de 23 de dezembro de 2025 (Processo SEI nº 133.00000871/2026-38).",
+        "ID": 4319
+      },
+      {
+        "Id": 4318,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "572",
+        "Data": "2026-07-16T03:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4318
+      },
+      {
+        "Id": 4317,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "571",
+        "Data": "2026-07-15T03:00:00Z",
+        "Descricao": "Exoneração",
+        "ID": 4317
+      },
+      {
+        "Id": 4316,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1821",
+        "Data": "2026-07-14T07:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo, as diferenças e os procedimentos para o recolhimento à ARSESP dos valores de ajuste referentes à Taxa de Fiscalização, Controle e Regulação (TFCR) relativa aos exercícios de 2025 e 2026 o cálculo e os procedimentos para o recolhimento à ARSESP dos valores referentes à TFCR 2027 pela comercializadora de gás GALP Energia Brasil S.A. (Processo SEI nº 133.00000459/2025-37).\r\n\r\n",
+        "ID": 4316
+      },
+      {
+        "Id": 4315,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1820",
+        "Data": "2026-07-14T04:00:00Z",
+        "Descricao": "Dispõe sobre o cálculo e os procedimentos para o recolhimento à ARSESP dos valores referentes à Taxa de Fiscalização, Controle e Regulação (TFCR) relativos aos exercícios de 2026 e 2027 pela comercializadora Saturno Gás Trading e Soluções Ltda. (Processo SEI nº 133.00002308/2026-02).",
+        "ID": 4315
+      },
+      {
+        "Id": 4314,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "570",
+        "Data": "2026-07-14T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Rosana para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002698/2026-11.",
+        "ID": 4314
+      },
+      {
+        "Id": 4313,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "569",
+        "Data": "2026-07-13T11:00:00Z",
+        "Descricao": "Designação",
+        "ID": 4313
+      },
+      {
+        "Id": 4312,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "568",
+        "Data": "2026-07-13T10:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Piacatu para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002886/2026-31.",
+        "ID": 4312
+      },
+      {
+        "Id": 4311,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "567",
+        "Data": "2026-07-13T09:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Alvinlândia para os fins da Deliberação Arsesp nº. 1.766/2026.\r\n\r\nSei 133.00002822/2026-30.",
+        "ID": 4311
+      },
+      {
+        "Id": 4310,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "566",
+        "Data": "2026-07-13T06:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Lupércio para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00002848/2026-88.",
+        "ID": 4310
+      },
+      {
+        "Id": 4309,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "565",
+        "Data": "2026-07-13T05:45:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Laranjal Paulista para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00004208/2025-21.",
+        "ID": 4309
+      },
+      {
+        "Id": 4308,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1819",
+        "Data": "2026-07-13T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação dos valores dos serviços complementares prestados pela concessionária Águas de Cabrália Paulista SPE Ltda. no município de Cabrália Paulista.\r\n\r\n(Processo SEI 133.00002631/2026-78)",
+        "ID": 4308
+      },
+      {
+        "Id": 4307,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1818",
+        "Data": "2026-07-13T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação dos novos valores das tarifas dos serviços de abastecimento de água e esgotamento sanitário prestados pela Água de Cabrália Paulista SPE Ltda. no Município de Cabrália Paulista.\r\n\r\n(Processo SEI 133.00002631/2026-78)",
+        "ID": 4307
+      },
+      {
+        "Id": 4305,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "564",
+        "Data": "2026-06-26T07:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4305
+      },
+      {
+        "Id": 4304,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "563",
+        "Data": "2026-06-26T05:00:00Z",
+        "Descricao": "Exoneração",
+        "ID": 4304
+      },
+      {
+        "Id": 4303,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1817",
+        "Data": "2026-06-26T04:00:00Z",
+        "Descricao": "Dispõe sobre a atualização das Tabelas Tarifárias a serem aplicadas pela concessionária de distribuição de gás canalizado NECTA Gás Natural S/A.– NECTA, inclusive das Tarifas de Uso do Sistema de Distribuição (TUSD) a serem aplicadas no mercado livre e revoga a Deliberação ARSESP nº 1.785, de 06 de março de 2026.\r\n\r\n(Processo SEI: 133.00002208/2026-78)\r\n\r\nAtualizada em 15/09/2026",
+        "ID": 4303
+      },
+      {
+        "Id": 4302,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1816",
+        "Data": "2026-06-26T03:00:00Z",
+        "Descricao": "Institui o Edital da Avaliação de Desempenho referente ao Ciclo de Desempenho 2025. (Processo SEI 133.00002186/2026-46)\r\n*Republicado por haver saído com incorreção do original, publicado no DOE em 26 de maio de 2026, Caderno Executivo, Atos Normativos.",
+        "ID": 4302
+      },
+      {
+        "Id": 4301,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "562",
+        "Data": "2026-06-22T08:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4301
+      },
+      {
+        "Id": 4300,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1815",
+        "Data": "2026-06-22T06:00:00Z",
+        "Descricao": "Dispõe sobre a metodologia de cálculo do Custo Médio Ponderado de Capital (WACC) das concessionárias de saneamento básico (água e esgoto), exceto Sabesp, a ser considerada em suas revisões tarifárias ordinárias. (Processo Sei nº. 133.00000402/2023-76).",
+        "ID": 4300
+      },
+      {
+        "Id": 4299,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1814",
+        "Data": "2026-06-22T04:00:00Z",
+        "Descricao": "Deliberação 1814, revogada pela Deliberação 1827 - Declara a Faixa de Atuação vigente para a Região Metropolitana de São Paulo, consigna a aplicação das medidas operacionais de contingência, e dá outras providências.\r\n\r\n(Processo SEI nº 133.00003010/2025-21) ",
+        "ID": 4299
+      },
+      {
+        "Id": 4298,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1813",
+        "Data": "2026-06-22T03:00:00Z",
+        "Descricao": "Disciplina o planejamento preventivo, a aplicação e o acompanhamento das medidas operacionais em função de Faixas de Atuação nos sistemas produtores de abastecimento de água regulados pela ARSESP, define as obrigações dos prestadores de serviço público em situações de escassez hídrica e dá outras providências\r\n\r\n(Processo SEI nº 133.00003010/2025-21).",
+        "ID": 4298
+      },
+      {
+        "Id": 4297,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "561",
+        "Data": "2026-06-19T05:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4297
+      },
+      {
+        "Id": 4296,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "560",
+        "Data": "2026-06-19T03:00:00Z",
+        "Descricao": "Exoneração",
+        "ID": 4296
+      },
+      {
+        "Id": 4295,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "559",
+        "Data": "2026-06-17T05:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Sagres para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00002496/2026-61.",
+        "ID": 4295
+      },
+      {
+        "Id": 4294,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "558",
+        "Data": "2026-06-17T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Águas da Prata para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00000448/2026-38.",
+        "ID": 4294
+      },
+      {
+        "Id": 4293,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "557",
+        "Data": "2026-06-17T03:00:00Z",
+        "Descricao": "Exoneração a pedido",
+        "ID": 4293
+      },
+      {
+        "Id": 4292,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "556",
+        "Data": "2026-06-16T04:00:00Z",
+        "Descricao": "Dispensa a pedido",
+        "ID": 4292
+      },
+      {
+        "Id": 4291,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1812",
+        "Data": "2026-06-16T03:00:00Z",
+        "Descricao": "Institui a Estratégia da ARSESP de Transparência, Integridade e Combate à Corrupção com a finalidade de desenvolver e implementar práticas de gestão de riscos e de controle interno, bem como o programa de integridade de que trata o Artigo 57 da Lei Complementar n°1.413, de 23 de setembro de 2024, além de promover a prevenção, a detecção, a punição e a remediação de desvios éticos, fraudes e atos de corrupção.",
+        "ID": 4291
+      },
+      {
+        "Id": 4290,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1811",
+        "Data": "2026-06-11T08:00:00Z",
+        "Descricao": "Aprova a alteração dos quantitativos e da distribuição dos cargos comissionados da Agência\r\nReguladora de Serviços Públicos do Estado de São Paulo – ARSESP; revoga a Deliberação ARSESP nº\r\n1.801, de 19 de maio de 2026.\r\n(Processo Sei nº. 133.00002568/2026-70).",
+        "ID": 4290
+      },
+      {
+        "Id": 4288,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "555",
+        "Data": "2026-06-11T06:00:00Z",
+        "Descricao": "Designa os membros da Comissão Interna Conjunta para Apuração do Acidente Ocorrido no Jaguaré e dá outras providências",
+        "ID": 4288
+      },
+      {
+        "Id": 4287,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "554",
+        "Data": "2026-06-11T05:00:00Z",
+        "Descricao": "Designa os membros do Grupo de Trabalho de Prevenção de Acidentes e Segurança de Infraestruturas, instituído pela Deliberação ARSESP nº 1.803, de 22 de maio de 2026",
+        "ID": 4287
+      },
+      {
+        "Id": 4286,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "553",
+        "Data": "2026-06-11T04:45:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Guararema para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00002378/2026-52.",
+        "ID": 4286
+      },
+      {
+        "Id": 4285,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "552",
+        "Data": "2026-06-11T04:10:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Araçariguama para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00001522/2026-33.",
+        "ID": 4285
+      },
+      {
+        "Id": 4284,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "551",
+        "Data": "2026-06-11T04:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação da habilitação do Fundo Municipal de Saneamento Básico do município de Duartina para os fins da Deliberação Arsesp nº. 1.766/2026. Sei 133.00002506/2025-87.",
+        "ID": 4284
+      },
+      {
+        "Id": 4283,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "550",
+        "Data": "2026-06-11T03:00:00Z",
+        "Descricao": "Exoneração",
+        "ID": 4283
+      },
+      {
+        "Id": 4306,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1810",
+        "Data": "2026-06-10T13:00:00Z",
+        "Descricao": "​Dispõe sobre a atualização das Tabelas Tarifárias a serem aplicadas pela concessionária de distribuição de gás canalizado NECTA Gás Natural S/A.– NECTA, inclusive das Tarifas de Uso do Sistema de Distribuição (TUSD) a serem aplicadas no mercado livre e revoga a Deliberação ARSESP nº 1.785, de 06 de março de 2026.\r\n\r\n(Processo SEI: 133.00002208/2026-78)",
+        "ID": 4306
+      },
+      {
+        "Id": 4281,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1809",
+        "Data": "2026-06-10T03:00:00Z",
+        "Descricao": "Dispõe sobre a atualização das Tabelas Tarifárias a serem aplicadas pela concessionária de\r\ndistribuição de gás canalizado Companhia de Gás de São Paulo - COMGÁS, inclusive das Tarifas de\r\nUso do Sistema de Distribuição (TUSD) a serem aplicadas no mercado livre e revoga a Deliberação\r\nARSESP nº 1.784, de 06 de março de 2026 (Processo SEI nº 133.00002265/2026-57).\r\n\r\nAtualizada em 15/09/2026\r\n",
+        "ID": 4281
+      },
+      {
+        "Id": 4280,
+        "Tipos": "Portaria ARSESP",
+        "Numero": "549",
+        "Data": "2026-06-09T03:00:00Z",
+        "Descricao": "Nomeação",
+        "ID": 4280
+      },
+      {
+        "Id": 4279,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1808",
+        "Data": "2026-06-08T04:00:00Z",
+        "Descricao": "Estabelece os limites máximos que poderão ser repassados na forma de parcela adicional ao preço do gás e do transporte às tarifas dos usuários de cada área de concessão de gás canalizado no Estado de São Paulo, com custos relativos às atividades contratadas para atendimento aos Projetos de Rede Local (Processo Sei nº. 133.00001353/2026-31).",
+        "ID": 4279
+      },
+      {
+        "Id": 4278,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1807",
+        "Data": "2026-06-08T03:00:00Z",
+        "Descricao": "Dispõe sobre a aprovação do Termo de Utilização de Interconexão – TUI, a ser celebrado entre COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS e a empresa ORIZON BIOMETANO ITAPEVI LTDA. para interconexão da planta de biometano à rede de distribuição de gás e revoga a Deliberação ARSESP nº 1.763, de 26 de dezembro de 2025. (Processo SEI 133.00001466/2025-56)",
+        "ID": 4278
+      },
+      {
+        "Id": 4277,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1806",
+        "Data": "2026-06-01T21:15:00Z",
+        "Descricao": "Dispõe sobre o reajuste dos valores das margens de distribuição, a atualização do custo médio ponderado do gás e do transporte, o repasse das contas gráficas, sobre a Tarifa de Uso do Sistema de Distribuição (TUSD) a ser aplicada no mercado livre e as tabelas tarifárias a serem aplicadas pela concessionária de distribuição de gás canalizado Gás Natural São Paulo Sul – NATURGY; revoga a Deliberação ARSESP nº 1.689, de 29 de maio de 2025 e Deliberação ARSESP nº 1.777, de 25 de fevereiro de 2026. (Processo SEI 133.00002207/2026-23",
+        "ID": 4277
+      },
+      {
+        "Id": 4276,
+        "Tipos": "Deliberação ARSESP",
+        "Numero": "1805",
+        "Data": "2026-06-01T21:00:00Z",
+        "Descricao": "Dispõe sobre os resultados da 5ª Revisão Tarifária Ordinária da Gás Natural São Paulo Sul S.A – NATURGY (Processo Sei nº. 133.00002515/2023-14).",
+        "ID": 4276
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+Divisão de Gestão Documental 1 Chefe de Divisão CCESP 1.10
+Coordenadoria de Redes e Suporte 1 Coordenador CCESP 1.13
+Coordenadoria de Soluções Digitais 1 Coordenador CCESP 1.13
+       
+DIRETORIA DE GESTÃO DE PESSOAS 1 Diretor CCESP 1.15
+Coordenadoria de Cadastro e Expediente 1 Coordenador CCESP 1.13
+Serviço de Controle Funcional 1 Chefe de Serviço FCESP 1.07
+  1 Assistente III FCESP 2.03
+Serviço de Controle dos Sistemas de Recursos
+Humanos
+1 Chefe de Serviço FCESP 1.07
+  1 Assistente III CCESP 2.03
+Coordenadoria de Concessão de Vantagens e
+Aposentadoria
+1 Coordenador CCESP 1.13
+Serviço de Administração da Vida Funcional 1 Chefe de Serviço FCESP 1.07
+Serviço de Gestão de Inativos e Aposentadoria 1 Chefe de Serviço FCESP 1.07
+  1 Assistente III FCESP 2.03
+Coordenadoria de Demandas Judiciais e Administrativas 1 Coordenador CCESP 1.13
+Serviço de Cumprimento de Ações Judiciais 1 Chefe de Serviço FCESP 1.07
+  1 Assistente Técnico I CCESP 2.05
+Serviço de Apuração Preliminar 1 Chefe de Serviço FCESP 1.07
+  1 Assistente II CCESP 2.02
+Coordenadoria de Evolução Funcional e Encargos
+Sociais
+1 Coordenador CCESP 1.13
+Serviço de Controle dos Encargos Sociais 1 Chefe de Serviço FCESP 1.07
+  1 Assistente Técnico I CCESP 2.05
+Serviço de Administração das Evoluções Funcionais 1 Chefe de Serviço FCESP 1.07
+       
+SUBSECRETARIA DE GESTÃO 1 Subsecretário CCESP 1.17
+       
+DIRETORIA GERAL DE DESENVOLVIMENTO E
+CAPACIDADE INSTITUCIONAL
+1 Diretor Geral FCESP 1.16
+Assessoria Técnica 1 Chefe de Assessoria FCESP 2.14
+  1 Assessor Especial I CCESP 2.13
+  3 Assessor IV CCESP 2.12
+Seção de Apoio Administrativo 1 Chefe de Seção CCESP 1.05
+  1 Assistente III CCESP 2.03
+  1 Assistente I FCESP 2.01
+       
+DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL 1 Diretor CCESP 1.15
+  2 Assessor IV CCESP 2.12
+  1 Assessor II CCESP 2.10
+  1 Assessor II FCESP 2.10
+  2 Assistente Técnico IV CCESP 2.08
+Coordenadoria de Modelos Organizacionais 1 Coordenador CCESP 1.13
+  1 Assistente Técnico III FCESP 2.07
+  1 Assistente Técnico III CCESP 2.07
+Divisão de Desenvolvimento Organizacional 1 Chefe de Divisão FCESP 1.10
+Divisão Central de Estruturas Organizacionais 1 Chefe de Divisão FCESP 1.10
+  3 Assistente Técnico I FCESP 2.05
+Coordenadoria de Gestão de Políticas Públicas 1 Coordenador FCESP 1.13
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 31/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

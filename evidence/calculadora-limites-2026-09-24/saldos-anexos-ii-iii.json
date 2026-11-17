@@ -1,0 +1,371 @@
+{
+  "date": "2026-09-24",
+  "scope": "Independent arithmetic QA only; no app/profile/workbook changes.",
+  "userDefinedSemantics": {
+    "limit": "Anexo III",
+    "allocation": "Anexo II",
+    "balance": "limit minus projected allocation",
+    "negative": "excess for that species and measure",
+    "positive": "positive numerical balance for that species and measure; not occupational vacancy or approval",
+    "legalStatus": "Rules/reference remain under technical validation; comparing these distinct objects is allowed arithmetically."
+  },
+  "source": {
+    "path": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/evidence/orgaos-2026-09-24/sggd-70755-quadros.json",
+    "sha256": "c3f94036282b25119512fbf4e6bf64efea16eccec797e730f90241470f4c0a56",
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html",
+    "publicationUrl": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+    "method": "Re-summed 407 Annex II quantity rows using exact unitHundredths, and 69 Annex III rows independently; all arithmetic in integer hundredths. No cached workbook totals used."
+  },
+  "originalAllocation": {
+    "CCESP": {
+      "quantity": 299,
+      "quotaCents": 106950,
+      "quotas": "1069.50"
+    },
+    "FCESP": {
+      "quantity": 201,
+      "quotaCents": 34875,
+      "quotas": "348.75"
+    }
+  },
+  "limit": {
+    "CCESP": {
+      "quantity": 298,
+      "quotaCents": 106600,
+      "quotas": "1066.00"
+    },
+    "FCESP": {
+      "quantity": 201,
+      "quotaCents": 34935,
+      "quotas": "349.35"
+    }
+  },
+  "scenarios": [
+    {
+      "id": "a_initial",
+      "description": "Anexo III menos alocação original do Anexo II.",
+      "startsFrom": "original Annex II allocation; scenarios are independent, not cumulative",
+      "changes": [],
+      "projected": {
+        "CCESP": {
+          "quantity": 299,
+          "quotaCents": 106950,
+          "quotas": "1069.50"
+        },
+        "FCESP": {
+          "quantity": 201,
+          "quotaCents": 34875,
+          "quotas": "348.75"
+        }
+      },
+      "projectedAggregate": {
+        "quantity": 500,
+        "quotaCents": 141825,
+        "quotas": "1418.25"
+      },
+      "balance": {
+        "CCESP": {
+          "quantity": -1,
+          "quotaCents": -350,
+          "quotas": "-3.50"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 60,
+          "quotas": "0.60"
+        }
+      },
+      "balanceAggregate": {
+        "quantity": -1,
+        "quotaCents": -290,
+        "quotas": "-2.90"
+      },
+      "variationFromAnnexII": {
+        "CCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "excessByGroup": {
+        "CCESP": {
+          "quantity": 1,
+          "quotaCents": 350,
+          "quotas": "3.50"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "anyNegativeBalance": true
+    },
+    {
+      "id": "b_dmo_ccesp_level8_plus1",
+      "description": "DMO direta: CCESP 2.08 de 2 para 3; restante da alocação do Anexo II preservado.",
+      "startsFrom": "original Annex II allocation; scenarios are independent, not cumulative",
+      "changes": [
+        {
+          "group": "CCESP",
+          "quantityDelta": 1,
+          "unitQuotaCents": 275
+        }
+      ],
+      "projected": {
+        "CCESP": {
+          "quantity": 300,
+          "quotaCents": 107225,
+          "quotas": "1072.25"
+        },
+        "FCESP": {
+          "quantity": 201,
+          "quotaCents": 34875,
+          "quotas": "348.75"
+        }
+      },
+      "projectedAggregate": {
+        "quantity": 501,
+        "quotaCents": 142100,
+        "quotas": "1421.00"
+      },
+      "balance": {
+        "CCESP": {
+          "quantity": -2,
+          "quotaCents": -625,
+          "quotas": "-6.25"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 60,
+          "quotas": "0.60"
+        }
+      },
+      "balanceAggregate": {
+        "quantity": -2,
+        "quotaCents": -565,
+        "quotas": "-5.65"
+      },
+      "variationFromAnnexII": {
+        "CCESP": {
+          "quantity": 1,
+          "quotaCents": 275,
+          "quotas": "2.75"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "excessByGroup": {
+        "CCESP": {
+          "quantity": 2,
+          "quotaCents": 625,
+          "quotas": "6.25"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "anyNegativeBalance": true,
+      "dmoLocalCheck": {
+        "baseline": {
+          "CCESP": {
+            "quantity": 6,
+            "quotaCents": 2275,
+            "quotas": "22.75"
+          },
+          "FCESP": {
+            "quantity": 1,
+            "quotaCents": 195,
+            "quotas": "1.95"
+          }
+        },
+        "baselineAggregate": {
+          "quantity": 7,
+          "quotaCents": 2470,
+          "quotas": "24.70"
+        },
+        "proposed": {
+          "CCESP": {
+            "quantity": 7,
+            "quotaCents": 2550,
+            "quotas": "25.50"
+          },
+          "FCESP": {
+            "quantity": 1,
+            "quotaCents": 195,
+            "quotas": "1.95"
+          }
+        },
+        "proposedAggregate": {
+          "quantity": 8,
+          "quotaCents": 2745,
+          "quotas": "27.45"
+        }
+      }
+    },
+    {
+      "id": "c_ccesp_level11_minus1",
+      "description": "Estrutura total do Anexo II: retirar um CCESP nível 11 (código 2.11 disponível na base).",
+      "startsFrom": "original Annex II allocation; scenarios are independent, not cumulative",
+      "changes": [
+        {
+          "group": "CCESP",
+          "quantityDelta": -1,
+          "unitQuotaCents": 350
+        }
+      ],
+      "projected": {
+        "CCESP": {
+          "quantity": 298,
+          "quotaCents": 106600,
+          "quotas": "1066.00"
+        },
+        "FCESP": {
+          "quantity": 201,
+          "quotaCents": 34875,
+          "quotas": "348.75"
+        }
+      },
+      "projectedAggregate": {
+        "quantity": 499,
+        "quotaCents": 141475,
+        "quotas": "1414.75"
+      },
+      "balance": {
+        "CCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 60,
+          "quotas": "0.60"
+        }
+      },
+      "balanceAggregate": {
+        "quantity": 0,
+        "quotaCents": 60,
+        "quotas": "0.60"
+      },
+      "variationFromAnnexII": {
+        "CCESP": {
+          "quantity": -1,
+          "quotaCents": -350,
+          "quotas": "-3.50"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "excessByGroup": {
+        "CCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "anyNegativeBalance": false
+    },
+    {
+      "id": "d_fcesp_level15_minus1",
+      "description": "Estrutura total do Anexo II: retirar uma FCESP 1.15 (há 5 na base). Saldo agregado passa a positivo; excesso de CCESP permanece.",
+      "startsFrom": "original Annex II allocation; scenarios are independent, not cumulative",
+      "changes": [
+        {
+          "group": "FCESP",
+          "quantityDelta": -1,
+          "unitQuotaCents": 360
+        }
+      ],
+      "projected": {
+        "CCESP": {
+          "quantity": 299,
+          "quotaCents": 106950,
+          "quotas": "1069.50"
+        },
+        "FCESP": {
+          "quantity": 200,
+          "quotaCents": 34515,
+          "quotas": "345.15"
+        }
+      },
+      "projectedAggregate": {
+        "quantity": 499,
+        "quotaCents": 141465,
+        "quotas": "1414.65"
+      },
+      "balance": {
+        "CCESP": {
+          "quantity": -1,
+          "quotaCents": -350,
+          "quotas": "-3.50"
+        },
+        "FCESP": {
+          "quantity": 1,
+          "quotaCents": 420,
+          "quotas": "4.20"
+        }
+      },
+      "balanceAggregate": {
+        "quantity": 0,
+        "quotaCents": 70,
+        "quotas": "0.70"
+      },
+      "variationFromAnnexII": {
+        "CCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        },
+        "FCESP": {
+          "quantity": -1,
+          "quotaCents": -360,
+          "quotas": "-3.60"
+        }
+      },
+      "excessByGroup": {
+        "CCESP": {
+          "quantity": 1,
+          "quotaCents": 350,
+          "quotas": "3.50"
+        },
+        "FCESP": {
+          "quantity": 0,
+          "quotaCents": 0,
+          "quotas": "0.00"
+        }
+      },
+      "anyNegativeBalance": true
+    }
+  ],
+  "assertions": {
+    "recomputedAnnexIIMatchesKnownTotals": true,
+    "recomputedAnnexIIIMatchesKnownTotals": true,
+    "scenarioDBalanceAggregatePositiveButCCExcess": true,
+    "scenarioDQuantityAggregateZeroButCCExcess": true
+  },
+  "qaLabels": [
+    "Excesso deve permanecer por espécie e por medida; não compensar CCESP com FCESP no estado geral.",
+    "O agregado pode ser exibido descritivamente, mas saldo agregado positivo não apaga saldo negativo de uma espécie.",
+    "Cada cenário parte da base original; não aplicar as quatro alterações em sequência.",
+    "Saldo da secretaria após editar a DMO usa total II - DMO original + DMO proposta; o restante fica preservado."
+  ]
+}

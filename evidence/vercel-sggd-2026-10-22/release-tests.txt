@@ -1,0 +1,44 @@
+✔ untouched structure yields all 407 documentary rows and 500 positions, not the grouped arithmetic rows (44.1315ms)
+✔ one summary and annex include edits in multiple units, exact quota changes and proposed names (28.904584ms)
+✔ normalization and zero additions produce no changes or documentary output (25.458375ms)
+✔ positive additions follow documentary rows in their own unit without merging identical codes (25.581834ms)
+✔ withdrawn rows and empty units disappear; resetting only one unit preserves other changes (71.464583ms)
+✔ a blank or malformed hidden quantity blocks the complete annex without inferred zero or stale rows (109.820334ms)
+✔ base discrepancies, proposal metadata, template changes and missing documentary rows block generation (143.19075ms)
+✔ explicit zero is valid and a huge quantity retains exact integer/cents values (51.756ms)
+✔ species changes retain independent signs even when the aggregate headcount is unchanged (24.174083ms)
+✔ documentary order is stable and duplicate unit names keep separate identities (27.254708ms)
+✔ malformed model containers fail closed and return no partial annex (7.607458ms)
+✔ outputs are deterministic and serializable without mutating base, proposal, or nested source metadata (59.583375ms)
+✔ plain text describes all four measures, distinct annexes, changes, public sources and technical limits (25.579375ms)
+✔ pending text preserves invalid input and does not describe a partial annex as generated (19.056125ms)
+✔ homonymous Assessoria Técnica units retain their documentary parents and stay distinct in text (77.741625ms)
+✔ proposed parent names resolve by unique documentary ID and source rows disambiguate equal labels (49.100625ms)
+✔ ambiguous parent remains documentary text with an explicit hierarchy pending notice (46.569416ms)
+✔ JSON round-trip preserves one complete multi-unit draft without mutating the baseline (46.2895ms)
+✔ blank, invalid and excessively long numeric inputs survive saving as drafts verbatim (172.799083ms)
+✔ non-string quantities are rejected explicitly instead of converted or accepted as drafts (135.694959ms)
+✔ new unit names are bounded by their normalized length without rewriting imported text (143.430875ms)
+✔ another format, file version, organization or base version is rejected (85.861042ms)
+✔ changed code, denomination, coefficient and documentary identity cannot be imported (179.836958ms)
+✔ the selected baseline is independently checked instead of trusted from the envelope (22.396416ms)
+✔ malformed JSON, missing records and invalid timestamps produce explicit errors (44.721833ms)
+✔ payload limit counts UTF-8 bytes, not only characters (6.896125ms)
+✔ collection limits reject excessive units and positions before evaluating the engine (18.2325ms)
+✔ storage is injected and keys separate organizations and base versions (28.363958ms)
+✔ corrupt saved data is reported and retained; rejected saves do not overwrite the old draft (27.088916ms)
+✔ unavailable storage and read/write/remove failures are surfaced, never reported as saved (14.032791ms)
+✔ all 407 detailed records retain the original Annex II identity and allocation (6.593375ms)
+✔ detailed allocation aggregates exactly to the existing calculator baseline and motor (20.039167ms)
+✔ direct unit allocations partition the whole without losing same-name units or codes (3.030916ms)
+✔ III limits and the divergent consolidated workbook remain separate from II allocation (0.14875ms)
+✔ hierarchy uses only an unambiguous explicit model parent and flags ambiguous names (31.920958ms)
+✔ the imported snapshot is immutable and traceable to exact received source bytes (5.498625ms)
+ℹ tests 36
+ℹ suites 0
+ℹ pass 36
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1032.660958

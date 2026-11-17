@@ -1,0 +1,157 @@
+{
+  "checkedAt": "2026-11-16",
+  "organization": "ARTESP",
+  "scope": "Official structural allocation evidence; no app/data-source/workbook changes, no publication, no occupancy or payroll certification.",
+  "conclusion": "The original Anexo I LC 1.413/2024 reconciles 106 CCESP and 580.00 cotas only by level. The independently reconciled later source Deliberação ARTESP 722/2026 contains 134 numeric position rows representing 154 CCESP and 580.00 cotas. These are distinct versions; no allocation of 106 to named units was invented.",
+  "versions": [
+    {
+      "source": "LC 1.413/2024, art. 71 and Anexo I",
+      "actDate": "2024-09-23",
+      "publicationDate": "2024-09-24",
+      "quantity": 106,
+      "cotaCents": 58000,
+      "unitDetail": false,
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1413-23.09.2024.html",
+      "evidence": "artesp-anexo-i-lc1413.json"
+    },
+    {
+      "source": "Deliberação ARTESP 390/2026",
+      "actDate": "2026-05-26",
+      "publicationDate": "2026-05-27",
+      "quantity": 152,
+      "cotaCents": 58000,
+      "unitDetail": true,
+      "numericRows": 133,
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-artesp-n-390-de-26-de-maio-de-2026-2026052611351712031874258",
+      "evidence": "artesp-distribuicao-390.json"
+    },
+    {
+      "source": "Deliberação ARTESP 722/2026",
+      "actDate": "2026-09-22",
+      "publicationDate": "2026-09-23",
+      "quantity": 154,
+      "cotaCents": 58000,
+      "unitDetail": true,
+      "numericRows": 134,
+      "documentUnitLabels": 79,
+      "documentGroups": 17,
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-artesp-n-722-de-22-de-setembro-de-2026-2026092211351712032147160",
+      "relation": "Explicitly retifies the allocation and quantities defined in Deliberação ARTESP 684, 16/09/2026.",
+      "evidence": "artesp-distribuicao-722.json"
+    }
+  ],
+  "specialRegime": [
+    {
+      "finding": "LC 1.413 art. 70 and Decreto 69.339 art. 39 apply LC 1.395 to agency commission posts except Diretor-Presidente and Diretor. Do not count the separate agency directors or permanent jobs as the 106/154 commission-post allocation.",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1413-23.09.2024.html",
+      "articles": [
+        "70",
+        "71",
+        "72",
+        "73",
+        "74"
+      ]
+    },
+    {
+      "finding": "LC 1.395 art. 5 §3 assigns recomposition to the agency Conselho Diretor; art. 5 caput requires vacant posts, no expense increase and service continuity. The 106 original posts are not an immutable ceiling on the quantity after a documented recomposition.",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html",
+      "articles": [
+        "5 caput I-II",
+        "5 §3",
+        "17 parágrafo único"
+      ]
+    },
+    {
+      "finding": "Decreto 69.339 art. 42 expressly requires council allocation by organs/units, taking Anexo I LC1.413 quantities/unit and total values into account, subject to council recomposition. Art. 44 and Anexo Único contain agency-specific post denominations/levels.",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "articles": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "44",
+        "Anexo Único"
+      ]
+    },
+    {
+      "finding": "Decreto 69.339 art. 39 sole paragraph specifically references Decreto68.742 art.4 and arts.6,7,9,11,12,14. Do not copy every ordinary secretariat hierarchy/cargo rule to ARTESP without checking the special regime.",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "articles": [
+        "39 parágrafo único"
+      ]
+    }
+  ],
+  "currentNormRecordChecks": {
+    "lc1413": {
+      "ficha": "https://www.al.sp.gov.br/norma/210012",
+      "statusReportedByAlesp": "Sem revogação expressa",
+      "alterationAnnotations": 0,
+      "retifications": [
+        {
+          "date": "2024-09-26",
+          "scope": "Art.66, DAEE creation-law date; not ARTESP Anexo I."
+        },
+        {
+          "date": "2025-02-21",
+          "scope": "Art.87 II b, minimum reference art.71 LC1.413 in LC1.395 art.17 sole paragraph; not a new allocation table."
+        }
+      ]
+    },
+    "decreto69339": {
+      "ficha": "https://www.al.sp.gov.br/norma/210569",
+      "statusReportedByAlesp": "Sem revogação expressa",
+      "alterationAnnotations": 0,
+      "retificationsRecorded": 0,
+      "correlatedAct": "Decreto69.743/2025 concerns budget classification and agency autonomy, not a replacement distribution table."
+    },
+    "allocationCurrency": "722/2026 is the latest full allocation reconciled in this scoped review. Targeted public searches for later ARTESP quantitative/commission-post acts in Oct/Nov2026 did not locate a new table. Search indexing is not exhaustive, so this is not certification of absence of later acts."
+  },
+  "localWorkbookChecks": [
+    {
+      "source": "mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+      "sheet": "Setores_Atual",
+      "range": "A46:J46",
+      "finding": "106/580, LC1413/2024; I46 itself says reference2024/base not updated."
+    },
+    {
+      "source": "Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+      "sheet": "Resumo",
+      "range": "A44:J44",
+      "finding": "152/580 from Deliberação390/2026."
+    },
+    {
+      "source": "Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+      "sheet": "ARTESP",
+      "range": "A13:G28",
+      "finding": "16 positive level rows independently sum152/580 and match the 390/2026 summary, not LC1413 original106 nor 722/2026 later154."
+    },
+    {
+      "source": "Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+      "sheet": "ARTESP",
+      "range": "B91:F190",
+      "finding": "The unit/name/parent/relation/cargo input area is empty. This workbook is not a populated by-unit documentary allocation."
+    }
+  ],
+  "normalization": {
+    "arithmetic": "Parse quantity and level from official table1, map coefficient from table2, multiply integer quantity by integer coefficientCents. Compare counts for all18 levels against independent official summary; differences empty for both390 and722.",
+    "unitIdentity": "Version-specific stable keys based on original HTML row index preserve79 distinct labels and17 explicit full-width groups. A blank unit cell cannot open/change a group.",
+    "hierarchy": "parentUnitId left null. Document group and preceding unit-label continuation are separate fields. A legal parent tree requires the applicable Regimento, not visual sequence alone.",
+    "codes": "Original does not provide full CCESP 1.xx/2.xx codes. fullCode:null is intentional; no code invented from denomination.",
+    "occupancy": "These are allocated/authorized posts in a source version, not occupied positions, personnel or a live available balance."
+  },
+  "pendingBeforeProductionUse": [
+    "Confirm whether any later ARTESP act changes allocation after722/2026.",
+    "Reconcile the detailed legal hierarchy to the applicable Regimento before enabling a fully editable organization tree.",
+    "Validate any required fullcode/category mapping independently; do not fabricate series1/2.",
+    "Obtain technical agreement on which dated allocation is the operational baseline while retaining the original106/580 as historical legal reference."
+  ],
+  "files": [
+    "artesp-anexo-i-lc1413.json",
+    "artesp-distribuicao-722.json",
+    "artesp-distribuicao-390.json",
+    "artesp-tabelas-722.json",
+    "artesp-tabelas-390.json",
+    "artesp-planilhas-locais.json"
+  ],
+  "noSourceMutation": true
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/norma-web-files/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alesp - Legislação Estadual</title>
+  <meta name="description"
+    content="Pesquisa da Legislação do Estado de São Paulo - Assembleia Legislativa do Estado de São Paulo" />
+  <!-- Google Fonts: Open Sans — fonte oficial Alesp -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome — ícones de redes sociais e pesquisa -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha384-/o6I2CkkWC//PSjvWC/eYN7l3xM3tJm8ZzVkCOfp//W05QcE3mlGskpoHB6XqI+B" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script type="module" crossorigin src="/norma-web-files/main-CrWraj9u.js"></script>
+  <link rel="stylesheet" crossorigin href="/norma-web-files/main-C2g5JS8L.css">
+</head>
+
+<body>
+  <div id="app">
+    <header class="main-header">
+      <!-- Barra utilitária: links institucionais + redes sociais -->
+      <div class="header-top">
+        <div class="container header-top-container">
+          <div class="header-top-links">
+            <a href="https://www.al.sp.gov.br/" class="header-top-label header-top-label--link" aria-label="Voltar ao Portal Alesp">
+              <i class="fas fa-arrow-left nav-back-icon" aria-hidden="true"></i>
+              <span>Portal Alesp</span>
+            </a>
+          </div>
+          <nav class="header-social-links" aria-label="Redes sociais">
+            <a href="https://www.facebook.com/assembleiasp/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com/AssembleiaSP" target="_blank" rel="noopener" aria-label="Twitter"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/alesp" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.instagram.com/assembleiasp/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/user/assembleiaspconteudo" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <a href="https://open.spotify.com/show/2gedm6sSvNqojkmNZDzuBi" target="_blank" rel="noopener" aria-label="Spotify"><i class="fab fa-spotify"></i></a>
+            <a href="https://www.flickr.com/photos/assembleiasp/albums" target="_blank" rel="noopener" aria-label="Flickr"><i class="fab fa-flickr"></i></a>
+          </nav>
+        </div>
+      </div>
+
+      <!-- Identidade visual: logomarca Alesp + título da aplicação -->
+      <div class="header-brand">
+        <div class="container header-brand-container">
+          <a href="https://www.al.sp.gov.br/" rel="noopener" target="_blank" class="header-logo-link">
+            <img src="/norma-web-files/logo.svg" alt="Alesp - Legislação Estadual" class="header-logo-img" />
+          </a>
+          <a href="/" class="header-title" data-link>Legislação Estadual</a>
+        </div>
+      </div>
+
+      <!-- Navegação (sticky) -->
+      <nav class="header-app-nav main-nav" role="navigation" aria-label="Menu de legislação">
+        <div class="container header-nav-container">
+          <button class="hamburger-btn" id="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
+            <span class="hamburger-bar"></span>
+            <span class="hamburger-bar"></span>
+            <span class="hamburger-bar"></span>
+          </button>
+          <div class="nav-links-wrapper" id="nav-links">
+            <a href="/legislacao" class="nav-top-link" data-link>Pesquisa de Normas</a>
+            <a href="/norma/coletaneas" class="nav-top-link" data-link>Coletâneas Temáticas</a>
+            <a href="/legislacao/levantamentos-quantitativos" class="nav-top-link" data-link>Levantamentos Quantitativos</a>
+            <!-- Página do portal, fora desta aplicação: explica o acompanhamento e leva à baleg-web. Sem data-link -->
+            <a href="https://www.al.sp.gov.br/leis/notificacoes/" class="nav-top-link">Notificação de Alterações</a>
+            <!-- Processo legislativo (legis-web), outra aplicação: navegação comum, sem data-link -->
+            <a href="/propositura/" class="nav-top-link">Atividade Legislativa</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main-content" class="container">
+      <!-- Route views will be rendered here -->
+    </main>
+
+    <footer class="main-footer">
+      <div class="container">
+        <p>&copy; 2026 Assembleia Legislativa do Estado de São Paulo</p>
+      </div>
+    </footer>
+  </div>
+</body>
+
+</html>

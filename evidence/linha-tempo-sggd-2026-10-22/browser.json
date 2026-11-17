@@ -1,0 +1,114 @@
+{
+  "url": "https://siorg-calculadora-mvp.vercel.app/novas-estruturas",
+  "title": "Novas Estruturas | SIORG",
+  "timeline": "6 decretos · 3 atos relacionados\n\nOrdenar por\nMais antigos primeiro\nMais recentes primeiro\nExpandir atos relacionados",
+  "decrees": [
+    "Decreto nº 69.052/2024",
+    "Decreto nº 69.230/2024",
+    "Decreto nº 69.290/2024",
+    "Decreto nº 69.506/2025",
+    "Decreto nº 69.873/2025",
+    "Decreto nº 70.755/2026"
+  ],
+  "links": [
+    {
+      "href": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69052-14.11.2024.html",
+      "label": "Texto na ALESP — abre em nova aba"
+    },
+    {
+      "href": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69230-23.12.2024.html",
+      "label": "Texto na ALESP — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69506-30.04.2025.html",
+      "label": "Alteração pelo Decreto 69.506 — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69290-31.12.2024.html",
+      "label": "Texto na ALESP — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69873-19.09.2025.html",
+      "label": "Alteração pelo Decreto 69.873 — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69506-30.04.2025.html",
+      "label": "Texto na ALESP — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70599-13.05.2026.html",
+      "label": "Revogação específica pelo Decreto 70.599 — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213",
+      "label": "Revogação pela Resolução 33 — abre em nova aba"
+    },
+    {
+      "href": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69873-19.09.2025.html",
+      "label": "Texto na ALESP — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html",
+      "label": "Texto na ALESP — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847",
+      "label": "Revogação parcial pela Resolução 39 — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847",
+      "label": "Diário Oficial — abre em nova aba"
+    },
+    {
+      "href": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017",
+      "label": "Diário Oficial — abre em nova aba"
+    }
+  ],
+  "errors": [],
+  "script": [
+    "/assets/index-JUwX20-X.js"
+  ],
+  "checked": {
+    "directReload": true,
+    "sort": true,
+    "expand": true,
+    "simulatorRoundTrip": true,
+    "localDraftPreserved": true,
+    "localAnchors": true,
+    "mobile390": true,
+    "desktop1440": true,
+    "largeFontAndContrast": true
+  }
+}

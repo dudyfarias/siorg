@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-09-24T16:48:41.496Z",
+  "publicUrl": "https://siorg-calculadora-mvp.vercel.app/#resultados",
+  "localStart": "2026-09-24T16:43:45.468Z",
+  "publicStart": "2026-09-24T16:47:41.229Z",
+  "publicLogs": [],
+  "checks": {
+    "initialBalances": true,
+    "wholeCcespReduction": true,
+    "noCrossSpeciesCompensation": true,
+    "incompleteKeepsCurrent": true,
+    "dmoProjection": true,
+    "exportMatchesSourcesAndBalances": true,
+    "mobileWidth390NoOverflow": true,
+    "adjacentSelectors": true,
+    "tooltipEscape": true
+  },
+  "unitProjection": {
+    "CCESP": {
+      "quantity": "300",
+      "quotaCents": "107225",
+      "quantityBalance": "-2",
+      "quotaBalanceCents": "-625"
+    },
+    "FCESP": {
+      "quantity": "201",
+      "quotaCents": "34875",
+      "quantityBalance": "0",
+      "quotaBalanceCents": "60"
+    }
+  }
+}

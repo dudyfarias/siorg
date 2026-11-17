@@ -1,0 +1,118 @@
+{
+  "source": "sources/preparacao-2026-10-19/SGGD- TESTE1.xlsx",
+  "sourceSha256": "ea6d9f74dd20b27f70f172e6d0b3d523d440ac60e1a0085d5de2f40c7afb2ddb",
+  "output": "src/data/sggd-structure.mjs",
+  "outputSha256": "6d322d52209a29d4e5dedbf67618dfd3c893c6709c28ab8d4bd802ff34e33940",
+  "reconciliation": {
+    "documentaryRecordCount": 407,
+    "importedRecordCount": 407,
+    "unitCount": 221,
+    "matchesDocumentaryRecords": true,
+    "matchingFields": [
+      "unit",
+      "denomination",
+      "code",
+      "quantity"
+    ],
+    "matchingNormalization": "Unicode NFKC, caixa e espaços; dados exibidos preservados do TESTE1.",
+    "displayDifferenceCount": 0,
+    "annexIIAllocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "299",
+          "quotaCents": "106950"
+        },
+        "FCESP": {
+          "quantity": "201",
+          "quotaCents": "34875"
+        }
+      },
+      "aggregate": {
+        "quantity": "500",
+        "quotaCents": "141825"
+      }
+    },
+    "annexIIILimits": {
+      "groups": {
+        "CCESP": {
+          "quantity": "298",
+          "quotaCents": "106600"
+        },
+        "FCESP": {
+          "quantity": "201",
+          "quotaCents": "34935"
+        }
+      },
+      "aggregate": {
+        "quantity": "499",
+        "quotaCents": "141535"
+      }
+    },
+    "initialBalance": {
+      "groups": {
+        "CCESP": {
+          "quantity": "-1",
+          "quotaCents": "-350"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "60"
+        }
+      }
+    },
+    "consolidated": {
+      "importedAsBaseline": false,
+      "quantityCells": {
+        "CCESP": "SGGD!C6",
+        "FCESP": "SGGD!C7",
+        "aggregate": "SGGD!C8"
+      },
+      "declaredAllocatedQuantity": {
+        "CCESP": "298",
+        "FCESP": "197",
+        "aggregate": "495"
+      },
+      "differenceToImportedAllocation": {
+        "CCESP": "-1",
+        "FCESP": "-4",
+        "aggregate": "-5"
+      },
+      "note": "O consolidado declara 495 alocados; não substitui os 500 postos transcritos no TESTE1 e no Anexo II documental."
+    },
+    "hierarchy": {
+      "status": "model-explicit-unverified",
+      "unresolvedParents": [
+        {
+          "unitId": "sggd-unit-ii-420",
+          "sourceRow": 825,
+          "parentName": "Divisão de Gestão Documental",
+          "candidateIds": [
+            "sggd-unit-ii-100",
+            "sggd-unit-ii-419"
+          ]
+        },
+        {
+          "unitId": "sggd-unit-ii-421",
+          "sourceRow": 828,
+          "parentName": "Divisão de Gestão Documental",
+          "candidateIds": [
+            "sggd-unit-ii-100",
+            "sggd-unit-ii-419"
+          ]
+        },
+        {
+          "unitId": "sggd-unit-ii-422",
+          "sourceRow": 831,
+          "parentName": "Divisão de Gestão Documental",
+          "candidateIds": [
+            "sggd-unit-ii-100",
+            "sggd-unit-ii-419"
+          ]
+        }
+      ],
+      "note": "Somente vínculos explícitos da coluna B com nome unívoco recebem parentUnitId. Pais externos à lista e nomes ambíguos permanecem sem ligação. Não usar esta base como hierarquia homologada."
+    }
+  },
+  "displayDifferences": [],
+  "excluded": "Campos de proposta, áreas de criação, valores mensais, fórmulas e resumo de 495 do consolidado não foram importados como base."
+}

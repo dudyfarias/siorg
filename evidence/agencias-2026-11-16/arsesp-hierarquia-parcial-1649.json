@@ -1,0 +1,673 @@
+{
+  "organizationId": "arsesp",
+  "modelVersion": "arsesp-deliberacao-1811-2026",
+  "checkedAt": "2026-11-16",
+  "sourceUrl": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+  "sourceSha256": "5424de9461709c588b009b5cbf558eaa3f4bef656647db0f6b56107ccacda9aa",
+  "sourceStatus": "PDF republicado atualmente apontado na página institucional; não é certificação de consolidação de todas as alterações.",
+  "scope": "Vínculos hierárquicos explícitos mapeáveis para os nós existentes do quadro 1.811. Não inclui supervisão técnica, delegação, composição da UGI nem inferência apenas pela ordem visual.",
+  "links": [
+    {
+      "unitId": "arsesp-1811-unit-11",
+      "unitName": "Gerência de Recursos Humanos",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-13",
+      "unitName": "Gerência de Licitações e Contratos",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-15",
+      "unitName": "Gerência de Orçamento e Finanças",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-17",
+      "unitName": "Gerência de Projetos e Estruturação Regulatória",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-18",
+      "unitName": "Gerência de Gestão Contratual",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-20",
+      "unitName": "Gerência de Comunicação",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-22",
+      "unitName": "Gerência de Apoio a Demandas Externas",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-23",
+      "unitName": "Gerência de Dados",
+      "parentUnitId": "arsesp-1811-unit-8",
+      "parentName": "Gabinete da Presidência/Secretaria Executiva",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 29",
+        "pdfPage": 24
+      },
+      "mappingNote": "O quadro 1.811 reúne Gabinete da Presidência/Secretaria Executiva em uma unidade; o art.29 nomeia o Gabinete da Presidência. Vínculo mapeado para esse nó documental combinado."
+    },
+    {
+      "unitId": "arsesp-1811-unit-81",
+      "unitName": "Gerência de Tecnologia da Informação",
+      "parentUnitId": "arsesp-1811-unit-78",
+      "parentName": "Superintendência de Tecnologia da Informação",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 35",
+        "pdfPage": 38
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-51",
+      "unitName": "Gerência de Regulação e Fiscalização de Parques",
+      "parentUnitId": "arsesp-1811-unit-48",
+      "parentName": "Superintendência de Parcerias",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 38",
+        "pdfPage": 41
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-52",
+      "unitName": "Gerência de Regulação e Fiscalização de Serviços",
+      "parentUnitId": "arsesp-1811-unit-48",
+      "parentName": "Superintendência de Parcerias",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 38",
+        "pdfPage": 41
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-60",
+      "unitName": "Gerência de Fiscalização de Energia Elétrica",
+      "parentUnitId": "arsesp-1811-unit-59",
+      "parentName": "Superintendência de Fiscalização de Energia Elétrica",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 40",
+        "pdfPage": 44
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-62",
+      "unitName": "Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "parentUnitId": "arsesp-1811-unit-59",
+      "parentName": "Superintendência de Fiscalização de Energia Elétrica",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 40",
+        "pdfPage": 44
+      },
+      "mappingNote": "Regimento contém a grafia Atendimenta; o quadro 1.811 usa Atendimento. Correspondência explícita com a segunda gerência do art.40, mesmo restante do nome; manter o nome do quadro."
+    },
+    {
+      "unitId": "arsesp-1811-unit-54",
+      "unitName": "Gerência de Estudos Técnicos, Regulação e Contratos",
+      "parentUnitId": "arsesp-1811-unit-53",
+      "parentName": "Superintendência de Regulação de Gás Canalizado",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 42",
+        "pdfPage": 47
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-55",
+      "unitName": "Gerência de Comercialização, Rede Local e P&D",
+      "parentUnitId": "arsesp-1811-unit-53",
+      "parentName": "Superintendência de Regulação de Gás Canalizado",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 42",
+        "pdfPage": 47
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-57",
+      "unitName": "Gerência de Fiscalização Técnica",
+      "parentUnitId": "arsesp-1811-unit-56",
+      "parentName": "Superintendência de Fiscalização de Gás Canalizado",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 44",
+        "pdfPage": 49
+      },
+      "mappingNote": "Homônimas desambiguadas pelo órgão-pai explicitamente enumerado nos arts.44 e48 e pelo rótulo documental 3.a / 6.a, sem fundir IDs."
+    },
+    {
+      "unitId": "arsesp-1811-unit-58",
+      "unitName": "Gerência de Fiscalização Comercial",
+      "parentUnitId": "arsesp-1811-unit-56",
+      "parentName": "Superintendência de Fiscalização de Gás Canalizado",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 44",
+        "pdfPage": 49
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-65",
+      "unitName": "Gerência de Regulação de Abastecimento de Água e Esgotamento Sanitário",
+      "parentUnitId": "arsesp-1811-unit-64",
+      "parentName": "Superintendência de Regulação de Saneamento Básico",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 46",
+        "pdfPage": 52
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-66",
+      "unitName": "Gerência de Regulação de Resíduos Sólidos Urbanos e Drenagem Pluvial",
+      "parentUnitId": "arsesp-1811-unit-64",
+      "parentName": "Superintendência de Regulação de Saneamento Básico",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 46",
+        "pdfPage": 52
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-68",
+      "unitName": "Gerência de Fiscalização Técnica",
+      "parentUnitId": "arsesp-1811-unit-67",
+      "parentName": "Superintendência de Fiscalização de Saneamento Básico",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 48",
+        "pdfPage": 56
+      },
+      "mappingNote": "Homônimas desambiguadas pelo órgão-pai explicitamente enumerado nos arts.44 e48 e pelo rótulo documental 3.a / 6.a, sem fundir IDs."
+    },
+    {
+      "unitId": "arsesp-1811-unit-69",
+      "unitName": "Gerência de Fiscalização Comercial e de Indicadores",
+      "parentUnitId": "arsesp-1811-unit-67",
+      "parentName": "Superintendência de Fiscalização de Saneamento Básico",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 48",
+        "pdfPage": 56
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-70",
+      "unitName": "Gerência de Fiscalização Contratual",
+      "parentUnitId": "arsesp-1811-unit-67",
+      "parentName": "Superintendência de Fiscalização de Saneamento Básico",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 48",
+        "pdfPage": 56
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-73",
+      "unitName": "Gerência de Regulação Econômico-Financeira de Saneamento Básico",
+      "parentUnitId": "arsesp-1811-unit-71",
+      "parentName": "Superintendência de Regulação Econômico-Financeira",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 50",
+        "pdfPage": 60
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-74",
+      "unitName": "Gerência de Regulação Econômico-Financeira de Gás Canalizado e Outros Serviços",
+      "parentUnitId": "arsesp-1811-unit-71",
+      "parentName": "Superintendência de Regulação Econômico-Financeira",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 50",
+        "pdfPage": 60
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-76",
+      "unitName": "Gerência de Fiscalização de Investimentos e Base de Ativos",
+      "parentUnitId": "arsesp-1811-unit-75",
+      "parentName": "Superintendência de Fiscalização Econômico-Financeira",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 52",
+        "pdfPage": 63
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-77",
+      "unitName": "Gerência de Fiscalização Econômico-Financeira e Contábil",
+      "parentUnitId": "arsesp-1811-unit-75",
+      "parentName": "Superintendência de Fiscalização Econômico-Financeira",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 52",
+        "pdfPage": 63
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-44",
+      "unitName": "Gerência de Relacionamento com Usuários",
+      "parentUnitId": "arsesp-1811-unit-42",
+      "parentName": "Ouvidoria",
+      "status": "explicit-in-regimento",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art. 56",
+        "pdfPage": 68
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-3",
+      "unitName": "Assessoria Especial do Gabinete",
+      "parentUnitId": null,
+      "parentName": "Diretor-Presidente",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §4 e §5 item1",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-7",
+      "unitName": "Assessoria de Relações Institucionais",
+      "parentUnitId": null,
+      "parentName": "Diretor-Presidente",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §4 e §5 item1",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-8",
+      "unitName": "Gabinete da Presidência/Secretaria Executiva",
+      "parentUnitId": null,
+      "parentName": "Diretor-Presidente",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §4 e §5 item1",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-78",
+      "unitName": "Superintendência de Tecnologia da Informação",
+      "parentUnitId": null,
+      "parentName": "Diretor-Presidente",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §4 e §5 item1",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-48",
+      "unitName": "Superintendência de Parcerias",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-53",
+      "unitName": "Superintendência de Regulação de Gás Canalizado",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-56",
+      "unitName": "Superintendência de Fiscalização de Gás Canalizado",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-59",
+      "unitName": "Superintendência de Fiscalização de Energia Elétrica",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-64",
+      "unitName": "Superintendência de Regulação de Saneamento Básico",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-67",
+      "unitName": "Superintendência de Fiscalização de Saneamento Básico",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-71",
+      "unitName": "Superintendência de Regulação Econômico-Financeira",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-75",
+      "unitName": "Superintendência de Fiscalização Econômico-Financeira",
+      "parentUnitId": null,
+      "parentName": "Conselho Diretor",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §§2-3 e §5 item3",
+        "pdfPage": 15
+      },
+      "mappingNote": null
+    },
+    {
+      "unitId": "arsesp-1811-unit-25",
+      "unitName": "Assessoria Técnica de Diretoria - Gás Canalizado",
+      "parentUnitId": null,
+      "parentName": "Diretoria 2 — Gás Canalizado",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §5 item2",
+        "pdfPage": 15
+      },
+      "mappingNote": "Regimento vincula cada Assessoria Técnica ao respectivo Diretor; nome do contexto setorial vem da seção explícita do Anexo II da 1.811, não de um novo cargo CCESP."
+    },
+    {
+      "unitId": "arsesp-1811-unit-30",
+      "unitName": "Assessoria Técnica de Diretoria - Saneamento Básico",
+      "parentUnitId": null,
+      "parentName": "Diretoria 3 — Saneamento Básico",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §5 item2",
+        "pdfPage": 15
+      },
+      "mappingNote": "Regimento vincula cada Assessoria Técnica ao respectivo Diretor; nome do contexto setorial vem da seção explícita do Anexo II da 1.811, não de um novo cargo CCESP."
+    },
+    {
+      "unitId": "arsesp-1811-unit-34",
+      "unitName": "Assessoria Técnica de Diretoria - Econômico-Financeiro",
+      "parentUnitId": null,
+      "parentName": "Diretoria 4 — Econômico-Financeiro",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §5 item2",
+        "pdfPage": 15
+      },
+      "mappingNote": "Regimento vincula cada Assessoria Técnica ao respectivo Diretor; nome do contexto setorial vem da seção explícita do Anexo II da 1.811, não de um novo cargo CCESP."
+    },
+    {
+      "unitId": "arsesp-1811-unit-37",
+      "unitName": "Assessoria Técnica de Diretoria - Energia Elétrica",
+      "parentUnitId": null,
+      "parentName": "Diretoria 5 — Energia Elétrica",
+      "status": "explicit-external-parent",
+      "source": {
+        "label": "Deliberação ARSESP 1.649/2025, regimento republicado",
+        "url": "https://www.arsesp.sp.gov.br/LegislacaoArquivos/ldl16492025.pdf",
+        "article": "Art.22 §5 item2",
+        "pdfPage": 15
+      },
+      "mappingNote": "Regimento vincula cada Assessoria Técnica ao respectivo Diretor; nome do contexto setorial vem da seção explícita do Anexo II da 1.811, não de um novo cargo CCESP."
+    }
+  ],
+  "unresolvedUnits": [
+    {
+      "unitId": "arsesp-1811-unit-9",
+      "name": "Assessoria da Secretaria Executiva",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-42",
+      "name": "Ouvidoria",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-45",
+      "name": "Corregedoria",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-46",
+      "name": "Procuradoria-Geral",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-49",
+      "name": "Assessoria da Superintendência de Parcerias",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-61",
+      "name": "Assessoria da Gerência de Fiscalização de Energia Elétrica",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-63",
+      "name": "Assessoria da Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-72",
+      "name": "Assessoria da Superintendência de Regulação Econômico-Financeira",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    },
+    {
+      "unitId": "arsesp-1811-unit-79",
+      "name": "Assessoria da Superintendência de Tecnologia da Informação",
+      "reason": "Vínculo não preenchido nesta extração parcial; não inferir pai só pelo nome ou proximidade."
+    }
+  ],
+  "checks": {
+    "totalUnits": 52,
+    "mappedLinks": 43,
+    "internalLinks": 27,
+    "externalNamedParents": 16,
+    "uniqueChildren": true,
+    "allInternalParentsExist": true
+  },
+  "caveats": [
+    "Órgãos superiores externos não devem criar cargos/cotas no modelo.",
+    "Supervisão técnica é relação separada: a Deliberação1.828/2026 mantém a distribuição1.800/2026, sem alterar a hierarquia do art.22§5.",
+    "Deliberação1.862/2026 designa membros da UGI em cargos/lotações existentes; não cria uma unidade com quantitativo novo para este quadro."
+  ]
+}

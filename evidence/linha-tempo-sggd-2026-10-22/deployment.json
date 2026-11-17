@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "deployment": {
+    "id": "dpl_CCivjHFS7DcJ9qU5C6vQeFTPVpZd",
+    "url": "https://siorg-calculadora-1ow8ykt1x-dudycappia-4508s-projects.vercel.app",
+    "inspectorUrl": "https://vercel.com/dudycappia-4508s-projects/siorg-calculadora-mvp/CCivjHFS7DcJ9qU5C6vQeFTPVpZd",
+    "readyState": "READY",
+    "target": "production",
+    "deploymentApiUrl": "https://api.vercel.com/v13/deployments/dpl_CCivjHFS7DcJ9qU5C6vQeFTPVpZd",
+    "buildMachine": {
+      "cores": 4,
+      "memory": 8192,
+      "machine": "standard",
+      "selectionType": "elastic",
+      "selectionSource": "elastic-algorithm"
+    },
+    "alias": "https://siorg-calculadora-mvp.vercel.app/"
+  },
+  "message": "Deployment siorg-calculadora-1ow8ykt1x-dudycappia-4508s-projects.vercel.app ready.",
+  "next": [
+    {
+      "command": "vercel curl https://siorg-calculadora-1ow8ykt1x-dudycappia-4508s-projects.vercel.app",
+      "when": "Verify deployment, including when Deployment Protection is enabled"
+    },
+    {
+      "command": "vercel inspect siorg-calculadora-1ow8ykt1x-dudycappia-4508s-projects.vercel.app --scope dudycappia-4508s-projects",
+      "when": "Inspect deployment"
+    },
+    {
+      "command": "vercel deploy --prod --scope dudycappia-4508s-projects",
+      "when": "Promote to production"
+    }
+  ]
+}

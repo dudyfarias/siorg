@@ -1,0 +1,981 @@
+{
+  "checkedAt": "2026-11-16",
+  "readOnly": true,
+  "workbooks": [
+    {
+      "file": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+      "sha256": "93dd5052637b275243dd6630f0c0d90a2ed6937ed900c22aa83ff4f424930a5e",
+      "selectedCells": {
+        "Setores_Atual": {
+          "A46": {
+            "valueOrFormula": "Autarquia",
+            "hyperlink": null
+          },
+          "B46": {
+            "valueOrFormula": "Artesp (Agência de Transporte de São Paulo)",
+            "hyperlink": null
+          },
+          "C46": {
+            "valueOrFormula": 106,
+            "hyperlink": null
+          },
+          "D46": {
+            "valueOrFormula": 580,
+            "hyperlink": null
+          },
+          "E46": {
+            "valueOrFormula": "não se aplica",
+            "hyperlink": null
+          },
+          "G46": {
+            "valueOrFormula": "=C46",
+            "hyperlink": null
+          },
+          "H46": {
+            "valueOrFormula": "lei complementar 1413/2024",
+            "hyperlink": null
+          },
+          "I46": {
+            "valueOrFormula": "referência de 2024 (base não atualizada)",
+            "hyperlink": null
+          }
+        }
+      }
+    },
+    {
+      "file": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+      "sha256": "f9a13feb233c7cdb9a73906c6dcc43c9960493878fd9bf97cfdf6d51053ea2e6",
+      "selectedCells": {
+        "Resumo": {
+          "A44": {
+            "valueOrFormula": "ARTESP",
+            "hyperlink": null
+          },
+          "B44": {
+            "valueOrFormula": "Agência Reguladora de Transportes do Estado de São Paulo",
+            "hyperlink": null
+          },
+          "C44": {
+            "valueOrFormula": "Deliberação ARTESP nº 390, de 26 de maio de 2026",
+            "hyperlink": null
+          },
+          "D44": {
+            "valueOrFormula": 152,
+            "hyperlink": null
+          },
+          "E44": {
+            "valueOrFormula": 580,
+            "hyperlink": null
+          },
+          "F44": {
+            "valueOrFormula": 0,
+            "hyperlink": null
+          },
+          "G44": {
+            "valueOrFormula": 0,
+            "hyperlink": null
+          },
+          "H44": {
+            "valueOrFormula": 152,
+            "hyperlink": null
+          },
+          "I44": {
+            "valueOrFormula": 580,
+            "hyperlink": null
+          },
+          "J44": {
+            "valueOrFormula": "Ato informa apenas níveis, sem série CCESP 1/2. Soma das despesas por nível: R$ 1.720.279,00; total declarado: R$ 1.720.280,00.",
+            "hyperlink": null
+          }
+        },
+        "ARTESP": {
+          "A2": {
+            "valueOrFormula": "Simulador de cargos e cotas — ARTESP",
+            "hyperlink": null
+          },
+          "A3": {
+            "valueOrFormula": "Agência Reguladora de Transportes do Estado de São Paulo | Deliberação ARTESP nº 390, de 26 de maio de 2026",
+            "hyperlink": null
+          },
+          "A12": {
+            "valueOrFormula": "Categoria",
+            "hyperlink": null
+          },
+          "B12": {
+            "valueOrFormula": "Código",
+            "hyperlink": null
+          },
+          "C12": {
+            "valueOrFormula": "Faixa",
+            "hyperlink": null
+          },
+          "D12": {
+            "valueOrFormula": "Subsídio (R$)",
+            "hyperlink": null
+          },
+          "E12": {
+            "valueOrFormula": "Peso em cotas",
+            "hyperlink": null
+          },
+          "F12": {
+            "valueOrFormula": "Quantidade atual",
+            "hyperlink": null
+          },
+          "G12": {
+            "valueOrFormula": "Quantidade proposta",
+            "hyperlink": null
+          },
+          "A13": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B13": {
+            "valueOrFormula": "Nível 18",
+            "hyperlink": null
+          },
+          "C13": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D13": {
+            "valueOrFormula": 26694,
+            "hyperlink": null
+          },
+          "E13": {
+            "valueOrFormula": 9,
+            "hyperlink": null
+          },
+          "F13": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "G13": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "A14": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B14": {
+            "valueOrFormula": "Nível 17",
+            "hyperlink": null
+          },
+          "C14": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D14": {
+            "valueOrFormula": 23728,
+            "hyperlink": null
+          },
+          "E14": {
+            "valueOrFormula": 8,
+            "hyperlink": null
+          },
+          "F14": {
+            "valueOrFormula": 12,
+            "hyperlink": null
+          },
+          "G14": {
+            "valueOrFormula": 12,
+            "hyperlink": null
+          },
+          "A15": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B15": {
+            "valueOrFormula": "Nível 16",
+            "hyperlink": null
+          },
+          "C15": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D15": {
+            "valueOrFormula": 20762,
+            "hyperlink": null
+          },
+          "E15": {
+            "valueOrFormula": 7,
+            "hyperlink": null
+          },
+          "F15": {
+            "valueOrFormula": 4,
+            "hyperlink": null
+          },
+          "G15": {
+            "valueOrFormula": 4,
+            "hyperlink": null
+          },
+          "A16": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B16": {
+            "valueOrFormula": "Nível 15",
+            "hyperlink": null
+          },
+          "C16": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D16": {
+            "valueOrFormula": 17796,
+            "hyperlink": null
+          },
+          "E16": {
+            "valueOrFormula": 6,
+            "hyperlink": null
+          },
+          "F16": {
+            "valueOrFormula": 9,
+            "hyperlink": null
+          },
+          "G16": {
+            "valueOrFormula": 9,
+            "hyperlink": null
+          },
+          "A17": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B17": {
+            "valueOrFormula": "Nível 14",
+            "hyperlink": null
+          },
+          "C17": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D17": {
+            "valueOrFormula": 16313,
+            "hyperlink": null
+          },
+          "E17": {
+            "valueOrFormula": 5.5,
+            "hyperlink": null
+          },
+          "F17": {
+            "valueOrFormula": 20,
+            "hyperlink": null
+          },
+          "G17": {
+            "valueOrFormula": 20,
+            "hyperlink": null
+          },
+          "A18": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B18": {
+            "valueOrFormula": "Nível 13",
+            "hyperlink": null
+          },
+          "C18": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D18": {
+            "valueOrFormula": 13347,
+            "hyperlink": null
+          },
+          "E18": {
+            "valueOrFormula": 4.5,
+            "hyperlink": null
+          },
+          "F18": {
+            "valueOrFormula": 11,
+            "hyperlink": null
+          },
+          "G18": {
+            "valueOrFormula": 11,
+            "hyperlink": null
+          },
+          "A19": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B19": {
+            "valueOrFormula": "Nível 12",
+            "hyperlink": null
+          },
+          "C19": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D19": {
+            "valueOrFormula": 11864,
+            "hyperlink": null
+          },
+          "E19": {
+            "valueOrFormula": 4,
+            "hyperlink": null
+          },
+          "F19": {
+            "valueOrFormula": 5,
+            "hyperlink": null
+          },
+          "G19": {
+            "valueOrFormula": 5,
+            "hyperlink": null
+          },
+          "A20": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B20": {
+            "valueOrFormula": "Nível 11",
+            "hyperlink": null
+          },
+          "C20": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D20": {
+            "valueOrFormula": 10381,
+            "hyperlink": null
+          },
+          "E20": {
+            "valueOrFormula": 3.5,
+            "hyperlink": null
+          },
+          "F20": {
+            "valueOrFormula": 31,
+            "hyperlink": null
+          },
+          "G20": {
+            "valueOrFormula": 31,
+            "hyperlink": null
+          },
+          "A21": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B21": {
+            "valueOrFormula": "Nível 10",
+            "hyperlink": null
+          },
+          "C21": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D21": {
+            "valueOrFormula": 9639.5,
+            "hyperlink": null
+          },
+          "E21": {
+            "valueOrFormula": 3.25,
+            "hyperlink": null
+          },
+          "F21": {
+            "valueOrFormula": 6,
+            "hyperlink": null
+          },
+          "G21": {
+            "valueOrFormula": 6,
+            "hyperlink": null
+          },
+          "A22": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B22": {
+            "valueOrFormula": "Nível 09",
+            "hyperlink": null
+          },
+          "C22": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D22": {
+            "valueOrFormula": 8898,
+            "hyperlink": null
+          },
+          "E22": {
+            "valueOrFormula": 3,
+            "hyperlink": null
+          },
+          "F22": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "G22": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "A23": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B23": {
+            "valueOrFormula": "Nível 07",
+            "hyperlink": null
+          },
+          "C23": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D23": {
+            "valueOrFormula": 7415,
+            "hyperlink": null
+          },
+          "E23": {
+            "valueOrFormula": 2.5,
+            "hyperlink": null
+          },
+          "F23": {
+            "valueOrFormula": 5,
+            "hyperlink": null
+          },
+          "G23": {
+            "valueOrFormula": 5,
+            "hyperlink": null
+          },
+          "A24": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B24": {
+            "valueOrFormula": "Nível 05",
+            "hyperlink": null
+          },
+          "C24": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D24": {
+            "valueOrFormula": 5932,
+            "hyperlink": null
+          },
+          "E24": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "F24": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "G24": {
+            "valueOrFormula": 2,
+            "hyperlink": null
+          },
+          "A25": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B25": {
+            "valueOrFormula": "Nível 04",
+            "hyperlink": null
+          },
+          "C25": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D25": {
+            "valueOrFormula": 5190.5,
+            "hyperlink": null
+          },
+          "E25": {
+            "valueOrFormula": 1.75,
+            "hyperlink": null
+          },
+          "F25": {
+            "valueOrFormula": 5,
+            "hyperlink": null
+          },
+          "G25": {
+            "valueOrFormula": 5,
+            "hyperlink": null
+          },
+          "A26": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B26": {
+            "valueOrFormula": "Nível 03",
+            "hyperlink": null
+          },
+          "C26": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D26": {
+            "valueOrFormula": 4449,
+            "hyperlink": null
+          },
+          "E26": {
+            "valueOrFormula": 1.5,
+            "hyperlink": null
+          },
+          "F26": {
+            "valueOrFormula": 9,
+            "hyperlink": null
+          },
+          "G26": {
+            "valueOrFormula": 9,
+            "hyperlink": null
+          },
+          "A27": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B27": {
+            "valueOrFormula": "Nível 02",
+            "hyperlink": null
+          },
+          "C27": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D27": {
+            "valueOrFormula": 3707.5,
+            "hyperlink": null
+          },
+          "E27": {
+            "valueOrFormula": 1.25,
+            "hyperlink": null
+          },
+          "F27": {
+            "valueOrFormula": 11,
+            "hyperlink": null
+          },
+          "G27": {
+            "valueOrFormula": 11,
+            "hyperlink": null
+          },
+          "A28": {
+            "valueOrFormula": "CCESP",
+            "hyperlink": null
+          },
+          "B28": {
+            "valueOrFormula": "Nível 01",
+            "hyperlink": null
+          },
+          "C28": {
+            "valueOrFormula": "Conforme ato",
+            "hyperlink": null
+          },
+          "D28": {
+            "valueOrFormula": 2966,
+            "hyperlink": null
+          },
+          "E28": {
+            "valueOrFormula": 1,
+            "hyperlink": null
+          },
+          "F28": {
+            "valueOrFormula": 18,
+            "hyperlink": null
+          },
+          "G28": {
+            "valueOrFormula": 18,
+            "hyperlink": null
+          },
+          "A66": {
+            "valueOrFormula": "ETAPA 2 — MONTAGEM DA ESTRUTURA ORGANIZACIONAL",
+            "hyperlink": null
+          },
+          "A67": {
+            "valueOrFormula": "Após definir a Quantidade proposta acima, cadastre as unidades da ARTESP. Cada unidade criada passa a poder ser indicada como unidade superior nas linhas seguintes.",
+            "hyperlink": null
+          },
+          "A69": {
+            "valueOrFormula": "CONTROLE DA ALOCAÇÃO",
+            "hyperlink": null
+          },
+          "A70": {
+            "valueOrFormula": "Cargo/Função",
+            "hyperlink": null
+          },
+          "B70": {
+            "valueOrFormula": "Quantidade proposta",
+            "hyperlink": null
+          },
+          "C70": {
+            "valueOrFormula": "Alocado na estrutura",
+            "hyperlink": null
+          },
+          "D70": {
+            "valueOrFormula": "Saldo",
+            "hyperlink": null
+          },
+          "E70": {
+            "valueOrFormula": "Situação",
+            "hyperlink": null
+          },
+          "A71": {
+            "valueOrFormula": "=B13",
+            "hyperlink": null
+          },
+          "B71": {
+            "valueOrFormula": "=G13",
+            "hyperlink": null
+          },
+          "C71": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A71)",
+            "hyperlink": null
+          },
+          "D71": {
+            "valueOrFormula": "=B71-C71",
+            "hyperlink": null
+          },
+          "E71": {
+            "valueOrFormula": "=IF(D71<0,\"EXCEDE EM \"&ABS(D71),IF(D71=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D71))",
+            "hyperlink": null
+          },
+          "A72": {
+            "valueOrFormula": "=B14",
+            "hyperlink": null
+          },
+          "B72": {
+            "valueOrFormula": "=G14",
+            "hyperlink": null
+          },
+          "C72": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A72)",
+            "hyperlink": null
+          },
+          "D72": {
+            "valueOrFormula": "=B72-C72",
+            "hyperlink": null
+          },
+          "E72": {
+            "valueOrFormula": "=IF(D72<0,\"EXCEDE EM \"&ABS(D72),IF(D72=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D72))",
+            "hyperlink": null
+          },
+          "A73": {
+            "valueOrFormula": "=B15",
+            "hyperlink": null
+          },
+          "B73": {
+            "valueOrFormula": "=G15",
+            "hyperlink": null
+          },
+          "C73": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A73)",
+            "hyperlink": null
+          },
+          "D73": {
+            "valueOrFormula": "=B73-C73",
+            "hyperlink": null
+          },
+          "E73": {
+            "valueOrFormula": "=IF(D73<0,\"EXCEDE EM \"&ABS(D73),IF(D73=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D73))",
+            "hyperlink": null
+          },
+          "A74": {
+            "valueOrFormula": "=B16",
+            "hyperlink": null
+          },
+          "B74": {
+            "valueOrFormula": "=G16",
+            "hyperlink": null
+          },
+          "C74": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A74)",
+            "hyperlink": null
+          },
+          "D74": {
+            "valueOrFormula": "=B74-C74",
+            "hyperlink": null
+          },
+          "E74": {
+            "valueOrFormula": "=IF(D74<0,\"EXCEDE EM \"&ABS(D74),IF(D74=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D74))",
+            "hyperlink": null
+          },
+          "A75": {
+            "valueOrFormula": "=B17",
+            "hyperlink": null
+          },
+          "B75": {
+            "valueOrFormula": "=G17",
+            "hyperlink": null
+          },
+          "C75": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A75)",
+            "hyperlink": null
+          },
+          "D75": {
+            "valueOrFormula": "=B75-C75",
+            "hyperlink": null
+          },
+          "E75": {
+            "valueOrFormula": "=IF(D75<0,\"EXCEDE EM \"&ABS(D75),IF(D75=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D75))",
+            "hyperlink": null
+          },
+          "A76": {
+            "valueOrFormula": "=B18",
+            "hyperlink": null
+          },
+          "B76": {
+            "valueOrFormula": "=G18",
+            "hyperlink": null
+          },
+          "C76": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A76)",
+            "hyperlink": null
+          },
+          "D76": {
+            "valueOrFormula": "=B76-C76",
+            "hyperlink": null
+          },
+          "E76": {
+            "valueOrFormula": "=IF(D76<0,\"EXCEDE EM \"&ABS(D76),IF(D76=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D76))",
+            "hyperlink": null
+          },
+          "A77": {
+            "valueOrFormula": "=B19",
+            "hyperlink": null
+          },
+          "B77": {
+            "valueOrFormula": "=G19",
+            "hyperlink": null
+          },
+          "C77": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A77)",
+            "hyperlink": null
+          },
+          "D77": {
+            "valueOrFormula": "=B77-C77",
+            "hyperlink": null
+          },
+          "E77": {
+            "valueOrFormula": "=IF(D77<0,\"EXCEDE EM \"&ABS(D77),IF(D77=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D77))",
+            "hyperlink": null
+          },
+          "A78": {
+            "valueOrFormula": "=B20",
+            "hyperlink": null
+          },
+          "B78": {
+            "valueOrFormula": "=G20",
+            "hyperlink": null
+          },
+          "C78": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A78)",
+            "hyperlink": null
+          },
+          "D78": {
+            "valueOrFormula": "=B78-C78",
+            "hyperlink": null
+          },
+          "E78": {
+            "valueOrFormula": "=IF(D78<0,\"EXCEDE EM \"&ABS(D78),IF(D78=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D78))",
+            "hyperlink": null
+          },
+          "A79": {
+            "valueOrFormula": "=B21",
+            "hyperlink": null
+          },
+          "B79": {
+            "valueOrFormula": "=G21",
+            "hyperlink": null
+          },
+          "C79": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A79)",
+            "hyperlink": null
+          },
+          "D79": {
+            "valueOrFormula": "=B79-C79",
+            "hyperlink": null
+          },
+          "E79": {
+            "valueOrFormula": "=IF(D79<0,\"EXCEDE EM \"&ABS(D79),IF(D79=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D79))",
+            "hyperlink": null
+          },
+          "A80": {
+            "valueOrFormula": "=B22",
+            "hyperlink": null
+          },
+          "B80": {
+            "valueOrFormula": "=G22",
+            "hyperlink": null
+          },
+          "C80": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A80)",
+            "hyperlink": null
+          },
+          "D80": {
+            "valueOrFormula": "=B80-C80",
+            "hyperlink": null
+          },
+          "E80": {
+            "valueOrFormula": "=IF(D80<0,\"EXCEDE EM \"&ABS(D80),IF(D80=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D80))",
+            "hyperlink": null
+          },
+          "A81": {
+            "valueOrFormula": "=B23",
+            "hyperlink": null
+          },
+          "B81": {
+            "valueOrFormula": "=G23",
+            "hyperlink": null
+          },
+          "C81": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A81)",
+            "hyperlink": null
+          },
+          "D81": {
+            "valueOrFormula": "=B81-C81",
+            "hyperlink": null
+          },
+          "E81": {
+            "valueOrFormula": "=IF(D81<0,\"EXCEDE EM \"&ABS(D81),IF(D81=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D81))",
+            "hyperlink": null
+          },
+          "A82": {
+            "valueOrFormula": "=B24",
+            "hyperlink": null
+          },
+          "B82": {
+            "valueOrFormula": "=G24",
+            "hyperlink": null
+          },
+          "C82": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A82)",
+            "hyperlink": null
+          },
+          "D82": {
+            "valueOrFormula": "=B82-C82",
+            "hyperlink": null
+          },
+          "E82": {
+            "valueOrFormula": "=IF(D82<0,\"EXCEDE EM \"&ABS(D82),IF(D82=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D82))",
+            "hyperlink": null
+          },
+          "A83": {
+            "valueOrFormula": "=B25",
+            "hyperlink": null
+          },
+          "B83": {
+            "valueOrFormula": "=G25",
+            "hyperlink": null
+          },
+          "C83": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A83)",
+            "hyperlink": null
+          },
+          "D83": {
+            "valueOrFormula": "=B83-C83",
+            "hyperlink": null
+          },
+          "E83": {
+            "valueOrFormula": "=IF(D83<0,\"EXCEDE EM \"&ABS(D83),IF(D83=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D83))",
+            "hyperlink": null
+          },
+          "A84": {
+            "valueOrFormula": "=B26",
+            "hyperlink": null
+          },
+          "B84": {
+            "valueOrFormula": "=G26",
+            "hyperlink": null
+          },
+          "C84": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A84)",
+            "hyperlink": null
+          },
+          "D84": {
+            "valueOrFormula": "=B84-C84",
+            "hyperlink": null
+          },
+          "E84": {
+            "valueOrFormula": "=IF(D84<0,\"EXCEDE EM \"&ABS(D84),IF(D84=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D84))",
+            "hyperlink": null
+          },
+          "A85": {
+            "valueOrFormula": "=B27",
+            "hyperlink": null
+          },
+          "B85": {
+            "valueOrFormula": "=G27",
+            "hyperlink": null
+          },
+          "C85": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A85)",
+            "hyperlink": null
+          },
+          "D85": {
+            "valueOrFormula": "=B85-C85",
+            "hyperlink": null
+          },
+          "E85": {
+            "valueOrFormula": "=IF(D85<0,\"EXCEDE EM \"&ABS(D85),IF(D85=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D85))",
+            "hyperlink": null
+          },
+          "A86": {
+            "valueOrFormula": "=B28",
+            "hyperlink": null
+          },
+          "B86": {
+            "valueOrFormula": "=G28",
+            "hyperlink": null
+          },
+          "C86": {
+            "valueOrFormula": "=COUNTIF($F$91:$F$190,A86)",
+            "hyperlink": null
+          },
+          "D86": {
+            "valueOrFormula": "=B86-C86",
+            "hyperlink": null
+          },
+          "E86": {
+            "valueOrFormula": "=IF(D86<0,\"EXCEDE EM \"&ABS(D86),IF(D86=0,\"TOTALMENTE ALOCADO\",\"RESTA ALOCAR \"&D86))",
+            "hyperlink": null
+          },
+          "A89": {
+            "valueOrFormula": "CADASTRO DAS UNIDADES",
+            "hyperlink": null
+          },
+          "A90": {
+            "valueOrFormula": "Nº",
+            "hyperlink": null
+          },
+          "B90": {
+            "valueOrFormula": "Tipo de unidade",
+            "hyperlink": null
+          },
+          "C90": {
+            "valueOrFormula": "Nome da unidade",
+            "hyperlink": null
+          },
+          "D90": {
+            "valueOrFormula": "Subordinada a",
+            "hyperlink": null
+          },
+          "E90": {
+            "valueOrFormula": "Relação",
+            "hyperlink": null
+          },
+          "F90": {
+            "valueOrFormula": "Cargo/Função associado",
+            "hyperlink": null
+          },
+          "G90": {
+            "valueOrFormula": "Proposto",
+            "hyperlink": null
+          },
+          "H90": {
+            "valueOrFormula": "Alocado",
+            "hyperlink": null
+          },
+          "I90": {
+            "valueOrFormula": "Saldo",
+            "hyperlink": null
+          },
+          "J90": {
+            "valueOrFormula": "Validação",
+            "hyperlink": null
+          }
+        }
+      },
+      "independentByLevelSum": {
+        "quantity": 152,
+        "cotaCents": 58000
+      },
+      "distributionInputCellsNonempty": []
+    }
+  ]
+}

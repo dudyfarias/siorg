@@ -1,0 +1,61 @@
+  1 Assessor III CCESP 2.11
+  1 Assessor I CCESP 2.09
+Seção de Apoio Administrativo 1 Chefe de Seção FCESP 1.05
+       
+DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE
+PESSOAS
+1 Diretor CCESP 1.15
+  1 Assessor I CCESP 2.09
+  1 Assessor I FCESP 2.09
+Coordenadoria de Gestão e Arquitetura de Carreiras 1 Coordenador CCESP 1.13
+  1 Assistente Técnico III FCESP 2.07
+  1 Assistente Técnico III CCESP 2.07
+Divisão de Planejamento, Inovação e Modelos de
+Carreiras
+1 Chefe de Divisão FCESP 1.10
+Divisão de Gestão de Carreiras 1 Chefe de Divisão CCESP 1.10
+Coordenadoria de Desenvolvimento de Pessoas 1 Coordenador CCESP 1.13
+  1 Assistente Técnico III FCESP 2.07
+  1 Assistente Técnico III CCESP 2.07
+Divisão de Governança e Inovação em Desenvolvimento
+de Pessoas
+1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico III CCESP 2.07
+Divisão de Gestão de Desempenho e Evolução
+Funcional
+1 Chefe de Divisão FCESP 1.10
+       
+DIRETORIA DE GESTÃO FUNCIONAL 1 Diretor CCESP 1.15
+  1 Assistente Técnico I FCESP 2.05
+Coordenadoria de Gestão de Recrutamento e
+Provimento de Pessoal
+1 Coordenador CCESP 1.13
+  1 Assessor I FCESP 2.09
+  1 Assistente Técnico III FCESP 2.07
+  1 Assistente Técnico I FCESP 2.05
+  1 Assistente IV CCESP 2.04
+Divisão de Concursos Públicos e Processos Seletivos 1 Chefe de Divisão FCESP 1.10
+Divisão de Estágio 1 Chefe de Divisão FCESP 1.10
+Coordenadoria de Gestão Funcional 1 Coordenador CCESP 1.13
+  1 Assessor I CCESP 2.09
+  1 Assessor I FCESP 2.09
+  1 Assistente Técnico II CCESP 2.06
+  1 Assistente IV CCESP 2.04
+Divisão de Planejamento da Força de Trabalho 1 Chefe de Divisão FCESP 1.10
+Divisão de Gestão de Pessoal 1 Chefe de Divisão FCESP 1.10
+       
+DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E
+PROCESSOS DE GESTÃO DE PESSOAS
+1 Diretor CCESP 1.15
+  1 Assessor III CCESP 2.11
+  1 Assistente IV FCESP 2.04
+Coordenadoria de Engenharia de Requisitos e
+Processos de Gestão de Pessoas
+1 Coordenador CCESP 1.13
+  1 Assessor I FCESP 2.09
+Divisão de Levantamento de Requisitos e Homologação
+dos Sistemas de Gestão de Pessoas
+1 Chefe de Divisão FCESP 1.10
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 33/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

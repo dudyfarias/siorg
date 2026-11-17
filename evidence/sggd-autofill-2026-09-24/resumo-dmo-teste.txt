@@ -1,0 +1,48 @@
+RECORTE DA PROPOSTA
+Secretaria: Secretaria de Gestão e Governo Digital
+Unidade: Diretoria de Modernização Organizacional
+Abrangência: Postos diretos da Diretoria de Modernização Organizacional, sem as unidades subordinadas
+Origem da base: base documental do Anexo II, com divergência de conciliação entre anexos.
+Decreto/quadro da base: Decreto 70.755/2026 — Anexo II (quadro distribuído)
+Fonte do perfil: https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002
+Versão do perfil: sggd-decreto-70755-2026-08-01-anexo-II
+Versão do recorte: sggd-decreto-70755-2026-08-01-anexo-II
+Conferência da referência: 2026-09-24
+Observação da secretaria: Dados do Anexo II; há divergência com o Anexo III. As somas do quadro não constituem um total oficial reconciliado nem informam a ocupação atual.
+Pendência de conciliação: Há divergência entre o Anexo II e o Anexo III; o total da secretaria não está reconciliado. A base documental não permite calcular o impacto consolidado.
+O quadro publicado no Anexo II não informa, por si, a ocupação atual.
+
+CALCULADORA DE COTAS — SIORG
+Composição calculada — conferência aritmética.
+Gerado em: 24/09/2026, 11:26:29
+Diferenças aritméticas em relação à base do quadro publicado no Anexo II. A divergência com o Anexo III permanece; a conta não concilia os anexos nem valida administrativamente a proposta.
+
+COMPOSIÇÃO PROPOSTA
+
+CCESP
+Nível 8: 3 × 2,75 = 8,25 cotas.
+Nível 10: 1 × 3,25 = 3,25 cotas.
+Nível 12: 2 × 4,00 = 8,00 cotas.
+Nível 15: 1 × 6,00 = 6,00 cotas.
+Total CCESP: 7 cargos; 25,50 cotas.
+
+FCESP
+Nível 10: 1 × 1,95 = 1,95 cotas.
+Total FCESP: 1 funções; 1,95 cotas.
+
+Total geral descritivo: 8 postos; 27,45 cotas.
+
+VARIAÇÃO EM RELAÇÃO À BASE DO QUADRO — ANEXO II
+Modo da base do quadro: agregado.
+Postos agregados: base do quadro 7; proposta 8; variação +1 (aumento).
+Cotas agregadas: base do quadro 24,70; proposta 27,45; variação +2,75 (aumento).
+O quadro comparativo acima é agregado e descritivo; não permite compensação entre espécies nem consolidação do impacto na secretaria.
+
+Referência: LC 1.395/2023 — Anexo I.
+Fonte: https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2023/compilacao-lei.complementar-1395-22.12.2023.html
+Versão da tabela: lc1395-anexo-i-revisao-2026-09-14. Conferência: 14/09/2026.
+O resultado descreve quantidades, cotas e diferenças aritméticas. Não constitui saldo oficial, autorização administrativa ou validação de aplicabilidade dos níveis. Não autoriza compensação entre CCESP e FCESP.
+
+IMPACTO ARITMÉTICO NA SECRETARIA
+Não calculado: Há divergência entre o Anexo II e o Anexo III; o total da secretaria não está reconciliado. A base documental não permite calcular o impacto consolidado.
+A estimativa não demonstra saldo disponível, aprovação administrativa ou compensação entre CCESP e FCESP.

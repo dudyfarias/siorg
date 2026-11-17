@@ -1,0 +1,85 @@
+{
+  "organizationId": "sesp",
+  "act": {
+    "id": "sesp-res-2026-01-14",
+    "title": "Resolução do Secretário Executivo de 14/01/2026",
+    "actDate": "2026-01-14",
+    "publicationDate": "2026-01-15",
+    "completePublicationDate": "2026-01-16",
+    "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648",
+    "originalPublicationUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260114122342481571529",
+    "rawFile": "sesp-res-2026-01-14-republicacao-raw.json",
+    "classification": "allocation-transfer",
+    "changes": [
+      {
+        "sourceUnitCode": "0010700038",
+        "sourceUnit": "Coordenadoria Administrativa",
+        "sourceVacancyId": "2412786",
+        "destinationUnitCode": "0010700036",
+        "destinationUnit": "Assessoria da Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.07",
+        "denomination": "Assistente Técnico III",
+        "sourcePositionLabel": "Assistente Técnico III – CCESP 2.07",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648",
+        "sourceRow": 2
+      },
+      {
+        "sourceUnitCode": "0010700038",
+        "sourceUnit": "Coordenadoria Administrativa",
+        "sourceVacancyId": "2412787",
+        "destinationUnitCode": "0010700036",
+        "destinationUnit": "Assessoria da Subsecretaria de Gestão Corporativa",
+        "code": "CCESP 2.07",
+        "denomination": "Assistente Técnico III",
+        "sourcePositionLabel": "Assistente Técnico III – CCESP 2.07",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648",
+        "sourceRow": 3
+      },
+      {
+        "sourceUnitCode": "0010700036",
+        "sourceUnit": "Assessoria da Subsecretaria de Gestão Corporativa",
+        "sourceVacancyId": "2412607",
+        "destinationUnitCode": "0010700003",
+        "destinationUnit": "Chefia de Gabinete",
+        "code": "CCESP 2.05",
+        "denomination": "Assistente Técnico I",
+        "sourcePositionLabel": "Assistente Técnico I – CCESP 2.05",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648",
+        "sourceRow": 4
+      },
+      {
+        "sourceUnitCode": "0010700034",
+        "sourceUnit": "Seção de Assistência aos Municípios",
+        "sourceVacancyId": "2412604",
+        "destinationUnitCode": "0010700003",
+        "destinationUnit": "Chefia de Gabinete",
+        "code": "CCESP 2.05",
+        "denomination": "Assistente Técnico I",
+        "sourcePositionLabel": "Assistente Técnico I – CCESP 2.05",
+        "quantity": "1",
+        "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648",
+        "sourceRow": 5
+      }
+    ],
+    "aggregateQuantityChange": "0",
+    "aggregateQuotaChangeCents": "0",
+    "status": "explicit-transfers-extracted",
+    "effectiveRule": "10 dias úteis após publicação; o ato aparece em 15/01 sem anexo e em 16/01 com anexo; data de eficácia final não inferida.",
+    "limitations": [],
+    "documentaryTrail": {
+      "originalEditionPdf": "sesp-doe-edicao-2026-01-15.pdf",
+      "originalPage": 53,
+      "originalPageVisuallyChecked": true,
+      "originalAnnexAbsent": true,
+      "corroboratingApostilaUrl": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/apostila-20260114122342181571549",
+      "corroboratingApostilaPages": [
+        52,
+        53
+      ],
+      "conclusion": "As quatro linhas foram recuperadas na publicação oficial de 16/01, corroboradas pela apostila de 14/01 publicada em 15/01. Não duplicar movimentações."
+    }
+  }
+}

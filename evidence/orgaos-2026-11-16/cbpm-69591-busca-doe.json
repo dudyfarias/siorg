@@ -1,0 +1,996 @@
+{
+  "queryUrl": "https://do-api-web-search.doe.sp.gov.br/v2/advanced-search/publications?FromDate=2025-06-10&ToDate=2026-11-16&PageNumber=1&PageSize=100&SortField=Date&Terms%5B0%5D=69.591",
+  "response": {
+    "items": [
+      {
+        "isLegacy": false,
+        "id": "7a541a7c-e50a-4d89-287c-08dda2883f5b",
+        "publicationTypeId": "4bfe9767-ed4a-40ed-941f-043854642699",
+        "secondLevelSectionId": "81f77c5c-d935-49ac-7d52-08db6b94d2bf",
+        "date": "2025-06-10T01:04:06.4150035",
+        "title": "DECRETO Nº 69.591, DE 9 DE JUNHO DE 2025",
+        "slug": "executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025-202506091182021135309",
+        "hierarchy": "Executivo > Atos Normativos > Decretos",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "a1181b2e-8989-47f9-c4f6-08ddcdea30ea",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-07-29T01:01:56.0501425",
+        "title": "PORTARIA Nº CBPM Nº 022/ADM/2025, DE 28 DE JULHO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-n-022-adm-2025-de-28-de-julho-de-2025-202507281233172351228599",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 4
+      },
+      {
+        "isLegacy": false,
+        "id": "d510b3d3-6c68-4fec-ceb8-08ddce887c76",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-07-30T01:01:33.2541721",
+        "title": "PORTARIA Nº CBPM–021/ADM/2025, DE 29 DE JULHO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm021-adm-2025-de-29-de-julho-de-2025-202507291233172351231136",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "3c750d7c-3efb-403d-2112-08ddcebabe02",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-07-30T01:01:54.7653791",
+        "title": "PORTARIA Nº CBPM–023/ADM/2025, DE 29 DE JULHO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm023-adm-2025-de-29-de-julho-de-2025-202507291233172351231145",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "bc34047e-4f57-40fc-c3ee-08ddd058757f",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-08-01T01:03:24.016594",
+        "title": "PORTARIA Nº CBPM–024/ADM/2025, DE 31 DE JULHO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm024-adm-2025-de-31-de-julho-de-2025-202507311233172351237969",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "ab060b41-2b00-4efb-c748-08ddd0584dc0",
+        "publicationTypeId": "7e5ce7a7-9f9c-4abd-a938-04d33fb1ad86",
+        "secondLevelSectionId": "6b8ccf81-632e-4f5d-4bed-08db6b9689d9",
+        "thirdLevelSectionId": "38e22a33-2dee-49f3-4bfa-08db6b9689d9",
+        "date": "2025-08-01T01:03:56.0561012",
+        "title": "DECRETO DE 31 DE JULHO DE 2025",
+        "slug": "executivo/atos-do-governador/decreto-de-31-de-julho-de-2025-20250731124112251239042",
+        "hierarchy": "Executivo > Atos de Pessoal > Atos do Governador > Secretaria da Segurança Pública",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "007e4763-2964-448c-a436-08ddd4d341ba",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-08-11T01:02:11.9050621",
+        "title": "PORTARIA Nº CBPM – 026/ADM/2025, DE 8 DE AGOSTO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-026-adm-2025-de-8-de-agosto-de-2025-202508081233172351255980",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 5
+      },
+      {
+        "isLegacy": false,
+        "id": "2acde5c5-5729-4492-6378-08dde1aa93bb",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-08-28T01:01:55.4963608",
+        "title": "PORTARIA Nº 027/ADM/2025, DE 27 DE AGOSTO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-027-adm-2025-de-27-de-agosto-de-2025-202508271137172141297754",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "e6a1f54a-fe52-4f7e-0a8e-08dde3820002",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-09-29T01:02:28.1980295",
+        "title": "PORTARIA Nº CBPM 030 ADM 2025, DE 26 DE SETEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-030-adm-2025-de-26-de-setembro-de-2025-202509261137172141366139",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "5d83adcb-c0e6-4438-8fb7-08de00420cdb",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-10-01T01:02:06.9038638",
+        "title": "PORTARIA Nº 032/ADM/2025, DE 30 DE SETEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-032-adm-2025-de-30-de-setembro-de-2025-202509301137172141373440",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "be75c404-357b-46e7-120c-08dde3820002",
+        "publicationTypeId": "50f23a62-e5ba-45a0-a7ea-dd9b0295a36b",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-10-02T01:01:22.1865633",
+        "title": "RETIFICAÇÃO Nº PORTARIA Nº CBPM032/ADM/2025, DE 1 DE OUTUBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/retificacao-n-portaria-n-cbpm032-adm-2025-de-1-de-outubro-de-2025-202510011137172231376523",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "7affc395-9ffc-484d-50a2-08de0853a9af",
+        "publicationTypeId": "66bb9434-9108-4c3b-b3c1-5f26573262a5",
+        "secondLevelSectionId": "004bd8e7-fab1-4b53-b5b7-08db6b943832",
+        "thirdLevelSectionId": "7720b062-7611-4199-7d61-08db6b94d2bf",
+        "date": "2025-10-13T01:01:53.5201403",
+        "title": "DECRETO DE 10 DE OUTUBRO DE 2025",
+        "slug": "executivo/atos-do-governador/decreto-de-10-de-outubro-de-2025-2025101011912011400330",
+        "hierarchy": "Executivo > Atos Normativos > Atos do Governador > Decretos",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "b65eb8fa-aaa5-457d-9dcb-08de1610830c",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-10-30T01:02:08.0023416",
+        "title": "PORTARIA Nº 036/ADM/2025, DE 29 DE OUTUBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-036-adm-2025-de-29-de-outubro-de-2025-202510291233172351433374",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "09095d4a-c729-4f6c-de80-08de188e2a50",
+        "publicationTypeId": "50f23a62-e5ba-45a0-a7ea-dd9b0295a36b",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-11-03T01:02:26.3122089",
+        "title": "Retificação da Portaria nº 036/Adm/2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/retificacao-da-portaria-n-036-adm-2025-202510311137172231439725",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "065ec6af-85ca-4cd9-5186-08de189fb5e1",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-11-03T01:02:30.4822349",
+        "title": "PORTARIA Nº 037/ADM/2025, DE 31 DE OUTUBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-037-adm-2025-de-31-de-outubro-de-2025-202510311137172141440927",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "e70ceafe-5ad1-4e5d-5da8-08de1b1c89c6",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-11-07T01:01:46.460156",
+        "title": "PORTARIA Nº 038/ADM/2025, DE 6 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-038-adm-2025-de-6-de-novembro-de-2025-202511061137172141452975",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "f34fd4e1-68c6-46c2-9738-08de1e63f198",
+        "publicationTypeId": "7e5ce7a7-9f9c-4abd-a938-04d33fb1ad86",
+        "secondLevelSectionId": "6b8ccf81-632e-4f5d-4bed-08db6b9689d9",
+        "thirdLevelSectionId": "38e22a33-2dee-49f3-4bfa-08db6b9689d9",
+        "date": "2025-11-10T01:03:55.0446219",
+        "title": "DECRETO DE 7 DE NOVEMBRO DE 2025",
+        "slug": "executivo/atos-do-governador/decreto-de-7-de-novembro-de-2025-20251107124112251456755",
+        "hierarchy": "Executivo > Atos de Pessoal > Atos do Governador > Secretaria da Segurança Pública",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "a7bdd730-4f44-4337-9d13-08de204519c9",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-11-11T01:03:06.4619117",
+        "title": "PORTARIA Nº 039/ADM/2025, DE 10 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-039-adm-2025-de-10-de-novembro-de-2025-202511101137172141458651",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "ceb81516-7307-459b-dca5-08de22ce1a2f",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-11-14T01:00:54.8213147",
+        "title": "PORTARIA Nº 028/ADM/2025, DE 13 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-028-adm-2025-de-13-de-novembro-de-2025-202511131233172351467518",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "6f8a14a2-eb0e-4924-aa5d-08de212212ac",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-11-27T01:00:13.6062148",
+        "title": "PORTARIA Nº 041/ADM/2025, DE 26 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-041-adm-2025-de-26-de-novembro-de-2025-202511261137172141489007",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "9fbf5050-03e1-4788-326a-08de2b4530d1",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2025-12-03T01:00:47.016281",
+        "title": "PORTARIA Nº 042/ADM/2025, DE 2 DE DEZEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-042-adm-2025-de-2-de-dezembro-de-2025-202512021138172141501634",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "c68c5143-bfad-43eb-6b31-08de37de2cfd",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-12-11T01:01:07.2436436",
+        "title": "PORTARIA Nº 043/ADM/2025, DE 10 DE DEZEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-043-adm-2025-de-10-de-dezembro-de-2025-202512101234172351520478",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "9a9fd1a8-8133-4e52-2be0-08de3e9bcf0a",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2025-12-26T01:02:24.9894453",
+        "title": "PORTARIA Nº 044/ADM/2025, DE 23 DE DEZEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-044-adm-2025-de-23-de-dezembro-de-2025-202512231234172351546289",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "e853180a-1ff4-4244-0461-08de4e9d4ee7",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-01-09T01:01:13.4710726",
+        "title": "PORTARIA Nº 001/ADM/2026, DE 8 DE JANEIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-001-adm-2026-de-8-de-janeiro-de-2026-202601081138172141561291",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "13c4c616-4f3b-454a-db79-08de592b946d",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-01-27T01:01:44.2175311",
+        "title": "PORTARIA Nº CBPM 002/ADM/2026, DE 26 DE JANEIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-002-adm-2026-de-26-de-janeiro-de-2026-202601261138172141591655",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "eeac72ad-77d4-4cf1-1013-08de5d8b397f",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-01-28T01:03:12.352585",
+        "title": "PORTARIA Nº 003/ADM/2026, DE 27 DE JANEIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-003-adm-2026-de-27-de-janeiro-de-2026-202601271138172141594308",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "db64f6a5-9874-42e6-94dd-08de6407648a",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-02-05T01:01:28.7339827",
+        "title": "PORTARIA Nº 013/ADM/2026, DE 4 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-013-adm-2026-de-4-de-fevereiro-de-2026-202602041138172141614620",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "688fb151-85ed-4736-f0ab-08de62451f04",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-02-06T01:00:41.8621781",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL , DE 5 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-5-de-fevereiro-de-2026-202602051336172811616956",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "c20260c5-744d-4ffb-b537-08de64a11f8e",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-02-06T01:01:02.1590255",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 5 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-5-de-fevereiro-de-2026-202602051336172811617048",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "091f8fc6-1c4d-49bd-b60c-08de64a11f8e",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-02-06T01:01:21.4363402",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 5 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-5-de-fevereiro-de-2026-202602051336172811618340",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "b4b65240-56db-46c9-589d-08de5ead78de",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-02-12T01:00:40.9717351",
+        "title": "PORTARIA Nº CBPM-004/ADM/2026, DE 11 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-004-adm-2026-de-11-de-fevereiro-de-2026-202602111138172141630197",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "4930d276-fcfd-424e-a68f-08de72c95bd7",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2026-02-24T01:02:15.2497715",
+        "title": "PORTARIA Nº CBPM–015/ADM/2026, DE 23 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm015-adm-2026-de-23-de-fevereiro-de-2026-202602231234172351651614",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "9e9ef3f2-d60f-4cdb-aa7d-08de7a0afcb3",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-03-05T01:01:48.5135526",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 4 DE MARÇO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-4-de-marco-de-2026-202603041336172811678972",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "5f0d037c-d105-4c79-a2ec-08de7a305c57",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-03-18T01:03:31.7676176",
+        "title": "PORTARIA Nº CBPM 021/ADM/2026, DE 17 DE MARÇO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-021-adm-2026-de-17-de-marco-de-2026-202603171138172141711174",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "b8626091-f5ff-4964-f90d-08de841220bc",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-03-18T01:04:04.5738957",
+        "title": "PORTARIA Nº CBPM 020/ADM/2026, DE 17 DE MARÇO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-020-adm-2026-de-17-de-marco-de-2026-202603171138172141711151",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "5acae907-33df-4bdb-7d43-08de9a13da07",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-04-16T01:00:47.4789642",
+        "title": "PORTARIA Nº CBPM 023/ADM/2026, DE 15 DE ABRIL DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-023-adm-2026-de-15-de-abril-de-2026-202604151138172141779394",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "48138a2d-69de-4280-75e4-08deaf699f2c",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-05-18T01:00:55.2876552",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 15 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-15-de-maio-de-2026-202605151336172811848987",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "a566f32a-043c-4867-e53b-08deb1a561d4",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-05-18T01:01:29.6938439",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 15 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-15-de-maio-de-2026-202605151336172811849021",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "cb4d6328-8d7e-4175-9ae5-08deb592d424",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-05-20T01:01:09.2139889",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 19 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-19-de-maio-de-2026-202605191336172811853601",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "3d8edb2a-e3d1-4d35-3ff3-08deb5932e3d",
+        "publicationTypeId": "46ce1b02-1347-461d-9939-eaaca491348c",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-05-20T01:01:14.8446481",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 19 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-19-de-maio-de-2026-202605191336172771854404",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "877440e4-c354-4d2c-c658-08deb66f2cec",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2026-05-21T01:00:34.5598902",
+        "title": "PORTARIA Nº CBPM 029/ADM/2026, DE 20 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-029-adm-2026-de-20-de-maio-de-2026-202605201234172351857428",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "77eaac1c-933e-4fcf-07e1-08deb7f01853",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-05-25T01:01:07.6023252",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 22 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-22-de-maio-de-2026-202605221336172811863820",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "4ff17e5f-45dd-4706-b513-08debb42f5c1",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-05-27T01:01:14.6814455",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 26 DE MAIO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-26-de-maio-de-2026-202605261336172811872306",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "1fe7d33b-e0ac-41e2-8385-08debccfe19a",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-06-02T01:00:39.8539281",
+        "title": "PORTARIA Nº 024/ADM/2026, DE 1 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-024-adm-2026-de-1-de-junho-de-2026-202606011138172141885826",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "9daa54f8-6719-4890-5a4b-08debcd0959d",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-06-08T01:01:25.52937",
+        "title": "PORTARIA Nº 025/ADM/2026, DE 3 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-025-adm-2026-de-3-de-junho-de-2026-202606031138172141895276",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "df94624d-8857-4ef8-d45a-08dec6dac45b",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-06-11T01:00:24.1007962",
+        "title": "PORTARIA Nº 032/ADM/2026, DE 10 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-032-adm-2026-de-10-de-junho-de-2026-202606101138172141903896",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "6e12d844-fc23-4187-8096-08dec6f240de",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-06-11T01:00:30.8472087",
+        "title": "PORTARIA Nº 033/ADM/2026, DE 10 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-033-adm-2026-de-10-de-junho-de-2026-202606101138172141905500",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "afdc0504-201d-45b1-6218-08decb0ed6f9",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-06-19T01:00:49.5060062",
+        "title": "PORTARIA Nº CBPM 034/ADM/2026, DE 18 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-034-adm-2026-de-18-de-junho-de-2026-202606181138172141925094",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "f2c03542-d46f-4ce0-6dc2-08ded05ee4db",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-06-25T01:00:13.4306834",
+        "title": "PORTARIA Nº CBPM 035/ADM/2026, DE 24 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-035-adm-2026-de-24-de-junho-de-2026-202606241138172141939547",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "d6c5f404-c5d4-4e00-0947-08dee341e021",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-21T01:00:49.6856374",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL , DE 20 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-20-de-julho-de-2026-202607201336172811990786",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "839f9a10-fba4-4063-0951-08dee341e021",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-21T01:00:49.7972564",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 20 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-20-de-julho-de-2026-202607201336172811990835",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "8d7f4d0f-0e7c-42d4-afb4-08dee3421866",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-21T01:01:02.6864197",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 20 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-20-de-julho-de-2026-202607201336172811990800",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "615cb186-4dec-450c-0fa8-08dee650ca05",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-21T01:01:20.5718881",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 20 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-20-de-julho-de-2026-202607201336172811990822",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "8302fcf9-31b8-4932-feeb-08dee7d998f0",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-23T01:01:16.9007043",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 22 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-22-de-julho-de-2026-202607221336172811997211",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "e4f091d8-0aa4-423e-1449-08dee341e021",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-29T01:00:53.2646516",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL PORTARIA Nº 046/ADM/2026, DE 28 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-portaria-n-046-adm-2026-de-28-de-julho-de-2026-202607281336172812009974",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "56dd2b05-c744-4b8d-722a-08deebced31c",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-07-29T01:01:10.2229698",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL PORTARIA  Nº 036/ADM/26, DE 28 DE JULHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-portaria-n-036-adm-26-de-28-de-julho-de-2026-202607281336172812010228",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "7321b8d0-c516-4114-74d7-08def1679dfb",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-08-06T01:01:44.1727195",
+        "title": "DESIGNAÇÃO DE GESTOR E FICAL DE CONTRATO, DE 5 DE AGOSTO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fical-de-contrato-de-5-de-agosto-de-2026-202608051336172812029559",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "b413b6a1-8837-445f-0ec8-08def169dccf",
+        "publicationTypeId": "f6aa1388-dde5-4fcc-ad0d-2a95e19f3eb1",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-08-11T01:00:19.3635419",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 10 DE AGOSTO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-10-de-agosto-de-2026-202608101336172802037586",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "e2e07d8c-1ea9-4b45-0886-08def2193207",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-08-13T01:03:00.3733069",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 12 DE AGOSTO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-12-de-agosto-de-2026-202608121336172812045714",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "ed4b4de9-124d-4f8a-ac61-08defa0cc959",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-08-17T01:01:02.5984445",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 14 DE AGOSTO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-14-de-agosto-de-2026-202608141336172812052546",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "037e7ac9-14e2-442a-2d97-08deff6ff19a",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-08-25T01:03:28.770856",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 24 DE AGOSTO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-24-de-agosto-de-2026-202608241336172812071429",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "c8ffe37e-d639-4f0e-fcc2-08df042ee8ae",
+        "publicationTypeId": "83424819-0244-4bea-9c66-2ad19152d102",
+        "secondLevelSectionId": "54a78b65-7aea-4201-4bf0-08db6b9689d9",
+        "thirdLevelSectionId": "5fdd8bb2-1ca2-44e0-f74c-08db6b969ba3",
+        "date": "2026-08-28T01:01:31.9661102",
+        "title": "PORTARIA Nº 054/ADM/2026, DE 27 DE AGOSTO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-054-adm-2026-de-27-de-agosto-de-2026-202608271234172352084046",
+        "hierarchy": "Executivo > Atos de Pessoal > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 2
+      },
+      {
+        "isLegacy": false,
+        "id": "e9b5c767-92ce-4762-a88c-08df0495b84e",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-09-02T01:01:04.8885064",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 1 DE SETEMBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-1-de-setembro-de-2026-202609011336172812094762",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "8afd47e7-9605-4191-eec2-08df04981eb4",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-09-02T01:01:12.3142065",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 1 DE SETEMBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-1-de-setembro-de-2026-202609011336172812094640",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "f557c5c4-db01-4427-e85a-08df081b20d4",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-09-02T01:01:36.0069956",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL, DE 1 DE SETEMBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-1-de-setembro-de-2026-202609011336172812094534",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "bae888c7-4c12-4707-23e2-08df1311d788",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-09-16T01:00:45.4297621",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 15 DE SETEMBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-15-de-setembro-de-2026-202609151336172812125884",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "edec9c42-86a1-44a3-76cd-08df132e7ecf",
+        "publicationTypeId": "cd16ef4a-d4cb-453e-a943-6c22e4c4376f",
+        "secondLevelSectionId": "1dabf148-6861-4fce-814b-3481e444aedf",
+        "thirdLevelSectionId": "048765a5-d5e8-47bc-bc45-bd78d88a8050",
+        "date": "2026-09-16T01:01:08.0457761",
+        "title": "DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, DE 15 DE SETEMBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/designacao-de-gestor-e-fiscal-de-contrato-de-15-de-setembro-de-2026-202609151336172812126129",
+        "hierarchy": "Executivo > Atos de Gestão e Despesas > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      },
+      {
+        "isLegacy": false,
+        "id": "cc48373c-582c-45d9-6ed2-08df2bb24b6c",
+        "publicationTypeId": "cb4ba2b1-3c31-4d79-85be-0c348ef04c66",
+        "secondLevelSectionId": "a82b989d-2c8e-493f-b5bb-08db6b943832",
+        "thirdLevelSectionId": "561d8839-2dc9-4b2b-7f5f-08db6b94d2bf",
+        "date": "2026-10-19T01:00:48.6019338",
+        "title": " PORTARIA Nº CBPM - 063/ADM/26, DE 16 DE OUTUBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-063-adm-26-de-16-de-outubro-de-2026-202610161138172142212413",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado",
+        "totalTermsFound": 1
+      }
+    ],
+    "currentPage": 1,
+    "totalPages": 1,
+    "totalItems": 68,
+    "pageSize": 100,
+    "hasPreviousPage": false,
+    "hasNextPage": false
+  },
+  "review": {
+    "fetchedItems": 68,
+    "allPagesFetched": true,
+    "normativeResults": [
+      {
+        "title": "DECRETO Nº 69.591, DE 9 DE JUNHO DE 2025",
+        "slug": "executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025-202506091182021135309",
+        "date": "2025-06-10T01:04:06.4150035",
+        "hierarchy": "Executivo > Atos Normativos > Decretos"
+      },
+      {
+        "title": "PORTARIA Nº 027/ADM/2025, DE 27 DE AGOSTO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-027-adm-2025-de-27-de-agosto-de-2025-202508271137172141297754",
+        "date": "2025-08-28T01:01:55.4963608",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 030 ADM 2025, DE 26 DE SETEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-030-adm-2025-de-26-de-setembro-de-2025-202509261137172141366139",
+        "date": "2025-09-29T01:02:28.1980295",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 032/ADM/2025, DE 30 DE SETEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-032-adm-2025-de-30-de-setembro-de-2025-202509301137172141373440",
+        "date": "2025-10-01T01:02:06.9038638",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "RETIFICAÇÃO Nº PORTARIA Nº CBPM032/ADM/2025, DE 1 DE OUTUBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/retificacao-n-portaria-n-cbpm032-adm-2025-de-1-de-outubro-de-2025-202510011137172231376523",
+        "date": "2025-10-02T01:01:22.1865633",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "DECRETO DE 10 DE OUTUBRO DE 2025",
+        "slug": "executivo/atos-do-governador/decreto-de-10-de-outubro-de-2025-2025101011912011400330",
+        "date": "2025-10-13T01:01:53.5201403",
+        "hierarchy": "Executivo > Atos Normativos > Atos do Governador > Decretos"
+      },
+      {
+        "title": "Retificação da Portaria nº 036/Adm/2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/retificacao-da-portaria-n-036-adm-2025-202510311137172231439725",
+        "date": "2025-11-03T01:02:26.3122089",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 037/ADM/2025, DE 31 DE OUTUBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-037-adm-2025-de-31-de-outubro-de-2025-202510311137172141440927",
+        "date": "2025-11-03T01:02:30.4822349",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 038/ADM/2025, DE 6 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-038-adm-2025-de-6-de-novembro-de-2025-202511061137172141452975",
+        "date": "2025-11-07T01:01:46.460156",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 039/ADM/2025, DE 10 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-039-adm-2025-de-10-de-novembro-de-2025-202511101137172141458651",
+        "date": "2025-11-11T01:03:06.4619117",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 041/ADM/2025, DE 26 DE NOVEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-041-adm-2025-de-26-de-novembro-de-2025-202511261137172141489007",
+        "date": "2025-11-27T01:00:13.6062148",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 042/ADM/2025, DE 2 DE DEZEMBRO DE 2025",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-042-adm-2025-de-2-de-dezembro-de-2025-202512021138172141501634",
+        "date": "2025-12-03T01:00:47.016281",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 001/ADM/2026, DE 8 DE JANEIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-001-adm-2026-de-8-de-janeiro-de-2026-202601081138172141561291",
+        "date": "2026-01-09T01:01:13.4710726",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 002/ADM/2026, DE 26 DE JANEIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-002-adm-2026-de-26-de-janeiro-de-2026-202601261138172141591655",
+        "date": "2026-01-27T01:01:44.2175311",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 003/ADM/2026, DE 27 DE JANEIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-003-adm-2026-de-27-de-janeiro-de-2026-202601271138172141594308",
+        "date": "2026-01-28T01:03:12.352585",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 013/ADM/2026, DE 4 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-013-adm-2026-de-4-de-fevereiro-de-2026-202602041138172141614620",
+        "date": "2026-02-05T01:01:28.7339827",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM-004/ADM/2026, DE 11 DE FEVEREIRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-004-adm-2026-de-11-de-fevereiro-de-2026-202602111138172141630197",
+        "date": "2026-02-12T01:00:40.9717351",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 021/ADM/2026, DE 17 DE MARÇO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-021-adm-2026-de-17-de-marco-de-2026-202603171138172141711174",
+        "date": "2026-03-18T01:03:31.7676176",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 020/ADM/2026, DE 17 DE MARÇO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-020-adm-2026-de-17-de-marco-de-2026-202603171138172141711151",
+        "date": "2026-03-18T01:04:04.5738957",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 023/ADM/2026, DE 15 DE ABRIL DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-023-adm-2026-de-15-de-abril-de-2026-202604151138172141779394",
+        "date": "2026-04-16T01:00:47.4789642",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 024/ADM/2026, DE 1 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-024-adm-2026-de-1-de-junho-de-2026-202606011138172141885826",
+        "date": "2026-06-02T01:00:39.8539281",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 025/ADM/2026, DE 3 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-025-adm-2026-de-3-de-junho-de-2026-202606031138172141895276",
+        "date": "2026-06-08T01:01:25.52937",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 032/ADM/2026, DE 10 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-032-adm-2026-de-10-de-junho-de-2026-202606101138172141903896",
+        "date": "2026-06-11T01:00:24.1007962",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº 033/ADM/2026, DE 10 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-033-adm-2026-de-10-de-junho-de-2026-202606101138172141905500",
+        "date": "2026-06-11T01:00:30.8472087",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 034/ADM/2026, DE 18 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-034-adm-2026-de-18-de-junho-de-2026-202606181138172141925094",
+        "date": "2026-06-19T01:00:49.5060062",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": "PORTARIA Nº CBPM 035/ADM/2026, DE 24 DE JUNHO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-035-adm-2026-de-24-de-junho-de-2026-202606241138172141939547",
+        "date": "2026-06-25T01:00:13.4306834",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      },
+      {
+        "title": " PORTARIA Nº CBPM - 063/ADM/26, DE 16 DE OUTUBRO DE 2026",
+        "slug": "executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-063-adm-26-de-16-de-outubro-de-2026-202610161138172142212413",
+        "date": "2026-10-19T01:00:48.6019338",
+        "hierarchy": "Executivo > Atos Normativos > Secretaria da Segurança Pública > Caixa Beneficente da Polícia Militar do Estado"
+      }
+    ]
+  }
+}

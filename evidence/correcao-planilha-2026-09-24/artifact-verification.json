@@ -1,0 +1,387 @@
+{
+  "source": "/Users/eduardofariascappia/Downloads/SGGD_SIMULADOR_.xlsx",
+  "sourceHash": "dd81060074013b1a2ff44b598d3dd0d92f3dac126ca51723b87334f1c4f74bad",
+  "originalUnchanged": true,
+  "outputPath": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/outputs/01a08b9a-sggd-planilha-corrigida/SGGD_SIMULADOR_CORRIGIDO.xlsx",
+  "changes": [
+    {
+      "cell": "E25",
+      "from": 35,
+      "to": 36,
+      "code": "CCESP 1.10"
+    },
+    {
+      "cell": "E26",
+      "from": 16,
+      "to": 17,
+      "code": "CCESP 2.10"
+    },
+    {
+      "cell": "E27",
+      "from": 15,
+      "to": 14,
+      "code": "CCESP 2.09"
+    },
+    {
+      "cell": "E32",
+      "from": 7,
+      "to": 8,
+      "code": "CCESP 1.05"
+    },
+    {
+      "cell": "E33",
+      "from": 6,
+      "to": 5,
+      "code": "CCESP 2.05"
+    },
+    {
+      "cell": "E40",
+      "from": 3,
+      "to": 2,
+      "code": "FCESP 1.14"
+    },
+    {
+      "cell": "E41",
+      "from": 13,
+      "to": 14,
+      "code": "FCESP 1.13"
+    },
+    {
+      "cell": "E42",
+      "from": 3,
+      "to": 2,
+      "code": "FCESP 2.13"
+    },
+    {
+      "cell": "E46",
+      "from": 10,
+      "to": 9,
+      "code": "FCESP 2.10"
+    },
+    {
+      "cell": "E51",
+      "from": 24,
+      "to": 25,
+      "code": "FCESP 2.06"
+    }
+  ],
+  "checks": [
+    {
+      "scenario": "corrected baseline and preserved proposal",
+      "cells": [
+        {
+          "cell": "C5",
+          "actual": 299,
+          "expected": 299
+        },
+        {
+          "cell": "C6",
+          "actual": 201,
+          "expected": 201
+        },
+        {
+          "cell": "C7",
+          "actual": 500,
+          "expected": 500
+        },
+        {
+          "cell": "G5",
+          "actual": 1069.5,
+          "expected": 1069.5
+        },
+        {
+          "cell": "G6",
+          "actual": 348.75,
+          "expected": 348.75
+        },
+        {
+          "cell": "G7",
+          "actual": 1418.25,
+          "expected": 1418.25
+        },
+        {
+          "cell": "D5",
+          "actual": 298,
+          "expected": 298
+        },
+        {
+          "cell": "D6",
+          "actual": 201,
+          "expected": 201
+        },
+        {
+          "cell": "D7",
+          "actual": 499,
+          "expected": 499
+        },
+        {
+          "cell": "H5",
+          "actual": 1066,
+          "expected": 1066
+        },
+        {
+          "cell": "H6",
+          "actual": 349.35,
+          "expected": 349.35
+        },
+        {
+          "cell": "H7",
+          "actual": 1415.35,
+          "expected": 1415.35
+        },
+        {
+          "cell": "E5",
+          "actual": -1,
+          "expected": -1
+        },
+        {
+          "cell": "I5",
+          "actual": -3.5,
+          "expected": -3.5
+        },
+        {
+          "cell": "E6",
+          "actual": 0,
+          "expected": 0
+        },
+        {
+          "cell": "I6",
+          "actual": 0.6000000000000227,
+          "expected": 0.6
+        },
+        {
+          "cell": "J7",
+          "actual": "Enquadrada nos limites",
+          "expected": "Enquadrada nos limites"
+        },
+        {
+          "cell": "J58",
+          "actual": 3.3,
+          "expected": 3.3
+        },
+        {
+          "cell": "K58",
+          "actual": 0,
+          "expected": 0
+        },
+        {
+          "cell": "M58",
+          "actual": -3.3,
+          "expected": -3.3
+        }
+      ]
+    },
+    {
+      "scenario": "CCESP 1.15 increases",
+      "cells": [
+        {
+          "cell": "J17",
+          "actual": 126,
+          "expected": 126
+        },
+        {
+          "cell": "K17",
+          "actual": 132,
+          "expected": 132
+        },
+        {
+          "cell": "M17",
+          "actual": 6,
+          "expected": 6
+        },
+        {
+          "cell": "D5",
+          "actual": 299,
+          "expected": 299
+        },
+        {
+          "cell": "H5",
+          "actual": 1072,
+          "expected": 1072
+        },
+        {
+          "cell": "I5",
+          "actual": 2.5,
+          "expected": 2.5
+        },
+        {
+          "cell": "J5",
+          "actual": "Fora dos limites",
+          "expected": "Fora dos limites"
+        },
+        {
+          "cell": "J7",
+          "actual": "Fora dos limites",
+          "expected": "Fora dos limites"
+        }
+      ]
+    },
+    {
+      "scenario": "last original FCESP row included",
+      "cells": [
+        {
+          "cell": "D6",
+          "actual": 202,
+          "expected": 202
+        },
+        {
+          "cell": "H6",
+          "actual": 349.95,
+          "expected": 349.95
+        },
+        {
+          "cell": "J57",
+          "actual": 2.4,
+          "expected": 2.4
+        },
+        {
+          "cell": "K57",
+          "actual": 3,
+          "expected": 3
+        },
+        {
+          "cell": "M57",
+          "actual": 0.6000000000000001,
+          "expected": 0.6
+        },
+        {
+          "cell": "J6",
+          "actual": "Fora dos limites",
+          "expected": "Fora dos limites"
+        }
+      ]
+    },
+    {
+      "scenario": "added FCESP 2.14 included",
+      "cells": [
+        {
+          "cell": "D6",
+          "actual": 202,
+          "expected": 202
+        },
+        {
+          "cell": "H6",
+          "actual": 352.65,
+          "expected": 352.65
+        },
+        {
+          "cell": "J58",
+          "actual": 3.3,
+          "expected": 3.3
+        },
+        {
+          "cell": "K58",
+          "actual": 3.3,
+          "expected": 3.3
+        },
+        {
+          "cell": "M58",
+          "actual": 0,
+          "expected": 0
+        },
+        {
+          "cell": "J6",
+          "actual": "Fora dos limites",
+          "expected": "Fora dos limites"
+        },
+        {
+          "cell": "P51",
+          "actual": 1,
+          "expected": 1
+        },
+        {
+          "cell": "R51",
+          "actual": 0,
+          "expected": 0
+        },
+        {
+          "cell": "S51",
+          "actual": "Alocado corretamente",
+          "expected": "Alocado corretamente"
+        }
+      ]
+    },
+    {
+      "scenario": "explicit zero proposal",
+      "cells": [
+        {
+          "cell": "D6",
+          "actual": 197,
+          "expected": 197
+        },
+        {
+          "cell": "H6",
+          "actual": 346.95,
+          "expected": 346.95
+        },
+        {
+          "cell": "J57",
+          "actual": 2.4,
+          "expected": 2.4
+        },
+        {
+          "cell": "K57",
+          "actual": 0,
+          "expected": 0
+        },
+        {
+          "cell": "M57",
+          "actual": -2.4,
+          "expected": -2.4
+        }
+      ]
+    },
+    {
+      "scenario": "restored final state",
+      "cells": [
+        {
+          "cell": "D7",
+          "actual": 499,
+          "expected": 499
+        },
+        {
+          "cell": "H7",
+          "actual": 1415.35,
+          "expected": 1415.35
+        },
+        {
+          "cell": "C7",
+          "actual": 500,
+          "expected": 500
+        },
+        {
+          "cell": "G7",
+          "actual": 1418.25,
+          "expected": 1418.25
+        },
+        {
+          "cell": "J7",
+          "actual": "Enquadrada nos limites",
+          "expected": "Enquadrada nos limites"
+        }
+      ]
+    },
+    {
+      "scenario": "saved workbook reimported; FCESP 2.01 proposal changed 4 to 5",
+      "cells": [
+        {
+          "cell": "D6",
+          "actual": 202,
+          "expected": 202
+        },
+        {
+          "cell": "H6",
+          "actual": 349.95,
+          "expected": 349.95
+        },
+        {
+          "cell": "J57",
+          "actual": 2.4,
+          "expected": 2.4
+        }
+      ],
+      "disposableInMemoryOnly": true
+    }
+  ],
+  "formulaErrorScan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

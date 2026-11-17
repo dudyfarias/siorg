@@ -1,0 +1,26 @@
+[
+  {
+    "file": "rawline-600.woff",
+    "bytes": 118036,
+    "sha256": "05cc872d69f1ad69c7726337470e4a3110ad14ef54def8e7137c01b5f65935a2",
+    "recoveredFrom": "https://siorg-calculadora-mvp.vercel.app/assets/rawline-600.woff"
+  },
+  {
+    "file": "rawline-700.woff",
+    "bytes": 117076,
+    "sha256": "fec6d77941755340819f047ba79839fbf2e0ac75788e8b10192f7728f322d4f5",
+    "recoveredFrom": "https://siorg-calculadora-mvp.vercel.app/assets/rawline-700.woff"
+  },
+  {
+    "file": "siorg-logo.png",
+    "bytes": 704135,
+    "sha256": "1661d5901fb596903c2288503db09f322cefcb759e2796c81e85286414d35fe3",
+    "recoveredFrom": "https://siorg-calculadora-mvp.vercel.app/assets/siorg-logo.png"
+  },
+  {
+    "file": "vlibras.svg",
+    "bytes": 2573,
+    "sha256": "672a997e569e53d8836e8ddc4c99e23d31d502487640c48ea85e07ab14db7cb8",
+    "recoveredFrom": "https://siorg-calculadora-mvp.vercel.app/assets/vlibras.svg"
+  }
+]

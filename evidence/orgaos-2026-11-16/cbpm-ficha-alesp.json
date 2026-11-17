@@ -1,0 +1,64 @@
+{
+  "idNorma": "211047",
+  "tipo": "Decreto",
+  "nuNorma": "69591",
+  "data": "09/06/2025",
+  "dataPublicacao": "10/06/2025",
+  "nomeNorma": "Decreto nº 69.591, de 09/06/2025",
+  "nomeNormaApelido": "( Decreto 69.591/2025 )",
+  "idTipo": "3",
+  "idPropositura": null,
+  "nomePropositura": null,
+  "dsEmenta": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Caixa Beneficente da Polícia Militar do Estado - CBPM.",
+  "alespExplica": null,
+  "tpPublicacaoAlespExplica": "N",
+  "dsSituacao": "Sem revogação expressa",
+  "tpPromulgacao": "Executivo",
+  "nomePublicacaoDO": "DOESP Executivo Seção 1, 10/06/2025, p.9",
+  "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025",
+  "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69591-09.06.2025.html",
+  "urlIntegraAtualizada": null,
+  "urlTextoAtualizado": null,
+  "urlIntegraListaPesquisa": null,
+  "completa": "ausente",
+  "observacoes": [],
+  "constitucionalidades": [],
+  "publicacoesPosteriores": [],
+  "anotacoesAlteracao": [],
+  "anotacoesRegulamentacao": [],
+  "anotacoesCorrelata": [],
+  "anotacaoOutras": [],
+  "temas": [
+    {
+      "idTema": "551",
+      "nmTema": "Administração Pública"
+    },
+    {
+      "idTema": "1001",
+      "nmTema": "Funcionalismo"
+    }
+  ],
+  "autores": [],
+  "indexadores": [
+    {
+      "idTermo": "325530",
+      "nmTermo": "Caixa Beneficente da Polícia Militar - CBPM"
+    },
+    {
+      "idTermo": "325621",
+      "nmTermo": "Cargo e Função"
+    },
+    {
+      "idTermo": "325623",
+      "nmTermo": "Cargo em Comissão"
+    },
+    {
+      "idTermo": "326810",
+      "nmTermo": "Estrutura e Organização Administrativa"
+    },
+    {
+      "idTermo": "329608",
+      "nmTermo": "Servidor Público Estadual"
+    }
+  ]
+}

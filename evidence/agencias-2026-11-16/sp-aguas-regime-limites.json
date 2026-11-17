@@ -1,0 +1,129 @@
+{
+  "organizationId": "sp-aguas",
+  "checkedAt": "2026-11-16",
+  "limits": {
+    "status": "documentary-reference-for-technical-review",
+    "asOf": "2026-11-16",
+    "groups": {
+      "CCESP": {
+        "quantity": "255",
+        "quotaCents": "80675"
+      },
+      "FCESP": {
+        "quantity": "118",
+        "quotaCents": "16755"
+      }
+    },
+    "aggregateDescriptiveOnly": {
+      "quantity": "373",
+      "quotaCents": "97430"
+    },
+    "components": [
+      {
+        "source": "LC 1.413/2024, art. 71 e Anexo I",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+        "groups": {
+          "CCESP": {
+            "quantity": "40",
+            "quotaCents": "23200"
+          }
+        }
+      },
+      {
+        "source": "Decreto 69.486/2025, Anexo único, tabela B, linha SP-ÁGUAS e observações 1 e 2",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69486-14.04.2025.html",
+        "groups": {
+          "CCESP": {
+            "quantity": "215",
+            "quotaCents": "57475"
+          },
+          "FCESP": {
+            "quantity": "118",
+            "quotaCents": "16755"
+          }
+        }
+      }
+    ],
+    "method": "Somar os cargos criados pelo art. 71/Anexo I da LC 1.413 ao quadro adicional. A observação 2 do Decreto 69.486 determina expressamente o acréscimo de cotas. A Ata da 21ª reunião ordinária do Conselho Diretor registra o resultado combinado de 255 CCESP/806,75 cotas e 118 FCESP/167,55 cotas.",
+    "corroboration": {
+      "source": "Ata da 21ª reunião ordinária do Conselho Diretor da SP-Águas",
+      "url": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2025/06/ATA-DA-21a-REUNIAO-ORDINARIA.pdf",
+      "kind": "official-administrative-record-not-replacement-for-law"
+    },
+    "allocationComparison": {
+      "CCESP": {
+        "allocatedQuantity": "253",
+        "allocatedQuotaCents": "80500",
+        "balanceQuantity": "2",
+        "balanceQuotaCents": "175"
+      },
+      "FCESP": {
+        "allocatedQuantity": "89",
+        "allocatedQuotaCents": "16725",
+        "balanceQuantity": "29",
+        "balanceQuotaCents": "30"
+      }
+    },
+    "constraints": [
+      "CCESP e FCESP permanecem separados; não compensar espécie, quantitativo ou cotas.",
+      "342 postos/972,25 cotas é o quadro alocado da Deliberação 25, não o limite máximo normativo.",
+      "Referência pública de teste; sem confirmação pela planilha da Marina e sem homologação da área técnica.",
+      "Pesquisa em fontes primárias não constitui certificação exaustiva de vigência."
+    ]
+  },
+  "sources": [
+    {
+      "path": "sp-aguas-decreto-69486-2025.html",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69486-14.04.2025.html",
+      "sha256": "868880dc77f83ba1b20d2832f5c8cfa2957ce316498ec81836a17ff36b9e15dc"
+    },
+    {
+      "path": "sp-aguas-lc-1413-2024.html",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+      "sha256": "8a3a8faa898aadb4e3392a5a6a498bd78b90f1ccbff4efa26ad72583dd5f8e3c"
+    },
+    {
+      "path": "sp-aguas-decreto-69339-2025.html",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "sha256": "4f6fbb49be85c2f9633e8dffccde3dd09b5d72f39cd6e7eb296189783e787a67"
+    },
+    {
+      "path": "sp-aguas-ata-21.pdf",
+      "url": "https://www.spaguas.sp.gov.br/site/wp-content/uploads/2025/06/ATA-DA-21a-REUNIAO-ORDINARIA.pdf",
+      "sha256": "a9b8071afd2e4ae2b245f6b9719f6daec214dc89a71b344a3208d92a496982f5"
+    }
+  ],
+  "annexRoles": {
+    "allocation": "Deliberação SP-Águas 25/2026, Anexo I",
+    "allocationSummary": "Deliberação SP-Águas 25/2026, Anexo II",
+    "limit": "LC 1.413/2024 Anexo I + Decreto 69.486/2025 Anexo único"
+  },
+  "regime": [
+    {
+      "source": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+      "provision": "art. 70",
+      "finding": "CCESP das agências sujeitos à LC 1.395/2023, excetuados Diretor-Presidente e Diretor."
+    },
+    {
+      "source": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+      "provision": "art. 88; § 3º do art. 5º da LC 1.395/2023",
+      "finding": "Recomposição dos cargos/funções das agências realizada por ato do respectivo Conselho Diretor."
+    },
+    {
+      "source": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "provision": "arts. 23, 24 e 32",
+      "finding": "Regimento define estrutura e vínculos; titular ocupa o cargo de comando de maior nível da unidade. Não derivar parent da sequência do quadro."
+    },
+    {
+      "source": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "provision": "arts. 39 e 40",
+      "finding": "Regime da agência exige aplicar o conjunto específico de dispositivos; não importar indiscriminadamente regras estruturais da SGGD."
+    },
+    {
+      "source": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "provision": "art. 42",
+      "finding": "Conselho Diretor aloca cargos em ato próprio, observados quantitativos/cotas/recomposição e denominações/níveis do Anexo único."
+    }
+  ],
+  "laterActsEvidence": "sp-aguas-atos-posteriores.json"
+}

@@ -1,0 +1,65 @@
+DIRETORIA GERAL DE PAGAMENTO DE PESSOAL 1 Diretor Geral CCESP 1.16
+  1 Assessor IV CCESP 2.12
+  1 Assistente Técnico IV CCESP 2.08
+       
+DIRETORIA DE DESPESA DE PESSOAL 1 Diretor CCESP 1.15
+  30 Assistente Técnico IV CCESP 2.08
+  1 Assistente Técnico IV FCESP 2.08
+  4 Assistente IV CCESP 2.04
+Coordenadoria de Instrução e Padronização de
+Pagamentos
+1 Coordenador CCESP 1.13
+Divisão de Complementação de Aposentadoria e
+Pensão
+1 Chefe de Divisão FCESP 1.10
+Divisão de Despesa da Educação da Região
+Metropolitana
+1 Chefe de Divisão CCESP 1.10
+Divisão de Despesa da Educação do Interior I 1 Chefe de Divisão CCESP 1.10
+Divisão de Despesa da Educação do Interior II 1 Chefe de Divisão FCESP 1.10
+Divisão de Despesa da Saúde 1 Chefe de Divisão FCESP 1.10
+Divisão de Despesa da Segurança Pública e
+Administração Penitenciária
+1 Chefe de Divisão CCESP 1.10
+Divisão de Despesa das Secretarias Diversas 1 Chefe de Divisão CCESP 1.10
+Coordenadoria de Normas, Inovação e Melhoria de
+Processos
+1 Coordenador FCESP 1.13
+  1 Assistente Técnico IV FCESP 2.08
+  1 Assistente Técnico III FCESP 2.07
+Divisão de Aplicação Normativa da Folha e de
+Legislação
+1 Chefe de Divisão FCESP 1.10
+Divisão de Inovação e Melhoria de Processos 1 Chefe de Divisão FCESP 1.10
+Divisão de Inteligência e Informações Gerenciais 1 Chefe de Divisão FCESP 1.10
+Divisão de Suporte e Atendimento aos Setoriais e
+Subsetoriais
+1 Chefe de Divisão CCESP 1.10
+Coordenadoria de Atendimento a Demandas Judiciais 1 Coordenador CCESP 1.13
+Divisão de Análise e Informações Processuais 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico IV CCESP 2.08
+Divisão de Cumprimento de Obrigações 1 Chefe de Divisão CCESP 1.10
+       
+DIRETORIA DA FOLHA DE PAGAMENTO 1 Diretor CCESP 1.15
+  12 Assistente Técnico IV CCESP 2.08
+  6 Assistente Técnico IV FCESP 2.08
+  1 Assistente I CCESP 2.01
+Coordenadoria de Processamento da Folha 1 Coordenador FCESP 1.13
+Divisão de Orçamento da Folha 1 Chefe de Divisão CCESP 1.10
+Divisão de Parametrização e Pagamento da Folha da
+Administração Direta
+1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico III FCESP 2.07
+Divisão de Parametrização e Pagamento da Folha da
+Administração Indireta
+1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico IV CCESP 2.08
+Coordenadoria de Soluções e Produtos de Pagamento
+de Pessoal
+1 Coordenador CCESP 1.13
+Divisão de Integração de Sistemas de Pagamento de
+Pessoal
+1 Chefe de Divisão CCESP 1.10
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 35/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

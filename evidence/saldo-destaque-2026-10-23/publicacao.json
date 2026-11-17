@@ -1,0 +1,33 @@
+{
+  "balance": {
+    "bottom": 162.5,
+    "height": 154.5,
+    "left": 128,
+    "right": 1152,
+    "top": 8,
+    "width": 1024,
+    "x": 128,
+    "y": 8
+  },
+  "numericFont": "28px",
+  "overflow": false,
+  "result": {
+    "bottom": 674.59375,
+    "height": 482.6796875,
+    "left": 128,
+    "right": 1152,
+    "top": 191.9140625,
+    "width": 1024,
+    "x": 128,
+    "y": 191.9140625
+  },
+  "scripts": [
+    "/assets/index-Y4tovWRr.js"
+  ],
+  "styles": [
+    "/assets/index-CBGPe5vm.css"
+  ],
+  "text": "CCESP\n−1\ncargo\n−3,50\ncotas\nFCESP\n0\nfunções\n0,60\ncotas",
+  "title": "Simulador de Reestruturação | SIORG",
+  "url": "https://siorg-calculadora-mvp.vercel.app/#resultados"
+}

@@ -1,0 +1,60 @@
+Divisão de Capacitação e Suporte aos Usuários dos
+Sistemas de Gestão de Pessoas
+1 Chefe de Divisão CCESP 1.10
+Coordenadoria de Apoio aos Sistemas e Processos de
+Gestão de Pessoas
+1 Coordenador FCESP 1.13
+Divisão de Apoio aos Sistemas Corporativos de Gestão
+de Pessoas
+1 Chefe de Divisão FCESP 1.10
+Divisão de Apoio aos Processos de Gestão de Pessoas e
+Tratamento de Exceções
+1 Chefe de Divisão CCESP 1.10
+       
+DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO
+PAULO
+1 Diretor CCESP 1.15
+  1 Assessor II CCESP 2.10
+  1 Assessor I FCESP 2.09
+Serviço de Gestão Técnico-Administrativo 1 Chefe de Serviço FCESP 1.07
+  1 Assistente Técnico II CCESP 2.06
+  1 Assistente Técnico II FCESP 2.06
+Serviço de Gestão da Informação Pericial 1 Chefe de Serviço FCESP 1.07
+  1 Assistente IV FCESP 2.04
+Serviço de Atendimento e Gestão de Protocolos 1 Chefe de Serviço FCESP 1.07
+Coordenadoria de Insalubridade e Acidentes do
+Trabalho
+1 Coordenador CCESP 1.13
+  1 Assistente Técnico II FCESP 2.06
+Divisão de Insalubridade 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II FCESP 2.06
+Divisão de Acidentes do Trabalho 1 Chefe de Divisão FCESP 1.10
+Coordenadoria de Ingresso, Licenças, Readaptação e
+Aposentadoria
+1 Coordenador FCESP 1.13
+Divisão de Perícias de Ingresso e Licenças Médicas 1 Chefe de Divisão FCESP 1.10
+  2 Assistente Técnico II CCESP 2.06
+  4 Assistente Técnico II FCESP 2.06
+  2 Assistente Técnico I CCESP 2.05
+Divisão de Readaptação e Aposentadoria 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II CCESP 2.06
+  1 Assistente IV FCESP 2.04
+Coordenadoria de Saúde Ocupacional 1 Coordenador CCESP 1.13
+Divisão de Segurança no Trabalho 1 Chefe de Divisão FCESP 1.10
+  1 Assistente Técnico II CCESP 2.06
+  1 Assistente IV FCESP 2.04
+Divisão de Promoção e Prevenção da Saúde do Servidor 1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico II CCESP 2.06
+  1 Assistente IV FCESP 2.04
+       
+DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS 1 Diretor CCESP 1.15
+  1 Assessor IV CCESP 2.12
+  1 Assessor I FCESP 2.09
+  1 Assessor I CCESP 2.09
+Coordenadoria de Benefícios 1 Coordenador CCESP 1.13
+Coordenadoria de Remuneração 1 Coordenador CCESP 1.13
+  1 Assistente IV FCESP 2.04
+       
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 34/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

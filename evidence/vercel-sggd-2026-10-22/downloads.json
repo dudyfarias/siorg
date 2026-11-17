@@ -1,0 +1,22 @@
+{
+  "alias": "https://siorg-calculadora-mvp.vercel.app/",
+  "scenario": "Assessor Especial III — Secretaria Executiva: 2 → 3",
+  "xlsx_sheets": [
+    "Reestruturação",
+    "Calculadora",
+    "Resumo",
+    "Anexo II"
+  ],
+  "proposed_metrics": [
+    300,
+    1075.5,
+    201,
+    348.75
+  ],
+  "annex_rows": 407,
+  "positions": 501,
+  "pdf_rows": 407,
+  "pdf_pages": 16,
+  "original_model_sha256": "dfb7d13d88d75dfa3ffa4c6de149ca9e06817b04688fc030e2e99866e9772a11",
+  "matched": true
+}

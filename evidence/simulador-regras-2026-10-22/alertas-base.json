@@ -1,0 +1,309 @@
+{
+  "checkedAt": "2026-10-22",
+  "count": 8,
+  "alerts": [
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-18",
+      "code": "reference_head_unconfirmed",
+      "message": "O quadro de origem desta unidade não identifica um código de comando. Confira a titularidade e eventual regime específico com a área técnica.",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "arts. 6º, § 2º, e 7º, §§ 1º e 2º",
+        "checkedAt": "2026-10-22"
+      },
+      "ruleStatus": "model-review",
+      "origin": "baseline",
+      "unitName": "Consultoria Jurídica"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-124",
+      "code": "insufficient_subordinate_units",
+      "message": "Foram identificadas 2 unidades diretamente vinculadas com titular até 2 nível(is) abaixo; a regra prevê mínimo 3. Confira também a hipótese alternativa do art. 17, II. Confirme as vinculações e os demais requisitos com a área técnica.",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "art. 17, incisos I e II",
+        "checkedAt": "2026-10-22"
+      },
+      "observed": {
+        "count": 2,
+        "minimum": 3,
+        "levelGap": 2,
+        "unitType": "subsecretaria"
+      },
+      "ruleStatus": "model-review",
+      "origin": "baseline",
+      "unitName": "SUBSECRETARIA DE GESTÃO"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-127",
+      "code": "category_incompatible",
+      "message": "“Chefe de Assessoria” está associado a FCESP 2.14; a referência prevê código de comando (1).",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "art. 7º, § 4º, item 2",
+        "checkedAt": "2026-10-22"
+      },
+      "positionId": "sggd-position-ii-127",
+      "observed": {
+        "code": "FCESP 2.14",
+        "expectedCategory": 1
+      },
+      "ruleStatus": "verified",
+      "origin": "baseline",
+      "unitName": "Assessoria Técnica"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-127",
+      "code": "reference_head_unconfirmed",
+      "message": "O quadro de origem desta unidade não identifica um código de comando. Confira a titularidade e eventual regime específico com a área técnica.",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "arts. 6º, § 2º, e 7º, §§ 1º e 2º",
+        "checkedAt": "2026-10-22"
+      },
+      "ruleStatus": "model-review",
+      "origin": "baseline",
+      "unitName": "Assessoria Técnica"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-157",
+      "code": "level_incompatible",
+      "message": "“Assessor II” está no nível 12; a tabela do regime prevê 10. Confira o enquadramento e eventual exceção específica.",
+      "source": {
+        "title": "Decreto 69.286/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69286-30.12.2024.html",
+        "provision": "art. 1º, V, a: Anexo III, tabela A, do Decreto 68.742/2024",
+        "checkedAt": "2026-10-22"
+      },
+      "positionId": "sggd-position-ii-158",
+      "observed": {
+        "level": 12,
+        "min": 10,
+        "max": 10
+      },
+      "ruleStatus": "verified",
+      "origin": "baseline",
+      "unitName": "Coordenadoria de Inteligência em Gestão"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-366",
+      "code": "unit_head_level_not_lower",
+      "message": "O titular desta unidade está no nível 15, igual ou superior ao nível 15 do titular de “DIRETORIA DE PLATAFORMAS E TRANSFORMAÇÃO DIGITAL”. Confira a vinculação.",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "art. 6º, §§ 3º e 4º",
+        "checkedAt": "2026-10-22"
+      },
+      "observed": {
+        "level": 15,
+        "parentLevel": 15,
+        "parentUnitId": "sggd-unit-ii-362"
+      },
+      "ruleStatus": "model-review",
+      "origin": "baseline",
+      "unitName": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-369",
+      "code": "insufficient_subordinate_units",
+      "message": "Foram identificadas 2 unidades diretamente vinculadas com titular até 2 nível(is) abaixo; a regra prevê mínimo 3. Confira também a hipótese alternativa do art. 17, II. Confirme as vinculações e os demais requisitos com a área técnica.",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "art. 17, incisos I e II",
+        "checkedAt": "2026-10-22"
+      },
+      "observed": {
+        "count": 2,
+        "minimum": 3,
+        "levelGap": 2,
+        "unitType": "subsecretaria"
+      },
+      "ruleStatus": "model-review",
+      "origin": "baseline",
+      "unitName": "SUBSECRETARIA DE PATRIMÔNIO DO ESTADO"
+    },
+    {
+      "severity": "warning",
+      "status": "model-review",
+      "unitId": "sggd-unit-ii-408",
+      "code": "insufficient_subordinate_units",
+      "message": "Foram identificadas 2 unidades diretamente vinculadas com titular até 2 nível(is) abaixo; a regra prevê mínimo 3. Confira também a hipótese alternativa do art. 17, II. Confirme as vinculações e os demais requisitos com a área técnica.",
+      "source": {
+        "title": "Decreto 68.742/2024",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html",
+        "provision": "art. 17, incisos I e II",
+        "checkedAt": "2026-10-22"
+      },
+      "observed": {
+        "count": 2,
+        "minimum": 3,
+        "levelGap": 2,
+        "unitType": "subsecretaria"
+      },
+      "ruleStatus": "model-review",
+      "origin": "baseline",
+      "unitName": "SUBSECRETARIA DO ARQUIVO PÚBLICO DO ESTADO"
+    }
+  ],
+  "coverage": {
+    "supported": true,
+    "scope": "sggd",
+    "checkedAt": "2026-10-22",
+    "pendingUnits": [],
+    "inferredUnitTypes": [
+      {
+        "unitId": "sggd-unit-ii-16",
+        "type": "ouvidoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-44",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-55",
+        "type": "subsecretaria-gestao-corporativa"
+      },
+      {
+        "unitId": "sggd-unit-ii-67",
+        "type": "diretoria-geral"
+      },
+      {
+        "unitId": "sggd-unit-ii-69",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-87",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-104",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-124",
+        "type": "subsecretaria"
+      },
+      {
+        "unitId": "sggd-unit-ii-126",
+        "type": "diretoria-geral"
+      },
+      {
+        "unitId": "sggd-unit-ii-134",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-155",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-166",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-185",
+        "type": "subsecretaria"
+      },
+      {
+        "unitId": "sggd-unit-ii-198",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-213",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-230",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-241",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-271",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-279",
+        "type": "diretoria-geral"
+      },
+      {
+        "unitId": "sggd-unit-ii-283",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-307",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-328",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-347",
+        "type": "subsecretaria"
+      },
+      {
+        "unitId": "sggd-unit-ii-353",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-358",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-362",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-369",
+        "type": "subsecretaria"
+      },
+      {
+        "unitId": "sggd-unit-ii-376",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-396",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-408",
+        "type": "subsecretaria"
+      },
+      {
+        "unitId": "sggd-unit-ii-417",
+        "type": "diretoria"
+      },
+      {
+        "unitId": "sggd-unit-ii-443",
+        "type": "diretoria"
+      }
+    ],
+    "limitations": [
+      "Tipos inferidos do quadro e vínculos de origem ainda dependem de conferência técnica.",
+      "A contagem usa vínculos diretos por identidade; não resolve pais ambíguos por nome.",
+      "Não avalia atribuições, justificativas, regimes próprios ou aprovação administrativa."
+    ]
+  }
+}

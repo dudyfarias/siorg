@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-11-16",
+  "organization": "ARTESP",
+  "source": {
+    "title": "LC 1.413/2024, Anexo I (art. 71)",
+    "actDate": "2024-09-23",
+    "publicationDate": "2024-09-24",
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1413-23.09.2024.html",
+    "retrievedHtmlSha256": "9e1463cbaeaf322b4171167f76927a96e31c300312e79b3757ad3e36a898ddad"
+  },
+  "classification": "Original legal allocation by level; not an allocation by organizational unit; superseding recompositions must be versioned separately.",
+  "rows": [
+    {
+      "level": 11,
+      "quantity": 16,
+      "coefficientCents": 350,
+      "cotaCents": 5600,
+      "unit": null,
+      "denomination": null,
+      "fullCode": null
+    },
+    {
+      "level": 12,
+      "quantity": 16,
+      "coefficientCents": 400,
+      "cotaCents": 6400,
+      "unit": null,
+      "denomination": null,
+      "fullCode": null
+    },
+    {
+      "level": 13,
+      "quantity": 16,
+      "coefficientCents": 450,
+      "cotaCents": 7200,
+      "unit": null,
+      "denomination": null,
+      "fullCode": null
+    },
+    {
+      "level": 15,
+      "quantity": 44,
+      "coefficientCents": 600,
+      "cotaCents": 26400,
+      "unit": null,
+      "denomination": null,
+      "fullCode": null
+    },
+    {
+      "level": 17,
+      "quantity": 2,
+      "coefficientCents": 800,
+      "cotaCents": 1600,
+      "unit": null,
+      "denomination": null,
+      "fullCode": null
+    },
+    {
+      "level": 18,
+      "quantity": 12,
+      "coefficientCents": 900,
+      "cotaCents": 10800,
+      "unit": null,
+      "denomination": null,
+      "fullCode": null
+    }
+  ],
+  "computedTotals": {
+    "quantity": 106,
+    "cotaCents": 58000
+  },
+  "unitDistributionKnown": false,
+  "categorySeriesKnown": false
+}

@@ -1,0 +1,24 @@
+{
+  "simulador": {
+    "url": "https://siorg-calculadora-mvp.vercel.app/#dados-atuais",
+    "script": "/assets/index-DbbtrK4A.js",
+    "state": "Proposta igual à base",
+    "unit": "Coordenadoria de Gestão de Políticas Públicas",
+    "alphabeticalCount": 221,
+    "searchResults": [
+      "Coordenadoria de Gestão de Políticas PúblicasDIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "Coordenadoria de Modelos OrganizacionaisDIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+      "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONALDIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL"
+    ],
+    "errors": []
+  },
+  "timeline": {
+    "url": "https://siorg-calculadora-mvp.vercel.app/novas-estruturas",
+    "count": 16,
+    "script": "/assets/index-DbbtrK4A.js",
+    "title": "Secretaria da Fazenda e Planejamento",
+    "fazenda": "Data do ato\n03 nov. 2026\nDecreto nº 70.956/2026\n\nPublicado em 04/11/2026\n\nAltera dispositivos do Decreto 69.362/2025 sobre a classificação financeira e orçamentária da Fazenda e revoga o inciso XIV do seu art. 1º.\n\nDiário Oficial\n\n— abre em nova aba",
+    "arsesp": "Deliberação ARSESP nº 1.649/2025\n\nPublicação original em 13/02/2025\n\nRepublicado em 17/02/2025\n\nAprova o Regimento Interno da ARSESP. A republicação corrige erro material e renumera os artigos a partir do art. 25.\n\nDiário Oficial — publicação original\n\n— abre em nova aba\nDiário Oficial — republicação\n\n— abre em nova aba",
+    "errors": []
+  }
+}

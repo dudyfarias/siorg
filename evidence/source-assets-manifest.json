@@ -1,0 +1,109 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "4eacbc8c55fd551f",
+      "kind": "stylesheet",
+      "name": "acessibilidade.css",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/4eacbc8c55fd551f.css",
+      "url": "https://www.siorg.sp.gov.br/statics/css/acessibilidade.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "ff8525f62c694b3e",
+      "kind": "stylesheet",
+      "name": "custom.min.css",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/ff8525f62c694b3e.css",
+      "url": "https://www.siorg.sp.gov.br/statics/css/custom.min.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cb41253515b70672",
+      "kind": "stylesheet",
+      "name": "all.min.css",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/cb41253515b70672.css",
+      "url": "https://www.siorg.sp.gov.br/statics/fontawesome-6.4.2/css/all.min.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "30178435fca64738",
+      "kind": "stylesheet",
+      "name": "rawline.min.css",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/30178435fca64738.css",
+      "url": "https://www.siorg.sp.gov.br/statics/rawline/css/rawline.min.css"
+    },
+    {
+      "contentType": "image/png",
+      "id": "6a4accba653dabe0",
+      "kind": "image",
+      "name": "LOGO+SIORG+III.png",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/6a4accba653dabe0.png",
+      "url": "https://www.siorg.sp.gov.br/wcm/connect/4de1edc6-85e9-47d9-9832-19e75e8615bb/LOGO+SIORG+III.png?MOD=AJPERES&ContentCache=none&CACHE=none&CACHEID=ROOTWORKSPACE-4de1edc6-85e9-47d9-9832-19e75e8615bb-pYuvnhZ"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9a096541b7851cec",
+      "kind": "image",
+      "name": "logo-sp-governo-estado-light.svg",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/9a096541b7851cec.svg",
+      "url": "https://www.siorg.sp.gov.br/statics/periodo-eleitoral/assets/images/logo-sp-governo-estado-light.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "643509fea7cb6eb7",
+      "kind": "image",
+      "name": "acessibilidade.png",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/643509fea7cb6eb7.png",
+      "url": "https://www.siorg.sp.gov.br/statics/img/acessibilidade.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "74b93e28f299a877",
+      "kind": "image",
+      "name": "logo-sp-governo-estado-dark.svg",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/74b93e28f299a877.svg",
+      "url": "https://www.siorg.sp.gov.br/statics/periodo-eleitoral/assets/images/logo-sp-governo-estado-dark.svg"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "1d18747a9c9e0379",
+      "kind": "font",
+      "name": "rawline-600.woff",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/1d18747a9c9e0379.woff",
+      "url": "https://www.siorg.sp.gov.br/statics/rawline/webfonts/rawline-600.woff"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "419b86ed5d2d1249",
+      "kind": "font",
+      "name": "rawline-700.woff",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/419b86ed5d2d1249.woff",
+      "url": "https://www.siorg.sp.gov.br/statics/rawline/webfonts/rawline-700.woff"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "0b0a62eccd9f2236",
+      "kind": "font",
+      "name": "rawline-400.woff",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/0b0a62eccd9f2236.woff",
+      "url": "https://www.siorg.sp.gov.br/statics/rawline/webfonts/rawline-400.woff"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "6ad2ac895322c6cb",
+      "kind": "font",
+      "name": "fa-solid-900.woff2",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/6ad2ac895322c6cb.woff2",
+      "url": "https://www.siorg.sp.gov.br/statics/fontawesome-6.4.2/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cec75fbb1bac65ce",
+      "kind": "image",
+      "name": "vlibras-access.svg",
+      "path": "/var/folders/jq/drpbqr_j16g_594_xn6q_qf80000gn/T/browser-use/assets/e180ce7e-3062-4f33-a1d9-45256dffc19d/cec75fbb1bac65ce.svg",
+      "url": "https://vlibras.gov.br/app/assets/images/vlibras-access.svg"
+    }
+  ],
+  "failures": []
+}

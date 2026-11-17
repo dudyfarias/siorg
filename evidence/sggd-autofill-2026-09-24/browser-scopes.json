@@ -1,0 +1,68 @@
+[
+  {
+    "dialog": false,
+    "differences": [
+      "0,00",
+      "0"
+    ],
+    "quantity": "7",
+    "quotas": "24,70",
+    "rows": 5,
+    "unit": "Diretoria de Modernização Organizacional"
+  },
+  {
+    "dialog": false,
+    "differences": [
+      "0,00",
+      "0"
+    ],
+    "quantity": "2",
+    "quotas": "10,00",
+    "rows": 2,
+    "unit": "Diretoria de Inovação em Gestão Pública"
+  },
+  {
+    "dialog": false,
+    "differences": [
+      "0,00",
+      "0"
+    ],
+    "quantity": "5",
+    "quotas": "16,40",
+    "rows": 5,
+    "unit": "Diretoria de Normas e Sistemas de Logística"
+  },
+  {
+    "dialog": false,
+    "differences": [
+      "0,00",
+      "0"
+    ],
+    "quantity": "44",
+    "quotas": "128,30",
+    "rows": 17,
+    "unit": "Diretoria Geral de Desenvolvimento e Capacidade Institucional"
+  },
+  {
+    "dialog": false,
+    "differences": [
+      "0,00",
+      "0"
+    ],
+    "quantity": "66",
+    "quotas": "203,75",
+    "rows": 21,
+    "unit": "Subsecretaria de Gestão"
+  },
+  {
+    "dialog": false,
+    "differences": [
+      "0,00",
+      "0"
+    ],
+    "quantity": "500",
+    "quotas": "1418,25",
+    "rows": 34,
+    "unit": "Toda a secretaria"
+  }
+]

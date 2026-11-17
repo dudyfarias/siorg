@@ -1,0 +1,11 @@
+✔ the received SGGD selection retains ten unique acts with public official sources (1.129625ms)
+✔ act dates do not silently inherit the publication dates from the old presentation (0.891541ms)
+✔ formal relations preserve the partial revocation and keep the general QGCFC rule outside exclusive groups (0.962583ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 63.830375

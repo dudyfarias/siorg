@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-09-24",
+  "source": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html",
+  "scope": "SGGD, Anexo III, efeitos em 01/08/2026",
+  "sourceRowsChecked": 69,
+  "sourceRowsWithPositiveQuantity": 45,
+  "aggregatedPositiveMotorRows": 34,
+  "coefficientMismatches": 0,
+  "lineProductMismatches": 0,
+  "catalogueVersion": "lc1395-anexo-i-revisao-2026-09-14",
+  "motorStatus": "complete",
+  "groups": {
+    "CCESP": {
+      "quantity": "298",
+      "quotaCents": "106600"
+    },
+    "FCESP": {
+      "quantity": "201",
+      "quotaCents": "34935"
+    }
+  },
+  "aggregate": {
+    "quantity": "499",
+    "quotaCents": "141535"
+  },
+  "deltaQuantity": "0",
+  "deltaQuotaCents": "0",
+  "adapter": "Categorias de comando e assessoramento agrupadas apenas por espécie e nível para a conta; NES mapeado para nível 18; zeros preservados na extração, omitidos somente das parcelas a calcular.",
+  "note": "O motor reproduz a soma interna do Anexo III, mas o Anexo II não reconcilia. Não é perfil normativo pronto para preenchimento automático; requer esclarecimento da divergência. Não comprova ocupação, saldo, homologação ou execução no Excel.",
+  "profileReadiness": "conflitante: não preencher como base reconciliada",
+  "annexCrossCheck": {
+    "source": "Anexo II da mesma página oficial",
+    "quantity": "500",
+    "quotaCents": "141825",
+    "groups": {
+      "CCESP": {
+        "quantity": "299",
+        "quotaCents": "106950"
+      },
+      "FCESP": {
+        "quantity": "201",
+        "quotaCents": "34875"
+      }
+    },
+    "divergentCodes": 11,
+    "quantityDifferenceVersusSummary": "1",
+    "quotaCentsDifferenceVersusSummary": "290",
+    "verification": "Conferência independente do HTML da ALESP e cotejo integral das linhas numéricas com o conteúdo original do DOE. Mesmos 69 códigos do resumo, mesmas somas dos 407 registros distribuídos e mesmas 11 divergências.",
+    "doeSource": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+  }
+}

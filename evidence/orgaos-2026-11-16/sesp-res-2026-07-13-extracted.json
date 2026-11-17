@@ -1,0 +1,72 @@
+{
+  "id": "sesp-res-2026-07-13",
+  "title": "Resolução",
+  "publicationDate": "2026-07-16",
+  "sourceUrl": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+  "apiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+  "sha256": "283a1a04c0390da327af4db4f0779d7611712954e4ff99a930750c438402c550",
+  "tables": [
+    [
+      [
+        "Código da Unidade Administrativa de Origem",
+        "Denominação da Unidade Administrativa de Origem",
+        "Número da Vaga no SGP",
+        "Denominação do Cargo/Função",
+        "Código da Unidade Administrativa de Destino",
+        "Denominação da Unidade Administrativa de Destino"
+      ],
+      [
+        "10700010",
+        "Coordenadoria De Políticas Públicas",
+        "2412738",
+        "Assistente III – CCESP 2.03",
+        "10700035",
+        "Seção de Tomada de Contas"
+      ],
+      [
+        "10700003",
+        "Chefia de Gabinete",
+        "2412441",
+        "Assessor IV – CCESP 2.12",
+        "10700036",
+        "Assessoria da Subsecretaria de Gestão Corporativa"
+      ],
+      [
+        "10700009",
+        "Coordenadoria Geral",
+        "2410993",
+        "Assessor I – CCESP 2.09",
+        "10700010",
+        "Coordenadoria De Políticas Públicas"
+      ],
+      [
+        "10700010",
+        "Coordenadoria De Políticas Públicas",
+        "2412741",
+        "Assistente Técnico II – CCESP 2.06",
+        "10700009",
+        "Coordenadoria Geral"
+      ],
+      [
+        "10700010",
+        "Coordenadoria de Políticas Públicas",
+        "2412309",
+        "Assistente IV – CCESP – 2.04",
+        "10700013",
+        "Divisão – Centro Desportivo Constâncio Vaz Guimarães"
+      ],
+      [
+        "10700010",
+        "Coordenadoria de Políticas Públicas",
+        "2412566",
+        "Assessor IV – CCESP – 2.12",
+        "10700003",
+        "Chefia de Gabinete"
+      ]
+    ],
+    [],
+    [],
+    []
+  ],
+  "text": "SEI/GESP - 0114218878 - DOE: Resolução corrida (Seção 2 - Pessoal)\np.Citacao {font-size:10pt; font-family:Calibri; word-wrap:normal; margin:4pt 0 4pt 160px; text-align:justify; } p.DOE_Alinhado_Direita {font-size:16pt; font-family:Open Sans; text-align:right; word-wrap:normal; margin:6pt; } p.DOE_Alinhado_Esquerda {font-size:16pt; font-family:Open Sans; text-align:left; word-wrap:normal; margin:margin; } p.DOE_Centralizado {font-size:16pt; font-family:Open Sans; text-align:center; word-wrap:normal; margin:6pt; } p.DOE_Ementa {font-size:16pt; font-family:Open Sans; text-indent: 34.448567708333336%; text-align:justify; word-wrap:normal; margin:6pt; } p.DOE_Justificado {font-size:16pt; font-family:Open Sans; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.DOE_Justificado_Recuo_Primeira_Linha {font-size:16pt; font-family:Open Sans; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:6pt; } p.Decreto_Data_Courier {font-size:12pt; font-family:Courier New; text-align:right; word-wrap:normal; margin:6pt; } p.Decreto_Ementa_Courier {font-size:12pt; font-family:Courier New; text-align:justify; word-wrap:normal; margin: 6pt 4.921223958333334% 6pt 44.291015625%;; } p.Decreto_Signatario_Courier {font-size:12pt; font-family:Courier New; text-align:center; text-transform:uppercase; word-wrap:normal; } p.Decreto_Texto_Courier {font-family:Courier New; text-indent: 36.90917968750001%; text-align:justify; word-wrap:normal; margin:6pt; line-height:2; } p.Decreto_Titulo_Courier {font-size:12pt; font-family:Courier New; text-align:justify; word-wrap:normal; margin:6pt; } p.Estilo_DOE {font-size:12pt; font-family:Open Sans; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Item_Alinea_Letra {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin: 6pt 1.0414062499999999% 6pt 15.625%;; counter-increment:letra_minuscula; } p.Item_Alinea_Letra:before {content:counter(letra_minuscula, lower-latin) \") \"; display:inline-block; width:5mm; font-weight:normal; } p.Item_Artigo {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; counter-increment:item-n1; counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Item_Inciso_Romano {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent: 0%; margin: 6pt 1.0414062499999999% 6pt 15.625%;; counter-increment:romano_maiusculo; counter-reset:letra_minuscula; } p.Item_Inciso_Romano:before {content:counter(romano_maiusculo, upper-roman) \" - \"; display:inline-block; width:15mm; font-weight:normal; } p.Item_Nivel1 {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; counter-increment:item-n1; counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Item_Nivel1:before {content:counter(item-n1) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_Nivel2 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:item-n2; counter-reset:item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Item_Nivel2:before {content:counter(item-n1) \".\" counter(item-n2) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_Nivel3 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:item-n3; counter-reset:item-n4 romano_maiusculo letra_minuscula; } p.Item_Nivel3:before {content:counter(item-n1) \".\" counter(item-n2) \".\" counter(item-n3) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_Nivel4 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:item-n4; counter-reset:romano_maiusculo letra_minuscula; } p.Item_Nivel4:before {content:counter(item-n1) \".\" counter(item-n2) \".\" counter(item-n3) \".\"  counter(item-n4) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Item_romano_negrito {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; counter-increment:item-n1; counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel1 {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:; text-indent: 0%; margin:9pt; counter-increment:paragrafo-n1; counter-reset:paragrafo-n2 paragrafo-n3 paragrafo-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel1:before {content:counter(paragrafo-n1) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Paragrafo_Numerado_Nivel2 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:paragrafo-n2; :paragrafo-n3 paragrafo-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel2:before {content:counter(paragrafo-n1) \".\" counter(paragrafo-n2) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Paragrafo_Numerado_Nivel3 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:paragrafo-n3; counter-reset:paragrafo-n4 romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel3:before {content:counter(paragrafo-n1) \".\" counter(paragrafo-n2) \".\" counter(paragrafo-n3) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Paragrafo_Numerado_Nivel4 {font-size:12pt; font-family:Calibri; text-indent: 0%; text-align:justify; word-wrap:normal; margin:6pt; counter-increment:paragrafo-n4; counter-reset:romano_maiusculo letra_minuscula; } p.Paragrafo_Numerado_Nivel4:before {content:counter(paragrafo-n1) \".\" counter(paragrafo-n2) \".\" counter(paragrafo-n3) \".\" counter(paragrafo-n4) \".\"; display:inline-block; width:25mm; font-weight:normal; } p.Tabela_Texto_8 {font-size:8pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:0 3pt 0 3pt; } p.Tabela_Texto_Alinhado_Direita {font-size:11pt; font-family:Calibri; text-align:right; word-wrap:normal; margin:0 3pt 0 3pt; } p.Tabela_Texto_Alinhado_Esquerda {font-size:11pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:0 2pt 0 2pt; } p.Tabela_Texto_Centralizado {font-size:11pt; font-family:Calibri; text-align:center; word-wrap:normal; margin:0 3pt 0; } p.Texto_Alinhado_Direita {font-size:12pt; font-family:Calibri; text-align:right; word-wrap:normal; margin:6pt; } p.Texto_Alinhado_Esquerda {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:margin; } p.Texto_Alinhado_Esquerda_Det {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:3pt; } p.Texto_Alinhado_Esquerda_Espacamento_Simples {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:6; } p.Texto_Alinhado_Esquerda_Espacamento_Simples_Alto {font-size:12pt; font-family:Calibri; text-align:left; word-wrap:normal; margin:3; } p.Texto_Alinhado_Esquerda_Espacamento_Simples_Maiusc {font-size:12pt; font-family:Calibri; text-align:left; text-transform:uppercase; word-wrap:normal; margin:0; } p.Texto_Alinhado_Esquerda_Negrito {font-weight:bold; font-family:Calibri; text-align:left; word-wrap:normal; margin:6pt; } p.Texto_Centralizado {font-size:12pt; font-family:Calibri; text-align:center; word-wrap:normal; margin:6pt; } p.Texto_Centralizado_Assinatura {font-size:12pt; font-family:Calibri; text-align:center; word-wrap:normal; margin:0 3pt 0; } p.Texto_Centralizado_Maiusculas {font-size:13pt; font-family:Calibri; text-align:center; text-transform:uppercase; word-wrap:normal; } p.Texto_Centralizado_Maiusculas_Negrito {font-weight:bold; font-size:13pt; font-family:Calibri; text-align:center; text-transform:uppercase; word-wrap:normal; } p.Texto_Espaco_Duplo_Recuo_Primeira_Linha {letter-spacing:0.2em; font-weight:bold; font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:6pt; } p.Texto_Fundo_Cinza_Maiusculas_Negrito {text-transform:uppercase; font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Texto_Fundo_Cinza_Negrito {font-weight:bold; background-color: transparent !important; font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Texto_Justificado {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; } p.Texto_Justificado_Maiusculas {font-size:12pt; font-family:Calibri; text-align:justify; word-wrap:normal; text-indent:0; margin:6pt; text-transform:uppercase; } p.Texto_Justificado_Recuo_Primeira_Linha {font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:6pt; } p.Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples {font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin:0 0 0 6pt; } p.Texto_Justificado_Recuo_Primeira_Linha_Margem {font-size:12pt; font-family:Calibri; text-indent: 12.303059895833334%; text-align:justify; word-wrap:normal; margin-left: 4.921223958333334%; } p.Titulo_centralizado_maiusculas {font-size:12pt; font-family:Calibri; text-align:center; text-transform:uppercase; word-wrap:normal; margin:0 0 0 6pt; }; background-color: transparent !important\nResolução da Secretária de 13-07-26\r\nFormaliza as alterações na classificação dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Esportes, constante do Anexo II do Decreto Nº 69.436, de 26 de março de 2025, nos termos do § 2º do artigo 20 do Decreto nº 68.742/2024.\r\nA Secretária de Esportes no uso da competência estabelecida pelo § 2º do artigo 20 do Decreto nº 68.742, de 05 de agosto de 2025\r\nResolve:\r\nArtigo 1º - Ficam formalizadas as alterações na classificação dos CCESP e FCESP no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Esportes, constante do Anexo II do Decreto Nº 69.436, de 26 de março de 2025, que aprova a nova estrutura organizacional, conforme planilha anexa à presente resolução.\r\nArtigo 2º - Esta Resolução entra em vigor 10 (dez) dias úteis após a data de sua publicação.\r\nANEXO\r\n\t\t\tCódigo da Unidade Administrativa de Origem\r\n\t\t\tDenominação da Unidade Administrativa de Origem\r\n\t\t\tNúmero da Vaga no SGP\r\n\t\t\tDenominação do Cargo/Função\r\n\t\t\tCódigo da Unidade Administrativa de Destino\r\n\t\t\tDenominação da Unidade Administrativa de Destino\r\n\t\t\t10700010\r\n\t\t\tCoordenadoria De Políticas Públicas\r\n\t\t\t2412738\r\n\t\t\tAssistente III – CCESP 2.03\r\n\t\t\t10700035\r\n\t\t\tSeção de Tomada de Contas\r\n\t\t\t10700003\r\n\t\t\tChefia de Gabinete\r\n\t\t\t2412441\r\n\t\t\tAssessor IV – CCESP 2.12\r\n\t\t\t10700036\r\n\t\t\tAssessoria da Subsecretaria de Gestão Corporativa\r\n\t\t\t10700009\r\n\t\t\tCoordenadoria Geral\r\n\t\t\t2410993\r\n\t\t\tAssessor I – CCESP 2.09\r\n\t\t\t10700010\r\n\t\t\tCoordenadoria De Políticas Públicas\r\n\t\t\t10700010\r\n\t\t\tCoordenadoria De Políticas Públicas\r\n\t\t\t2412741\r\n\t\t\tAssistente Técnico II – CCESP 2.06\r\n\t\t\t10700009\r\n\t\t\tCoordenadoria Geral\r\n\t\t\t10700010\r\n\t\t\tCoordenadoria de Políticas Públicas\r\n\t\t\t2412309\r\n\t\t\tAssistente IV – CCESP – 2.04\r\n\t\t\t10700013\r\n\t\t\tDivisão – Centro Desportivo Constâncio Vaz Guimarães\r\n\t\t\t10700010\r\n\t\t\tCoordenadoria de Políticas Públicas\r\n\t\t\t2412566\r\n\t\t\tAssessor IV – CCESP – 2.12\r\n\t\t\t10700003\r\n\t\t\tChefia de Gabinete"
+}

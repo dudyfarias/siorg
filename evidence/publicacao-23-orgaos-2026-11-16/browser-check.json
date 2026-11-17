@@ -1,0 +1,60 @@
+{
+  "deployment": "dpl_Kse9EwD5Vcu1R6XYFpxe8SacVAzp",
+  "alias": "https://siorg-calculadora-mvp.vercel.app/",
+  "authenticatedNavigationNeeded": false,
+  "options": [
+    "Agência de Águas do Estado de São PauloSP-Águas",
+    "Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São PauloARTESP",
+    "Agência Reguladora de Serviços Públicos do Estado de São PauloARSESP",
+    "Caixa Beneficente da Polícia MilitarCBPM",
+    "Instituto de Assistência Médica ao Servidor Público EstadualIAMSPE",
+    "Instituto de Medicina Social e de Criminologia de São PauloIMESC",
+    "Instituto de Pesos e Medidas do Estado de São PauloIPEM",
+    "Junta Comercial do Estado de São PauloJUCESP",
+    "Procuradoria Geral do EstadoPGE",
+    "Secretaria da Justiça e CidadaniaSJC",
+    "Secretaria de Ciência, Tecnologia e InovaçãoSCTI",
+    "Secretaria de ComunicaçãoSECOM",
+    "Secretaria de Desenvolvimento EconômicoSDE",
+    "Secretaria de Desenvolvimento Urbano e HabitaçãoSDUH",
+    "Secretaria de EsportesSESP",
+    "Secretaria de Gestão e Governo DigitalSGGD",
+    "Secretaria de Governo e Relações InstitucionaisSGRI",
+    "Secretaria de Meio Ambiente, Infraestrutura e LogísticaSEMIL",
+    "Secretaria de Parcerias em InvestimentosSPI",
+    "Secretaria de Políticas para a MulherSPM",
+    "Secretaria de Turismo e ViagensSTUR",
+    "Secretaria dos Direitos da Pessoa com DeficiênciaSEDPCD",
+    "Secretaria dos Transportes MetropolitanosSTM"
+  ],
+  "checkedOrganizations": [
+    {
+      "label": "SP-Águas",
+      "cc": "253",
+      "fc": "89"
+    },
+    {
+      "label": "IAMSPE",
+      "cc": "125",
+      "fc": "308"
+    },
+    {
+      "label": "JUCESP",
+      "cc": "172",
+      "fc": "0"
+    }
+  ],
+  "assets": {
+    "script": "/assets/index-Cb-JVULS.js",
+    "style": "/assets/index-CQKD8a5R.css"
+  },
+  "edit": {
+    "total": "173",
+    "delta": "+1"
+  },
+  "downloads": [
+    "JUCESP-Anexo-II-proposta-2026-11-16.pdf",
+    "JUCESP-proposta-2026-11-16.xlsx"
+  ],
+  "timeline": "https://siorg-calculadora-mvp.vercel.app/novas-estruturas"
+}

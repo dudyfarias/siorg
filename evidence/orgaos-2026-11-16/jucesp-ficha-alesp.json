@@ -1,0 +1,106 @@
+{
+  "idNorma": "212200",
+  "tipo": "Decreto",
+  "nuNorma": "70361",
+  "data": "04/02/2026",
+  "dataPublicacao": "06/02/2026",
+  "nomeNorma": "Decreto nº 70.361, de 04/02/2026",
+  "nomeNormaApelido": "( Decreto 70.361/2026 )",
+  "idTipo": "3",
+  "idPropositura": null,
+  "nomePropositura": null,
+  "dsEmenta": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções em Confiança da Junta Comercial do Estado de São Paulo - JUCESP e dá providências correlatas.",
+  "alespExplica": null,
+  "tpPublicacaoAlespExplica": "N",
+  "dsSituacao": "Sem revogação expressa",
+  "tpPromulgacao": "Executivo",
+  "nomePublicacaoDO": "DOESP Executivo Seção 1, 06/02/2026, p.5",
+  "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70361-de-4-de-fevereiro-de-2026",
+  "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70361-04.02.2026.html",
+  "urlIntegraAtualizada": null,
+  "urlTextoAtualizado": null,
+  "urlIntegraListaPesquisa": null,
+  "completa": "sim",
+  "observacoes": [],
+  "constitucionalidades": [],
+  "publicacoesPosteriores": [],
+  "anotacoesAlteracao": [
+    {
+      "idAnotacao": "68708",
+      "idNormaAnotadora": "212394",
+      "nomeNorma": "Decreto nº 70.484, de 25/03/2026",
+      "anotadoraDsCaderno": null,
+      "anotadoraDtPublicacao": null,
+      "anotadoraNuPagina": null,
+      "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/212394",
+      "anotadoraTxNorma": "<p>Artigo 1º - O cargo de Diretor - CCESP 1.15 - da Secretaria Geral, constante do Anexo II - Quadro Demonstrativo dos Cargos em Comissão da Junta Comercial do Estado de São Paulo - JUCESP, do Decreto nº 70.361, de 4 de fevereiro de 2026, passa a denominar-se Secretário-Geral - CCESP 1.15, na seguinte conformidade:</p><p>(…)</p>",
+      "anotadoraTpNorma": "Decreto",
+      "anotadoraNuNorma": "70484",
+      "anotadoraDsComplementoNorma": null,
+      "anotadoraDtNorma": "25/03/2026",
+      "anotadoraDsSituacao": "Sem revogação expressa",
+      "tipoAnotacao": "Alteração",
+      "internaExterna": "Interna",
+      "flMudaStatus": null,
+      "dataOrdenacao": "2026-03-25T00:00:00",
+      "normaAnotada": null,
+      "artigos": [
+        {
+          "idAnotacaoArtigo": "2969",
+          "txArtigo": "<p>Artigo 1º - O cargo de Diretor - CCESP 1.15 - da Secretaria Geral, constante do Anexo II - Quadro Demonstrativo dos Cargos em Comissão da Junta Comercial do Estado de São Paulo - JUCESP, do Decreto nº 70.361, de 4 de fevereiro de 2026, passa a denominar-se Secretário-Geral - CCESP 1.15, na seguinte conformidade:</p><p>(…)</p>",
+          "dsArtigoAnot": null
+        },
+        {
+          "idAnotacaoArtigo": "2968",
+          "txArtigo": "<p>Artigo 1º - O cargo de Diretor - CCESP 1.15 - da Secretaria Geral, constante do Anexo II - Quadro Demonstrativo dos Cargos em Comissão da Junta Comercial do Estado de São Paulo - JUCESP, do Decreto nº 70.361, de 6 de fevereiro de 2026, passa a denominar-se Secretário-Geral - CCESP 1.15, na seguinte conformidade:</p><p>(…)</p>",
+          "dsArtigoAnot": null
+        },
+        {
+          "idAnotacaoArtigo": "2967",
+          "txArtigo": "<p>Artigo 1º - O cargo de Diretor - CCESP 1.15 - da Secretaria Geral, constante do Anexo II - Quadro Demonstrativo dos Cargos em Comissão da Junta Comercial do Estado de São Paulo - JUCESP, do Decreto nº 70.361, de 6 de fevereiro de 2026, passa a denominar-se Secretário-Geral - CCESP 1.15, na seguinte conformidade:</p>",
+          "dsArtigoAnot": null
+        }
+      ]
+    }
+  ],
+  "anotacoesRegulamentacao": [],
+  "anotacoesCorrelata": [],
+  "anotacaoOutras": [],
+  "temas": [
+    {
+      "idTema": "551",
+      "nmTema": "Administração Pública"
+    },
+    {
+      "idTema": "1001",
+      "nmTema": "Funcionalismo"
+    }
+  ],
+  "autores": [],
+  "indexadores": [
+    {
+      "idTermo": "325621",
+      "nmTermo": "Cargo e Função"
+    },
+    {
+      "idTermo": "325623",
+      "nmTermo": "Cargo em Comissão"
+    },
+    {
+      "idTermo": "326810",
+      "nmTermo": "Estrutura e Organização Administrativa"
+    },
+    {
+      "idTermo": "327588",
+      "nmTermo": "Junta Comercial do Estado de São Paulo - JUCESP"
+    },
+    {
+      "idTermo": "328588",
+      "nmTermo": "Quadro de Funcionários"
+    },
+    {
+      "idTermo": "329608",
+      "nmTermo": "Servidor Público Estadual"
+    }
+  ]
+}

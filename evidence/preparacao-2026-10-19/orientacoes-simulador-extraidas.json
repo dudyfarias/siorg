@@ -1,0 +1,868 @@
+{
+  "path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/Orientacoes_simulador_cotas.docx",
+  "paragraphs": [
+    {
+      "p": 1,
+      "text": "Orientações para revisão e adaptação do simulador de reestruturação e calculadora de cotas"
+    },
+    {
+      "p": 2,
+      "text": "Atividade: revisar o modelo da SGGD e produzir um modelo de autarquia e outro de agência reguladora. Este roteiro explica a lógica da planilha, os ajustes solicitados e as conferências necessárias para a entrega."
+    },
+    {
+      "p": 3,
+      "text": "1  De onde partir"
+    },
+    {
+      "p": 4,
+      "text": "A SGGD integra a administração direta. Seu modelo utiliza os nomes, cargos, funções, quantitativos e regras próprios de uma secretaria. Autarquias e agências reguladoras exigem nova leitura da legislação: mudam as nomenclaturas, os enquadramentos, os quantitativos, as cotas e as regras aplicáveis. Os três modelos serão parecidos no funcionamento, mas diferentes em sua base legal e nos dados."
+    },
+    {
+      "p": 5,
+      "text": "Fotografia do quadro vigente"
+    },
+    {
+      "p": 6,
+      "text": "A base é o último quadro aprovado vigente do órgão ou entidade. Para secretarias, localizar o último decreto de reestruturação disponível e conferir suas alterações, anexos substituídos, retificações e datas de produção de efeitos. O ato mais recente pode alterar apenas parte do anterior. Nas agências, considerar também regimento e atos do Conselho Diretor."
+    },
+    {
+      "p": 7,
+      "text": "Consultar primeiro o vigente aprovado; depois permitir as alterações. Essa base ficará fixa, para comparar o quadro aprovado com a proposta do usuário. Não se trata, inicialmente, de comparar dois decretos históricos."
+    },
+    {
+      "p": 8,
+      "text": "Base normativa"
+    },
+    {
+      "p": 9,
+      "text": "A legislação geral fornece as regras e os valores unitários. Os atos de distribuição e os atos específicos vigentes fornecem os referenciais e o quadro de cada órgão. Não retirar os quantitativos apenas da tabela original da lei ou do decreto geral sem verificar atualizações."
+    },
+    {
+      "p": 10,
+      "text": "Consultar Legislação do SIORG"
+    },
+    {
+      "p": 11,
+      "text": "Consultar Novas Estruturas do SIORG"
+    },
+    {
+      "p": 12,
+      "text": "Materiais de trabalho"
+    },
+    {
+      "p": 13,
+      "text": "SGGD — TESTE1: modelo atual, pré-aprovado, a ser aperfeiçoado."
+    },
+    {
+      "p": 14,
+      "text": "Mapeamento de CCESP/FCESP: apoio para localizar regras e fontes; informações pendentes devem ser conferidas antes de implementar."
+    },
+    {
+      "p": 15,
+      "text": "Legislação geral e específica vigente de cada órgão ou entidade."
+    },
+    {
+      "p": 17,
+      "text": "2  Como a planilha foi construída"
+    },
+    {
+      "p": 18,
+      "text": "O primeiro modelo foi elaborado para a Secretaria de Gestão e Governo Digital, utilizando o Decreto nº 70.755/2026 como referência do arquivo atual, em conjunto com os atos que compõem sua estrutura vigente. Antes de atualizar a base, conferir eventuais atos posteriores."
+    },
+    {
+      "p": 19,
+      "text": "Foram organizados os registros do quadro aprovado, seus vínculos hierárquicos, as classificações e os valores unitários. Os campos da proposta permitem simular alterações preservando a fotografia vigente."
+    },
+    {
+      "p": 20,
+      "text": "Fluxo: quadro vigente aprovado → alterações na Reestruturação → Anexo II → cálculo dos impactos → resumo das mudanças."
+    },
+    {
+      "p": 21,
+      "text": "Aba"
+    },
+    {
+      "p": 22,
+      "text": "Finalidade"
+    },
+    {
+      "p": 23,
+      "text": "1 — Instruções"
+    },
+    {
+      "p": 24,
+      "text": "Explicar finalidade, regime, fontes, preenchimento, regras, terminologias e cálculos."
+    },
+    {
+      "p": 25,
+      "text": "2 — Reestruturação"
+    },
+    {
+      "p": 26,
+      "text": "Apresentar o vigente e receber as alterações. Única aba destinada ao preenchimento pelo órgão."
+    },
+    {
+      "p": 27,
+      "text": "3 — Anexo II"
+    },
+    {
+      "p": 28,
+      "text": "Refletir automaticamente a proposta no formato do quadro demonstrativo aplicável."
+    },
+    {
+      "p": 29,
+      "text": "4 — Calculadora"
+    },
+    {
+      "p": 30,
+      "text": "Comparar vigente e proposta em quantidades, cotas e valores de referência."
+    },
+    {
+      "p": 31,
+      "text": "5 — Resumo"
+    },
+    {
+      "p": 32,
+      "text": "Identificar alterações, unidades, cargos, origens, destinos e impactos."
+    },
+    {
+      "p": 34,
+      "text": "O usuário final deverá editar somente os campos amarelos da Reestruturação. O Anexo II, a Calculadora e o Resumo devem utilizar a mesma proposta ativa. Bases técnicas e fórmulas serão mantidas pelo responsável pelo modelo."
+    },
+    {
+      "p": 35,
+      "text": "Lógica dos cálculos"
+    },
+    {
+      "p": 36,
+      "text": "Variação de quantidade = quantidade proposta − quantidade vigente."
+    },
+    {
+      "p": 37,
+      "text": "Cotas utilizadas = quantidade × valor unitário da categoria e do nível."
+    },
+    {
+      "p": 38,
+      "text": "Variação de cotas = cotas propostas − cotas vigentes."
+    },
+    {
+      "p": 39,
+      "text": "Valor mensal de referência = quantidade × referência remuneratória vigente aplicável."
+    },
+    {
+      "p": 40,
+      "text": "Separar referencial autorizado, quadro vigente distribuído e proposta. Manter CCESP e FCESP separados. Explicar que a estimativa financeira não é a folha completa e identificar a tabela legal utilizada. A LC nº 1.395/2023 traz os valores unitários nos Anexos III e IV; a distribuição por órgão depende dos atos vigentes. As regras gerais de hierarquia e comando estão nos arts. 6º e 7º do Decreto nº 68.742/2024; os requisitos de unidades, nos arts. 16 a 18."
+    },
+    {
+      "p": 42,
+      "text": "3  Primeira atividade  Revisar a SGGD- https://governosp.sharepoint.com/:x:/r/teams/SGGD-EquipeTransioSGGD/_layouts/15/Doc.aspx?sourcedoc=%7BE58AD895-F091-42A5-B6F9-75A8E5DFDCDB%7D&file=SGGD-%20TESTE1.xlsx&action=default&mobileredirect=true&wdwpf=doclib-t "
+    },
+    {
+      "p": 43,
+      "text": "Preservar o arquivo recebido e trabalhar em nova versão. Aplicar os ajustes solicitados, conferir as regras e melhorar a apresentação, sem reconstruir desnecessariamente a lógica existente."
+    },
+    {
+      "p": 44,
+      "text": "Aba Instruções e capa"
+    },
+    {
+      "p": 45,
+      "text": "Dar um banho de loja na planilha e incluir o logo atual do Governo do Estado de São Paulo, obtido em fonte institucional ou fornecido pela equipe. Não recriar o logo nem utilizar versão antiga. Manter apresentação limpa, fonte legível, texto preto, cinza para organização e amarelo para edição."
+    },
+    {
+      "p": 46,
+      "text": "A capa deverá apresentar: finalidade; regime da administração direta; decreto utilizado; função das abas; campos editáveis; como manter, acrescentar ou retirar cargos e quantidades; como criar, renomear, transferir ou retirar unidades; impactos; fórmulas conceituais; regras, exceções e legislação. O conteúdo servirá também como base da orientação geral no portal."
+    },
+    {
+      "p": 47,
+      "text": "Orientação ao órgão: “Edite somente os campos amarelos da Reestruturação. As alterações atualizam o Anexo II, a Calculadora e o Resumo. Não altere a fotografia vigente nem as fórmulas.”"
+    },
+    {
+      "p": 48,
+      "text": "Aba Reestruturação"
+    },
+    {
+      "p": 49,
+      "text": "Conferir listas suspensas de ações, cargos, códigos e vinculações. Novas unidades devem aparecer como opções de vínculo quando cabível."
+    },
+    {
+      "p": 50,
+      "text": "Organizar blocos expansíveis e recolhíveis conforme a hierarquia, preservando as áreas de criação. Aplicar a navegação às demais abas conforme seu conteúdo."
+    },
+    {
+      "p": 51,
+      "text": "Permitir diferentes cargos na mesma unidade. Se adotada a edição direta da quantidade proposta, ajustar fórmulas e instruções para evitar dupla contagem."
+    },
+    {
+      "p": 52,
+      "text": "Aplicar as regras confirmadas na observação automática, informando unidade, pendência e fundamento."
+    },
+    {
+      "p": 53,
+      "text": "Regras e alertas https://governosp-my.sharepoint.com/:x:/g/personal/daniel_maciel_sp_gov_br/IQBUTNCyNRexQZXEIP-iLIGIAaRTIMPFklJD_zvVCIcJMEs?email=marina.passafaro%40sp.gov.br&e=TPQ7wk&isSPOFile=1&ovuser=3a78b0cd-7c8e-4929-83d5-190a6cc01365%2Cmarina.passafaro%40sp.gov.br&wdExp=TEAMS-TREATMENT&web=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA5MTcxMjIyMyJ9 "
+    },
+    {
+      "p": 54,
+      "text": "Conferir hierarquia; comando e assessoramento; nomenclatura e nível; titularidade; quantidade de titulares; unidades subordinadas exigidas; existência e situação dos vínculos; categorias, quantitativos e cotas. Contar apenas a proposta ativa, incluindo mudanças de quantidade, retiradas e transferências."
+    },
+    {
+      "p": 55,
+      "text": "Para cada regra, registrar condição, exceção, dispositivo, verificação e mensagem. Distinguir aviso, justificativa e bloqueio com a DMO. Não inventar vínculos obrigatórios a partir do nome: uma Coordenadoria não exige automaticamente uma Divisão."
+    },
+    {
+      "p": 57,
+      "text": "4  Ajustes nas saídas e conferências da SGGD"
+    },
+    {
+      "p": 58,
+      "text": "Exemplos de alertas"
+    },
+    {
+      "p": 59,
+      "text": "Ao criar uma Diretoria, informar a pendência enquanto não houver o conjunto de unidades subordinadas exigido pela regra aplicável. Para Diretoria Geral e Coordenadoria Geral, verificar os níveis imediatamente inferiores e os demais requisitos. A regra não deve ser reduzida universalmente a “duas coordenadorias”."
+    },
+    {
+      "p": 60,
+      "text": "Detectar também duplicidade de Secretário Executivo, conforme regra validada; unidade sem titular, ressalvados regimes próprios; subordinado de nível igual ou superior ao titular; e vínculo com unidade retirada. Retirar ou transferir uma unidade deve atualizar as condições da unidade superior."
+    },
+    {
+      "p": 61,
+      "text": "Aba Anexo II"
+    },
+    {
+      "p": 62,
+      "text": "O Anexo II deve ser automático, não editável e limpo, pois o órgão utilizará esse quadro para compor o anexo do decreto. Deve apresentar somente a estrutura resultante da proposta."
+    },
+    {
+      "p": 63,
+      "text": "Unidades e cargos criados aparecem conforme o preenchimento. Renomeações e transferências são refletidas."
+    },
+    {
+      "p": 64,
+      "text": "Unidades extintas e cargos retirados deixam de aparecer. Não exibir quantidade zero, código “0” ou espaços de criação não preenchidos."
+    },
+    {
+      "p": 65,
+      "text": "Manter apenas UNIDADE, QTD, DENOMINAÇÃO CARGO/FUNÇÃO e CCESP/FCESP, conforme o modelo oficial aplicável."
+    },
+    {
+      "p": 66,
+      "text": "Não exportar ações, alertas, cálculos ou observações internas. O histórico permanece no Resumo."
+    },
+    {
+      "p": 67,
+      "text": "Exportar o quadro completo, independentemente dos blocos recolhidos durante a consulta."
+    },
+    {
+      "p": 68,
+      "text": "Abas Calculadora e Resumo"
+    },
+    {
+      "p": 69,
+      "text": "Conferir quantidade e cotas vigentes e propostas, variações, acréscimos e retiradas. Manter os referenciais autorizados separados dos valores distribuídos. No Resumo, indicar o que mudou, em qual unidade, a origem e o destino, quando houver."
+    },
+    {
+      "p": 70,
+      "text": "Pontos já identificados para conferência"
+    },
+    {
+      "p": 71,
+      "text": "O arquivo informa 500 cargos na transcrição do Anexo II e 499 no referencial do Anexo III. Reconciliar os registros com os atos oficiais, sem alterar números artificialmente. A referência monetária de R$ 2.966,00 utilizada no arquivo deve ser conferida com as tabelas vigentes antes de apresentar valores financeiros atualizados."
+    },
+    {
+      "p": 72,
+      "text": "Fontes da revisão"
+    },
+    {
+      "p": 73,
+      "text": "LC nº 1.395/2023 atualizada; Decreto nº 68.742/2024 e alterações, incluindo o Decreto nº 69.286/2024; Resolução SGGD nº 42/2025; atos de estrutura da SGGD, incluindo o Decreto nº 70.755/2026. Conferir as disposições remuneratórias pertinentes das LCs nº 1.426/2025 e nº 1.435/2025."
+    },
+    {
+      "p": 75,
+      "text": "5  Segunda atividade  Modelo de autarquia"
+    },
+    {
+      "p": 76,
+      "text": "Escolher uma autarquia em Novas Estruturas do SIORG, preferencialmente com documentação completa. Por exemplo, se escolher o Detran-SP, utilizar seu quadro vigente aprovado e seus quantitativos. A SGGD fornece apenas a referência funcional e visual."
+    },
+    {
+      "p": 77,
+      "text": "Sequência de trabalho"
+    },
+    {
+      "p": 78,
+      "text": "Localizar o último decreto de reestruturação e verificar alterações, retificações, anexos e atos complementares."
+    },
+    {
+      "p": 79,
+      "text": "Identificar a estrutura vigente, os cargos, funções, códigos, níveis e vínculos."
+    },
+    {
+      "p": 80,
+      "text": "Conferir os quantitativos distribuídos e os referenciais autorizados de quantidade e cotas."
+    },
+    {
+      "p": 81,
+      "text": "Adaptar as cinco abas, os catálogos, listas, mensagens e parâmetros."
+    },
+    {
+      "p": 82,
+      "text": "Testar vigente versus proposta e entregar sem simulações."
+    },
+    {
+      "p": 83,
+      "text": "Legislação a fornecer à IA"
+    },
+    {
+      "p": 84,
+      "text": "Fonte"
+    },
+    {
+      "p": 85,
+      "text": "O que examinar"
+    },
+    {
+      "p": 86,
+      "text": "LC nº 1.395/2023 atualizada"
+    },
+    {
+      "p": 87,
+      "text": "QGCFC, valores unitários, recomposição, distribuição e referências remuneratórias."
+    },
+    {
+      "p": 88,
+      "text": "Decreto nº 68.742/2024 e alterações"
+    },
+    {
+      "p": 89,
+      "text": "Arts. 6º a 8º: hierarquia e classificação. Arts. 16 a 20: organização e requisitos aplicáveis."
+    },
+    {
+      "p": 90,
+      "text": "Anexo III item B atualizado"
+    },
+    {
+      "p": 91,
+      "text": "Nomenclaturas e níveis da administração autárquica."
+    },
+    {
+      "p": 92,
+      "text": "Art. 26 e Anexo VII tabela B"
+    },
+    {
+      "p": 93,
+      "text": "Distribuição de cotas, atualizada pelo Decreto nº 69.486/2025 e atos específicos posteriores."
+    },
+    {
+      "p": 94,
+      "text": "Lei e atos da entidade"
+    },
+    {
+      "p": 95,
+      "text": "Denominação do dirigente, estrutura, quadro aprovado, vínculos e parâmetros vigentes."
+    },
+    {
+      "p": 97,
+      "text": "Cuidados com nomenclaturas e quantitativos"
+    },
+    {
+      "p": 98,
+      "text": "Não substituir automaticamente Secretário Executivo por Presidente. A entidade pode utilizar Presidente, Superintendente ou outra denominação, com enquadramento definido em seu ato. Confirmar a classificação de cada cargo e não atribuir um nível apenas pela semelhança do nome."
+    },
+    {
+      "p": 99,
+      "text": "O quantitativo autorizado pode ter sido alterado por ato posterior à tabela geral. Registrar a fonte de cada referência e separar o quadro distribuído do referencial autorizado. Aplicar as regras gerais somente quando pertinentes à entidade."
+    },
+    {
+      "p": 101,
+      "text": "6  Terceira atividade  Modelo de agência reguladora"
+    },
+    {
+      "p": 102,
+      "text": "Escolher uma agência em Novas Estruturas do SIORG. Reunir a legislação geral, o regimento interno e os atos vigentes do Conselho Diretor. O último quadro aprovado pode depender de vários atos, e não somente de um decreto."
+    },
+    {
+      "p": 103,
+      "text": "Legislação a fornecer à IA"
+    },
+    {
+      "p": 104,
+      "text": "Fonte"
+    },
+    {
+      "p": 105,
+      "text": "O que examinar"
+    },
+    {
+      "p": 106,
+      "text": "LC nº 1.413/2024 atualizada"
+    },
+    {
+      "p": 107,
+      "text": "Regime das agências; arts. 70 e 71 e Anexo I sobre cargos e quantitativos, consideradas as alterações."
+    },
+    {
+      "p": 108,
+      "text": "Decreto nº 69.339/2025"
+    },
+    {
+      "p": 109,
+      "text": "Art. 32: unidades. Art. 39: regime dos cargos e dispositivos gerais aplicáveis. Arts. 40 e 42: regimento e alocação. Anexo Único: nomes e níveis."
+    },
+    {
+      "p": 110,
+      "text": "LC nº 1.395/2023 e decreto geral"
+    },
+    {
+      "p": 111,
+      "text": "Aplicar conforme as remissões e ressalvas do regime específico; não transportar todas as regras da administração direta."
+    },
+    {
+      "p": 112,
+      "text": "Regimento e atos do Conselho Diretor"
+    },
+    {
+      "p": 113,
+      "text": "Estrutura, vínculos, alocação, alterações e eventual recomposição da agência escolhida."
+    },
+    {
+      "p": 115,
+      "text": "Cuidados específicos"
+    },
+    {
+      "p": 116,
+      "text": "Conferir as denominações próprias, como Gabinete da Presidência, Superintendências e Gerências, conforme o ato vigente."
+    },
+    {
+      "p": 117,
+      "text": "Diretor-Presidente e Diretores têm ressalva de regime no art. 39 do Decreto nº 69.339/2025. Não os classificar automaticamente como CCESP/FCESP comuns."
+    },
+    {
+      "p": 118,
+      "text": "Conferir as categorias existentes. Não presumir a presença de FCESP porque ela existe no modelo da SGGD."
+    },
+    {
+      "p": 119,
+      "text": "O art. 42 disciplina a alocação dos CCESP pelo Conselho Diretor. Examinar atos de alocação e recomposição para obter o quadro atual."
+    },
+    {
+      "p": 120,
+      "text": "Não aplicar automaticamente os mínimos de Subsecretaria, Diretoria Geral ou Diretoria da administração direta. Conferir o regime da agência."
+    },
+    {
+      "p": 121,
+      "text": "Resultado esperado"
+    },
+    {
+      "p": 122,
+      "text": "Um modelo com o mesmo fluxo de uso, mas com os dados, classificações, quantidades, cotas e alertas efetivamente aplicáveis à agência escolhida. Preservar a comparação entre o vigente aprovado e a proposta e o quadro de saída no formato oficial correspondente."
+    },
+    {
+      "p": 124,
+      "text": "7  Testes e locais de entrega"
+    },
+    {
+      "p": 125,
+      "text": "Realizar os testes em cópia e registrar resultado esperado e observado. Depois, remover todas as simulações dos arquivos de entrega."
+    },
+    {
+      "p": 126,
+      "text": "Teste"
+    },
+    {
+      "p": 127,
+      "text": "Resultado esperado"
+    },
+    {
+      "p": 128,
+      "text": "Sem alterações"
+    },
+    {
+      "p": 129,
+      "text": "Proposta igual ao vigente e variações iguais a zero."
+    },
+    {
+      "p": 130,
+      "text": "Quantidade de 2 para 3"
+    },
+    {
+      "p": 131,
+      "text": "Acréscimo de 1, uma única vez, com cotas e resumo atualizados."
+    },
+    {
+      "p": 132,
+      "text": "Acrescentar cargos distintos"
+    },
+    {
+      "p": 133,
+      "text": "Todos aparecem na unidade correta e são calculados."
+    },
+    {
+      "p": 134,
+      "text": "Retirar cargo ou unidade"
+    },
+    {
+      "p": 135,
+      "text": "Saída limpa, sem zero; reflexos corretos nos totais e no histórico."
+    },
+    {
+      "p": 136,
+      "text": "Criar unidade"
+    },
+    {
+      "p": 137,
+      "text": "Nome, vínculo, alertas e saídas atualizados; área vazia não aparece."
+    },
+    {
+      "p": 138,
+      "text": "Renomear ou transferir"
+    },
+    {
+      "p": 139,
+      "text": "Novo nome ou vínculo correto no quadro e no resumo."
+    },
+    {
+      "p": 140,
+      "text": "Completar ou retirar subordinadas"
+    },
+    {
+      "p": 141,
+      "text": "Contagem e alertas da unidade superior atualizados."
+    },
+    {
+      "p": 142,
+      "text": "Listas e agrupamentos"
+    },
+    {
+      "p": 143,
+      "text": "Opções válidas e navegação sem afetar os cálculos."
+    },
+    {
+      "p": 144,
+      "text": "Excel e exportação"
+    },
+    {
+      "p": 145,
+      "text": "Sem erros de fórmulas, quadro completo e formato adequado ao decreto."
+    },
+    {
+      "p": 147,
+      "text": "Conferir especialmente fórmulas de matriz dinâmica, como FILTER/FILTRO, na versão de Excel definida para uso. Não declarar compatibilidade apenas porque o arquivo abriu ou porque as fórmulas foram gravadas."
+    },
+    {
+      "p": 148,
+      "text": "Onde salvar"
+    },
+    {
+      "p": 149,
+      "text": "Secretarias: [INSERIR LINK DA PASTA EXISTENTE]"
+    },
+    {
+      "p": 150,
+      "text": "Autarquias: [INSERIR LINK DA PASTA EXISTENTE]"
+    },
+    {
+      "p": 151,
+      "text": "Agências reguladoras: [INSERIR LINK DA PASTA EXISTENTE]"
+    },
+    {
+      "p": 152,
+      "text": "Entregar três arquivos separados, acompanhados das fontes utilizadas, dos ajustes realizados, dos testes e das pendências para a DMO. A implementação no CMS será posterior à validação técnica."
+    },
+    {
+      "p": 154,
+      "text": "8  Preparar os documentos antes de usar a IA"
+    },
+    {
+      "p": 155,
+      "text": "A execução terá três etapas, nesta ordem: revisar a SGGD, produzir o modelo de uma autarquia e produzir o modelo de uma agência reguladora. Em cada etapa, a pessoa responsável deverá selecionar e enviar as fontes da entidade correspondente. A IA não deve preencher uma base incompleta com suposições."
+    },
+    {
+      "p": 156,
+      "text": "O que a pessoa responsável deverá fazer"
+    },
+    {
+      "p": 157,
+      "text": "Entrar em Legislação e Novas Estruturas no SIORG; identificar o regime e reunir os atos oficiais."
+    },
+    {
+      "p": 158,
+      "text": "Localizar o último quadro aprovado vigente. Enviar o decreto de estrutura e as alterações que compõem esse quadro, com anexos completos, retificações e datas de produção de efeitos."
+    },
+    {
+      "p": 159,
+      "text": "Nas agências, reunir também o regimento e os atos vigentes do Conselho Diretor sobre estrutura, distribuição e recomposição."
+    },
+    {
+      "p": 160,
+      "text": "Separar os quantitativos e as cotas autorizados do quadro distribuído. Registrar os valores de CCESP e FCESP, quando aplicáveis, e sua fonte."
+    },
+    {
+      "p": 161,
+      "text": "Enviar à IA os arquivos ou os textos completos, incluindo os anexos. Se um anexo estiver em imagem, conferir sua transcrição. Links sem acesso ou arquivos incompletos não bastam."
+    },
+    {
+      "p": 162,
+      "text": "Conferir a extração da IA contra os anexos oficiais antes de autorizar a implementação das regras. Levar divergências e interpretações à DMO."
+    },
+    {
+      "p": 163,
+      "text": "O que precisa constar na base de cada entidade"
+    },
+    {
+      "p": 164,
+      "text": "Nome e regime; relação dos atos vigentes; unidades e vínculos; denominações dos cargos e funções; códigos e níveis; quantidades distribuídas; quantitativos e cotas referenciais autorizados por categoria; valores unitários; referências financeiras e respectivas datas de vigência."
+    },
+    {
+      "p": 165,
+      "text": "Os quantitativos podem constar da lei, de seus anexos, do decreto de distribuição e de atos específicos posteriores. A pessoa deverá verificar qual referência efetivamente se aplica à entidade escolhida. Não confundir quantidade autorizada com vagas desocupadas nem com servidores em exercício."
+    },
+    {
+      "p": 166,
+      "text": "Atenção às nomenclaturas"
+    },
+    {
+      "p": 167,
+      "text": "A SGGD é administração direta. Nos outros modelos, podem existir Presidência, Superintendência, Conselho de Administração, Conselho da Previdência ou outras unidades e colegiados, se previstos no ato da entidade. Não criar essas estruturas por analogia. Um colegiado não deve receber automaticamente quantidade e cota de cargo de comando. Confirmar a natureza de cada item e seu tratamento no quadro."
+    },
+    {
+      "p": 169,
+      "text": "9  Primeira etapa com IA  Revisar a SGGD"
+    },
+    {
+      "p": 170,
+      "text": "Enviar à IA"
+    },
+    {
+      "p": 171,
+      "text": "Planilha SGGD — TESTE1 e mapeamento de CCESP/FCESP."
+    },
+    {
+      "p": 172,
+      "text": "Decreto nº 70.755/2026 com anexos completos, decreto de estrutura por ele alterado e demais alterações vigentes necessárias à leitura do quadro da SGGD. Conferir se há atos posteriores."
+    },
+    {
+      "p": 173,
+      "text": "LC nº 1.395/2023 atualizada, especialmente os conceitos do art. 3º, as regras de recomposição dos arts. 5º e 6º e os Anexos III e IV dos valores unitários."
+    },
+    {
+      "p": 174,
+      "text": "Decreto nº 68.742/2024 e alterações, incluindo o Decreto nº 69.286/2024; Resolução SGGD nº 42/2025."
+    },
+    {
+      "p": 175,
+      "text": "Anexo ou ato que fixa os quantitativos e cotas referenciais vigentes da SGGD e quadro demonstrativo que distribui os cargos e funções. Enviar ambos, sem tratá-los como equivalentes."
+    },
+    {
+      "p": 176,
+      "text": "Tabelas remuneratórias vigentes aplicáveis, considerando as LCs nº 1.426/2025 e nº 1.435/2025; logo institucional aprovado."
+    },
+    {
+      "p": 177,
+      "text": "Prompt para copiar e preencher"
+    },
+    {
+      "p": 178,
+      "text": "Você vai revisar o modelo SGGD — TESTE1, de uma secretaria da administração direta. Estou enviando o modelo, o mapeamento, os atos de estrutura e seus anexos, a legislação geral, os referenciais autorizados e o logo institucional."
+    },
+    {
+      "p": 179,
+      "text": "Primeiro, liste os documentos recebidos e identifique a composição do quadro vigente. Extraia separadamente: unidades e vínculos; cargos, funções, códigos, níveis e quantidades distribuídas; quantitativos e cotas referenciais autorizados; valores unitários por categoria e nível; tabela financeira e vigência. Informe documentos faltantes e divergências. Não altere números apenas para fechar totais."
+    },
+    {
+      "p": 180,
+      "text": "O vigente será a base fixa; as alterações do usuário formarão a proposta. Preserve as cinco abas e implemente somente os ajustes solicitados: melhorar a capa, inserir o logo, aperfeiçoar instruções, listas suspensas, blocos expansíveis e alertas. Apenas campos amarelos da Reestruturação serão editáveis."
+    },
+    {
+      "p": 181,
+      "text": "Confronte as regras do mapeamento com os artigos oficiais. Registre condição, exceção e dispositivo. Não invente vínculos obrigatórios. Separe aviso, justificativa e bloqueio e liste decisões da DMO."
+    },
+    {
+      "p": 182,
+      "text": "Garanta reflexo automático no Anexo II, Calculadora e Resumo. A saída do Anexo II deve conter só a estrutura proposta nas quatro colunas oficiais, sem retirados, unidades extintas, zeros, áreas de criação vazias, alertas ou cálculos. Preserve o histórico no Resumo."
+    },
+    {
+      "p": 183,
+      "text": "Teste quantidade, inclusão, retirada, criação, renomeação, transferência, vínculos, alertas, listas, fórmulas, compatibilidade e exportação. Entregue nova versão sem simulações e relatório breve de fontes, ajustes, testes e pendências."
+    },
+    {
+      "p": 185,
+      "text": "10  Segunda etapa com IA  Modelo de autarquia"
+    },
+    {
+      "p": 186,
+      "text": "Escolher a entidade e enviar à IA"
+    },
+    {
+      "p": 187,
+      "text": "Selecionar uma autarquia em Novas Estruturas. Registrar: [NOME DA AUTARQUIA]."
+    },
+    {
+      "p": 188,
+      "text": "Enviar o modelo SGGD revisado como referência funcional e o mapeamento como apoio sujeito a conferência."
+    },
+    {
+      "p": 189,
+      "text": "Enviar a lei da entidade e o último decreto de reestruturação, anexos completos, alterações e atos complementares que compõem seu quadro vigente."
+    },
+    {
+      "p": 190,
+      "text": "Enviar a LC nº 1.395/2023 atualizada; o Decreto nº 68.742/2024 e alterações, especialmente arts. 6º a 8º, 16 a 20 e 26, Anexo III item B e distribuição do Anexo VII tabela B."
+    },
+    {
+      "p": 191,
+      "text": "Enviar o Decreto nº 69.486/2025 e atos específicos posteriores que atualizem os quantitativos e as cotas da autarquia escolhida."
+    },
+    {
+      "p": 192,
+      "text": "Enviar o quadro distribuído e a referência autorizada vigente de CCESP e FCESP, quando aplicável, com quantidades, cotas, fontes e datas. Incluir os valores unitários e referências financeiras legais vigentes."
+    },
+    {
+      "p": 193,
+      "text": "Sugestão de Prompt para copiar e preencher"
+    },
+    {
+      "p": 194,
+      "text": "Crie um modelo de Simulador de Reestruturação e Calculadora de Cotas para [AUTARQUIA]. Estou enviando o modelo SGGD revisado, a legislação geral autárquica, a lei da entidade, seus atos de estrutura e anexos, as atualizações e os referenciais de quantitativos e cotas."
+    },
+    {
+      "p": 195,
+      "text": "Primeiro, explique o que muda em relação à administração direta. Identifique o dirigente e as unidades, cargos, funções e colegiados oficialmente previstos. Não substitua automaticamente Secretário Executivo por Presidente. Não atribua cargo, código, quantidade ou cota a um conselho apenas por ele constar na estrutura."
+    },
+    {
+      "p": 196,
+      "text": "Extraia dos atos da autarquia a fotografia vigente aprovada. Separe quadro distribuído de referencial autorizado. Confira quantidades e cotas por categoria, valores unitários e tabela financeira. Identifique as fontes e datas. Não reutilize os números da SGGD."
+    },
+    {
+      "p": 197,
+      "text": "Adapte as cinco abas, instruções, nomenclaturas, listas, vínculos, parâmetros e alertas à autarquia. Aplique os dispositivos pertinentes do regime geral e os atos específicos. Registre exceções e decisões pendentes da DMO."
+    },
+    {
+      "p": 198,
+      "text": "O usuário editará somente a Reestruturação. O Anexo II deve refletir a proposta e estar limpo para exportação, sem registros retirados, zeros ou áreas vazias. Calculadora e Resumo devem comparar a proposta com o vigente fixo e explicar os impactos."
+    },
+    {
+      "p": 199,
+      "text": "Teste o funcionamento completo, confira totais com os atos oficiais e entregue sem simulações, com fontes, mudanças, resultados e pendências. Salvar o modelo na pasta Autarquias indicada neste roteiro."
+    },
+    {
+      "p": 201,
+      "text": "11  Terceira etapa com IA  Modelo de agência reguladora"
+    },
+    {
+      "p": 202,
+      "text": "Escolher a agência e enviar à IA"
+    },
+    {
+      "p": 203,
+      "text": "Selecionar uma agência em Novas Estruturas. Registrar: [NOME DA AGÊNCIA]."
+    },
+    {
+      "p": 204,
+      "text": "Enviar o modelo SGGD revisado e o mapeamento, identificados como referências de funcionamento e apoio."
+    },
+    {
+      "p": 205,
+      "text": "Enviar a LC nº 1.413/2024 atualizada, especialmente arts. 70 e 71 e Anexo I; a LC nº 1.395/2023 nos dispositivos aplicáveis."
+    },
+    {
+      "p": 206,
+      "text": "Enviar o Decreto nº 69.339/2025, especialmente art. 32, arts. 39 a 42 e Anexo Único; e os dispositivos do Decreto nº 68.742/2024 aplicáveis conforme as remissões."
+    },
+    {
+      "p": 207,
+      "text": "Enviar o regimento e os atos vigentes de estrutura, alocação e recomposição do Conselho Diretor, anexos completos, alterações e retificações. Incluir decreto específico de organização, quando houver."
+    },
+    {
+      "p": 208,
+      "text": "Enviar as quantidades e cotas atribuídas à agência na legislação e sua atualização por atos próprios, além do quadro distribuído. Confirmar as categorias existentes; não presumir FCESP."
+    },
+    {
+      "p": 209,
+      "text": "Enviar valores unitários, referências remuneratórias vigentes e regime dos cargos especiais, identificando o que entra no cálculo de cotas e o que deve ser apresentado separadamente."
+    },
+    {
+      "p": 210,
+      "text": "Sugestão de Prompt para copiar e preencher"
+    },
+    {
+      "p": 211,
+      "text": "Crie um modelo para [AGÊNCIA REGULADORA]. Estou enviando o modelo SGGD, o mapeamento, a LC nº 1.413/2024, o Decreto nº 69.339/2025, os dispositivos gerais aplicáveis, o regimento e os atos vigentes de estrutura, alocação e recomposição."
+    },
+    {
+      "p": 212,
+      "text": "Primeiro, identifique as diferenças legais e de nomenclatura em relação à SGGD. Confira Presidência, Conselho Diretor, Superintendências, Gerências e demais unidades somente conforme os atos recebidos. Distinga unidades, colegiados e cargos. Observe o regime específico de Diretor-Presidente e Diretores; não os classifique automaticamente como CCESP/FCESP comuns."
+    },
+    {
+      "p": 213,
+      "text": "Reconstrua a fotografia vigente aprovada a partir dos atos e alterações. Separe o referencial autorizado da distribuição efetiva. Confira categorias, quantidades, valores unitários e cotas. Não copie os quantitativos da SGGD nem presuma a presença de FCESP."
+    },
+    {
+      "p": 214,
+      "text": "Aplique o regime específico e somente as regras gerais pertinentes. Não transporte automaticamente os requisitos organizacionais de secretaria ou autarquia. Para cada alerta, identifique condição, exceção e artigo; registre dúvidas para a DMO."
+    },
+    {
+      "p": 215,
+      "text": "Adapte as cinco abas, catálogos, listas e instruções. Preserve o vigente fixo e permita alterar apenas a proposta na Reestruturação. O Anexo II deve sair limpo, sem retirados, unidades extintas, zeros ou áreas vazias. Calcule os impactos e mantenha o histórico no Resumo."
+    },
+    {
+      "p": 216,
+      "text": "Teste fórmulas, quantidades, vínculos, alertas, inclusões, retiradas, transferências, exportação e compatibilidade. Entregue sem simulações, com fontes, testes e pendências. Salvar na pasta Agências reguladoras indicada neste roteiro."
+    },
+    {
+      "p": 218,
+      "text": "12  Entrega e fontes de consulta"
+    },
+    {
+      "p": 219,
+      "text": "A entrega corresponde a três modelos: SGGD revisada, uma autarquia e uma agência reguladora. Cada arquivo deverá estar sem simulações, acompanhado da base legal identificada, das fontes dos quantitativos e cotas, dos resultados dos testes e das pendências da DMO."
+    },
+    {
+      "p": 220,
+      "text": "Secretarias: https://governosp.sharepoint.com/teams/SGGD-EquipeTransioSGGD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSGGD%2DEquipeTransioSGGD%2FShared%20Documents%2FGeneral%2FDIGEP%2FCIGEP%20%2D%20Coordenadoria%20de%20Intelig%C3%AAncia%20em%20Gest%C3%A3o%2FComunica%C3%A7%C3%A3o%2FSIORG%2FSecretarias&viewid=7eb7920d%2Da94b%2D4d90%2D801c%2D9c0b242462e1&csf=1&ovuser=3a78b0cd%2D7c8e%2D4929%2D83d5%2D190a6cc01365%2Cmarina%2Epassafaro%40sp%2Egov%2Ebr&TeamsCID=31e72379%2D539e%2D46fd%2D85f9%2Dd5fd003af604&OR=Teams%2DHL&CT=1786020047257&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcxMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=40942ea2%2D4003%2De000%2D8e46%2Dd84df7dac51d&cidOR=SPO&FolderCTID=0x012000DE3D366442F08C49A1F33EC6E8CC8DB3"
+    },
+    {
+      "p": 222,
+      "text": "Autarquias:  https://governosp.sharepoint.com/teams/SGGD-EquipeTransioSGGD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSGGD%2DEquipeTransioSGGD%2FShared%20Documents%2FGeneral%2FDIGEP%2FCIGEP%20%2D%20Coordenadoria%20de%20Intelig%C3%AAncia%20em%20Gest%C3%A3o%2FComunica%C3%A7%C3%A3o%2FSIORG%2FAutarquias&viewid=7eb7920d%2Da94b%2D4d90%2D801c%2D9c0b242462e1&csf=1&ovuser=3a78b0cd%2D7c8e%2D4929%2D83d5%2D190a6cc01365%2Cmarina%2Epassafaro%40sp%2Egov%2Ebr&TeamsCID=31e72379%2D539e%2D46fd%2D85f9%2Dd5fd003af604&OR=Teams%2DHL&CT=1786020047257&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcxMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=40942ea2%2D4003%2De000%2D8e46%2Dd84df7dac51d&cidOR=SPO&FolderCTID=0x012000DE3D366442F08C49A1F33EC6E8CC8DB3 "
+    },
+    {
+      "p": 225,
+      "text": "Agências reguladoras:  https://governosp.sharepoint.com/teams/SGGD-EquipeTransioSGGD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSGGD%2DEquipeTransioSGGD%2FShared%20Documents%2FGeneral%2FDIGEP%2FCIGEP%20%2D%20Coordenadoria%20de%20Intelig%C3%AAncia%20em%20Gest%C3%A3o%2FComunica%C3%A7%C3%A3o%2FSIORG%2FAg%C3%AAncias%20reguladoras&viewid=7eb7920d%2Da94b%2D4d90%2D801c%2D9c0b242462e1&csf=1&ovuser=3a78b0cd%2D7c8e%2D4929%2D83d5%2D190a6cc01365%2Cmarina%2Epassafaro%40sp%2Egov%2Ebr&TeamsCID=31e72379%2D539e%2D46fd%2D85f9%2Dd5fd003af604&OR=Teams%2DHL&CT=1786020047257&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA3MDIxNTcxMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=40942ea2%2D4003%2De000%2D8e46%2Dd84df7dac51d&cidOR=SPO&FolderCTID=0x012000DE3D366442F08C49A1F33EC6E8CC8DB3"
+    },
+    {
+      "p": 230,
+      "text": "Links oficiais"
+    },
+    {
+      "p": 231,
+      "text": "Legislação do SIORG"
+    },
+    {
+      "p": 232,
+      "text": "Novas Estruturas do SIORG"
+    },
+    {
+      "p": 233,
+      "text": "LC nº 1.395 de 2023 "
+    },
+    {
+      "p": 234,
+      "text": "Decreto nº 68.742 de 2024"
+    },
+    {
+      "p": 235,
+      "text": "Decreto nº 69.486 de 2025"
+    },
+    {
+      "p": 236,
+      "text": "LC nº 1.413 de 2024"
+    },
+    {
+      "p": 237,
+      "text": "Decreto nº 69.339 de 2025"
+    }
+  ],
+  "comments": [],
+  "insertions": 0,
+  "deletions": 0
+}

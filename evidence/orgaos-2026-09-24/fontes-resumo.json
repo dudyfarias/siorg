@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "educacao",
+      "title": "Educação: quadro de referência reconciliado",
+      "queries": [
+        {
+          "id": "educacao-decreto-70042",
+          "source": {
+            "label": "Decreto 70.042/2025 — ALESP",
+            "links": [
+              {
+                "label": "Decreto 70.042/2025",
+                "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70042-30.10.2025.html"
+              }
+            ],
+            "metricDefinitions": [
+              {
+                "label": "Quadro autorizado",
+                "definition": "Quantidades e cotas do quadro CCESP/FCESP da Secretaria da Educação, nos anexos substituídos em outubro de 2025."
+              }
+            ],
+            "caveats": [
+              "São valores do quadro autorizado, sem informação de ocupação ou saldo disponível. A pesquisa de alterações não equivale à certificação institucional da base."
+            ],
+            "evidenceFlow": [
+              {
+                "kind": "validation",
+                "title": "Conferência dos anexos",
+                "detail": "As 50 linhas do resumo conferem em quantidade × valor unitário; o quadro distribuído coincide código a código. O motor existente reproduziu 2.066 posições e 4.284,85 cotas após agrupamento por espécie e nível."
+              }
+            ]
+          },
+          "columns": [
+            {
+              "field": "grupo",
+              "label": "Espécie"
+            },
+            {
+              "field": "quantidade",
+              "label": "Quantidade"
+            },
+            {
+              "field": "cotas",
+              "label": "Cotas"
+            }
+          ],
+          "rows": [
+            {
+              "grupo": "CCESP",
+              "quantidade": 1246,
+              "cotas": "3.089,50"
+            },
+            {
+              "grupo": "FCESP",
+              "quantidade": 820,
+              "cotas": "1.195,35"
+            }
+          ],
+          "reportingPeriod": "Quadro com efeito na publicação de 31/10/2025; consulta em 24/09/2026"
+        }
+      ]
+    },
+    {
+      "id": "sggd",
+      "title": "SGGD: divergência entre o quadro distribuído e o resumo",
+      "queries": [
+        {
+          "id": "sggd-decreto-70755",
+          "source": {
+            "label": "Decreto 70.755/2026 — ALESP",
+            "links": [
+              {
+                "label": "Decreto 70.755/2026",
+                "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html"
+              },
+              {
+                "label": "Publicação original no DOE",
+                "href": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+              }
+            ],
+            "metricDefinitions": [
+              {
+                "label": "Quadros da SGGD",
+                "definition": "Composição da SGGD direta nos Anexos II e III; entidades vinculadas não são agregadas ao quadro da Secretaria."
+              }
+            ],
+            "caveats": [
+              "Os anexos divergem em 11 códigos, tanto na reprodução ALESP quanto no conteúdo original do DOE consultado. A divergência exige esclarecimento; não foi corrigida por inferência."
+            ],
+            "evidenceFlow": [
+              {
+                "kind": "validation",
+                "title": "Conferência numérica",
+                "detail": "O Anexo III fecha em 499 posições e 1.415,35 cotas. O Anexo II soma 500 posições e 1.418,25 cotas: diferença de uma posição e 2,90 cotas. Cotejadas as 69 linhas do resumo e as somas por código dos 407 registros distribuídos com o conteúdo original do DOE, sem diferenças entre as duas publicações consultadas."
+              }
+            ]
+          },
+          "columns": [
+            {
+              "field": "quadro",
+              "label": "Anexo"
+            },
+            {
+              "field": "grupo",
+              "label": "Espécie"
+            },
+            {
+              "field": "quantidade",
+              "label": "Quantidade"
+            },
+            {
+              "field": "cotas",
+              "label": "Cotas"
+            }
+          ],
+          "rows": [
+            {
+              "quadro": "III — resumo",
+              "grupo": "CCESP",
+              "quantidade": 298,
+              "cotas": "1.066,00"
+            },
+            {
+              "quadro": "III — resumo",
+              "grupo": "FCESP",
+              "quantidade": 201,
+              "cotas": "349,35"
+            },
+            {
+              "quadro": "II — soma das unidades",
+              "grupo": "CCESP",
+              "quantidade": 299,
+              "cotas": "1.069,50"
+            },
+            {
+              "quadro": "II — soma das unidades",
+              "grupo": "FCESP",
+              "quantidade": 201,
+              "cotas": "348,75"
+            }
+          ],
+          "reportingPeriod": "Quadros com efeito em 01/08/2026; consulta em 24/09/2026"
+        }
+      ]
+    },
+    {
+      "id": "saude",
+      "title": "Saúde: distribuição histórica encontrada, base atual pendente",
+      "queries": [
+        {
+          "id": "saude-decreto-68742",
+          "source": {
+            "label": "Decreto 68.742/2024 — ALESP",
+            "links": [
+              {
+                "label": "Decreto 68.742/2024",
+                "href": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+              }
+            ],
+            "metricDefinitions": [
+              {
+                "label": "Distribuição original",
+                "definition": "Quantidades e cotas atribuídas à Secretaria da Saúde estadual na tabela A original do Anexo VII de 2024."
+              }
+            ],
+            "caveats": [
+              "Não foi confirmado o quadro atual de implantação da Secretaria com cadeia suficiente de alterações. Os números de 2024 não devem preencher automaticamente uma base atual. Decretos de hospitais autárquicos não substituem o ato da Secretaria."
+            ]
+          },
+          "columns": [
+            {
+              "field": "grupo",
+              "label": "Espécie"
+            },
+            {
+              "field": "quantidade",
+              "label": "Quantidade original"
+            },
+            {
+              "field": "cotas",
+              "label": "Cotas originais"
+            }
+          ],
+          "rows": [
+            {
+              "grupo": "CCESP",
+              "quantidade": 2087,
+              "cotas": "5.615,00"
+            },
+            {
+              "grupo": "FCESP",
+              "quantidade": 587,
+              "cotas": "1.578,00"
+            }
+          ],
+          "reportingPeriod": "Distribuição original de 2024; pesquisa em 24/09/2026"
+        }
+      ]
+    }
+  ]
+}

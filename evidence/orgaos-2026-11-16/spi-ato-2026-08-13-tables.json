@@ -1,0 +1,66 @@
+{
+  "id": "spi-ato-2026-08-13",
+  "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+  "title": "Resolução",
+  "date": "2026-08-13",
+  "tables": [
+    [
+      [
+        "CÓDIGO DA UNIDADE ADMINISTRATIVA DE ORIGEM",
+        "DENOMINAÇÃO DA UNIDADE ADMINISTRATIVA DE ORIGEM",
+        "NÚMERO DA VAGA NO SGP",
+        "DENOMINAÇÃO DO CARGO/FUNÇÃO",
+        "CÓDIGO DA UNIDADE ADMINISTRATIVA DE DESTINO",
+        "DENOMINAÇÃO DA UNIDADE ADMINISTRATIVA DE DESTINO"
+      ],
+      [
+        "10200018",
+        "Subsecretaria de Gestão Corporativa",
+        "2412330",
+        "Assessor IV",
+        "10200022",
+        "Diretoria de Gestão Administrativa"
+      ],
+      [
+        "10200023",
+        "Coordenadoria de Gestão e Infraestrutura",
+        "2412366",
+        "Assessor III",
+        "10200025",
+        "Coordenadoria de Contratação e Convênios"
+      ],
+      [
+        "10200016",
+        "Coordenadoria de Gestão de Parcerias Sociais",
+        "2412390",
+        "Assessor II",
+        "10200018",
+        "Subsecretaria de Gestão Corporativa"
+      ],
+      [
+        "10200013",
+        "Coordenadoria de Gestão de Parcerias em Rodovias",
+        "2406012",
+        "Assessor I",
+        "10200022",
+        "Diretoria de Gestão Administrativa"
+      ],
+      [
+        "10200025",
+        "Coordenadoria de Contratação e Convênios",
+        "2410991",
+        "Assessor I",
+        "10200023",
+        "Coordenadoria de Gestão e Infraestrutura"
+      ],
+      [
+        "10200012",
+        "Diretoria de Gestão de Parcerias em Transportes",
+        "2412376",
+        "Assistente Técnico III",
+        "10200018",
+        "Subsecretaria de Gestão Corporativa"
+      ]
+    ]
+  ]
+}

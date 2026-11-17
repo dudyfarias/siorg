@@ -1,0 +1,68 @@
+{
+  "idNorma": "212235",
+  "tipo": "Decreto",
+  "nuNorma": "70378",
+  "data": "13/02/2026",
+  "dataPublicacao": "18/02/2026",
+  "nomeNorma": "Decreto nº 70.378, de 13/02/2026",
+  "nomeNormaApelido": "( Decreto 70.378/2026 )",
+  "idTipo": "3",
+  "idPropositura": null,
+  "nomePropositura": null,
+  "dsEmenta": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto de Assistência Médica ao Servidor Público Estadual - IAMSPE",
+  "alespExplica": null,
+  "tpPublicacaoAlespExplica": "N",
+  "dsSituacao": "Sem revogação expressa",
+  "tpPromulgacao": "Executivo",
+  "nomePublicacaoDO": "DOESP Executivo Seção 1, 18/02/2026, p.2",
+  "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70378-de-13-de-fevereiro-de-2026",
+  "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70378-13.02.2026.html",
+  "urlIntegraAtualizada": null,
+  "urlTextoAtualizado": null,
+  "urlIntegraListaPesquisa": null,
+  "completa": "ausente",
+  "observacoes": [],
+  "constitucionalidades": [],
+  "publicacoesPosteriores": [],
+  "anotacoesAlteracao": [],
+  "anotacoesRegulamentacao": [],
+  "anotacoesCorrelata": [],
+  "anotacaoOutras": [],
+  "temas": [
+    {
+      "idTema": "551",
+      "nmTema": "Administração Pública"
+    },
+    {
+      "idTema": "1001",
+      "nmTema": "Funcionalismo"
+    }
+  ],
+  "autores": [],
+  "indexadores": [
+    {
+      "idTermo": "325621",
+      "nmTermo": "Cargo e Função"
+    },
+    {
+      "idTermo": "325623",
+      "nmTermo": "Cargo em Comissão"
+    },
+    {
+      "idTermo": "326810",
+      "nmTermo": "Estrutura e Organização Administrativa"
+    },
+    {
+      "idTermo": "327438",
+      "nmTermo": "Instituto de Assistência Médica ao Servidor Público Estadual - IAMSPE"
+    },
+    {
+      "idTermo": "328588",
+      "nmTermo": "Quadro de Funcionários"
+    },
+    {
+      "idTermo": "329608",
+      "nmTermo": "Servidor Público Estadual"
+    }
+  ]
+}

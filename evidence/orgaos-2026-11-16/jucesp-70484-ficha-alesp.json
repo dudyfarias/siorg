@@ -1,0 +1,71 @@
+{
+  "idNorma": "212394",
+  "tipo": "Decreto",
+  "nuNorma": "70484",
+  "data": "25/03/2026",
+  "dataPublicacao": "26/03/2026",
+  "nomeNorma": "Decreto nº 70.484, de 25/03/2026",
+  "nomeNormaApelido": "( Decreto 70.484/2026 )",
+  "idTipo": "3",
+  "idPropositura": null,
+  "nomePropositura": null,
+  "dsEmenta": "Altera a denominação de cargo da Junta Comercial do Estado de São Paulo - JUCESP que especifica e dá providências correlatas.",
+  "alespExplica": null,
+  "tpPublicacaoAlespExplica": "N",
+  "dsSituacao": "Sem revogação expressa",
+  "tpPromulgacao": "Executivo",
+  "nomePublicacaoDO": "DOESP Executivo Seção 1, 26/03/2026, p.2",
+  "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70484-de-25-de-marco-de-2026",
+  "urlIntegraOriginal": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70484-25.03.2026.html",
+  "urlIntegraAtualizada": null,
+  "urlTextoAtualizado": null,
+  "urlIntegraListaPesquisa": null,
+  "completa": "ausente",
+  "observacoes": [],
+  "constitucionalidades": [],
+  "publicacoesPosteriores": [
+    {
+      "idPublicacaoPosterior": "195004",
+      "nomeDiario": "DOESP Executivo Seção 1, 27/03/2026, p.6",
+      "dtDiario": "27/03/2026",
+      "nuPagina": "6",
+      "idTipoPublicaca": "3",
+      "nmTipoPublicacao": "Retificação",
+      "urlDiarioOficial": "https://doe.sp.gov.br/executivo/decretos/retificacao-do-doesp-de-26-de-marco-de-2026-202603261182231736421",
+      "urlArquivo": null
+    }
+  ],
+  "anotacoesAlteracao": [],
+  "anotacoesRegulamentacao": [],
+  "anotacoesCorrelata": [],
+  "anotacaoOutras": [],
+  "temas": [
+    {
+      "idTema": "1001",
+      "nmTema": "Funcionalismo"
+    }
+  ],
+  "autores": [],
+  "indexadores": [
+    {
+      "idTermo": "325621",
+      "nmTermo": "Cargo e Função"
+    },
+    {
+      "idTermo": "326332",
+      "nmTermo": "Denominação"
+    },
+    {
+      "idTermo": "326461",
+      "nmTermo": "Diretor"
+    },
+    {
+      "idTermo": "327588",
+      "nmTermo": "Junta Comercial do Estado de São Paulo - JUCESP"
+    },
+    {
+      "idTermo": "12857",
+      "nmTermo": "Secretário"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-09-24T16:47:37.016Z",
+  "alias": "https://siorg-calculadora-mvp.vercel.app/",
+  "status": 200,
+  "finalUrl": "https://siorg-calculadora-mvp.vercel.app/",
+  "anonymous": true,
+  "title": "Calculadora de Cotas | SIORG — Protótipo",
+  "deploymentId": "dpl_7KYjVVpgn23Lsm9pJuRsK8zAG7Qg",
+  "deploymentUrl": "https://siorg-calculadora-46bu6cthl-dudycappia-4508s-projects.vercel.app",
+  "assets": [
+    {
+      "path": "/assets/index-PkHaXBNB.js",
+      "status": 200,
+      "bytes": 298764,
+      "matchesLocal": true,
+      "sha256": "b1939ade9b8e4c8f2376842ff182e08c505022ca8ad1830f4c752be98c49bd7b"
+    },
+    {
+      "path": "/assets/index-D2iWCPn8.css",
+      "status": 200,
+      "bytes": 45087,
+      "matchesLocal": true,
+      "sha256": "3e0414400631dd8c54beebd0e5efda683f0cc061faf1b688f6f3355bd01c34bb"
+    }
+  ]
+}

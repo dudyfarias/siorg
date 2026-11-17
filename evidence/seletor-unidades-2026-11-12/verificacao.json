@@ -1,0 +1,24 @@
+{
+  "alphabeticOptions": 221,
+  "emptyPicker": true,
+  "changedOptions": [
+    "SECRETARIA EXECUTIVAGABINETE DO SECRETÁRIO · Alterada"
+  ],
+  "selectedViaKeyboard": "Coordenadoria de Gestão de Políticas Públicas",
+  "returnedPicker": {
+    "focus": "sim-unit",
+    "quantity": "3",
+    "unit": "SECRETARIA EXECUTIVA",
+    "value": "SECRETARIA EXECUTIVA · GABINETE DO SECRETÁRIO"
+  },
+  "restoredPicker": "Proposta igual à base",
+  "sameNames": [
+    "ASSESSORIA TÉCNICAASSESSORIA ESPECIAL DE GOVERNANÇA",
+    "Assessoria TécnicaDIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+    "Assessoria TécnicaSUBSECRETARIA DE GESTÃO CORPORATIVA",
+    "Assessoria TécnicaSUBSECRETARIA DE GESTÃO DE PESSOAS",
+    "Assessoria TécnicaSUBSECRETARIA DE PATRIMÔNIO DO ESTADO",
+    "Assessoria TécnicaSUBSECRETARIA DO ARQUIVO PÚBLICO DO ESTADO"
+  ],
+  "consoleErrors": []
+}

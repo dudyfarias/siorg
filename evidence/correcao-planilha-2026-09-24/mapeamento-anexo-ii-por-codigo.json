@@ -1,0 +1,3660 @@
+{
+  "date": "2026-09-24",
+  "scope": "Read-only independent full-code mapping for workbook correction; no XLSX or app edit.",
+  "workbook": {
+    "path": "/Users/eduardofariascappia/Downloads/SGGD_SIMULADOR_.xlsx",
+    "sha256": "dd81060074013b1a2ff44b598d3dd0d92f3dac126ca51723b87334f1c4f74bad",
+    "sheet": "SGGD",
+    "detailRangeBeforeAnyAuthoring": "A13:M57"
+  },
+  "source": {
+    "json": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/evidence/orgaos-2026-09-24/sggd-70755-quadros.json",
+    "sha256": "c3f94036282b25119512fbf4e6bf64efea16eccec797e730f90241470f4c0a56",
+    "decree": "70.755/2026",
+    "annexII": "Full allocation rows; 407 rows independently regrouped by exact full code",
+    "annexIII": "Published quantities and coefficients; no substitution of III composition for II",
+    "officialUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html",
+    "doeUrl": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+    "certificatePath": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/evidence/orgaos-2026-09-24/doe-70755-certificado.pdf"
+  },
+  "preservationRule": "Update E by exact full code from Annex II. Preserve existing F quantities by exact full code. Add missing FCESP2.14 with allocated1 and proposed0 to preserve supplied proposal. Address map uses original workbook coordinates; insertion will shift subsequent coordinates.",
+  "mapping": [
+    {
+      "code": "CCESP 1.18",
+      "group": "CCESP",
+      "category": 1,
+      "level": 18,
+      "coefficientCents": 900,
+      "coefficient": "9",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B13",
+      "originalCoefficientCell": "D13",
+      "originalAllocatedCell": "E13",
+      "originalProposalCell": "F13",
+      "originalAllocatedQuantity": 1,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 1,
+      "annexIIIPublishedQuantity": 1,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 0,
+          "unit": "SECRETARIA EXECUTIVA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.18"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "coefficientCents": 800,
+      "coefficient": "8",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B14",
+      "originalCoefficientCell": "D14",
+      "originalAllocatedCell": "E14",
+      "originalProposalCell": "F14",
+      "originalAllocatedQuantity": 7,
+      "correctAllocatedQuantityAnnexII": 7,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 7,
+      "annexIIIPublishedQuantity": 7,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 14,
+          "unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        },
+        {
+          "quadro_rows_index_zero_based": 39,
+          "unit": "SUBSECRETARIA DE GESTÃO CORPORATIVA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        },
+        {
+          "quadro_rows_index_zero_based": 103,
+          "unit": "SUBSECRETARIA DE GESTÃO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        },
+        {
+          "quadro_rows_index_zero_based": 159,
+          "unit": "SUBSECRETARIA DE GESTÃO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        },
+        {
+          "quadro_rows_index_zero_based": 311,
+          "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        },
+        {
+          "quadro_rows_index_zero_based": 328,
+          "unit": "SUBSECRETARIA DE PATRIMÔNIO DO ESTADO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        },
+        {
+          "quadro_rows_index_zero_based": 364,
+          "unit": "SUBSECRETARIA DO ARQUIVO PÚBLICO DO ESTADO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.17"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.16",
+      "group": "CCESP",
+      "category": 1,
+      "level": 16,
+      "coefficientCents": 700,
+      "coefficient": "7",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B15",
+      "originalCoefficientCell": "D15",
+      "originalAllocatedCell": "E15",
+      "originalProposalCell": "F15",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 3,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 3,
+      "annexIIIPublishedQuantity": 3,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 5,
+          "unit": "CHEFIA DE GABINETE",
+          "quantity": 1,
+          "rawCode": "CCESP 1.16"
+        },
+        {
+          "quadro_rows_index_zero_based": 50,
+          "unit": "DIRETORIA GERAL DE TECNOLOGIA E ADMINISTRAÇÃO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.16"
+        },
+        {
+          "quadro_rows_index_zero_based": 247,
+          "unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "CCESP 1.16"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.16",
+      "group": "CCESP",
+      "category": 2,
+      "level": 16,
+      "coefficientCents": 700,
+      "coefficient": "7",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B16",
+      "originalCoefficientCell": "D16",
+      "originalAllocatedCell": "E16",
+      "originalProposalCell": "F16",
+      "originalAllocatedQuantity": 1,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 1,
+      "annexIIIPublishedQuantity": 1,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 1,
+          "unit": "SECRETARIA EXECUTIVA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.16"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "coefficientCents": 600,
+      "coefficient": "6",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B17",
+      "originalCoefficientCell": "D17",
+      "originalAllocatedCell": "E17",
+      "originalProposalCell": "F17",
+      "originalAllocatedQuantity": 21,
+      "correctAllocatedQuantityAnnexII": 21,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 21,
+      "annexIIIPublishedQuantity": 21,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 21,
+          "unit": "ASSESSORIA TÉCNICA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 29,
+          "unit": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 51,
+          "unit": "DIRETORIA DE ADMINISTRAÇÃO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 68,
+          "unit": "DIRETORIA DE SERVIÇOS E TIC",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 84,
+          "unit": "DIRETORIA DE GESTÃO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 111,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 131,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 141,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 171,
+          "unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 185,
+          "unit": "DIRETORIA DE GESTÃO FUNCIONAL",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 201,
+          "unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 211,
+          "unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 240,
+          "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 250,
+          "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 273,
+          "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 316,
+          "unit": "DIRETORIA DE GOVERNANÇA, DESEMPENHO E CANAIS DE ATENDIMENTO",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 320,
+          "unit": "DIRETORIA DE SEGURANÇA CIBERNÉTICA",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 323,
+          "unit": "DIRETORIA DE PLATAFORMAS E TRANSFORMAÇÃO DIGITAL",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 326,
+          "unit": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 334,
+          "unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 372,
+          "unit": "DIRETORIA DE ACERVOS E SISTEMA DE ARQUIVOS",
+          "quantity": 1,
+          "rawCode": "CCESP 1.15"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.15",
+      "group": "CCESP",
+      "category": 2,
+      "level": 15,
+      "coefficientCents": 600,
+      "coefficient": "6",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B18",
+      "originalCoefficientCell": "D18",
+      "originalAllocatedCell": "E18",
+      "originalProposalCell": "F18",
+      "originalAllocatedQuantity": 2,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 2,
+      "annexIIIPublishedQuantity": 2,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 2,
+          "unit": "SECRETARIA EXECUTIVA",
+          "quantity": 2,
+          "rawCode": "CCESP 2.15"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.14",
+      "group": "CCESP",
+      "category": 1,
+      "level": 14,
+      "coefficientCents": 550,
+      "coefficient": "5.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B19",
+      "originalCoefficientCell": "D19",
+      "originalAllocatedCell": "E19",
+      "originalProposalCell": "F19",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 3,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 3,
+      "annexIIIPublishedQuantity": 3,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 160,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 1.14"
+        },
+        {
+          "quadro_rows_index_zero_based": 167,
+          "unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.14"
+        },
+        {
+          "quadro_rows_index_zero_based": 329,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 1.14"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.14",
+      "group": "CCESP",
+      "category": 2,
+      "level": 14,
+      "coefficientCents": 550,
+      "coefficient": "5.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B20",
+      "originalCoefficientCell": "D20",
+      "originalAllocatedCell": "E20",
+      "originalProposalCell": "F20",
+      "originalAllocatedQuantity": 1,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 1,
+      "annexIIIPublishedQuantity": 1,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 3,
+          "unit": "SECRETARIA EXECUTIVA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.14"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.13",
+      "group": "CCESP",
+      "category": 1,
+      "level": 13,
+      "coefficientCents": 450,
+      "coefficient": "4.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B21",
+      "originalCoefficientCell": "D21",
+      "originalAllocatedCell": "E21",
+      "originalProposalCell": "F21",
+      "originalAllocatedQuantity": 44,
+      "correctAllocatedQuantityAnnexII": 44,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 44,
+      "annexIIIPublishedQuantity": 44,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 33,
+          "unit": "Coordenadoria de Formação e Desenvolvimento de Competências",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 35,
+          "unit": "Coordenadoria de Conhecimento Aplicado",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 37,
+          "unit": "Coordenadoria de Administração",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 52,
+          "unit": "Coordenadoria de Licitações e Contratos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 60,
+          "unit": "Coordenadoria de Orçamento e Finanças",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 71,
+          "unit": "Coordenadoria de Infraestrutura",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 78,
+          "unit": "Coordenadoria de Bens e Serviços",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 82,
+          "unit": "Coordenadoria de Redes e Suporte",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 83,
+          "unit": "Coordenadoria de Soluções Digitais",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 85,
+          "unit": "Coordenadoria de Cadastro e Expediente",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 90,
+          "unit": "Coordenadoria de Concessão de Vantagens e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 94,
+          "unit": "Coordenadoria de Demandas Judiciais e Administrativas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 99,
+          "unit": "Coordenadoria de Evolução Funcional e Encargos Sociais",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 116,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 133,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 137,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 146,
+          "unit": "Coordenadoria de Normas e Procedimentos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 149,
+          "unit": "Coordenadoria de Sistemas de Logística",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 153,
+          "unit": "Coordenadoria da Central de Compras",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 174,
+          "unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 179,
+          "unit": "Coordenadoria de Desenvolvimento de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 187,
+          "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 194,
+          "unit": "Coordenadoria de Gestão Funcional",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 204,
+          "unit": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 220,
+          "unit": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 233,
+          "unit": "Coordenadoria de Saúde Ocupacional",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 244,
+          "unit": "Coordenadoria de Benefícios",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 245,
+          "unit": "Coordenadoria de Remuneração",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 254,
+          "unit": "Coordenadoria de Instrução e Padronização de Pagamentos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 269,
+          "unit": "Coordenadoria de Atendimento a Demandas Judiciais",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 283,
+          "unit": "Coordenadoria de Soluções e Produtos de Pagamento de Pessoal",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 287,
+          "unit": "Coordenadoria de Consignados",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 290,
+          "unit": "Coordenadoria do e-Social",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 317,
+          "unit": "Coordenadoria de Gestão do Programa Poupatempo",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 318,
+          "unit": "Coordenadoria de Gestão de Recursos de TIC",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 319,
+          "unit": "Coordenadoria de Planejamento e Gestão de Resultados",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 321,
+          "unit": "Coordenadoria de Regulação e Acompanhamento em Cibersegurança",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 322,
+          "unit": "Coordenadoria de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 324,
+          "unit": "Coordenadoria de Dados e Inteligência Artificial",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 325,
+          "unit": "Coordenadoria de Arquitetura e Implementação de Plataformas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 343,
+          "unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 379,
+          "unit": "Coordenadoria de Arquivo Digital",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 398,
+          "unit": "Coordenadoria de Preservação e Ingresso de Acervos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 403,
+          "unit": "Coordenadoria de Difusão de Acervos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.13"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.13",
+      "group": "CCESP",
+      "category": 2,
+      "level": 13,
+      "coefficientCents": 450,
+      "coefficient": "4.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B22",
+      "originalCoefficientCell": "D22",
+      "originalAllocatedCell": "E22",
+      "originalProposalCell": "F22",
+      "originalAllocatedQuantity": 7,
+      "correctAllocatedQuantityAnnexII": 7,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 7,
+      "annexIIIPublishedQuantity": 7,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 18,
+          "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 42,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 106,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 312,
+          "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+          "quantity": 2,
+          "rawCode": "CCESP 2.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 330,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.13"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "coefficientCents": 400,
+      "coefficient": "4",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B23",
+      "originalCoefficientCell": "D23",
+      "originalAllocatedCell": "E23",
+      "originalProposalCell": "F23",
+      "originalAllocatedQuantity": 18,
+      "correctAllocatedQuantityAnnexII": 18,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 18,
+      "annexIIIPublishedQuantity": 18,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 9,
+          "unit": "Consultoria Jurídica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 107,
+          "unit": "Assessoria Técnica",
+          "quantity": 3,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 112,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 123,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 132,
+          "unit": "DIRETORIA DE INOVAÇÃO EM GESTÃO PÚBLICA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 134,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 154,
+          "unit": "Coordenadoria da Central de Compras",
+          "quantity": 2,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 161,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 241,
+          "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+          "quantity": 1,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 248,
+          "unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "CCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 313,
+          "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+          "quantity": 3,
+          "rawCode": "CCESP 2.12"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "coefficientCents": 350,
+      "coefficient": "3.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B24",
+      "originalCoefficientCell": "D24",
+      "originalAllocatedCell": "E24",
+      "originalProposalCell": "F24",
+      "originalAllocatedQuantity": 8,
+      "correctAllocatedQuantityAnnexII": 8,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 8,
+      "annexIIIPublishedQuantity": 8,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 19,
+          "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.11"
+        },
+        {
+          "quadro_rows_index_zero_based": 43,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.11"
+        },
+        {
+          "quadro_rows_index_zero_based": 143,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.11"
+        },
+        {
+          "quadro_rows_index_zero_based": 162,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.11"
+        },
+        {
+          "quadro_rows_index_zero_based": 168,
+          "unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.11"
+        },
+        {
+          "quadro_rows_index_zero_based": 202,
+          "unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "CCESP 2.11"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.10",
+      "group": "CCESP",
+      "category": 1,
+      "level": 10,
+      "coefficientCents": 325,
+      "coefficient": "3.25",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B25",
+      "originalCoefficientCell": "D25",
+      "originalAllocatedCell": "E25",
+      "originalProposalCell": "F25",
+      "originalAllocatedQuantity": 35,
+      "correctAllocatedQuantityAnnexII": 36,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 35,
+      "annexIIIPublishedQuantity": 35,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 8,
+          "unit": "Ouvidoria e Serviço de Informações ao Cidadão - SIC",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 12,
+          "unit": "Assessoria de Comunicação e Cerimonial",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 55,
+          "unit": "Divisão de Licitações",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 56,
+          "unit": "Divisão de Contratos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 57,
+          "unit": "Divisão de Fiscalização",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 62,
+          "unit": "Divisão de Orçamento",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 64,
+          "unit": "Divisão de Finanças",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 76,
+          "unit": "Divisão de Administração Predial",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 77,
+          "unit": "Divisão de Engenharia",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 79,
+          "unit": "Divisão de Gestão Patrimonial e Almoxarifado",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 81,
+          "unit": "Divisão de Gestão Documental",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 151,
+          "unit": "Divisão de Suporte ao Usuário",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 155,
+          "unit": "Divisão de Licitações e Contratações",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 157,
+          "unit": "Divisão de Serviços Compartilhados",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 178,
+          "unit": "Divisão de Gestão de Carreiras",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 182,
+          "unit": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 207,
+          "unit": "Divisão de Capacitação e Suporte aos Usuários dos Sistemas de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 210,
+          "unit": "Divisão de Apoio aos Processos de Gestão de Pessoas e Tratamento de Exceções",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 237,
+          "unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 256,
+          "unit": "Divisão de Despesa da Educação da Região Metropolitana",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 257,
+          "unit": "Divisão de Despesa da Educação do Interior I",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 260,
+          "unit": "Divisão de Despesa da Segurança Pública e Administração Penitenciária",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 261,
+          "unit": "Divisão de Despesa das Secretarias Diversas",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 268,
+          "unit": "Divisão de Suporte e Atendimento aos Setoriais e Subsetoriais",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 272,
+          "unit": "Divisão de Cumprimento de Obrigações",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 278,
+          "unit": "Divisão de Orçamento da Folha",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 279,
+          "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 281,
+          "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 284,
+          "unit": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 288,
+          "unit": "Divisão de Relacionamento com as Consignatárias",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 291,
+          "unit": "Divisão de Atendimento do e-Social à Administração Direta",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 292,
+          "unit": "Divisão de Atendimento do e-Social à Administração Indireta",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 358,
+          "unit": "Divisão de Cadastro, Normas e Procedimentos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 362,
+          "unit": "Divisão de Alienação de Veículos",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 383,
+          "unit": "Divisão de Preservação e Acesso Digital",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 390,
+          "unit": "Divisão de Acervo Iconográfico",
+          "quantity": 1,
+          "rawCode": "CCESP 1.10"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.10",
+      "group": "CCESP",
+      "category": 2,
+      "level": 10,
+      "coefficientCents": 325,
+      "coefficient": "3.25",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B26",
+      "originalCoefficientCell": "D26",
+      "originalAllocatedCell": "E26",
+      "originalProposalCell": "F26",
+      "originalAllocatedQuantity": 16,
+      "correctAllocatedQuantityAnnexII": 17,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 16,
+      "annexIIIPublishedQuantity": 16,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 15,
+          "unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 22,
+          "unit": "ASSESSORIA TÉCNICA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 32,
+          "unit": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+          "quantity": 2,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 44,
+          "unit": "Assessoria Técnica",
+          "quantity": 3,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 69,
+          "unit": "DIRETORIA DE SERVIÇOS E TIC",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 113,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 135,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 138,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 163,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 212,
+          "unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 314,
+          "unit": "SUBSECRETARIA DE GOVERNO DIGITAL",
+          "quantity": 2,
+          "rawCode": "CCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 366,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.10"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.09",
+      "group": "CCESP",
+      "category": 2,
+      "level": 9,
+      "coefficientCents": 300,
+      "coefficient": "3",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B27",
+      "originalCoefficientCell": "D27",
+      "originalAllocatedCell": "E27",
+      "originalProposalCell": "F27",
+      "originalAllocatedQuantity": 15,
+      "correctAllocatedQuantityAnnexII": 14,
+      "allocatedQuantityChange": -1,
+      "proposalQuantityToPreserve": 15,
+      "annexIIIPublishedQuantity": 15,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 10,
+          "unit": "Consultoria Jurídica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 46,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 127,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 129,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 145,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 156,
+          "unit": "Divisão de Licitações e Contratações",
+          "quantity": 2,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 158,
+          "unit": "Divisão de Serviços Compartilhados",
+          "quantity": 2,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 169,
+          "unit": "Assessoria de Padronização e Sustentação de Processos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 172,
+          "unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 195,
+          "unit": "Coordenadoria de Gestão Funcional",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 243,
+          "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+          "quantity": 1,
+          "rawCode": "CCESP 2.09"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.08",
+      "group": "CCESP",
+      "category": 2,
+      "level": 8,
+      "coefficientCents": 275,
+      "coefficient": "2.75",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B28",
+      "originalCoefficientCell": "D28",
+      "originalAllocatedCell": "E28",
+      "originalProposalCell": "F28",
+      "originalAllocatedQuantity": 53,
+      "correctAllocatedQuantityAnnexII": 53,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 53,
+      "annexIIIPublishedQuantity": 53,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 7,
+          "unit": "CHEFIA DE GABINETE",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 11,
+          "unit": "Consultoria Jurídica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 23,
+          "unit": "ASSESSORIA TÉCNICA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 28,
+          "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 115,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 2,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 140,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 165,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 249,
+          "unit": "DIRETORIA GERAL DE PAGAMENTO DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 251,
+          "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+          "quantity": 30,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 271,
+          "unit": "Divisão de Análise e Informações Processuais",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 274,
+          "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+          "quantity": 12,
+          "rawCode": "CCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 282,
+          "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Indireta",
+          "quantity": 1,
+          "rawCode": "CCESP 2.08"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.07",
+      "group": "CCESP",
+      "category": 1,
+      "level": 7,
+      "coefficientCents": 250,
+      "coefficient": "2.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B29",
+      "originalCoefficientCell": "D29",
+      "originalAllocatedCell": "E29",
+      "originalProposalCell": "F29",
+      "originalAllocatedQuantity": 1,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 1,
+      "annexIIIPublishedQuantity": 1,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 338,
+          "unit": "Serviço de Apoio ao CPI",
+          "quantity": 1,
+          "rawCode": "CCESP 1.07"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.07",
+      "group": "CCESP",
+      "category": 2,
+      "level": 7,
+      "coefficientCents": 250,
+      "coefficient": "2.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B30",
+      "originalCoefficientCell": "D30",
+      "originalAllocatedCell": "E30",
+      "originalProposalCell": "F30",
+      "originalAllocatedQuantity": 10,
+      "correctAllocatedQuantityAnnexII": 10,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 10,
+      "annexIIIPublishedQuantity": 10,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 30,
+          "unit": "ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 47,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 53,
+          "unit": "Coordenadoria de Licitações e Contratos",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 58,
+          "unit": "Divisão de Fiscalização",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 118,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 125,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 176,
+          "unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 181,
+          "unit": "Coordenadoria de Desenvolvimento de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 183,
+          "unit": "Divisão de Governança e Inovação em Desenvolvimento de Pessoas",
+          "quantity": 1,
+          "rawCode": "CCESP 2.07"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.06",
+      "group": "CCESP",
+      "category": 2,
+      "level": 6,
+      "coefficientCents": 225,
+      "coefficient": "2.25",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B31",
+      "originalCoefficientCell": "D31",
+      "originalAllocatedCell": "E31",
+      "originalProposalCell": "F31",
+      "originalAllocatedQuantity": 16,
+      "correctAllocatedQuantityAnnexII": 16,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 16,
+      "annexIIIPublishedQuantity": 16,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 16,
+          "unit": "ASSESSORIA ESPECIAL DE GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 48,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 166,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 197,
+          "unit": "Coordenadoria de Gestão Funcional",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 215,
+          "unit": "Serviço de Gestão Técnico-Administrativo",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 227,
+          "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+          "quantity": 2,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 231,
+          "unit": "Divisão de Readaptação e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 235,
+          "unit": "Divisão de Segurança no Trabalho",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 238,
+          "unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 340,
+          "unit": "Coordenadoria de Gestão Imobiliária",
+          "quantity": 2,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 344,
+          "unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 350,
+          "unit": "Coordenadoria de Controle Técnico Processual",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 367,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.06"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 1.05",
+      "group": "CCESP",
+      "category": 1,
+      "level": 5,
+      "coefficientCents": 200,
+      "coefficient": "2",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B32",
+      "originalCoefficientCell": "D32",
+      "originalAllocatedCell": "E32",
+      "originalProposalCell": "F32",
+      "originalAllocatedQuantity": 7,
+      "correctAllocatedQuantityAnnexII": 8,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 7,
+      "annexIIIPublishedQuantity": 7,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 49,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 108,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 315,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 377,
+          "unit": "Seção de Monitoria e Fiscalização",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 382,
+          "unit": "Seção de Gestão de Sistemas e Inovação",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 385,
+          "unit": "Seção de Tratamento de Acervos Digitais",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 391,
+          "unit": "Seção do Acervo Cartográfico",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 404,
+          "unit": "Seção de Divulgação e Produção Cultural",
+          "quantity": 1,
+          "rawCode": "CCESP 1.05"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.05",
+      "group": "CCESP",
+      "category": 2,
+      "level": 5,
+      "coefficientCents": 200,
+      "coefficient": "2",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B33",
+      "originalCoefficientCell": "D33",
+      "originalAllocatedCell": "E33",
+      "originalProposalCell": "F33",
+      "originalAllocatedQuantity": 6,
+      "correctAllocatedQuantityAnnexII": 5,
+      "allocatedQuantityChange": -1,
+      "proposalQuantityToPreserve": 6,
+      "annexIIIPublishedQuantity": 6,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 96,
+          "unit": "Serviço de Cumprimento de Ações Judiciais",
+          "quantity": 1,
+          "rawCode": "CCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 101,
+          "unit": "Serviço de Controle dos Encargos Sociais",
+          "quantity": 1,
+          "rawCode": "CCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 130,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "rawCode": "CCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 229,
+          "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+          "quantity": 2,
+          "rawCode": "CCESP 2.05"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "coefficientCents": 175,
+      "coefficient": "1.75",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B34",
+      "originalCoefficientCell": "D34",
+      "originalAllocatedCell": "E34",
+      "originalProposalCell": "F34",
+      "originalAllocatedQuantity": 17,
+      "correctAllocatedQuantityAnnexII": 17,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 17,
+      "annexIIIPublishedQuantity": 17,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 13,
+          "unit": "Assessoria de Comunicação e Cerimonial",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 24,
+          "unit": "ASSESSORIA TÉCNICA",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 61,
+          "unit": "Coordenadoria de Orçamento e Finanças",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 63,
+          "unit": "Divisão de Orçamento",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 66,
+          "unit": "Divisão de Finanças",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 70,
+          "unit": "DIRETORIA DE SERVIÇOS E TIC",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 74,
+          "unit": "Coordenadoria de Infraestrutura",
+          "quantity": 2,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 80,
+          "unit": "Divisão de Gestão Patrimonial e Almoxarifado",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 191,
+          "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 198,
+          "unit": "Coordenadoria de Gestão Funcional",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 253,
+          "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+          "quantity": 4,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 331,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 336,
+          "unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+          "quantity": 1,
+          "rawCode": "CCESP 2.04"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.03",
+      "group": "CCESP",
+      "category": 2,
+      "level": 3,
+      "coefficientCents": 150,
+      "coefficient": "1.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B35",
+      "originalCoefficientCell": "D35",
+      "originalAllocatedCell": "E35",
+      "originalProposalCell": "F35",
+      "originalAllocatedQuantity": 2,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 2,
+      "annexIIIPublishedQuantity": 2,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 89,
+          "unit": "Serviço de Controle dos Sistemas de Recursos Humanos",
+          "quantity": 1,
+          "rawCode": "CCESP 2.03"
+        },
+        {
+          "quadro_rows_index_zero_based": 109,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "CCESP 2.03"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.02",
+      "group": "CCESP",
+      "category": 2,
+      "level": 2,
+      "coefficientCents": 125,
+      "coefficient": "1.25",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B36",
+      "originalCoefficientCell": "D36",
+      "originalAllocatedCell": "E36",
+      "originalProposalCell": "F36",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 3,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 3,
+      "annexIIIPublishedQuantity": 3,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 67,
+          "unit": "Divisão de Finanças",
+          "quantity": 2,
+          "rawCode": "CCESP 2.02"
+        },
+        {
+          "quadro_rows_index_zero_based": 98,
+          "unit": "Serviço de Apuração Preliminar",
+          "quantity": 1,
+          "rawCode": "CCESP 2.02"
+        }
+      ]
+    },
+    {
+      "code": "CCESP 2.01",
+      "group": "CCESP",
+      "category": 2,
+      "level": 1,
+      "coefficientCents": 100,
+      "coefficient": "1",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B37",
+      "originalCoefficientCell": "D37",
+      "originalAllocatedCell": "E37",
+      "originalProposalCell": "F37",
+      "originalAllocatedQuantity": 1,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 1,
+      "annexIIIPublishedQuantity": 1,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 276,
+          "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+          "quantity": 1,
+          "rawCode": "CCESP 2.01"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.16",
+      "group": "FCESP",
+      "category": 1,
+      "level": 16,
+      "coefficientCents": 420,
+      "coefficient": "4.2",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B38",
+      "originalCoefficientCell": "D38",
+      "originalAllocatedCell": "E38",
+      "originalProposalCell": "F38",
+      "originalAllocatedQuantity": 1,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 1,
+      "annexIIIPublishedQuantity": 1,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 104,
+          "unit": "DIRETORIA GERAL DE DESENVOLVIMENTO E CAPACIDADE INSTITUCIONAL",
+          "quantity": 1,
+          "rawCode": "FCESP 1.16"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.15",
+      "group": "FCESP",
+      "category": 1,
+      "level": 15,
+      "coefficientCents": 360,
+      "coefficient": "3.6",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B39",
+      "originalCoefficientCell": "D39",
+      "originalAllocatedCell": "E39",
+      "originalProposalCell": "F39",
+      "originalAllocatedQuantity": 5,
+      "correctAllocatedQuantityAnnexII": 5,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 5,
+      "annexIIIPublishedQuantity": 5,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 17,
+          "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "FCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 25,
+          "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+          "quantity": 1,
+          "rawCode": "FCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 293,
+          "unit": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "FCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 353,
+          "unit": "DIRETORIA DE MOBILIDADE INTERNA",
+          "quantity": 1,
+          "rawCode": "FCESP 1.15"
+        },
+        {
+          "quadro_rows_index_zero_based": 397,
+          "unit": "DIRETORIA DE PRESERVAÇÃO, DIFUSÃO E FORMAÇÃO",
+          "quantity": 1,
+          "rawCode": "FCESP 1.15"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.14",
+      "group": "FCESP",
+      "category": 1,
+      "level": 14,
+      "coefficientCents": 330,
+      "coefficient": "3.3",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B40",
+      "originalCoefficientCell": "D40",
+      "originalAllocatedCell": "E40",
+      "originalProposalCell": "F40",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": -1,
+      "proposalQuantityToPreserve": 3,
+      "annexIIIPublishedQuantity": 3,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 40,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "FCESP 1.14"
+        },
+        {
+          "quadro_rows_index_zero_based": 365,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "FCESP 1.14"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.13",
+      "group": "FCESP",
+      "category": 1,
+      "level": 13,
+      "coefficientCents": 270,
+      "coefficient": "2.7",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B41",
+      "originalCoefficientCell": "D41",
+      "originalAllocatedCell": "E41",
+      "originalProposalCell": "F41",
+      "originalAllocatedQuantity": 13,
+      "correctAllocatedQuantityAnnexII": 14,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 13,
+      "annexIIIPublishedQuantity": 13,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 31,
+          "unit": "Assessoria de Estratégia, Comunicação e Articulação Institucional",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 122,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 208,
+          "unit": "Coordenadoria de Apoio aos Sistemas e Processos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 225,
+          "unit": "Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 262,
+          "unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 277,
+          "unit": "Coordenadoria de Processamento da Folha",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 295,
+          "unit": "Coordenadoria de Riscos de Operação",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 303,
+          "unit": "Coordenadoria de Gestão de Riscos e Integridade",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 339,
+          "unit": "Coordenadoria de Gestão Imobiliária",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 349,
+          "unit": "Coordenadoria de Controle Técnico Processual",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 354,
+          "unit": "Coordenadoria da Gestão da Mobilidade",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 360,
+          "unit": "Coordenadoria de Gestão de Ativos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 373,
+          "unit": "Coordenadoria do Sistema de Arquivos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        },
+        {
+          "quadro_rows_index_zero_based": 387,
+          "unit": "Coordenadoria de Tratamento de Acervos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.13"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.13",
+      "group": "FCESP",
+      "category": 2,
+      "level": 13,
+      "coefficientCents": 270,
+      "coefficient": "2.7",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B42",
+      "originalCoefficientCell": "D42",
+      "originalAllocatedCell": "E42",
+      "originalProposalCell": "F42",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": -1,
+      "proposalQuantityToPreserve": 3,
+      "annexIIIPublishedQuantity": 3,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 41,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "FCESP 2.13"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.12",
+      "group": "FCESP",
+      "category": 2,
+      "level": 12,
+      "coefficientCents": 240,
+      "coefficient": "2.4",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B43",
+      "originalCoefficientCell": "D43",
+      "originalAllocatedCell": "E43",
+      "originalProposalCell": "F43",
+      "originalAllocatedQuantity": 5,
+      "correctAllocatedQuantityAnnexII": 5,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 5,
+      "annexIIIPublishedQuantity": 5,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 6,
+          "unit": "CHEFIA DE GABINETE",
+          "quantity": 1,
+          "rawCode": "FCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 26,
+          "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+          "quantity": 1,
+          "rawCode": "FCESP 2.12"
+        },
+        {
+          "quadro_rows_index_zero_based": 327,
+          "unit": "Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital",
+          "quantity": 3,
+          "rawCode": "FCESP 2.12"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.11",
+      "group": "FCESP",
+      "category": 2,
+      "level": 11,
+      "coefficientCents": 210,
+      "coefficient": "2.1",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B44",
+      "originalCoefficientCell": "D44",
+      "originalAllocatedCell": "E44",
+      "originalProposalCell": "F44",
+      "originalAllocatedQuantity": 2,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 2,
+      "annexIIIPublishedQuantity": 2,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 142,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "rawCode": "FCESP 2.11"
+        },
+        {
+          "quadro_rows_index_zero_based": 294,
+          "unit": "DIRETORIA DE GESTÃO DE RISCOS EM PAGAMENTO DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "FCESP 2.11"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.10",
+      "group": "FCESP",
+      "category": 1,
+      "level": 10,
+      "coefficientCents": 195,
+      "coefficient": "1.95",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B45",
+      "originalCoefficientCell": "D45",
+      "originalAllocatedCell": "E45",
+      "originalProposalCell": "F45",
+      "originalAllocatedQuantity": 43,
+      "correctAllocatedQuantityAnnexII": 43,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 43,
+      "annexIIIPublishedQuantity": 43,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 119,
+          "unit": "Divisão de Desenvolvimento Organizacional",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 120,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 126,
+          "unit": "Divisão de Articulação e Parcerias Estratégicas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 128,
+          "unit": "Divisão de Desempenho Institucional",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 147,
+          "unit": "Divisão de Elaboração de Atos Normativos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 148,
+          "unit": "Divisão de Orientação Normativa e Atendimento Órgãos Controle",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 150,
+          "unit": "Divisão de Gestão de Sistemas de Logística",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 152,
+          "unit": "Divisão de Capacitação e Gestão do Conhecimento",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 177,
+          "unit": "Divisão de Planejamento, Inovação e Modelos de Carreiras",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 184,
+          "unit": "Divisão de Gestão de Desempenho e Evolução Funcional",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 192,
+          "unit": "Divisão de Concursos Públicos e Processos Seletivos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 193,
+          "unit": "Divisão de Estágio",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 199,
+          "unit": "Divisão de Planejamento da Força de Trabalho",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 200,
+          "unit": "Divisão de Gestão de Pessoal",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 206,
+          "unit": "Divisão de Levantamento de Requisitos e Homologação dos Sistemas de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 209,
+          "unit": "Divisão de Apoio aos Sistemas Corporativos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 222,
+          "unit": "Divisão de Insalubridade",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 224,
+          "unit": "Divisão de Acidentes do Trabalho",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 226,
+          "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 230,
+          "unit": "Divisão de Readaptação e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 234,
+          "unit": "Divisão de Segurança no Trabalho",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 255,
+          "unit": "Divisão de Complementação de Aposentadoria e Pensão",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 258,
+          "unit": "Divisão de Despesa da Educação do Interior II",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 259,
+          "unit": "Divisão de Despesa da Saúde",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 265,
+          "unit": "Divisão de Aplicação Normativa da Folha e de Legislação",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 266,
+          "unit": "Divisão de Inovação e Melhoria de Processos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 267,
+          "unit": "Divisão de Inteligência e Informações Gerenciais",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 270,
+          "unit": "Divisão de Análise e Informações Processuais",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 286,
+          "unit": "Divisão de Qualificação Cadastral",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 289,
+          "unit": "Divisão de Operacionalização de Consignados",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 297,
+          "unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 300,
+          "unit": "Divisão de Qualidade e Conformidade de Registros",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 305,
+          "unit": "Divisão de Integridade e Conformidade",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 308,
+          "unit": "Divisão de Monitoramento e Análise de Riscos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 356,
+          "unit": "Divisão de Monitoramento da Mobilidade",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 361,
+          "unit": "Divisão de Arrolamento e Regularização Veicular",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 374,
+          "unit": "Divisão de Gestão Documental",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 378,
+          "unit": "Divisão de Assistência Técnica aos Municípios",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 380,
+          "unit": "Divisão de Gestão e Inovação Digital",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 389,
+          "unit": "Divisão de Arquivo Intermediário",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 392,
+          "unit": "Divisão de Acervo Permanente",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 400,
+          "unit": "Divisão de Conservação",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 406,
+          "unit": "Divisão de Formação e Treinamento",
+          "quantity": 1,
+          "rawCode": "FCESP 1.10"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.10",
+      "group": "FCESP",
+      "category": 2,
+      "level": 10,
+      "coefficientCents": 195,
+      "coefficient": "1.95",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B46",
+      "originalCoefficientCell": "D46",
+      "originalAllocatedCell": "E46",
+      "originalProposalCell": "F46",
+      "originalAllocatedQuantity": 10,
+      "correctAllocatedQuantityAnnexII": 9,
+      "allocatedQuantityChange": -1,
+      "proposalQuantityToPreserve": 10,
+      "annexIIIPublishedQuantity": 10,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 34,
+          "unit": "Coordenadoria de Formação e Desenvolvimento de Competências",
+          "quantity": 2,
+          "rawCode": "FCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 36,
+          "unit": "Coordenadoria de Conhecimento Aplicado",
+          "quantity": 2,
+          "rawCode": "FCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 38,
+          "unit": "Coordenadoria de Administração",
+          "quantity": 2,
+          "rawCode": "FCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 45,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "FCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 114,
+          "unit": "DIRETORIA DE MODERNIZAÇÃO ORGANIZACIONAL",
+          "quantity": 1,
+          "rawCode": "FCESP 2.10"
+        },
+        {
+          "quadro_rows_index_zero_based": 139,
+          "unit": "Laboratório de Logística Pública",
+          "quantity": 1,
+          "rawCode": "FCESP 2.10"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.09",
+      "group": "FCESP",
+      "category": 2,
+      "level": 9,
+      "coefficientCents": 180,
+      "coefficient": "1.8",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B47",
+      "originalCoefficientCell": "D47",
+      "originalAllocatedCell": "E47",
+      "originalProposalCell": "F47",
+      "originalAllocatedQuantity": 8,
+      "correctAllocatedQuantityAnnexII": 8,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 8,
+      "annexIIIPublishedQuantity": 8,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 144,
+          "unit": "DIRETORIA DE NORMAS E SISTEMAS DE LOGÍSTICA",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 164,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 173,
+          "unit": "DIRETORIA DE CARREIRAS E DESENVOLVIMENTO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 188,
+          "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 196,
+          "unit": "Coordenadoria de Gestão Funcional",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 205,
+          "unit": "Coordenadoria de Engenharia de Requisitos e Processos de Gestão de Pessoas",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 213,
+          "unit": "DIRETORIA DE PERÍCIAS MÉDICAS DO ESTADO DE SÃO PAULO",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        },
+        {
+          "quadro_rows_index_zero_based": 242,
+          "unit": "DIRETORIA DE REMUNERAÇÃO E BENEFÍCIOS",
+          "quantity": 1,
+          "rawCode": "FCESP 2.09"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.08",
+      "group": "FCESP",
+      "category": 2,
+      "level": 8,
+      "coefficientCents": 165,
+      "coefficient": "1.65",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B48",
+      "originalCoefficientCell": "D48",
+      "originalAllocatedCell": "E48",
+      "originalProposalCell": "F48",
+      "originalAllocatedQuantity": 12,
+      "correctAllocatedQuantityAnnexII": 12,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 12,
+      "annexIIIPublishedQuantity": 12,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 20,
+          "unit": "ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA",
+          "quantity": 1,
+          "rawCode": "FCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 27,
+          "unit": "ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE",
+          "quantity": 1,
+          "rawCode": "FCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 252,
+          "unit": "DIRETORIA DE DESPESA DE PESSOAL",
+          "quantity": 1,
+          "rawCode": "FCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 263,
+          "unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 275,
+          "unit": "DIRETORIA DA FOLHA DE PAGAMENTO",
+          "quantity": 6,
+          "rawCode": "FCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 296,
+          "unit": "Coordenadoria de Riscos de Operação",
+          "quantity": 1,
+          "rawCode": "FCESP 2.08"
+        },
+        {
+          "quadro_rows_index_zero_based": 304,
+          "unit": "Coordenadoria de Gestão de Riscos e Integridade",
+          "quantity": 1,
+          "rawCode": "FCESP 2.08"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.07",
+      "group": "FCESP",
+      "category": 1,
+      "level": 7,
+      "coefficientCents": 150,
+      "coefficient": "1.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B49",
+      "originalCoefficientCell": "D49",
+      "originalAllocatedCell": "E49",
+      "originalProposalCell": "F49",
+      "originalAllocatedQuantity": 16,
+      "correctAllocatedQuantityAnnexII": 16,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 16,
+      "annexIIIPublishedQuantity": 16,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 86,
+          "unit": "Serviço de Controle Funcional",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 88,
+          "unit": "Serviço de Controle dos Sistemas de Recursos Humanos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 91,
+          "unit": "Serviço de Administração da Vida Funcional",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 92,
+          "unit": "Serviço de Gestão de Inativos e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 95,
+          "unit": "Serviço de Cumprimento de Ações Judiciais",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 97,
+          "unit": "Serviço de Apuração Preliminar",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 100,
+          "unit": "Serviço de Controle dos Encargos Sociais",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 102,
+          "unit": "Serviço de Administração das Evoluções Funcionais",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 214,
+          "unit": "Serviço de Gestão Técnico-Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 217,
+          "unit": "Serviço de Gestão da Informação Pericial",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 219,
+          "unit": "Serviço de Atendimento e Gestão de Protocolos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 337,
+          "unit": "Serviço de Apoio Financeiro e Orçamentário",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 341,
+          "unit": "Serviço de Apoio à Regularização Imobiliária",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 346,
+          "unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 388,
+          "unit": "Serviço ao Cidadão e Acesso",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 399,
+          "unit": "Serviço de Ingresso e Logística",
+          "quantity": 1,
+          "rawCode": "FCESP 1.07"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.07",
+      "group": "FCESP",
+      "category": 2,
+      "level": 7,
+      "coefficientCents": 150,
+      "coefficient": "1.5",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B50",
+      "originalCoefficientCell": "D50",
+      "originalAllocatedCell": "E50",
+      "originalProposalCell": "F50",
+      "originalAllocatedQuantity": 9,
+      "correctAllocatedQuantityAnnexII": 9,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 9,
+      "annexIIIPublishedQuantity": 9,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 72,
+          "unit": "Coordenadoria de Infraestrutura",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 117,
+          "unit": "Coordenadoria de Modelos Organizacionais",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 124,
+          "unit": "Coordenadoria de Gestão de Políticas Públicas",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 175,
+          "unit": "Coordenadoria de Gestão e Arquitetura de Carreiras",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 180,
+          "unit": "Coordenadoria de Desenvolvimento de Pessoas",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 189,
+          "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 264,
+          "unit": "Coordenadoria de Normas, Inovação e Melhoria de Processos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 280,
+          "unit": "Divisão de Parametrização e Pagamento da Folha da Administração Direta",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        },
+        {
+          "quadro_rows_index_zero_based": 285,
+          "unit": "Divisão de Integração de Sistemas de Pagamento de Pessoal",
+          "quantity": 1,
+          "rawCode": "FCESP 2.07"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.06",
+      "group": "FCESP",
+      "category": 2,
+      "level": 6,
+      "coefficientCents": 135,
+      "coefficient": "1.35",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B51",
+      "originalCoefficientCell": "D51",
+      "originalAllocatedCell": "E51",
+      "originalProposalCell": "F51",
+      "originalAllocatedQuantity": 24,
+      "correctAllocatedQuantityAnnexII": 25,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 24,
+      "annexIIIPublishedQuantity": 24,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 59,
+          "unit": "Divisão de Fiscalização",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 65,
+          "unit": "Divisão de Finanças",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 136,
+          "unit": "Coordenadoria de Inteligência em Gestão",
+          "quantity": 2,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 216,
+          "unit": "Serviço de Gestão Técnico-Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 221,
+          "unit": "Coordenadoria de Insalubridade e Acidentes do Trabalho",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 223,
+          "unit": "Divisão de Insalubridade",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 228,
+          "unit": "Divisão de Perícias de Ingresso e Licenças Médicas",
+          "quantity": 4,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 298,
+          "unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 301,
+          "unit": "Divisão de Qualidade e Conformidade de Registros",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 306,
+          "unit": "Divisão de Integridade e Conformidade",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 309,
+          "unit": "Divisão de Monitoramento e Análise de Riscos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 335,
+          "unit": "DIRETORIA DE BENS IMOBILIÁRIOS",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 342,
+          "unit": "Serviço de Apoio à Regularização Imobiliária",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 345,
+          "unit": "Coordenadoria de Desmobilização de Ativos Imobiliários",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 347,
+          "unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 351,
+          "unit": "Coordenadoria de Controle Técnico Processual",
+          "quantity": 3,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 355,
+          "unit": "Coordenadoria da Gestão da Mobilidade",
+          "quantity": 1,
+          "rawCode": "FCESP 2.06"
+        },
+        {
+          "quadro_rows_index_zero_based": 368,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "FCESP 2.06"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 1.05",
+      "group": "FCESP",
+      "category": 1,
+      "level": 5,
+      "coefficientCents": 120,
+      "coefficient": "1.2",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B52",
+      "originalCoefficientCell": "D52",
+      "originalAllocatedCell": "E52",
+      "originalProposalCell": "F52",
+      "originalAllocatedQuantity": 14,
+      "correctAllocatedQuantityAnnexII": 14,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 14,
+      "annexIIIPublishedQuantity": 14,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 170,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 332,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 370,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 375,
+          "unit": "Seção de Normas Técnicas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 376,
+          "unit": "Seção de Assistência ao SAESP",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 381,
+          "unit": "Seção de Conformidade dos Sistemas Arquivísticos",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 384,
+          "unit": "Seção de Repositórios e Plataformas",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 386,
+          "unit": "Seção de Digitalização e Microfilmagem",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 394,
+          "unit": "Seção de Acervo Textual Público e Privado",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 395,
+          "unit": "Seção de Paleografia e Diplomática",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 396,
+          "unit": "Seção de Biblioteca e Hemeroteca",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 401,
+          "unit": "Seção de Laboratório de Conservação e Restauro",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 402,
+          "unit": "Seção de Gerenciamento de Riscos e Acondicionamento",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 405,
+          "unit": "Seção de Difusão e Ação Educativa",
+          "quantity": 1,
+          "rawCode": "FCESP 1.05"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.05",
+      "group": "FCESP",
+      "category": 2,
+      "level": 5,
+      "coefficientCents": 120,
+      "coefficient": "1.2",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B53",
+      "originalCoefficientCell": "D53",
+      "originalAllocatedCell": "E53",
+      "originalProposalCell": "F53",
+      "originalAllocatedQuantity": 14,
+      "correctAllocatedQuantityAnnexII": 14,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 14,
+      "annexIIIPublishedQuantity": 14,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 121,
+          "unit": "Divisão Central de Estruturas Organizacionais",
+          "quantity": 3,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 186,
+          "unit": "DIRETORIA DE GESTÃO FUNCIONAL",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 190,
+          "unit": "Coordenadoria de Gestão de Recrutamento e Provimento de Pessoal",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 299,
+          "unit": "Divisão de Projetos e Aperfeiçoamento da Folha",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 302,
+          "unit": "Divisão de Qualidade e Conformidade de Registros",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 307,
+          "unit": "Divisão de Integridade e Conformidade",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 310,
+          "unit": "Divisão de Monitoramento e Análise de Riscos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 357,
+          "unit": "Divisão de Monitoramento da Mobilidade",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 359,
+          "unit": "Divisão de Cadastro, Normas e Procedimentos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 363,
+          "unit": "Divisão de Alienação de Veículos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.05"
+        },
+        {
+          "quadro_rows_index_zero_based": 369,
+          "unit": "Assessoria Técnica",
+          "quantity": 2,
+          "rawCode": "FCESP 2.05"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.04",
+      "group": "FCESP",
+      "category": 2,
+      "level": 4,
+      "coefficientCents": 105,
+      "coefficient": "1.05",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B54",
+      "originalCoefficientCell": "D54",
+      "originalAllocatedCell": "E54",
+      "originalProposalCell": "F54",
+      "originalAllocatedQuantity": 8,
+      "correctAllocatedQuantityAnnexII": 8,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 8,
+      "annexIIIPublishedQuantity": 8,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 54,
+          "unit": "Coordenadoria de Licitações e Contratos",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 73,
+          "unit": "Coordenadoria de Infraestrutura",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 203,
+          "unit": "DIRETORIA DE GERENCIAMENTO DOS SISTEMAS E PROCESSOS DE GESTÃO DE PESSOAS",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 218,
+          "unit": "Serviço de Gestão da Informação Pericial",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 232,
+          "unit": "Divisão de Readaptação e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 236,
+          "unit": "Divisão de Segurança no Trabalho",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 239,
+          "unit": "Divisão de Promoção e Prevenção da Saúde do Servidor",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        },
+        {
+          "quadro_rows_index_zero_based": 246,
+          "unit": "Coordenadoria de Remuneração",
+          "quantity": 1,
+          "rawCode": "FCESP 2.04"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.03",
+      "group": "FCESP",
+      "category": 2,
+      "level": 3,
+      "coefficientCents": 90,
+      "coefficient": "0.9",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B55",
+      "originalCoefficientCell": "D55",
+      "originalAllocatedCell": "E55",
+      "originalProposalCell": "F55",
+      "originalAllocatedQuantity": 5,
+      "correctAllocatedQuantityAnnexII": 5,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 5,
+      "annexIIIPublishedQuantity": 5,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 87,
+          "unit": "Serviço de Controle Funcional",
+          "quantity": 1,
+          "rawCode": "FCESP 2.03"
+        },
+        {
+          "quadro_rows_index_zero_based": 93,
+          "unit": "Serviço de Gestão de Inativos e Aposentadoria",
+          "quantity": 1,
+          "rawCode": "FCESP 2.03"
+        },
+        {
+          "quadro_rows_index_zero_based": 333,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 2,
+          "rawCode": "FCESP 2.03"
+        },
+        {
+          "quadro_rows_index_zero_based": 371,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 2.03"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.02",
+      "group": "FCESP",
+      "category": 2,
+      "level": 2,
+      "coefficientCents": 75,
+      "coefficient": "0.75",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B56",
+      "originalCoefficientCell": "D56",
+      "originalAllocatedCell": "E56",
+      "originalProposalCell": "F56",
+      "originalAllocatedQuantity": 2,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 2,
+      "annexIIIPublishedQuantity": 2,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 348,
+          "unit": "Serviço de Apoio à Licitação de Ativos Imobiliários",
+          "quantity": 1,
+          "rawCode": "FCESP 2.02"
+        },
+        {
+          "quadro_rows_index_zero_based": 352,
+          "unit": "Coordenadoria de Controle Técnico Processual",
+          "quantity": 1,
+          "rawCode": "FCESP 2.02"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.01",
+      "group": "FCESP",
+      "category": 2,
+      "level": 1,
+      "coefficientCents": 60,
+      "coefficient": "0.6",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": "B57",
+      "originalCoefficientCell": "D57",
+      "originalAllocatedCell": "E57",
+      "originalProposalCell": "F57",
+      "originalAllocatedQuantity": 4,
+      "correctAllocatedQuantityAnnexII": 4,
+      "allocatedQuantityChange": 0,
+      "proposalQuantityToPreserve": 4,
+      "annexIIIPublishedQuantity": 4,
+      "requiresNewRow": false,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 4,
+          "unit": "SECRETARIA EXECUTIVA",
+          "quantity": 1,
+          "rawCode": "FCESP 2.01"
+        },
+        {
+          "quadro_rows_index_zero_based": 75,
+          "unit": "Coordenadoria de Infraestrutura",
+          "quantity": 1,
+          "rawCode": "FCESP 2.01"
+        },
+        {
+          "quadro_rows_index_zero_based": 110,
+          "unit": "Seção de Apoio Administrativo",
+          "quantity": 1,
+          "rawCode": "FCESP 2.01"
+        },
+        {
+          "quadro_rows_index_zero_based": 393,
+          "unit": "Divisão de Acervo Permanente",
+          "quantity": 1,
+          "rawCode": "FCESP 2.01"
+        }
+      ]
+    },
+    {
+      "code": "FCESP 2.14",
+      "group": "FCESP",
+      "category": 2,
+      "level": 14,
+      "coefficientCents": 330,
+      "coefficient": "3.3",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": null,
+      "originalCoefficientCell": null,
+      "originalAllocatedCell": null,
+      "originalProposalCell": null,
+      "originalAllocatedQuantity": 0,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 0,
+      "proposalPreservationExplanation": "This code is absent from the supplied proposal table. Zero preserves its original composition; filling1 would introduce a proposal change.",
+      "annexIIIPublishedQuantity": 0,
+      "requiresNewRow": true,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 105,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "FCESP 2.14"
+        }
+      ],
+      "documentaryAttention": "Preserve literal FCESP 2.14 from Annex II; do not normalize category or substitute for FCESP1.14. Official certificate page31/40; AnnexIII quantity0 on page40/40.",
+      "existingWorkbookMonetaryReferenceOnly": {
+        "cell": "C40",
+        "code": "FCESP 1.14",
+        "value": 9787.8,
+        "note": "Same species/level monetary value present in supplied workbook; outside independent remuneration recertification."
+      }
+    }
+  ],
+  "existingAllocationCellChanges": [
+    {
+      "code": "CCESP 1.10",
+      "originalAllocatedCell": "E25",
+      "originalAllocatedQuantity": 35,
+      "correctAllocatedQuantityAnnexII": 36,
+      "allocatedQuantityChange": 1,
+      "originalProposalCell": "F25",
+      "proposalQuantityToPreserve": 35
+    },
+    {
+      "code": "CCESP 2.10",
+      "originalAllocatedCell": "E26",
+      "originalAllocatedQuantity": 16,
+      "correctAllocatedQuantityAnnexII": 17,
+      "allocatedQuantityChange": 1,
+      "originalProposalCell": "F26",
+      "proposalQuantityToPreserve": 16
+    },
+    {
+      "code": "CCESP 2.09",
+      "originalAllocatedCell": "E27",
+      "originalAllocatedQuantity": 15,
+      "correctAllocatedQuantityAnnexII": 14,
+      "allocatedQuantityChange": -1,
+      "originalProposalCell": "F27",
+      "proposalQuantityToPreserve": 15
+    },
+    {
+      "code": "CCESP 1.05",
+      "originalAllocatedCell": "E32",
+      "originalAllocatedQuantity": 7,
+      "correctAllocatedQuantityAnnexII": 8,
+      "allocatedQuantityChange": 1,
+      "originalProposalCell": "F32",
+      "proposalQuantityToPreserve": 7
+    },
+    {
+      "code": "CCESP 2.05",
+      "originalAllocatedCell": "E33",
+      "originalAllocatedQuantity": 6,
+      "correctAllocatedQuantityAnnexII": 5,
+      "allocatedQuantityChange": -1,
+      "originalProposalCell": "F33",
+      "proposalQuantityToPreserve": 6
+    },
+    {
+      "code": "FCESP 1.14",
+      "originalAllocatedCell": "E40",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": -1,
+      "originalProposalCell": "F40",
+      "proposalQuantityToPreserve": 3
+    },
+    {
+      "code": "FCESP 1.13",
+      "originalAllocatedCell": "E41",
+      "originalAllocatedQuantity": 13,
+      "correctAllocatedQuantityAnnexII": 14,
+      "allocatedQuantityChange": 1,
+      "originalProposalCell": "F41",
+      "proposalQuantityToPreserve": 13
+    },
+    {
+      "code": "FCESP 2.13",
+      "originalAllocatedCell": "E42",
+      "originalAllocatedQuantity": 3,
+      "correctAllocatedQuantityAnnexII": 2,
+      "allocatedQuantityChange": -1,
+      "originalProposalCell": "F42",
+      "proposalQuantityToPreserve": 3
+    },
+    {
+      "code": "FCESP 2.10",
+      "originalAllocatedCell": "E46",
+      "originalAllocatedQuantity": 10,
+      "correctAllocatedQuantityAnnexII": 9,
+      "allocatedQuantityChange": -1,
+      "originalProposalCell": "F46",
+      "proposalQuantityToPreserve": 10
+    },
+    {
+      "code": "FCESP 2.06",
+      "originalAllocatedCell": "E51",
+      "originalAllocatedQuantity": 24,
+      "correctAllocatedQuantityAnnexII": 25,
+      "allocatedQuantityChange": 1,
+      "originalProposalCell": "F51",
+      "proposalQuantityToPreserve": 24
+    }
+  ],
+  "missingAnnexIICodes": [
+    {
+      "code": "FCESP 2.14",
+      "group": "FCESP",
+      "category": 2,
+      "level": 14,
+      "coefficientCents": 330,
+      "coefficient": "3.3",
+      "sourceSheet": "SGGD",
+      "originalCodeCell": null,
+      "originalCoefficientCell": null,
+      "originalAllocatedCell": null,
+      "originalProposalCell": null,
+      "originalAllocatedQuantity": 0,
+      "correctAllocatedQuantityAnnexII": 1,
+      "allocatedQuantityChange": 1,
+      "proposalQuantityToPreserve": 0,
+      "proposalPreservationExplanation": "This code is absent from the supplied proposal table. Zero preserves its original composition; filling1 would introduce a proposal change.",
+      "annexIIIPublishedQuantity": 0,
+      "requiresNewRow": true,
+      "sourceRows": [
+        {
+          "quadro_rows_index_zero_based": 105,
+          "unit": "Assessoria Técnica",
+          "quantity": 1,
+          "rawCode": "FCESP 2.14"
+        }
+      ],
+      "documentaryAttention": "Preserve literal FCESP 2.14 from Annex II; do not normalize category or substitute for FCESP1.14. Official certificate page31/40; AnnexIII quantity0 on page40/40.",
+      "existingWorkbookMonetaryReferenceOnly": {
+        "cell": "C40",
+        "code": "FCESP 1.14",
+        "value": 9787.8,
+        "note": "Same species/level monetary value present in supplied workbook; outside independent remuneration recertification."
+      }
+    }
+  ],
+  "totals": {
+    "correctAllocatedAnnexII": {
+      "CCESP": {
+        "quantity": 299,
+        "quotaCents": 106950,
+        "quotas": "1069.50"
+      },
+      "FCESP": {
+        "quantity": 201,
+        "quotaCents": 34875,
+        "quotas": "348.75"
+      }
+    },
+    "preservedProposal": {
+      "CCESP": {
+        "quantity": 298,
+        "quotaCents": 106600,
+        "quotas": "1066.00"
+      },
+      "FCESP": {
+        "quantity": 201,
+        "quotaCents": 34935,
+        "quotas": "349.35"
+      }
+    },
+    "limitAnnexIII": {
+      "CCESP": {
+        "quantity": 298,
+        "quotaCents": 106600,
+        "quotas": "1066.00"
+      },
+      "FCESP": {
+        "quantity": 201,
+        "quotaCents": 34935,
+        "quotas": "349.35"
+      }
+    },
+    "initialAvailableLimitMinusAllocated": {
+      "CCESP": {
+        "quantity": -1,
+        "quotaCents": -350,
+        "quotas": "-3.50"
+      },
+      "FCESP": {
+        "quantity": 0,
+        "quotaCents": 60,
+        "quotas": "0.60"
+      }
+    },
+    "proposedAvailableLimitMinusProposal": {
+      "CCESP": {
+        "quantity": 0,
+        "quotaCents": 0,
+        "quotas": "0.00"
+      },
+      "FCESP": {
+        "quantity": 0,
+        "quotaCents": 0,
+        "quotas": "0.00"
+      }
+    },
+    "proposalVariationAgainstCorrectAllocation": {
+      "CCESP": {
+        "quantity": -1,
+        "quotaCents": -350,
+        "quotas": "-3.50"
+      },
+      "FCESP": {
+        "quantity": 0,
+        "quotaCents": 60,
+        "quotas": "0.60"
+      }
+    }
+  },
+  "qa": {
+    "existingRows": 45,
+    "annexIINonzeroCodes": 46,
+    "mappedCodes": 46,
+    "existingAllocationCellsChanged": 10,
+    "newRowsNeeded": 1,
+    "proposalAllOriginalQuantitiesPreserved": true,
+    "all45ExistingProposalRowsMatchAnnexIII": true,
+    "originalFileUnchanged": true
+  },
+  "authoringNotes": [
+    "Resolve every input/formula after row insertion; do not retain fixed ranges ending at56 or57 without including all46rows.",
+    "Compute allocated quotas from coefficient × E and proposed quotas from coefficient × F.",
+    "Initial balance compares III−II; proposed balance compares III−proposal. Preserving the provided proposal makes proposed balance zero, while original allocation has the documented species differences.",
+    "Do not reset F to II without an explicit decision: that would replace the supplied proposal, not merely fix E.",
+    "Keep group/species and full category codes in the workbook; aggregate only for summaries.",
+    "This mapping follows user-defined semantics and does not provide administrative approval."
+  ]
+}

@@ -1,0 +1,56 @@
+UNIDADE QTDDENOMINAÇÃO
+CARGO/FUNÇÃO
+CCESP/FCESP
+SECRETARIA DE GESTÃO E GOVERNO DIGITAL      
+       
+SECRETARIA EXECUTIVA 1 Secretário Executivo CCESP 1.18
+  1 Assessor Especial IV CCESP 2.16
+  2 Assessor Especial III CCESP 2.15
+  1 Assessor Especial II CCESP 2.14
+  1 Assistente I FCESP 2.01
+       
+CHEFIA DE GABINETE 1 Chefe de Gabinete CCESP 1.16
+  1 Assessor IV FCESP 2.12
+  1 Assistente Técnico IV CCESP 2.08
+       
+Ouvidoria e Serviço de Informações ao Cidadão - SIC 1 Chefe de Divisão CCESP 1.10
+       
+Consultoria Jurídica 2 Assessor IV CCESP 2.12
+  1 Assessor I CCESP 2.09
+  1 Assistente Técnico IV CCESP 2.08
+       
+Assessoria de Comunicação e Cerimonial 1 Chefe de Assessoria CCESP 1.10
+  1 Assistente IV CCESP 2.04
+       
+ASSESSORIA ESPECIAL DE GOVERNANÇA 1 Chefe de Assessoria CCESP 1.17
+  1 Assessor II CCESP 2.10
+  1 Assistente Técnico II CCESP 2.06
+       
+ASSESSORIA DE GESTÃO ESTRATÉGICA E GOVERNANÇA 1 Chefe de Assessoria FCESP 1.15
+  1 Assessor Especial I CCESP 2.13
+  1 Assessor III CCESP 2.11
+  1 Assistente Técnico IV FCESP 2.08
+       
+ASSESSORIA TÉCNICA 1 Chefe de Assessoria CCESP 1.15
+  1 Assessor II CCESP 2.10
+  1 Assistente Técnico IV CCESP 2.08
+  1 Assistente IV CCESP 2.04
+       
+ASSESSORIA DE GESTÃO DE RISCOS E INTEGRIDADE 1 Chefe de Assessoria FCESP 1.15
+  1 Assessor IV FCESP 2.12
+  1 Assistente Técnico IV FCESP 2.08
+  1 Assistente Técnico IV CCESP 2.08
+       
+ESCOLA DE GOVERNO DO ESTADO DE SÃO PAULO 1 Diretor CCESP 1.15
+  1 Assistente Técnico III CCESP 2.07
+Assessoria de Estratégia, Comunicação e Articulação
+Institucional
+1 Chefe de Assessoria FCESP 1.13
+  2 Assessor II CCESP 2.10
+Coordenadoria de Formação e Desenvolvimento de
+Competências
+1 Coordenador CCESP 1.13
+  2 Assessor II FCESP 2.10
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 29/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

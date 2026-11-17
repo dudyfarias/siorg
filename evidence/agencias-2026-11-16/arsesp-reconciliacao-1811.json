@@ -1,0 +1,2958 @@
+{
+  "organizationId": "arsesp",
+  "retrievedAt": "2026-11-16",
+  "validationStatus": "documentary-reconciliation-not-legal-approval",
+  "conclusion": "O total 76/425,50 corresponde à criação por níveis da LC 1.413/2024, sem lotação por unidade. A Deliberação 1.811/2026 apresenta recomposição e distribuição de 90 CCESP/425,50 cotas, integralmente reconciliada entre anexos I e II e com o quadro consolidado local. Não fabricar distribuição de 76 a partir do quadro de 90.",
+  "version": {
+    "act": "Deliberação ARSESP 1.811, de 10/06/2026",
+    "signatureDate": "2026-06-10",
+    "publicationDate": "2026-06-11",
+    "effectiveDate": "2026-06-11",
+    "revokes": "Deliberação ARSESP 1.801/2026",
+    "currentness": "Último ato de distribuição presente no levantamento local e no conjunto pesquisado; busca não exaustiva de alterações posteriores até 16/11/2026. Não certificado como versão vigente completa."
+  },
+  "sourceUrl": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-arsesp-n-1811-de-10-de-junho-de-2026-202606101135182031906699",
+  "sourceApiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-arsesp-n-1811-de-10-de-junho-de-2026-202606101135182031906699",
+  "sourceContentSha256": "b310fc4118da02320ec4685953a3bd5516a4e4aebcb36b18a3a8a4ea65516592",
+  "originalLawAllocation": {
+    "sourceUrl": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+    "location": "art.71 e Anexo I, coluna ARSESP",
+    "quantity": "76",
+    "quotaCents": "42550",
+    "rows": [
+      {
+        "level": 11,
+        "quantity": "16",
+        "coefficientCents": "350",
+        "quotaCents": "5600"
+      },
+      {
+        "level": 12,
+        "quantity": "10",
+        "coefficientCents": "400",
+        "quotaCents": "4000"
+      },
+      {
+        "level": 13,
+        "quantity": "7",
+        "coefficientCents": "450",
+        "quotaCents": "3150"
+      },
+      {
+        "level": 15,
+        "quantity": "29",
+        "coefficientCents": "600",
+        "quotaCents": "17400"
+      },
+      {
+        "level": 17,
+        "quantity": "2",
+        "coefficientCents": "800",
+        "quotaCents": "1600"
+      },
+      {
+        "level": 18,
+        "quantity": "12",
+        "coefficientCents": "900",
+        "quotaCents": "10800"
+      }
+    ],
+    "unitDistribution": null,
+    "meaning": "criação original por nível; não presumir teto atual de quantidade após recomposição"
+  },
+  "distribution": {
+    "sourceAnnexes": [
+      "I",
+      "II"
+    ],
+    "nature": "published-distribution",
+    "quantity": "90",
+    "quotaCents": "42550",
+    "group": "CCESP",
+    "fcespScope": "Não há FCESP nestes anexos; isso não prova inexistência de qualquer outro regime de pessoal na agência.",
+    "excludedRegimes": "Diretor-Presidente e Diretores/Conselho Diretor não integram esse conjunto CCESP, conforme LC 1.413 art.70 e Decreto 69.339 art.39. Não converter estes empregos em CCESP."
+  },
+  "summaryRows": [
+    {
+      "sourceTableRow": 2,
+      "denomination": "Assistente I",
+      "code": "CCESP 2.01",
+      "group": "CCESP",
+      "category": 2,
+      "level": 1,
+      "quantity": "0",
+      "coefficientCents": "100",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 3,
+      "denomination": "Assistente II",
+      "code": "CCESP 2.02",
+      "group": "CCESP",
+      "category": 2,
+      "level": 2,
+      "quantity": "0",
+      "coefficientCents": "125",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 4,
+      "denomination": "Assistente III",
+      "code": "CCESP 2.03",
+      "group": "CCESP",
+      "category": 2,
+      "level": 3,
+      "quantity": "0",
+      "coefficientCents": "150",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 5,
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "quantity": "12",
+      "coefficientCents": "175",
+      "reportedQuotaCents": "2100",
+      "calculatedQuotaCents": "2100"
+    },
+    {
+      "sourceTableRow": 6,
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "group": "CCESP",
+      "category": 2,
+      "level": 5,
+      "quantity": "1",
+      "coefficientCents": "200",
+      "reportedQuotaCents": "200",
+      "calculatedQuotaCents": "200"
+    },
+    {
+      "sourceTableRow": 7,
+      "denomination": "Assistente Técnico II",
+      "code": "CCESP 2.06",
+      "group": "CCESP",
+      "category": 2,
+      "level": 6,
+      "quantity": "0",
+      "coefficientCents": "225",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 8,
+      "denomination": "Assistente Técnico III",
+      "code": "CCESP 2.07",
+      "group": "CCESP",
+      "category": 2,
+      "level": 7,
+      "quantity": "0",
+      "coefficientCents": "250",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 9,
+      "denomination": "Assistente Técnico IV",
+      "code": "CCESP 2.08",
+      "group": "CCESP",
+      "category": 2,
+      "level": 8,
+      "quantity": "0",
+      "coefficientCents": "275",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 10,
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09",
+      "group": "CCESP",
+      "category": 2,
+      "level": 9,
+      "quantity": "5",
+      "coefficientCents": "300",
+      "reportedQuotaCents": "1500",
+      "calculatedQuotaCents": "1500"
+    },
+    {
+      "sourceTableRow": 11,
+      "denomination": "Assessor II",
+      "code": "CCESP 2.10",
+      "group": "CCESP",
+      "category": 2,
+      "level": 10,
+      "quantity": "0",
+      "coefficientCents": "325",
+      "reportedQuotaCents": "0",
+      "calculatedQuotaCents": "0"
+    },
+    {
+      "sourceTableRow": 12,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "20",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "7000",
+      "calculatedQuotaCents": "7000"
+    },
+    {
+      "sourceTableRow": 13,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "6",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "2400",
+      "calculatedQuotaCents": "2400"
+    },
+    {
+      "sourceTableRow": 14,
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13",
+      "group": "CCESP",
+      "category": 2,
+      "level": 13,
+      "quantity": "3",
+      "coefficientCents": "450",
+      "reportedQuotaCents": "1350",
+      "calculatedQuotaCents": "1350"
+    },
+    {
+      "sourceTableRow": 15,
+      "denomination": "Assessor Especial II",
+      "code": "CCESP 2.14",
+      "group": "CCESP",
+      "category": 2,
+      "level": 14,
+      "quantity": "2",
+      "coefficientCents": "550",
+      "reportedQuotaCents": "1100",
+      "calculatedQuotaCents": "1100"
+    },
+    {
+      "sourceTableRow": 16,
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "2",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "1200",
+      "calculatedQuotaCents": "1200"
+    },
+    {
+      "sourceTableRow": 17,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "27",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "16200",
+      "calculatedQuotaCents": "16200"
+    },
+    {
+      "sourceTableRow": 18,
+      "denomination": "Ouvidor",
+      "code": "CCESP 1.16",
+      "group": "CCESP",
+      "category": 1,
+      "level": 16,
+      "quantity": "1",
+      "coefficientCents": "700",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "sourceTableRow": 19,
+      "denomination": "Corregedor",
+      "code": "CCESP 1.16",
+      "group": "CCESP",
+      "category": 1,
+      "level": 16,
+      "quantity": "1",
+      "coefficientCents": "700",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "sourceTableRow": 20,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "9",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "7200",
+      "calculatedQuotaCents": "7200"
+    },
+    {
+      "sourceTableRow": 21,
+      "denomination": "Secretário Executivo",
+      "code": "CCESP 1.18",
+      "group": "CCESP",
+      "category": 1,
+      "level": 18,
+      "quantity": "1",
+      "coefficientCents": "900",
+      "reportedQuotaCents": "900",
+      "calculatedQuotaCents": "900"
+    }
+  ],
+  "sectionLabels": [
+    {
+      "sourceTableRow": 2,
+      "label": "Diretoria 1 - Presidência"
+    },
+    {
+      "sourceTableRow": 24,
+      "label": "Diretoria 2"
+    },
+    {
+      "sourceTableRow": 29,
+      "label": "Diretoria 3"
+    },
+    {
+      "sourceTableRow": 33,
+      "label": "Diretoria 4"
+    },
+    {
+      "sourceTableRow": 36,
+      "label": "Diretoria 5"
+    },
+    {
+      "sourceTableRow": 41,
+      "label": "ÓRGÃO SUPERIORES"
+    },
+    {
+      "sourceTableRow": 47,
+      "label": "SUPERINTENDÊNCIAS"
+    }
+  ],
+  "units": [
+    {
+      "id": "arsesp-1811-unit-3",
+      "sourceLabel": "1.a - Assessoria Especial do Gabinete",
+      "name": "Assessoria Especial do Gabinete",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 3,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-3",
+        "arsesp-1811-position-4",
+        "arsesp-1811-position-5",
+        "arsesp-1811-position-6"
+      ],
+      "directTotals": {
+        "quantity": "8",
+        "quotaCents": "2450"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-7",
+      "sourceLabel": "1.b - Assessoria de Relações Institucionais",
+      "name": "Assessoria de Relações Institucionais",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 7,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-7"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "350"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-8",
+      "sourceLabel": "1.1. Gabinete da Presidência/Secretaria Executiva",
+      "name": "Gabinete da Presidência/Secretaria Executiva",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 8,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-8"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "900"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-9",
+      "sourceLabel": "1.1.1 - Assessoria da Secretaria Executiva",
+      "name": "Assessoria da Secretaria Executiva",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 9,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-9",
+        "arsesp-1811-position-10"
+      ],
+      "directTotals": {
+        "quantity": "3",
+        "quotaCents": "1100"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-11",
+      "sourceLabel": "1.1.a - Gerência de Recursos Humanos",
+      "name": "Gerência de Recursos Humanos",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 11,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-11",
+        "arsesp-1811-position-12"
+      ],
+      "directTotals": {
+        "quantity": "3",
+        "quotaCents": "950"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-13",
+      "sourceLabel": "1.1.b - Gerência de Licitações e Contratos",
+      "name": "Gerência de Licitações e Contratos",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 13,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-13",
+        "arsesp-1811-position-14"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "775"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-15",
+      "sourceLabel": "1.1.c - Gerência de Orçamento e Finanças",
+      "name": "Gerência de Orçamento e Finanças",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 15,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-15",
+        "arsesp-1811-position-16"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "950"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-17",
+      "sourceLabel": "1.1.d - Gerência de Projetos e Estruturação Regulatória",
+      "name": "Gerência de Projetos e Estruturação Regulatória",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 17,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-17"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-18",
+      "sourceLabel": "1.1.e - Gerência de Gestão Contratual",
+      "name": "Gerência de Gestão Contratual",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 18,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-18",
+        "arsesp-1811-position-19"
+      ],
+      "directTotals": {
+        "quantity": "4",
+        "quotaCents": "1125"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-20",
+      "sourceLabel": "1.1.f - Gerência de Comunicação",
+      "name": "Gerência de Comunicação",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 20,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-20",
+        "arsesp-1811-position-21"
+      ],
+      "directTotals": {
+        "quantity": "3",
+        "quotaCents": "1300"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-22",
+      "sourceLabel": "1.1.g- Gerência de Apoio a Demandas Externas",
+      "name": "Gerência de Apoio a Demandas Externas",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 22,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-22"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-23",
+      "sourceLabel": "1.1.h - Gerência de Dados",
+      "name": "Gerência de Dados",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 23,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-23"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-25",
+      "sourceLabel": "2.1. Assessoria Técnica de Diretoria - Gás Canalizado",
+      "name": "Assessoria Técnica de Diretoria - Gás Canalizado",
+      "sectionLabel": "Diretoria 2",
+      "sourceTableRow": 25,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-25",
+        "arsesp-1811-position-26",
+        "arsesp-1811-position-27",
+        "arsesp-1811-position-28"
+      ],
+      "directTotals": {
+        "quantity": "4",
+        "quotaCents": "1750"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-30",
+      "sourceLabel": "3.1. Assessoria Técnica de Diretoria - Saneamento Básico",
+      "name": "Assessoria Técnica de Diretoria - Saneamento Básico",
+      "sectionLabel": "Diretoria 3",
+      "sourceTableRow": 30,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-30",
+        "arsesp-1811-position-31",
+        "arsesp-1811-position-32"
+      ],
+      "directTotals": {
+        "quantity": "5",
+        "quotaCents": "1750"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-34",
+      "sourceLabel": "4.1. Assessoria Técnica de Diretoria - Econômico-Financeiro",
+      "name": "Assessoria Técnica de Diretoria - Econômico-Financeiro",
+      "sectionLabel": "Diretoria 4",
+      "sourceTableRow": 34,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-34",
+        "arsesp-1811-position-35"
+      ],
+      "directTotals": {
+        "quantity": "5",
+        "quotaCents": "1750"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-37",
+      "sourceLabel": "5.1. Assessoria Técnica de Diretoria - Energia Elétrica",
+      "name": "Assessoria Técnica de Diretoria - Energia Elétrica",
+      "sectionLabel": "Diretoria 5",
+      "sourceTableRow": 37,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-37",
+        "arsesp-1811-position-38",
+        "arsesp-1811-position-39",
+        "arsesp-1811-position-40"
+      ],
+      "directTotals": {
+        "quantity": "5",
+        "quotaCents": "1600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-42",
+      "sourceLabel": "1. Ouvidoria",
+      "name": "Ouvidoria",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 42,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-42",
+        "arsesp-1811-position-43"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "1050"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-44",
+      "sourceLabel": "1.a. Gerência de Relacionamento com Usuários",
+      "name": "Gerência de Relacionamento com Usuários",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 44,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-44"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-45",
+      "sourceLabel": "2. Corregedoria",
+      "name": "Corregedoria",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 45,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-45"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "700"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-46",
+      "sourceLabel": "3. Procuradoria-Geral",
+      "name": "Procuradoria-Geral",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 46,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-46"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "350"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-48",
+      "sourceLabel": "1. Superintendência de Parcerias",
+      "name": "Superintendência de Parcerias",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 48,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-48"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-49",
+      "sourceLabel": "1.1. Assessoria da Superintendência de Parcerias",
+      "name": "Assessoria da Superintendência de Parcerias",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 49,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-49",
+        "arsesp-1811-position-50"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "750"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-51",
+      "sourceLabel": "1.a. Gerência de Regulação e Fiscalização de Parques",
+      "name": "Gerência de Regulação e Fiscalização de Parques",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 51,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-51"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-52",
+      "sourceLabel": "1.b. Gerência de Regulação e Fiscalização de Serviços",
+      "name": "Gerência de Regulação e Fiscalização de Serviços",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 52,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-52"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-53",
+      "sourceLabel": "2. Superintendência de Regulação de Gás Canalizado",
+      "name": "Superintendência de Regulação de Gás Canalizado",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 53,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-53"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-54",
+      "sourceLabel": "2.a. Gerência de Estudos Técnicos, Regulação e Contratos",
+      "name": "Gerência de Estudos Técnicos, Regulação e Contratos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 54,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-54"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-55",
+      "sourceLabel": "2.b. Gerência de Comercialização, Rede Local e P&D",
+      "name": "Gerência de Comercialização, Rede Local e P&D",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 55,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-55"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-56",
+      "sourceLabel": "3. Superintendência de Fiscalização de Gás Canalizado",
+      "name": "Superintendência de Fiscalização de Gás Canalizado",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 56,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-56"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-57",
+      "sourceLabel": "3.a. Gerência de Fiscalização Técnica",
+      "name": "Gerência de Fiscalização Técnica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 57,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-57"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-58",
+      "sourceLabel": "3.b. Gerência de Fiscalização Comercial",
+      "name": "Gerência de Fiscalização Comercial",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 58,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-58"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-59",
+      "sourceLabel": "4. Superintendência de Fiscalização de Energia Elétrica",
+      "name": "Superintendência de Fiscalização de Energia Elétrica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 59,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-59"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-60",
+      "sourceLabel": "4.a. Gerência de Fiscalização de Energia Elétrica",
+      "name": "Gerência de Fiscalização de Energia Elétrica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 60,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-60"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-61",
+      "sourceLabel": "4.a.1 Assessoria da Gerência de Fiscalização de Energia Elétrica",
+      "name": "Assessoria da Gerência de Fiscalização de Energia Elétrica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 61,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-61"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "700"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-62",
+      "sourceLabel": "4.b. Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "name": "Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 62,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-62"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-63",
+      "sourceLabel": "4.b.1. Assessoria da Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "name": "Assessoria da Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 63,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-63"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "700"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-64",
+      "sourceLabel": "5. Superintendência de Regulação de Saneamento Básico",
+      "name": "Superintendência de Regulação de Saneamento Básico",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 64,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-64"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-65",
+      "sourceLabel": "5.a. Gerência de Regulação de Abastecimento de Água e Esgotamento Sanitário",
+      "name": "Gerência de Regulação de Abastecimento de Água e Esgotamento Sanitário",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 65,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-65"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-66",
+      "sourceLabel": "5.b. Gerência de Regulação de Resíduos Sólidos Urbanos e Drenagem Pluvial",
+      "name": "Gerência de Regulação de Resíduos Sólidos Urbanos e Drenagem Pluvial",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 66,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-66"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-67",
+      "sourceLabel": "6. Superintendência de Fiscalização de Saneamento Básico",
+      "name": "Superintendência de Fiscalização de Saneamento Básico",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 67,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-67"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-68",
+      "sourceLabel": "6.a. Gerência de Fiscalização Técnica",
+      "name": "Gerência de Fiscalização Técnica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 68,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-68"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-69",
+      "sourceLabel": "6.b. Gerência de Fiscalização Comercial e de Indicadores",
+      "name": "Gerência de Fiscalização Comercial e de Indicadores",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 69,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-69"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-70",
+      "sourceLabel": "6.c. Gerência de Fiscalização Contratual",
+      "name": "Gerência de Fiscalização Contratual",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 70,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-70"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-71",
+      "sourceLabel": "7. Superintendência de Regulação Econômico-Financeira",
+      "name": "Superintendência de Regulação Econômico-Financeira",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 71,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-71"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-72",
+      "sourceLabel": "7.1. Assessoria da Superintendência de Regulação Econômico-Financeira",
+      "name": "Assessoria da Superintendência de Regulação Econômico-Financeira",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 72,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-72"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "400"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-73",
+      "sourceLabel": "7.a. Gerência de Regulação Econômico-Financeira de Saneamento Básico",
+      "name": "Gerência de Regulação Econômico-Financeira de Saneamento Básico",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 73,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-73"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-74",
+      "sourceLabel": "7.b. Gerência de Regulação Econômico-Financeira de Gás Canalizado e Outros Serviços",
+      "name": "Gerência de Regulação Econômico-Financeira de Gás Canalizado e Outros Serviços",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 74,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-74"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-75",
+      "sourceLabel": "8. Superintendência de Fiscalização Econômico-Financeira",
+      "name": "Superintendência de Fiscalização Econômico-Financeira",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 75,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-75"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-76",
+      "sourceLabel": "8.a. Gerência de Fiscalização de Investimentos e Base de Ativos",
+      "name": "Gerência de Fiscalização de Investimentos e Base de Ativos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 76,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-76"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-77",
+      "sourceLabel": "8.b. Gerência de Fiscalização Econômico-Financeira e Contábil",
+      "name": "Gerência de Fiscalização Econômico-Financeira e Contábil",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 77,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-77"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-78",
+      "sourceLabel": "9. Superintendência de Tecnologia da Informação",
+      "name": "Superintendência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 78,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-78"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "800"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-79",
+      "sourceLabel": "9.1. Assessoria da Superintendência de Tecnologia da Informação",
+      "name": "Assessoria da Superintendência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 79,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-79",
+        "arsesp-1811-position-80"
+      ],
+      "directTotals": {
+        "quantity": "2",
+        "quotaCents": "750"
+      }
+    },
+    {
+      "id": "arsesp-1811-unit-81",
+      "sourceLabel": "9.a. Gerência de Tecnologia da Informação",
+      "name": "Gerência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 81,
+      "parentUnitId": null,
+      "hierarchyStatus": "not-audited-from-regimento",
+      "positions": [
+        "arsesp-1811-position-81"
+      ],
+      "directTotals": {
+        "quantity": "1",
+        "quotaCents": "600"
+      }
+    }
+  ],
+  "positions": [
+    {
+      "id": "arsesp-1811-position-3",
+      "unitId": "arsesp-1811-unit-3",
+      "unitSourceLabel": "1.a - Assessoria Especial do Gabinete",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 3,
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-4",
+      "unitId": "arsesp-1811-unit-3",
+      "unitSourceLabel": "1.a - Assessoria Especial do Gabinete",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 4,
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13",
+      "group": "CCESP",
+      "category": 2,
+      "level": 13,
+      "quantity": "1",
+      "coefficientCents": "450",
+      "reportedQuotaCents": "450",
+      "calculatedQuotaCents": "450"
+    },
+    {
+      "id": "arsesp-1811-position-5",
+      "unitId": "arsesp-1811-unit-3",
+      "unitSourceLabel": "1.a - Assessoria Especial do Gabinete",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 5,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "2",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-6",
+      "unitId": "arsesp-1811-unit-3",
+      "unitSourceLabel": "1.a - Assessoria Especial do Gabinete",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 6,
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "quantity": "4",
+      "coefficientCents": "175",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-7",
+      "unitId": "arsesp-1811-unit-7",
+      "unitSourceLabel": "1.b - Assessoria de Relações Institucionais",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 7,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-8",
+      "unitId": "arsesp-1811-unit-8",
+      "unitSourceLabel": "1.1. Gabinete da Presidência/Secretaria Executiva",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 8,
+      "denomination": "Secretário Executivo",
+      "code": "CCESP 1.18",
+      "group": "CCESP",
+      "category": 1,
+      "level": 18,
+      "quantity": "1",
+      "coefficientCents": "900",
+      "reportedQuotaCents": "900",
+      "calculatedQuotaCents": "900"
+    },
+    {
+      "id": "arsesp-1811-position-9",
+      "unitId": "arsesp-1811-unit-9",
+      "unitSourceLabel": "1.1.1 - Assessoria da Secretaria Executiva",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 9,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "1",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "400",
+      "calculatedQuotaCents": "400"
+    },
+    {
+      "id": "arsesp-1811-position-10",
+      "unitId": "arsesp-1811-unit-9",
+      "unitSourceLabel": "1.1.1 - Assessoria da Secretaria Executiva",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 10,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "2",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-11",
+      "unitId": "arsesp-1811-unit-11",
+      "unitSourceLabel": "1.1.a - Gerência de Recursos Humanos",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 11,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-12",
+      "unitId": "arsesp-1811-unit-11",
+      "unitSourceLabel": "1.1.a - Gerência de Recursos Humanos",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 12,
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "quantity": "2",
+      "coefficientCents": "175",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-13",
+      "unitId": "arsesp-1811-unit-13",
+      "unitSourceLabel": "1.1.b - Gerência de Licitações e Contratos",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 13,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-14",
+      "unitId": "arsesp-1811-unit-13",
+      "unitSourceLabel": "1.1.b - Gerência de Licitações e Contratos",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 14,
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "quantity": "1",
+      "coefficientCents": "175",
+      "reportedQuotaCents": "175",
+      "calculatedQuotaCents": "175"
+    },
+    {
+      "id": "arsesp-1811-position-15",
+      "unitId": "arsesp-1811-unit-15",
+      "unitSourceLabel": "1.1.c - Gerência de Orçamento e Finanças",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 15,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-16",
+      "unitId": "arsesp-1811-unit-15",
+      "unitSourceLabel": "1.1.c - Gerência de Orçamento e Finanças",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 16,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-17",
+      "unitId": "arsesp-1811-unit-17",
+      "unitSourceLabel": "1.1.d - Gerência de Projetos e Estruturação Regulatória",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 17,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-18",
+      "unitId": "arsesp-1811-unit-18",
+      "unitSourceLabel": "1.1.e - Gerência de Gestão Contratual",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 18,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-19",
+      "unitId": "arsesp-1811-unit-18",
+      "unitSourceLabel": "1.1.e - Gerência de Gestão Contratual",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 19,
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "quantity": "3",
+      "coefficientCents": "175",
+      "reportedQuotaCents": "525",
+      "calculatedQuotaCents": "525"
+    },
+    {
+      "id": "arsesp-1811-position-20",
+      "unitId": "arsesp-1811-unit-20",
+      "unitSourceLabel": "1.1.f - Gerência de Comunicação",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 20,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-21",
+      "unitId": "arsesp-1811-unit-20",
+      "unitSourceLabel": "1.1.f - Gerência de Comunicação",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 21,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "2",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-22",
+      "unitId": "arsesp-1811-unit-22",
+      "unitSourceLabel": "1.1.g- Gerência de Apoio a Demandas Externas",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 22,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-23",
+      "unitId": "arsesp-1811-unit-23",
+      "unitSourceLabel": "1.1.h - Gerência de Dados",
+      "sectionLabel": "Diretoria 1 - Presidência",
+      "sourceTableRow": 23,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-25",
+      "unitId": "arsesp-1811-unit-25",
+      "unitSourceLabel": "2.1. Assessoria Técnica de Diretoria - Gás Canalizado",
+      "sectionLabel": "Diretoria 2",
+      "sourceTableRow": 25,
+      "denomination": "Assessor Especial II",
+      "code": "CCESP 2.14",
+      "group": "CCESP",
+      "category": 2,
+      "level": 14,
+      "quantity": "1",
+      "coefficientCents": "550",
+      "reportedQuotaCents": "550",
+      "calculatedQuotaCents": "550"
+    },
+    {
+      "id": "arsesp-1811-position-26",
+      "unitId": "arsesp-1811-unit-25",
+      "unitSourceLabel": "2.1. Assessoria Técnica de Diretoria - Gás Canalizado",
+      "sectionLabel": "Diretoria 2",
+      "sourceTableRow": 26,
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13",
+      "group": "CCESP",
+      "category": 2,
+      "level": 13,
+      "quantity": "1",
+      "coefficientCents": "450",
+      "reportedQuotaCents": "450",
+      "calculatedQuotaCents": "450"
+    },
+    {
+      "id": "arsesp-1811-position-27",
+      "unitId": "arsesp-1811-unit-25",
+      "unitSourceLabel": "2.1. Assessoria Técnica de Diretoria - Gás Canalizado",
+      "sectionLabel": "Diretoria 2",
+      "sourceTableRow": 27,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "1",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "400",
+      "calculatedQuotaCents": "400"
+    },
+    {
+      "id": "arsesp-1811-position-28",
+      "unitId": "arsesp-1811-unit-25",
+      "unitSourceLabel": "2.1. Assessoria Técnica de Diretoria - Gás Canalizado",
+      "sectionLabel": "Diretoria 2",
+      "sourceTableRow": 28,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-30",
+      "unitId": "arsesp-1811-unit-30",
+      "unitSourceLabel": "3.1. Assessoria Técnica de Diretoria - Saneamento Básico",
+      "sectionLabel": "Diretoria 3",
+      "sourceTableRow": 30,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "1",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "400",
+      "calculatedQuotaCents": "400"
+    },
+    {
+      "id": "arsesp-1811-position-31",
+      "unitId": "arsesp-1811-unit-30",
+      "unitSourceLabel": "3.1. Assessoria Técnica de Diretoria - Saneamento Básico",
+      "sectionLabel": "Diretoria 3",
+      "sourceTableRow": 31,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "3",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "1050",
+      "calculatedQuotaCents": "1050"
+    },
+    {
+      "id": "arsesp-1811-position-32",
+      "unitId": "arsesp-1811-unit-30",
+      "unitSourceLabel": "3.1. Assessoria Técnica de Diretoria - Saneamento Básico",
+      "sectionLabel": "Diretoria 3",
+      "sourceTableRow": 32,
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09",
+      "group": "CCESP",
+      "category": 2,
+      "level": 9,
+      "quantity": "1",
+      "coefficientCents": "300",
+      "reportedQuotaCents": "300",
+      "calculatedQuotaCents": "300"
+    },
+    {
+      "id": "arsesp-1811-position-34",
+      "unitId": "arsesp-1811-unit-34",
+      "unitSourceLabel": "4.1. Assessoria Técnica de Diretoria - Econômico-Financeiro",
+      "sectionLabel": "Diretoria 4",
+      "sourceTableRow": 34,
+      "denomination": "Assessor Especial II",
+      "code": "CCESP 2.14",
+      "group": "CCESP",
+      "category": 2,
+      "level": 14,
+      "quantity": "1",
+      "coefficientCents": "550",
+      "reportedQuotaCents": "550",
+      "calculatedQuotaCents": "550"
+    },
+    {
+      "id": "arsesp-1811-position-35",
+      "unitId": "arsesp-1811-unit-34",
+      "unitSourceLabel": "4.1. Assessoria Técnica de Diretoria - Econômico-Financeiro",
+      "sectionLabel": "Diretoria 4",
+      "sourceTableRow": 35,
+      "denomination": "Assessor I",
+      "code": "CCESP 2.09",
+      "group": "CCESP",
+      "category": 2,
+      "level": 9,
+      "quantity": "4",
+      "coefficientCents": "300",
+      "reportedQuotaCents": "1200",
+      "calculatedQuotaCents": "1200"
+    },
+    {
+      "id": "arsesp-1811-position-37",
+      "unitId": "arsesp-1811-unit-37",
+      "unitSourceLabel": "5.1. Assessoria Técnica de Diretoria - Energia Elétrica",
+      "sectionLabel": "Diretoria 5",
+      "sourceTableRow": 37,
+      "denomination": "Chefe de Assessoria",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-38",
+      "unitId": "arsesp-1811-unit-37",
+      "unitSourceLabel": "5.1. Assessoria Técnica de Diretoria - Energia Elétrica",
+      "sectionLabel": "Diretoria 5",
+      "sourceTableRow": 38,
+      "denomination": "Assessor Especial I",
+      "code": "CCESP 2.13",
+      "group": "CCESP",
+      "category": 2,
+      "level": 13,
+      "quantity": "1",
+      "coefficientCents": "450",
+      "reportedQuotaCents": "450",
+      "calculatedQuotaCents": "450"
+    },
+    {
+      "id": "arsesp-1811-position-39",
+      "unitId": "arsesp-1811-unit-37",
+      "unitSourceLabel": "5.1. Assessoria Técnica de Diretoria - Energia Elétrica",
+      "sectionLabel": "Diretoria 5",
+      "sourceTableRow": 39,
+      "denomination": "Assistente Técnico I",
+      "code": "CCESP 2.05",
+      "group": "CCESP",
+      "category": 2,
+      "level": 5,
+      "quantity": "1",
+      "coefficientCents": "200",
+      "reportedQuotaCents": "200",
+      "calculatedQuotaCents": "200"
+    },
+    {
+      "id": "arsesp-1811-position-40",
+      "unitId": "arsesp-1811-unit-37",
+      "unitSourceLabel": "5.1. Assessoria Técnica de Diretoria - Energia Elétrica",
+      "sectionLabel": "Diretoria 5",
+      "sourceTableRow": 40,
+      "denomination": "Assistente IV",
+      "code": "CCESP 2.04",
+      "group": "CCESP",
+      "category": 2,
+      "level": 4,
+      "quantity": "2",
+      "coefficientCents": "175",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-42",
+      "unitId": "arsesp-1811-unit-42",
+      "unitSourceLabel": "1. Ouvidoria",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 42,
+      "denomination": "Ouvidor",
+      "code": "CCESP 1.16",
+      "group": "CCESP",
+      "category": 1,
+      "level": 16,
+      "quantity": "1",
+      "coefficientCents": "700",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-43",
+      "unitId": "arsesp-1811-unit-42",
+      "unitSourceLabel": "1. Ouvidoria",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 43,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-44",
+      "unitId": "arsesp-1811-unit-44",
+      "unitSourceLabel": "1.a. Gerência de Relacionamento com Usuários",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 44,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-45",
+      "unitId": "arsesp-1811-unit-45",
+      "unitSourceLabel": "2. Corregedoria",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 45,
+      "denomination": "Corregedor",
+      "code": "CCESP 1.16",
+      "group": "CCESP",
+      "category": 1,
+      "level": 16,
+      "quantity": "1",
+      "coefficientCents": "700",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-46",
+      "unitId": "arsesp-1811-unit-46",
+      "unitSourceLabel": "3. Procuradoria-Geral",
+      "sectionLabel": "ÓRGÃO SUPERIORES",
+      "sourceTableRow": 46,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-48",
+      "unitId": "arsesp-1811-unit-48",
+      "unitSourceLabel": "1. Superintendência de Parcerias",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 48,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-49",
+      "unitId": "arsesp-1811-unit-49",
+      "unitSourceLabel": "1.1. Assessoria da Superintendência de Parcerias",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 49,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "1",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "400",
+      "calculatedQuotaCents": "400"
+    },
+    {
+      "id": "arsesp-1811-position-50",
+      "unitId": "arsesp-1811-unit-49",
+      "unitSourceLabel": "1.1. Assessoria da Superintendência de Parcerias",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 50,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-51",
+      "unitId": "arsesp-1811-unit-51",
+      "unitSourceLabel": "1.a. Gerência de Regulação e Fiscalização de Parques",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 51,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-52",
+      "unitId": "arsesp-1811-unit-52",
+      "unitSourceLabel": "1.b. Gerência de Regulação e Fiscalização de Serviços",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 52,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-53",
+      "unitId": "arsesp-1811-unit-53",
+      "unitSourceLabel": "2. Superintendência de Regulação de Gás Canalizado",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 53,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-54",
+      "unitId": "arsesp-1811-unit-54",
+      "unitSourceLabel": "2.a. Gerência de Estudos Técnicos, Regulação e Contratos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 54,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-55",
+      "unitId": "arsesp-1811-unit-55",
+      "unitSourceLabel": "2.b. Gerência de Comercialização, Rede Local e P&D",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 55,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-56",
+      "unitId": "arsesp-1811-unit-56",
+      "unitSourceLabel": "3. Superintendência de Fiscalização de Gás Canalizado",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 56,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-57",
+      "unitId": "arsesp-1811-unit-57",
+      "unitSourceLabel": "3.a. Gerência de Fiscalização Técnica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 57,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-58",
+      "unitId": "arsesp-1811-unit-58",
+      "unitSourceLabel": "3.b. Gerência de Fiscalização Comercial",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 58,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-59",
+      "unitId": "arsesp-1811-unit-59",
+      "unitSourceLabel": "4. Superintendência de Fiscalização de Energia Elétrica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 59,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-60",
+      "unitId": "arsesp-1811-unit-60",
+      "unitSourceLabel": "4.a. Gerência de Fiscalização de Energia Elétrica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 60,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-61",
+      "unitId": "arsesp-1811-unit-61",
+      "unitSourceLabel": "4.a.1 Assessoria da Gerência de Fiscalização de Energia Elétrica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 61,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "2",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-62",
+      "unitId": "arsesp-1811-unit-62",
+      "unitSourceLabel": "4.b. Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 62,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-63",
+      "unitId": "arsesp-1811-unit-63",
+      "unitSourceLabel": "4.b.1. Assessoria da Gerência de Atendimento a Demandas e de Estudos Técnicos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 63,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "2",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "700",
+      "calculatedQuotaCents": "700"
+    },
+    {
+      "id": "arsesp-1811-position-64",
+      "unitId": "arsesp-1811-unit-64",
+      "unitSourceLabel": "5. Superintendência de Regulação de Saneamento Básico",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 64,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-65",
+      "unitId": "arsesp-1811-unit-65",
+      "unitSourceLabel": "5.a. Gerência de Regulação de Abastecimento de Água e Esgotamento Sanitário",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 65,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-66",
+      "unitId": "arsesp-1811-unit-66",
+      "unitSourceLabel": "5.b. Gerência de Regulação de Resíduos Sólidos Urbanos e Drenagem Pluvial",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 66,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-67",
+      "unitId": "arsesp-1811-unit-67",
+      "unitSourceLabel": "6. Superintendência de Fiscalização de Saneamento Básico",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 67,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-68",
+      "unitId": "arsesp-1811-unit-68",
+      "unitSourceLabel": "6.a. Gerência de Fiscalização Técnica",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 68,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-69",
+      "unitId": "arsesp-1811-unit-69",
+      "unitSourceLabel": "6.b. Gerência de Fiscalização Comercial e de Indicadores",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 69,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-70",
+      "unitId": "arsesp-1811-unit-70",
+      "unitSourceLabel": "6.c. Gerência de Fiscalização Contratual",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 70,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-71",
+      "unitId": "arsesp-1811-unit-71",
+      "unitSourceLabel": "7. Superintendência de Regulação Econômico-Financeira",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 71,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-72",
+      "unitId": "arsesp-1811-unit-72",
+      "unitSourceLabel": "7.1. Assessoria da Superintendência de Regulação Econômico-Financeira",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 72,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "1",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "400",
+      "calculatedQuotaCents": "400"
+    },
+    {
+      "id": "arsesp-1811-position-73",
+      "unitId": "arsesp-1811-unit-73",
+      "unitSourceLabel": "7.a. Gerência de Regulação Econômico-Financeira de Saneamento Básico",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 73,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-74",
+      "unitId": "arsesp-1811-unit-74",
+      "unitSourceLabel": "7.b. Gerência de Regulação Econômico-Financeira de Gás Canalizado e Outros Serviços",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 74,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-75",
+      "unitId": "arsesp-1811-unit-75",
+      "unitSourceLabel": "8. Superintendência de Fiscalização Econômico-Financeira",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 75,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-76",
+      "unitId": "arsesp-1811-unit-76",
+      "unitSourceLabel": "8.a. Gerência de Fiscalização de Investimentos e Base de Ativos",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 76,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-77",
+      "unitId": "arsesp-1811-unit-77",
+      "unitSourceLabel": "8.b. Gerência de Fiscalização Econômico-Financeira e Contábil",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 77,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    },
+    {
+      "id": "arsesp-1811-position-78",
+      "unitId": "arsesp-1811-unit-78",
+      "unitSourceLabel": "9. Superintendência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 78,
+      "denomination": "Superintendente",
+      "code": "CCESP 1.17",
+      "group": "CCESP",
+      "category": 1,
+      "level": 17,
+      "quantity": "1",
+      "coefficientCents": "800",
+      "reportedQuotaCents": "800",
+      "calculatedQuotaCents": "800"
+    },
+    {
+      "id": "arsesp-1811-position-79",
+      "unitId": "arsesp-1811-unit-79",
+      "unitSourceLabel": "9.1. Assessoria da Superintendência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 79,
+      "denomination": "Assessor IV",
+      "code": "CCESP 2.12",
+      "group": "CCESP",
+      "category": 2,
+      "level": 12,
+      "quantity": "1",
+      "coefficientCents": "400",
+      "reportedQuotaCents": "400",
+      "calculatedQuotaCents": "400"
+    },
+    {
+      "id": "arsesp-1811-position-80",
+      "unitId": "arsesp-1811-unit-79",
+      "unitSourceLabel": "9.1. Assessoria da Superintendência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 80,
+      "denomination": "Assessor III",
+      "code": "CCESP 2.11",
+      "group": "CCESP",
+      "category": 2,
+      "level": 11,
+      "quantity": "1",
+      "coefficientCents": "350",
+      "reportedQuotaCents": "350",
+      "calculatedQuotaCents": "350"
+    },
+    {
+      "id": "arsesp-1811-position-81",
+      "unitId": "arsesp-1811-unit-81",
+      "unitSourceLabel": "9.a. Gerência de Tecnologia da Informação",
+      "sectionLabel": "SUPERINTENDÊNCIAS",
+      "sourceTableRow": 81,
+      "denomination": "Gerente",
+      "code": "CCESP 1.15",
+      "group": "CCESP",
+      "category": 1,
+      "level": 15,
+      "quantity": "1",
+      "coefficientCents": "600",
+      "reportedQuotaCents": "600",
+      "calculatedQuotaCents": "600"
+    }
+  ],
+  "reconciliation": {
+    "positionRecords": 73,
+    "directUnits": 52,
+    "positiveSummaryRecords": 13,
+    "distinctPositiveCodes": 11,
+    "detailQuantity": "90",
+    "detailQuotaCents": "42550",
+    "detailMatchesReportedEachRow": true,
+    "summaryMatchesReportedEachRow": true,
+    "annexIandIIByCodeMatch": true,
+    "annexIandIIByDenominationMatch": true,
+    "consolidatedLocalCodeQuantitiesAndQuotaMatch": true,
+    "byCode": [
+      {
+        "key": [
+          "CCESP 1.15"
+        ],
+        "quantity": "29",
+        "quotaCents": "17400"
+      },
+      {
+        "key": [
+          "CCESP 1.16"
+        ],
+        "quantity": "2",
+        "quotaCents": "1400"
+      },
+      {
+        "key": [
+          "CCESP 1.17"
+        ],
+        "quantity": "9",
+        "quotaCents": "7200"
+      },
+      {
+        "key": [
+          "CCESP 1.18"
+        ],
+        "quantity": "1",
+        "quotaCents": "900"
+      },
+      {
+        "key": [
+          "CCESP 2.04"
+        ],
+        "quantity": "12",
+        "quotaCents": "2100"
+      },
+      {
+        "key": [
+          "CCESP 2.05"
+        ],
+        "quantity": "1",
+        "quotaCents": "200"
+      },
+      {
+        "key": [
+          "CCESP 2.09"
+        ],
+        "quantity": "5",
+        "quotaCents": "1500"
+      },
+      {
+        "key": [
+          "CCESP 2.11"
+        ],
+        "quantity": "20",
+        "quotaCents": "7000"
+      },
+      {
+        "key": [
+          "CCESP 2.12"
+        ],
+        "quantity": "6",
+        "quotaCents": "2400"
+      },
+      {
+        "key": [
+          "CCESP 2.13"
+        ],
+        "quantity": "3",
+        "quotaCents": "1350"
+      },
+      {
+        "key": [
+          "CCESP 2.14"
+        ],
+        "quantity": "2",
+        "quotaCents": "1100"
+      }
+    ],
+    "byCodeAndDenomination": [
+      {
+        "key": [
+          "CCESP 1.15",
+          "Chefe de Assessoria"
+        ],
+        "quantity": "2",
+        "quotaCents": "1200"
+      },
+      {
+        "key": [
+          "CCESP 1.15",
+          "Gerente"
+        ],
+        "quantity": "27",
+        "quotaCents": "16200"
+      },
+      {
+        "key": [
+          "CCESP 1.16",
+          "Corregedor"
+        ],
+        "quantity": "1",
+        "quotaCents": "700"
+      },
+      {
+        "key": [
+          "CCESP 1.16",
+          "Ouvidor"
+        ],
+        "quantity": "1",
+        "quotaCents": "700"
+      },
+      {
+        "key": [
+          "CCESP 1.17",
+          "Superintendente"
+        ],
+        "quantity": "9",
+        "quotaCents": "7200"
+      },
+      {
+        "key": [
+          "CCESP 1.18",
+          "Secretário Executivo"
+        ],
+        "quantity": "1",
+        "quotaCents": "900"
+      },
+      {
+        "key": [
+          "CCESP 2.04",
+          "Assistente IV"
+        ],
+        "quantity": "12",
+        "quotaCents": "2100"
+      },
+      {
+        "key": [
+          "CCESP 2.05",
+          "Assistente Técnico I"
+        ],
+        "quantity": "1",
+        "quotaCents": "200"
+      },
+      {
+        "key": [
+          "CCESP 2.09",
+          "Assessor I"
+        ],
+        "quantity": "5",
+        "quotaCents": "1500"
+      },
+      {
+        "key": [
+          "CCESP 2.11",
+          "Assessor III"
+        ],
+        "quantity": "20",
+        "quotaCents": "7000"
+      },
+      {
+        "key": [
+          "CCESP 2.12",
+          "Assessor IV"
+        ],
+        "quantity": "6",
+        "quotaCents": "2400"
+      },
+      {
+        "key": [
+          "CCESP 2.13",
+          "Assessor Especial I"
+        ],
+        "quantity": "3",
+        "quotaCents": "1350"
+      },
+      {
+        "key": [
+          "CCESP 2.14",
+          "Assessor Especial II"
+        ],
+        "quantity": "2",
+        "quotaCents": "1100"
+      }
+    ],
+    "coefficientsMatchCalculatorCatalogue": true,
+    "calculatorCatalogueVersion": "lc1395-anexo-i-revisao-2026-09-14",
+    "calculatorResult": {
+      "CCESP": {
+        "status": "complete",
+        "quantity": "90",
+        "quotaCents": "42550",
+        "rows": [
+          {
+            "id": "level-15",
+            "group": "CCESP",
+            "level": 15,
+            "quantity": "29",
+            "enteredQuantity": "29",
+            "coefficientCents": "600",
+            "quotaCents": "17400",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-13",
+            "group": "CCESP",
+            "level": 13,
+            "quantity": "3",
+            "enteredQuantity": "3",
+            "coefficientCents": "450",
+            "quotaCents": "1350",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-11",
+            "group": "CCESP",
+            "level": 11,
+            "quantity": "20",
+            "enteredQuantity": "20",
+            "coefficientCents": "350",
+            "quotaCents": "7000",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-4",
+            "group": "CCESP",
+            "level": 4,
+            "quantity": "12",
+            "enteredQuantity": "12",
+            "coefficientCents": "175",
+            "quotaCents": "2100",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-18",
+            "group": "CCESP",
+            "level": 18,
+            "quantity": "1",
+            "enteredQuantity": "1",
+            "coefficientCents": "900",
+            "quotaCents": "900",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-12",
+            "group": "CCESP",
+            "level": 12,
+            "quantity": "6",
+            "enteredQuantity": "6",
+            "coefficientCents": "400",
+            "quotaCents": "2400",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-14",
+            "group": "CCESP",
+            "level": 14,
+            "quantity": "2",
+            "enteredQuantity": "2",
+            "coefficientCents": "550",
+            "quotaCents": "1100",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-9",
+            "group": "CCESP",
+            "level": 9,
+            "quantity": "5",
+            "enteredQuantity": "5",
+            "coefficientCents": "300",
+            "quotaCents": "1500",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-5",
+            "group": "CCESP",
+            "level": 5,
+            "quantity": "1",
+            "enteredQuantity": "1",
+            "coefficientCents": "200",
+            "quotaCents": "200",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-16",
+            "group": "CCESP",
+            "level": 16,
+            "quantity": "2",
+            "enteredQuantity": "2",
+            "coefficientCents": "700",
+            "quotaCents": "1400",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-17",
+            "group": "CCESP",
+            "level": 17,
+            "quantity": "9",
+            "enteredQuantity": "9",
+            "coefficientCents": "800",
+            "quotaCents": "7200",
+            "status": "complete",
+            "issues": []
+          }
+        ]
+      },
+      "aggregate": {
+        "status": "complete",
+        "quantity": "90",
+        "quotaCents": "42550",
+        "rows": [
+          {
+            "id": "level-15",
+            "group": "CCESP",
+            "level": 15,
+            "quantity": "29",
+            "enteredQuantity": "29",
+            "coefficientCents": "600",
+            "quotaCents": "17400",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-13",
+            "group": "CCESP",
+            "level": 13,
+            "quantity": "3",
+            "enteredQuantity": "3",
+            "coefficientCents": "450",
+            "quotaCents": "1350",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-11",
+            "group": "CCESP",
+            "level": 11,
+            "quantity": "20",
+            "enteredQuantity": "20",
+            "coefficientCents": "350",
+            "quotaCents": "7000",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-4",
+            "group": "CCESP",
+            "level": 4,
+            "quantity": "12",
+            "enteredQuantity": "12",
+            "coefficientCents": "175",
+            "quotaCents": "2100",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-18",
+            "group": "CCESP",
+            "level": 18,
+            "quantity": "1",
+            "enteredQuantity": "1",
+            "coefficientCents": "900",
+            "quotaCents": "900",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-12",
+            "group": "CCESP",
+            "level": 12,
+            "quantity": "6",
+            "enteredQuantity": "6",
+            "coefficientCents": "400",
+            "quotaCents": "2400",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-14",
+            "group": "CCESP",
+            "level": 14,
+            "quantity": "2",
+            "enteredQuantity": "2",
+            "coefficientCents": "550",
+            "quotaCents": "1100",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-9",
+            "group": "CCESP",
+            "level": 9,
+            "quantity": "5",
+            "enteredQuantity": "5",
+            "coefficientCents": "300",
+            "quotaCents": "1500",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-5",
+            "group": "CCESP",
+            "level": 5,
+            "quantity": "1",
+            "enteredQuantity": "1",
+            "coefficientCents": "200",
+            "quotaCents": "200",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-16",
+            "group": "CCESP",
+            "level": 16,
+            "quantity": "2",
+            "enteredQuantity": "2",
+            "coefficientCents": "700",
+            "quotaCents": "1400",
+            "status": "complete",
+            "issues": []
+          },
+          {
+            "id": "level-17",
+            "group": "CCESP",
+            "level": 17,
+            "quantity": "9",
+            "enteredQuantity": "9",
+            "coefficientCents": "800",
+            "quotaCents": "7200",
+            "status": "complete",
+            "issues": []
+          }
+        ]
+      }
+    }
+  },
+  "localSources": [
+    {
+      "path": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+      "sha256": "93dd5052637b275243dd6630f0c0d90a2ed6937ed900c22aa83ff4f424930a5e",
+      "location": "Setores_Atual!A47:I47",
+      "values": [
+        "Autarquia",
+        "Arsesp (Agência Reguladora de Saneamento e Energia)",
+        76,
+        425.5,
+        "não se aplica",
+        null,
+        76,
+        "lei complementar 1413/2024",
+        "deliberação-base da estrutura 1650/2025 (última alteração deliberação 1774/2026"
+      ],
+      "finding": "Conserva 76/425,50 da lei e referência histórica à 1.774/2026; não contém lotação por unidade."
+    },
+    {
+      "path": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+      "sha256": "f9a13feb233c7cdb9a73906c6dcc43c9960493878fd9bf97cfdf6d51053ea2e6",
+      "location": "ARSESP!A13:N23; ARSESP!A6:J9; Resumo!A43:J43",
+      "rows": [
+        {
+          "row": 13,
+          "code": "CCESP 1.18",
+          "quantity": "1",
+          "coefficientCents": "900",
+          "calculatedQuotaCents": "900"
+        },
+        {
+          "row": 14,
+          "code": "CCESP 1.17",
+          "quantity": "9",
+          "coefficientCents": "800",
+          "calculatedQuotaCents": "7200"
+        },
+        {
+          "row": 15,
+          "code": "CCESP 1.16",
+          "quantity": "2",
+          "coefficientCents": "700",
+          "calculatedQuotaCents": "1400"
+        },
+        {
+          "row": 16,
+          "code": "CCESP 1.15",
+          "quantity": "29",
+          "coefficientCents": "600",
+          "calculatedQuotaCents": "17400"
+        },
+        {
+          "row": 17,
+          "code": "CCESP 2.14",
+          "quantity": "2",
+          "coefficientCents": "550",
+          "calculatedQuotaCents": "1100"
+        },
+        {
+          "row": 18,
+          "code": "CCESP 2.13",
+          "quantity": "3",
+          "coefficientCents": "450",
+          "calculatedQuotaCents": "1350"
+        },
+        {
+          "row": 19,
+          "code": "CCESP 2.12",
+          "quantity": "6",
+          "coefficientCents": "400",
+          "calculatedQuotaCents": "2400"
+        },
+        {
+          "row": 20,
+          "code": "CCESP 2.11",
+          "quantity": "20",
+          "coefficientCents": "350",
+          "calculatedQuotaCents": "7000"
+        },
+        {
+          "row": 21,
+          "code": "CCESP 2.09",
+          "quantity": "5",
+          "coefficientCents": "300",
+          "calculatedQuotaCents": "1500"
+        },
+        {
+          "row": 22,
+          "code": "CCESP 2.05",
+          "quantity": "1",
+          "coefficientCents": "200",
+          "calculatedQuotaCents": "200"
+        },
+        {
+          "row": 23,
+          "code": "CCESP 2.04",
+          "quantity": "12",
+          "coefficientCents": "175",
+          "calculatedQuotaCents": "2100"
+        }
+      ],
+      "finding": "Onze códigos positivos reconciliados com 1.811/2026. Tabela de montagem de unidades não está preenchida; distribuição detalhada vem do DOE, não desta planilha."
+    }
+  ],
+  "regimeNotes": [
+    {
+      "sourceUrl": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/lei.complementar-1413-23.09.2024.html",
+      "location": "arts.70-71,87-88",
+      "finding": "CCESP seguem LC 1.395 com ressalvas; original de 76 cargos/425,50, e recomposição por ato do Conselho Diretor. Reserva de no mínimo 30% deve ser tratada separadamente de número de postos/cotas, não inferida da lotação."
+    },
+    {
+      "sourceUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69339-04.02.2025.html",
+      "location": "arts.32,39-42,44 e Anexo Único",
+      "finding": "Estrutura/denominações e níveis próprios; 68.742 aplica nos dispositivos especificados. Anexo Único admite Secretário Executivo e Superintendente nos níveis 18 a 17, Gerente/Chefe de Assessoria/Ouvidor/Corregedor nos níveis 17 a 14. Não impor matriz geral de secretarias sem perfil específico."
+    },
+    {
+      "sourceUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-arsesp-n-1811-de-10-de-junho-de-2026-202606101135182031906699",
+      "location": "Anexo I, coluna PONTOS UNITÁRIOS; Anexo II, coluna PONTOS",
+      "finding": "Coeficientes não são pesos especiais por agência: coincidem com CCESP do motor por nível. PONTOS do Anexo II é total da linha, não coeficiente unitário; dividir apenas para cotejo exato, preservar campo publicado."
+    }
+  ],
+  "limitations": [
+    "Não há homologação jurídica nem prova de ocupação atual.",
+    "Não certificar inexistência de alterações após 11/06/2026 com esta pesquisa focal.",
+    "ParentUnitId não inferido da ordem nem de prefixos; o quadro conserva rótulos e seções documentais, mas vínculos exigem cotejo separado com regimento e alterações.",
+    "Não usar 76 como teto quantitativo para gerar extrapolação de 14 cargos sobre a distribuição recomposicionada de 90.",
+    "Não importar coluna de limite da planilha como norma autônoma; seu próprio A9 condiciona a referência autorizativa."
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "checkedAt": "2026-11-16",
+  "scope": "Revisão documental de cinco autarquias para distribuição CCESP/FCESP; não inclui cargos permanentes, ocupantes ou comprovação de ocupação atual.",
+  "method": [
+    "Inteiro teor DOE pela API pública v2/publications e fichas ALESP pela API pública baleg-api-prd/norma.",
+    "Busca ALESP por sigla, de 01/01/2025 a 16/11/2026.",
+    "Busca DOE pelo número do decreto-base, da publicação a 16/11/2026, com todas as páginas recuperadas. Triagem dos atos normativos, retificações e regimentos conhecidos.",
+    "Busca focada: atos sem citação do decreto, com grafias distintas ou ainda não indexados podem não aparecer. A situação Sem revogação expressa na ALESP não equivale a certidão de vigência integral."
+  ],
+  "commonWarnings": [
+    "As cinco planilhas declaram que os pais das unidades foram inferidos pela ordem e pelo nível. Isso não comprova vínculo oficial. Preferir a enumeração normativa nos regimentos e deixar lacunas explícitas.",
+    "Anexo II descreve distribuição documental, não cargos efetivamente ocupados.",
+    "Preservar CCESP e FCESP separadamente; não compensar nem somar saldos como se fossem fungíveis.",
+    "Nenhum arquivo src ou planilha foi alterado."
+  ],
+  "organizations": {
+    "CBPM": {
+      "workbook": "/Users/eduardofariascappia/Downloads/Planilhas_Autarquias/SGGD-CBPM.xlsx",
+      "base": {
+        "title": "Decreto nº 69.591, de 09/06/2025",
+        "actDate": "09/06/2025",
+        "publicationDate": "2025-06-10",
+        "effectiveDate": "2025-08-01",
+        "effectiveDateBasis": "Artigo 7: primeiro dia do mês subsequente ao término de 30 dias da publicação. Data calculada a partir doDOE, não parâmetro da planilha.",
+        "alespUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69591-09.06.2025.html",
+        "alespRecordUrl": "https://www.al.sp.gov.br/norma/211047",
+        "doeUrl": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025",
+        "doeApiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025",
+        "statusOnAlesp": "Sem revogação expressa"
+      },
+      "annexIIISummary": {
+        "CCESP": {
+          "quantity": "17",
+          "quotas": "52.50"
+        },
+        "FCESP": {
+          "quantity": "4",
+          "quotas": "3.90"
+        },
+        "source": "Anexo III do decreto-base; subtotais lidos diretamente no DOE."
+      },
+      "annexVIIReplacement": {
+        "explicit": true,
+        "article": 3
+      },
+      "subsequentDecreeAmendments": [],
+      "allocationMovements": [],
+      "hierarchySource": {
+        "title": "PORTARIA Nº CBPM Nº 022/ADM/2025, DE 28 DE JULHO DE 2025",
+        "publicationDate": "2025-07-29",
+        "effectiveDate": "2025-08-01",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-seguranca-publica/portaria-n-cbpm-n-022-adm-2025-de-28-de-julho-de-2025-202507281233172351228599",
+        "bodyAvailable": true,
+        "evidenceFile": "portaria-n-cbpm-n-022-adm-2025-de-28-de-julho-de-2025-202507281233172351228599.json"
+      },
+      "searchReceipt": {
+        "doeNumberQueryFile": "cbpm-69591-busca-doe.json",
+        "allPagesFetched": true,
+        "numberCitationResults": 68,
+        "alespSearchFile": "cbpm-busca-alesp.json"
+      },
+      "recencyConclusion": "Melhor quadro decretal localizado até 16/11/2026, considerando os atos internos apontados. Não certifica ausência de outros atos não indexados.",
+      "pending": [
+        "Mapear os vínculos explícitos do Regimento 22/2025. Nenhum remanejamento quantitativo foi identificado na pesquisa focada."
+      ],
+      "regimeNotes": [
+        "Artigo 5º do Decreto 69.591: Presidente CCESP 1.17 reservado a Coronel PM inativo; Chefe de Gabinete CCESP 1.15 a Oficial Superior PM inativo. Não generalizar os critérios de provimento."
+      ]
+    },
+    "IAMSPE": {
+      "workbook": "/Users/eduardofariascappia/Downloads/Planilhas_Autarquias/SGGD-IAMSPE.xlsx",
+      "base": {
+        "title": "Decreto nº 70.378, de 13/02/2026",
+        "actDate": "13/02/2026",
+        "publicationDate": "2026-02-18",
+        "effectiveDate": "2026-04-01",
+        "effectiveDateBasis": "Artigo 6: primeiro dia do mês subsequente ao término de 30 dias da publicação. Data calculada a partir doDOE, não parâmetro da planilha.",
+        "alespUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70378-13.02.2026.html",
+        "alespRecordUrl": "https://www.al.sp.gov.br/norma/212235",
+        "doeUrl": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70378-de-13-de-fevereiro-de-2026",
+        "doeApiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-70378-de-13-de-fevereiro-de-2026",
+        "statusOnAlesp": "Sem revogação expressa"
+      },
+      "annexIIISummary": {
+        "CCESP": {
+          "quantity": "125",
+          "quotas": "340.00"
+        },
+        "FCESP": {
+          "quantity": "308",
+          "quotas": "438.90"
+        },
+        "source": "Anexo III do decreto-base; subtotais lidos diretamente no DOE."
+      },
+      "annexVIIReplacement": {
+        "explicit": true,
+        "article": 4
+      },
+      "subsequentDecreeAmendments": [],
+      "allocationMovements": [
+        {
+          "id": "portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741",
+          "title": "PORTARIA IAMSPE Nº 19, DE 29 DE ABRIL DE 2026",
+          "date": "2026-04-30",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741",
+          "effectiveDate": "2026-05-14",
+          "effectiveDateNote": null,
+          "moves": [
+            [
+              "Presidência",
+              "Serviço - Centro de Assistência Médico Ambulatorial - Ceama - Araçatuba",
+              "CCESP 2.06",
+              "Assistente Técnico II",
+              1,
+              2
+            ],
+            [
+              "Gabinete",
+              "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – São José do Rio Preto",
+              "CCESP 2.06",
+              "Assistente Técnico II",
+              1,
+              3
+            ],
+            [
+              "Serviço - Centro de Assistência Médico Ambulatorial - Ceama - Araçatuba",
+              "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – Presidente Prudente",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              4
+            ],
+            [
+              "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – São José do Rio Preto",
+              "Serviço - Centro de Assistência Médico Ambulatorial - Ceama – Ribeirão Preto",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              5
+            ]
+          ],
+          "details": [
+            {
+              "row": 2,
+              "originCode": "5600002",
+              "destinationCode": "5600095",
+              "sgpVacancy": "2432444",
+              "originalPositionText": "Assistente Técnico II – CCESP 2.06"
+            },
+            {
+              "row": 3,
+              "originCode": "5600009",
+              "destinationCode": "5600121",
+              "sgpVacancy": "2432447",
+              "originalPositionText": "Assistente Técnico II – CCESP 2.06"
+            },
+            {
+              "row": 4,
+              "originCode": "5600095",
+              "destinationCode": "5600113",
+              "sgpVacancy": "2432434",
+              "originalPositionText": "Assistente IV – CCESP 2.04"
+            },
+            {
+              "row": 5,
+              "originCode": "5600121",
+              "destinationCode": "5600115",
+              "sgpVacancy": "2427223",
+              "originalPositionText": "Assistente IV – CCESP 2.04"
+            }
+          ],
+          "quantityAndQuotaGlobalChange": false,
+          "annulmentFound": false,
+          "reviewCutoff": "2026-11-16"
+        },
+        {
+          "id": "portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872",
+          "title": "PORTARIA IAMSPE Nº 29, DE 12 DE AGOSTO DE 2026",
+          "date": "2026-08-13",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872",
+          "effectiveDate": null,
+          "effectiveDateNote": "10 dias úteis após a publicação de 13/08/2026; cálculo da data não feito",
+          "moves": [
+            [
+              "Presidência",
+              "Seção de Segurança",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              2
+            ],
+            [
+              "Presidência",
+              "Serviço de Folha de Pagamento",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              3
+            ],
+            [
+              "Presidência",
+              "Serviço de Comunicação Institucional Corporativa",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              4
+            ],
+            [
+              "Presidência",
+              "Serviço de Comunicação Institucional Corporativa",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              5
+            ],
+            [
+              "Presidência",
+              "Serviço de Controle de Internação",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              6
+            ],
+            [
+              "Presidência",
+              "Seção de Adiantamento",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              7
+            ],
+            [
+              "Presidência",
+              "Seção de Contabilidade",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              8
+            ],
+            [
+              "Presidência",
+              "Serviço de Planejamento de Suprimentos",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              9
+            ],
+            [
+              "Presidência",
+              "Divisão de Contratos",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              10
+            ],
+            [
+              "Presidência",
+              "Divisão de Apoio Administrativo e Operacional",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              11
+            ],
+            [
+              "Presidência",
+              "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              12
+            ],
+            [
+              "Auditoria",
+              "Coordenadoria de Desenvolvimento de Ensino e Pesquisa",
+              "CCESP 2.06",
+              "Assistente Técnico II",
+              1,
+              13
+            ],
+            [
+              "Procuradoria Jurídica",
+              "Divisão de Infraestrutura",
+              "FCESP 2.04",
+              "Assistente IV",
+              1,
+              14
+            ],
+            [
+              "Divisão de Contratação de Materiais e Serviços",
+              "Gabinete",
+              "CCESP 2.06",
+              "Assistente Técnico II",
+              1,
+              15
+            ],
+            [
+              "Divisão de Infraestrutura",
+              "Serviço de Folha de Pagamento",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              16
+            ],
+            [
+              "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Campinas",
+              "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Araraquara",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              17
+            ],
+            [
+              "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Ribeirão Preto",
+              "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Taubaté",
+              "CCESP 2.04",
+              "Assistente IV",
+              1,
+              18
+            ],
+            [
+              "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+              "Coordenadoria de Gestão Hospitalar",
+              "CCESP 2.09",
+              "Assessor I",
+              1,
+              19
+            ],
+            [
+              "Coordenadoria de Gestão Hospitalar",
+              "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+              "CCESP 2.11",
+              "Assessor III",
+              1,
+              20
+            ]
+          ],
+          "details": [
+            {
+              "row": 2,
+              "originCode": "5600002",
+              "destinationCode": "5600047",
+              "sgpVacancy": "2432195",
+              "originalPositionText": "Assistente IV - CCESP 2.04"
+            },
+            {
+              "row": 3,
+              "originCode": "5600002",
+              "destinationCode": "5600023",
+              "sgpVacancy": "2432196",
+              "originalPositionText": "Assistente IV - CCESP 2.04"
+            },
+            {
+              "row": 4,
+              "originCode": "5600002",
+              "destinationCode": "5600011",
+              "sgpVacancy": "2427707",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 5,
+              "originCode": "5600002",
+              "destinationCode": "5600011",
+              "sgpVacancy": "2427706",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 6,
+              "originCode": "5600002",
+              "destinationCode": "5600179",
+              "sgpVacancy": "2427711",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 7,
+              "originCode": "5600002",
+              "destinationCode": "5600067",
+              "sgpVacancy": "2427714",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 8,
+              "originCode": "5600002",
+              "destinationCode": "5600066",
+              "sgpVacancy": "2427716",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 9,
+              "originCode": "5600002",
+              "destinationCode": "5600052",
+              "sgpVacancy": "2431453",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 10,
+              "originCode": "5600002",
+              "destinationCode": "5600031",
+              "sgpVacancy": "2431454",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 11,
+              "originCode": "5600002",
+              "destinationCode": "5600148",
+              "sgpVacancy": "2427715",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 12,
+              "originCode": "5600002",
+              "destinationCode": "5600142",
+              "sgpVacancy": "2431455",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 13,
+              "originCode": "5600004",
+              "destinationCode": "5600078",
+              "sgpVacancy": "2432445",
+              "originalPositionText": "Assistente Técnico II - CCESP 2.06"
+            },
+            {
+              "row": 14,
+              "originCode": "5600008",
+              "destinationCode": "5600043",
+              "sgpVacancy": "2432826",
+              "originalPositionText": "Assistente IV - FCESP 2.04"
+            },
+            {
+              "row": 15,
+              "originCode": "5600034",
+              "destinationCode": "5600009",
+              "sgpVacancy": "2432454",
+              "originalPositionText": "Assistente Técnico II - CCESP 2.06"
+            },
+            {
+              "row": 16,
+              "originCode": "5600043",
+              "destinationCode": "5600023",
+              "sgpVacancy": "2427215",
+              "originalPositionText": "Assistente IV - CCESP 2.04"
+            },
+            {
+              "row": 17,
+              "originCode": "5600105",
+              "destinationCode": "5600097",
+              "sgpVacancy": "2427217",
+              "originalPositionText": "Assistente IV - CCESP 2.04"
+            },
+            {
+              "row": 18,
+              "originCode": "5600115",
+              "destinationCode": "5600127",
+              "sgpVacancy": "2427219",
+              "originalPositionText": "Assistente IV - CCESP 2.04"
+            },
+            {
+              "row": 19,
+              "originCode": "5600142",
+              "destinationCode": "5600165",
+              "sgpVacancy": "2418050",
+              "originalPositionText": "Assessor I - CCESP 2.09"
+            },
+            {
+              "row": 20,
+              "originCode": "5600165",
+              "destinationCode": "5600142",
+              "sgpVacancy": "2432673",
+              "originalPositionText": "Assessor III - CCESP 2.11"
+            }
+          ],
+          "quantityAndQuotaGlobalChange": false,
+          "annulmentFound": false,
+          "reviewCutoff": "2026-11-16"
+        }
+      ],
+      "hierarchySource": {
+        "title": "PORTARIA IAMSPE Nº 11/2026, DE 2 DE ABRIL DE 2026",
+        "publicationDate": "2026-04-06",
+        "effectiveDate": "2026-04-02",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-11-2026-de-2-de-abril-de-2026-202604021129142141751390",
+        "bodyAvailable": true,
+        "evidenceFile": "portaria-iamspe-n-11-2026-de-2-de-abril-de-2026-202604021129142141751390.json"
+      },
+      "searchReceipt": {
+        "doeNumberQueryFile": "iamspe-70378-busca-doe.json",
+        "allPagesFetched": true,
+        "numberCitationResults": 112,
+        "alespSearchFile": "iamspe-busca-alesp.json"
+      },
+      "recencyConclusion": "Melhor quadro decretal localizado até 16/11/2026, considerando os atos internos apontados. Não certifica ausência de outros atos não indexados.",
+      "pending": [
+        "Aplicar as 23 movimentações das Portarias 19 e 29 antes de chamar a distribuição de atualizada. Os totais CCESP/FCESP não mudam.",
+        "A Portaria 29 produz efeitos 10 dias úteis após a publicação. A data exata depende do calendário aplicável e não foi calculada nesta revisão.",
+        "Portarias 12 e 13, de 14/04/2026, foram triadas; não foi identificado quadro de remanejamento ou alteração de cotas."
+      ],
+      "regimeNotes": [
+        "O artigo 5º do decreto estabelece requisitos profissionais por marcadores no Anexo II. Preservar as notas (1) a (6); não assumir provimento livre de toda função."
+      ]
+    },
+    "IMESC": {
+      "workbook": "/Users/eduardofariascappia/Downloads/Planilhas_Autarquias/SGGD-IMESC.xlsx",
+      "base": {
+        "title": "Decreto nº 69.590, de 09/06/2025",
+        "actDate": "09/06/2025",
+        "publicationDate": "2025-06-10",
+        "effectiveDate": "2025-08-01",
+        "effectiveDateBasis": "Artigo 7: primeiro dia do mês subsequente ao término de 30 dias da publicação. Data calculada a partir doDOE, não parâmetro da planilha.",
+        "alespUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69590-09.06.2025.html",
+        "alespRecordUrl": "https://www.al.sp.gov.br/norma/211044",
+        "doeUrl": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69590-de-9-de-junho-de-2025",
+        "doeApiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69590-de-9-de-junho-de-2025",
+        "statusOnAlesp": "Sem revogação expressa"
+      },
+      "annexIIISummary": {
+        "CCESP": {
+          "quantity": "25",
+          "quotas": "63.75"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotas": "27.30"
+        },
+        "source": "Anexo III do decreto-base; subtotais lidos diretamente no DOE."
+      },
+      "annexVIIReplacement": {
+        "explicit": true,
+        "article": 4
+      },
+      "subsequentDecreeAmendments": [],
+      "allocationMovements": [],
+      "hierarchySource": {
+        "title": "PORTARIA Nº 11, DE 22 DE AGOSTO DE 2025",
+        "publicationDate": "2025-08-25",
+        "effectiveDate": "2025-08-01",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-n-11-de-22-de-agosto-de-2025-20250822113192141290062",
+        "bodyAvailable": true,
+        "evidenceFile": "portaria-n-11-de-22-de-agosto-de-2025-20250822113192141290062.json"
+      },
+      "searchReceipt": {
+        "doeNumberQueryFile": "imesc-69590-busca-doe.json",
+        "allPagesFetched": true,
+        "numberCitationResults": 71,
+        "alespSearchFile": "imesc-busca-alesp.json"
+      },
+      "recencyConclusion": "Melhor quadro decretal localizado até 16/11/2026, considerando os atos internos apontados. Não certifica ausência de outros atos não indexados.",
+      "pending": [
+        "Mapear os vínculos explícitos da Portaria 11/2025. Nenhum remanejamento quantitativo foi identificado na pesquisa focada.",
+        "A Portaria 12, de 23/06/2026, atualiza uma comissão de reestruturação para elaborar proposta; não aprova nova distribuição. Não importar proposta como ato estrutural."
+      ],
+      "regimeNotes": [
+        "Artigo 5º e Anexo II-B contêm requisitos privativos da área ou carreira. A possibilidade de 30 horas para postos identificados trata de retribuição proporcional; não permite deduzir fator reduzido de cotas."
+      ]
+    },
+    "IPEM": {
+      "workbook": "/Users/eduardofariascappia/Downloads/Planilhas_Autarquias/SGGD-IPEM.xlsx",
+      "base": {
+        "title": "Decreto nº 70.362, de 04/02/2026",
+        "actDate": "04/02/2026",
+        "publicationDate": "2026-02-06",
+        "effectiveDate": "2026-04-01",
+        "effectiveDateBasis": "Artigo 7: primeiro dia do mês subsequente ao término de 30 dias da publicação. Data calculada a partir doDOE, não parâmetro da planilha.",
+        "alespUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70362-04.02.2026.html",
+        "alespRecordUrl": "https://www.al.sp.gov.br/norma/212201",
+        "doeUrl": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70362-de-4-de-fevereiro-de-2026",
+        "doeApiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-70362-de-4-de-fevereiro-de-2026",
+        "statusOnAlesp": "Sem revogação expressa"
+      },
+      "annexIIISummary": {
+        "CCESP": {
+          "quantity": "89",
+          "quotas": "324.25"
+        },
+        "FCESP": {
+          "quantity": "62",
+          "quotas": "138.45"
+        },
+        "source": "Anexo III do decreto-base; subtotais lidos diretamente no DOE."
+      },
+      "annexVIIReplacement": {
+        "explicit": true,
+        "article": 4
+      },
+      "subsequentDecreeAmendments": [],
+      "allocationMovements": [
+        {
+          "id": "portaria-ipem-sp-n-163-2026-202605191132102141856037",
+          "title": "PORTARIA IPEM-SP N.º 163/2026",
+          "date": "2026-05-20",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-163-2026-202605191132102141856037",
+          "effectiveDate": "2026-05-05",
+          "effectiveDateNote": null,
+          "moves": [
+            [
+              "DIVISÃO DE ORÇAMENTO",
+              "DIVISÃO DE DESENVOLVIMENTO",
+              "CCESP 1.10",
+              "CHEFE DE DIVISÃO",
+              1,
+              2
+            ],
+            [
+              "DIVISÃO DE DESENVOLVIMENTO",
+              "DIVISÃO DE ORÇAMENTO",
+              "FCESP 1.10",
+              "CHEFE DE DIVISÃO",
+              1,
+              3
+            ],
+            [
+              "ASSESSORIA DA AUDITORIA INTERNA",
+              "COORDENADORIA GERAL DE GESTÃO ESTRATÉGICA",
+              "FCESP 1.14",
+              "CHEFE DE ASSESSORIA",
+              1,
+              4
+            ],
+            [
+              "COORDENADORIA GERAL DE GESTÃO ESTRATÉGICA",
+              "ASSESSORIA DA AUDITORIA INTERNA",
+              "CCESP 1.14",
+              "COORDENADOR GERAL",
+              1,
+              5
+            ],
+            [
+              "DIRETORIA DE INOVAÇÃO E PARCERIAS",
+              "DIVISÃO DE GESTÃO DE MATERIAIS",
+              "CCESP 2.06",
+              "ASSISTENTE TÉCNICO II",
+              1,
+              6
+            ],
+            [
+              "ASSESSORIA TÉCNICO-ADMINISTRATIVA",
+              "DIVISÃO DE LOGÍSTICA",
+              "CCESP 2.04",
+              "ASSISTENTE IV",
+              1,
+              7
+            ]
+          ],
+          "details": [
+            {
+              "row": 2,
+              "originCode": "33000025",
+              "destinationCode": "33000031",
+              "sgpVacancy": "2422473",
+              "originalPositionText": "CCESP 1.10 - CHEFE DE DIVISÃO"
+            },
+            {
+              "row": 3,
+              "originCode": "33000031",
+              "destinationCode": "33000025",
+              "sgpVacancy": "2431321",
+              "originalPositionText": "FCESP 1.10 - CHEFE DE DIVISÃO"
+            },
+            {
+              "row": 4,
+              "originCode": "33000006",
+              "destinationCode": "33000010",
+              "sgpVacancy": "2433405",
+              "originalPositionText": "FCESP 1.14 - CHEFE DE ASSESSORIA"
+            },
+            {
+              "row": 5,
+              "originCode": "33000010",
+              "destinationCode": "33000006",
+              "sgpVacancy": "2433406",
+              "originalPositionText": "CCESP 1.14 - COORDENADOR GERAL"
+            },
+            {
+              "row": 6,
+              "originCode": "33000033",
+              "destinationCode": "33000020",
+              "sgpVacancy": "2427428",
+              "originalPositionText": "CCESP 2.06 - ASSISTENTE TÉCNICO II"
+            },
+            {
+              "row": 7,
+              "originCode": "33000004",
+              "destinationCode": "33000019",
+              "sgpVacancy": "2427212",
+              "originalPositionText": "CCESP 2.04 - ASSISTENTE IV"
+            }
+          ],
+          "quantityAndQuotaGlobalChange": false,
+          "annulmentFound": false,
+          "reviewCutoff": "2026-11-16",
+          "corrections": [
+            {
+              "date": "2026-05-21",
+              "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/retificacao-de-20-de-maio-de-2026-202605201132102231856267",
+              "effect": "Retifica apenas a ementa: substitui campos de modelo pelo nome IPEM e pelo Decreto 70.362. Não muda as seis movimentações."
+            }
+          ]
+        },
+        {
+          "id": "portaria-ipem-sp-n-227-2026-202610131132102142200849",
+          "title": "PORTARIA IPEM-SP N.º 227/2026",
+          "date": "2026-10-14",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-227-2026-202610131132102142200849",
+          "effectiveDate": "2026-05-05",
+          "effectiveDateNote": null,
+          "moves": [
+            [
+              "Coordenadoria de Desenvolvimento",
+              "Coordenadoria de Transformação Digital",
+              "CCESP 1.13",
+              "Coordenador",
+              1,
+              2
+            ],
+            [
+              "Coordenadoria de Transformação Digital",
+              "Coordenadoria de Desenvolvimento",
+              "FCESP 1.13",
+              "Coordenador",
+              1,
+              3
+            ]
+          ],
+          "details": [
+            {
+              "row": 2,
+              "originCode": "0033000039",
+              "destinationCode": "0033000036",
+              "sgpVacancy": "2432209",
+              "originalPositionText": "CCESP 1.13 - Coordenador"
+            },
+            {
+              "row": 3,
+              "originCode": "0033000036",
+              "destinationCode": "0033000039",
+              "sgpVacancy": "2432217",
+              "originalPositionText": "FCESP 1.13 - Coordenador"
+            }
+          ],
+          "quantityAndQuotaGlobalChange": false,
+          "annulmentFound": false,
+          "reviewCutoff": "2026-11-16",
+          "identityWarning": "Há outra publicação intitulada Portaria IPEM 227/2026 em 14/10, referente a fiscais de contratos. O slug deste registro corresponde ao SEI 0124277268 e ao remanejamento."
+        }
+      ],
+      "hierarchySource": {
+        "title": "PORTARIA IPEM-SP N.º 228/2026",
+        "publicationDate": "2026-10-14",
+        "effectiveDate": "2026-10-14",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-228-2026-202610131132102142199611",
+        "bodyAvailable": false,
+        "evidenceFile": "portaria-ipem-sp-n-228-2026-202610131132102142199611.json"
+      },
+      "searchReceipt": {
+        "doeNumberQueryFile": "ipem-70362-busca-doe.json",
+        "allPagesFetched": true,
+        "numberCitationResults": 318,
+        "alespSearchFile": "ipem-busca-alesp.json"
+      },
+      "recencyConclusion": "Melhor quadro decretal localizado até 16/11/2026, considerando os atos internos apontados. Não certifica ausência de outros atos não indexados.",
+      "pending": [
+        "Aplicar as oito movimentações das Portarias 163 e 227, mantendo os totais do órgão. A retificação de 21/05 corrige apenas a ementa da Portaria 163.",
+        "A Portaria 21/2026 foi expressamente revogada pela 118/2026, com efeitos em 01/04. A Portaria 228/2026 aprova o Regimento Rev. 03 em 14/10. O corpo dessa revisão não acompanha o ato na API DOE (sem anexos): obter o inteiro teor institucional antes de atualizar a hierarquia.",
+        "Há duas publicações com título/número 227 e duas com 228 no DOE de 14/10, com conteúdos distintos. Identificar pelo URL e pelo documento SEI, não só pelo número.",
+        "A Portaria 239/2026 descreve MLT-AT como célula de apoio à DIQUA e declara expressamente que não é nova unidade administrativa da estrutura básica. Não criar unidade ou cargo CCESP por esse ato."
+      ],
+      "regimeNotes": [
+        "O artigo 5º reserva Superintendentes regionais FCESP 1.12 a integrantes da carreira de Especialista em Metrologia e Qualidade."
+      ],
+      "regimentChain": [
+        {
+          "title": "Portaria IPEM 21/2026",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-021-2026-202603091132102141691277",
+          "status": "Expressamente revogada pela Portaria 118/2026."
+        },
+        {
+          "title": "Portaria IPEM 118/2026",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-118-2026-202603261132102141734102",
+          "effectiveDate": "2026-04-01",
+          "note": "Aprova o Regimento (Rev. 03 na Portaria 228); a API do ato não contém seu inteiro teor ou anexo."
+        },
+        {
+          "title": "Portaria IPEM 228/2026",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-228-2026-202610131132102142199611",
+          "publicationDate": "2026-10-14",
+          "note": "Aprova o Regimento (Rev. 03 na Portaria 228); a API do ato não contém seu inteiro teor ou anexo."
+        }
+      ]
+    },
+    "JUCESP": {
+      "workbook": "/Users/eduardofariascappia/Downloads/Planilhas_Autarquias/SGGD-JUCESP.xlsx",
+      "base": {
+        "title": "Decreto nº 70.361, de 04/02/2026",
+        "actDate": "04/02/2026",
+        "publicationDate": "2026-02-06",
+        "effectiveDate": "2026-04-01",
+        "effectiveDateBasis": "Artigo 5: primeiro dia do mês subsequente ao término de 30 dias da publicação. Data calculada a partir doDOE, não parâmetro da planilha.",
+        "alespUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70361-04.02.2026.html",
+        "alespRecordUrl": "https://www.al.sp.gov.br/norma/212200",
+        "doeUrl": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70361-de-4-de-fevereiro-de-2026",
+        "doeApiUrl": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-70361-de-4-de-fevereiro-de-2026",
+        "statusOnAlesp": "Sem revogação expressa"
+      },
+      "annexIIISummary": {
+        "CCESP": {
+          "quantity": "172",
+          "quotas": "472.75"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotas": "0.00"
+        },
+        "source": "Anexo III do decreto-base; subtotais lidos diretamente no DOE."
+      },
+      "annexVIIReplacement": {
+        "explicit": false,
+        "article": null
+      },
+      "subsequentDecreeAmendments": [
+        {
+          "title": "Decreto nº 70.484, de 25/03/2026",
+          "publicationDate": "2026-03-26",
+          "effectiveDate": "2026-03-26",
+          "alespUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70484-25.03.2026.html",
+          "doeUrl": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70484-de-25-de-marco-de-2026",
+          "changes": [
+            {
+              "unit": "Secretaria Geral",
+              "quantity": "1",
+              "code": "CCESP 1.15",
+              "beforeDenomination": "Diretor",
+              "afterDenomination": "Secretário-Geral",
+              "quantityAndQuotaChange": false
+            }
+          ],
+          "correction": {
+            "publicationDate": "2026-03-27",
+            "url": "https://doe.sp.gov.br/executivo/decretos/retificacao-do-doesp-de-26-de-marco-de-2026-202603261182231736421",
+            "effect": "Corrige a data citada do Decreto 70.361, de 6 para 4 de fevereiro; não muda os quadros."
+          }
+        }
+      ],
+      "allocationMovements": [],
+      "hierarchySource": {
+        "title": "PORTARIA NORMATIVA JUCESP Nº 01, DE 1º DE ABRIL DE 2026",
+        "publicationDate": "2026-04-01",
+        "effectiveDate": "2026-04-01",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-economico/portaria-normativa-jucesp-n-01-de-1-de-abril-de-2026-202604011119212141747141",
+        "bodyAvailable": true,
+        "evidenceFile": "portaria-normativa-jucesp-n-01-de-1-de-abril-de-2026-202604011119212141747141.json"
+      },
+      "searchReceipt": {
+        "doeNumberQueryFile": "jucesp-70361-busca-doe.json",
+        "allPagesFetched": true,
+        "numberCitationResults": 49,
+        "alespSearchFile": "jucesp-busca-alesp.json"
+      },
+      "recencyConclusion": "Melhor quadro decretal localizado até 16/11/2026, considerando os atos internos apontados. Não certifica ausência de outros atos não indexados.",
+      "pending": [
+        "Confirmar com a área técnica ou assessoria qual ato fundamenta a atualização do limite geral VII-B. Nenhum ato expresso foi encontrado nesta revisão.",
+        "Aplicar a denominação Secretário-Geral do Decreto 70.484. Nenhum remanejamento entre unidades foi identificado na triagem focada."
+      ],
+      "limitIssue": {
+        "priorSourceUrl": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69486-14.04.2025.html",
+        "priorSourceArticle": "Artigo 1º, Anexo único, tabela VII-B, linha JUCESP.",
+        "priorMaximum": {
+          "CCESP": {
+            "quantity": "111",
+            "quotas": "284.75"
+          },
+          "FCESP": {
+            "quantity": "13",
+            "quotas": "35.00"
+          }
+        },
+        "laterAnnexIII": {
+          "CCESP": {
+            "quantity": "172",
+            "quotas": "472.75"
+          },
+          "FCESP": {
+            "quantity": "0",
+            "quotas": "0.00"
+          },
+          "source": "AnexoIII doDecretobase, subtotais lidos diretamente noDOE"
+        },
+        "differenceLaterMinusPrior": {
+          "CCESP": {
+            "quantity": "61",
+            "quotas": "188.00"
+          },
+          "FCESP": {
+            "quantity": "-13",
+            "quotas": "-35.00"
+          }
+        },
+        "finding": "Os artigos 1º e 2º do Decreto 70.361 aprovam os Anexos II e III, mas não há cláusula expressa de substituição do VII. Não foi localizado ato expresso para ajustar esse limite na revisão focada. A diferença documental não prova, por si só, ilegalidade ou ocupação.",
+        "recommendation": "Usar os Anexos II/III de 2026 como quadro documental pareado, com aviso de que o limite geral permanece pendente de confirmação; manter o VII-B anterior na evidência. Não rotular 111/284,75 como limite vigente confirmado nem 172/472,75 como teto atual homologado."
+      }
+    }
+  },
+  "notQuotaChanges": [
+    {
+      "title": "Decreto 70.410/2026",
+      "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70410-27.02.2026.html",
+      "reason": "Extingue cargos, funções e empregos das classes enumeradas; não altera os Anexos II/III CCESP/FCESP dos cinco decretos-base."
+    },
+    {
+      "title": "Créditos suplementares: IAMSPE 70.455/2026 e 70.653/2026; IPEM 70.691/2026 e 70.945/2026",
+      "reason": "Abertura de crédito orçamentário não modifica a distribuição de cargos e cotas por unidade."
+    }
+  ]
+}

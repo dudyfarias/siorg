@@ -1,0 +1,8258 @@
+{
+  "file": "/Users/eduardofariascappia/Downloads/Diagnostico_SIORG_BR.docx",
+  "sha256": "f775e87a34488406262abd058a517a8b58d29fb5febf9702ab0c8498aabfcb77",
+  "file_modified": "2026-09-03T17:00:31.721720+00:00",
+  "core": {
+    "title": "Diagnóstico Inicial dos Canais SIORG e BR",
+    "creator": "Eduardo Farias Cappia",
+    "lastModifiedBy": "Eduardo Farias Cappia",
+    "revision": "2",
+    "created": "2026-09-03T16:54:00Z",
+    "modified": "2026-09-03T17:00:00Z"
+  },
+  "paragraph_count": 1373,
+  "comment_count": 0,
+  "tracked_insertions": 0,
+  "tracked_deletions": 0,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "DIAGNÓSTICO INICIAL",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 2,
+      "text": "Canais SIORG e BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "text": "Sumário",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 6,
+      "text": "Sumário2",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 7,
+      "text": "1. Sumário executivo4",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 8,
+      "text": "1.1 A conclusão central4",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 9,
+      "text": "1.2 Os cinco achados4",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 10,
+      "text": "1.3 O que recomendamos começar de imediato4",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 11,
+      "text": "2. Escopo6",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 12,
+      "text": "2.1 Dimensões avaliadas em cada canal6",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 13,
+      "text": "3. Metodologia7",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 14,
+      "text": "3.1 Métodos aplicados7",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 15,
+      "text": "3.2 O que é prova e o que é lente7",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 16,
+      "text": "3.3 Ferramentas utilizadas8",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 17,
+      "text": "3.4 Métodos que ficaram como próximo passo8",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 18,
+      "text": "3.5 Limitações desta etapa8",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 19,
+      "text": "4. SIORG12",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 20,
+      "text": "4.1 O que é o portal e para que serve12",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 21,
+      "text": "4.2 Arquitetura da informação e navegação12",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 22,
+      "text": "4.3 Conteúdos e materiais de apoio13",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 23,
+      "text": "4.4 Organização e atualização das informações14",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 24,
+      "text": "4.5 Perguntas frequentes15",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 25,
+      "text": "4.6 Canais de atendimento16",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 26,
+      "text": "4.7 Identidade visual16",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 27,
+      "text": "4.8 Desempenho e acessibilidade16",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 28,
+      "text": "4.9 Métricas de acesso e alcance17",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 29,
+      "text": "4.10 O que o dirigente esperaria encontrar17",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 30,
+      "text": "4.11 Síntese do SIORG17",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 31,
+      "text": "5. BR22",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 32,
+      "text": "5.1 O que é o portal e para que serve22",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 33,
+      "text": "5.2 Arquitetura da informação e navegação22",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 34,
+      "text": "5.3 Conteúdos disponíveis23",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 35,
+      "text": "5.4 Organização e atualização das informações23",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 36,
+      "text": "5.5 Perguntas frequentes24",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 37,
+      "text": "5.6 Exatidão do conteúdo normativo25",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 38,
+      "text": "5.7 Canais de atendimento27",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 39,
+      "text": "5.8 Identidade visual27",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 40,
+      "text": "5.9 Desempenho e acessibilidade27",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 41,
+      "text": "5.10 Métricas de acesso e alcance27",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 42,
+      "text": "5.11 O que o servidor esperaria encontrar27",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 43,
+      "text": "5.12 Síntese da BR28",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 44,
+      "text": "6. Acessibilidade e proteção de dados32",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 45,
+      "text": "6.1 A base legal da acessibilidade32",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 46,
+      "text": "6.2 O que foi encontrado no SIORG32",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 47,
+      "text": "6.3 O que foi encontrado na BR32",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 48,
+      "text": "6.4 Por que isso importa além da lei33",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 49,
+      "text": "6.5 Proteção de dados: três pontos de atenção33",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 50,
+      "text": "7. O que é herança da plataforma34",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 51,
+      "text": "8. SIORG como ferramenta de trabalho35",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 52,
+      "text": "8.1 As quatro ferramentas, por ordem de viabilidade35",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 53,
+      "text": "8.2 Como apareceria para o usuário35",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 54,
+      "text": "8.3 Antes da tela, o bastidor35",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 55,
+      "text": "8.4 Ressalva necessária36",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 56,
+      "text": "9. Proposta de padronização37",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 57,
+      "text": "9.1 Padrões existentes e validação necessária37",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 58,
+      "text": "9.2 O que o CMS estadual já oferece além dos componentes37",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 59,
+      "text": "9.3 Referências internas que valem olhar38",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 60,
+      "text": "10. Como manter os canais vivos40",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 61,
+      "text": "11. Como saberemos se melhorou41",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 62,
+      "text": "12. Plano de ação42",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 63,
+      "text": "13. Próximos passos43",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 64,
+      "text": "13.1 Encaminhamentos que ultrapassam a Diretoria43",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 65,
+      "text": "13.2 O que a nossa equipe pode começar imediatamente43",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 66,
+      "text": "Anexo A — Medições brutas47",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 67,
+      "text": "A.1 Síntese das notas47",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 68,
+      "text": "A.2 Ocorrências de acessibilidade por tipo47",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 69,
+      "text": "A.3 Acesso dos rastreadores de inteligência artificial47",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 70,
+      "text": "Anexo B — Planilha de sinais por página49",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 71,
+      "text": "Anexo C — Capturas de tela50",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 72,
+      "text": "Anexo D — Roteiro de entrevista com os responsáveis51",
+      "style": "Sumrio1",
+      "comments": []
+    },
+    {
+      "id": 73,
+      "text": "D.1 Abertura: o que só quem opera sabe51",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 74,
+      "text": "D.2 Conteúdo e manutenção51",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 75,
+      "text": "D.3 Sistemas e dados51",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 76,
+      "text": "D.4 Histórico: a pergunta mais importante51",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 77,
+      "text": "D.5 Fechamento: validação das nossas hipóteses51",
+      "style": "Sumrio2",
+      "comments": []
+    },
+    {
+      "id": 78,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 79,
+      "text": "No Word: clique com o botão direito sobre o sumário → Atualizar campo → Atualizar o índice inteiro.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 80,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 81,
+      "text": "1. Sumário executivo",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 82,
+      "text": "Este documento apresenta o diagnóstico inicial dos canais SIORG e BR.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 83,
+      "text": "Cada canal é analisado em capítulo próprio, com apresentação do que é o portal e a quem serve, seguida da avaliação nas dimensões solicitadas. Os pontos comuns aos dois — herança da plataforma de publicação e proteção de dados — estão reunidos em capítulo separado, porque a solução deles não está na nossa alçada.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 84,
+      "text": "1.1 A conclusão central",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 85,
+      "text": "O conteúdo existe e é bom. O menu de topo não revela onde ele está.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 86,
+      "text": "Nos dois canais, o conteúdo técnico é competente e as listas de perguntas frequentes são bem construídas e segmentadas por tema. A BR tem uma aba inteiramente dedicada ao servidor, com dez perguntas que vão de elegibilidade a tributação e caminho de contestação. O SIORG tem 67 perguntas em quatro abas, com remissão à legislação.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 87,
+      "text": "O problema está acima disso: o menu principal dos dois canais reproduz a estrutura administrativa do programa, não o caminho de quem chega. A aba que responde ao servidor da BR está dois níveis abaixo, dentro de um item chamado Canais de comunicação — rótulo que não sugere a ninguém que ali se responde sobre direito a bonificação. É questão de sinalização, não de redação.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 88,
+      "text": "A correção tem respaldo em padrão já existente: o vocabulário controlado publicado pelo CMS estadual orienta a escolha de termos com base na linguagem que o público usa no dia a dia. Não se propõe critério novo, e sim aderência ao que o Estado já definiu.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 89,
+      "text": "1.2 Os cinco achados",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 90,
+      "text": "#",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 91,
+      "text": "Achado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 92,
+      "text": "Onde",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 93,
+      "text": "Gravidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 94,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 95,
+      "text": "Uma resposta da lista de perguntas contraria a lei que rege o programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 96,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 97,
+      "text": "Crítica",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 98,
+      "text": "2",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 99,
+      "text": "O conteúdo é bom, mas o menu de topo não revela onde ele está",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 100,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 101,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 102,
+      "text": "3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 103,
+      "text": "A ferramenta de edição do site aparece para quem visita",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 104,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 105,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 106,
+      "text": "4",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 107,
+      "text": "A primeira tela de toda página é campanha institucional alheia ao tema",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 108,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 109,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 110,
+      "text": "5",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 111,
+      "text": "Acessibilidade abaixo do exigido por lei",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 112,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 113,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 114,
+      "text": "6",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 115,
+      "text": "O aviso de cookies não atende à LGPD e o encarregado de dados não é identificado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 116,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 117,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 118,
+      "text": "O primeiro achado tem natureza diferente dos demais e por isso encabeça a lista. Não é problema de arquitetura, de desempenho ou de forma: é uma informação publicada que contraria a norma que ela própria cita, sobre desconto na remuneração do servidor. O detalhamento está na seção 5.6.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 119,
+      "text": "1.3 O que recomendamos começar de imediato",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 120,
+      "text": "As quatro ações abaixo dependem apenas da nossa equipe e da equipe de conteúdo dos canais:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 121,
+      "text": "Encaminhar à área técnica e jurídica a revisão da resposta sobre tributação da BR, que contraria a Lei Complementar nº 1.361/2021.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 122,
+      "text": "Promover a aba RH e Pagamento da BR para o menu principal, com endereço próprio por resposta.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 123,
+      "text": "Substituir a campanha institucional do topo pelo conteúdo do próprio canal, nos dois.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 124,
+      "text": "Solicitar acesso de leitura ao Google Search Console dos dois canais — é gratuito.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 125,
+      "text": "Retirar os avisos temporários vencidos e implantar varredura mensal.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 126,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 127,
+      "text": "2. Escopo",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 128,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 129,
+      "text": "Endereço",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 130,
+      "text": "Situação neste diagnóstico",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 131,
+      "text": "SIORG — Sistema de Organização Institucional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 132,
+      "text": "siorg.sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 133,
+      "text": "Analisado — capítulo 4",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 134,
+      "text": "BR — Bonificação por Resultados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 135,
+      "text": "sggd.sp.gov.br/br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 136,
+      "text": "Analisado — capítulo 5",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 137,
+      "text": "EPP",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 138,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 139,
+      "text": "Etapa posterior, com APOF, na frente de carreiras",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 140,
+      "text": "2.1 Dimensões avaliadas em cada canal",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 141,
+      "text": "As mesmas onze dimensões foram aplicadas aos dois canais, na mesma ordem, para permitir leitura comparada:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 142,
+      "text": "#",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 143,
+      "text": "Dimensão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 144,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 145,
+      "text": "Finalidade e público",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 146,
+      "text": "2",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 147,
+      "text": "Conteúdos disponíveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 148,
+      "text": "3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 149,
+      "text": "Arquitetura da informação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 150,
+      "text": "4",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 151,
+      "text": "Menus e navegação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 152,
+      "text": "5",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 153,
+      "text": "Organização e atualização das informações",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 154,
+      "text": "6",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 155,
+      "text": "Perguntas frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 156,
+      "text": "7",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 157,
+      "text": "Documentos e materiais de apoio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 158,
+      "text": "8",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 159,
+      "text": "Canais de atendimento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 160,
+      "text": "9",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 161,
+      "text": "Facilidade para localizar informações",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 162,
+      "text": "10",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 163,
+      "text": "Identidade visual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 164,
+      "text": "11",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 165,
+      "text": "Métricas de acesso e alcance",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 166,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 167,
+      "text": "3. Metodologia",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 168,
+      "text": "O diagnóstico combinou métodos consagrados de avaliação de interface, conformidade normativa e medição técnica automatizada. Registramos abaixo o que foi efetivamente aplicado e, em seguida, o que ficou como próximo passo — a distinção importa, porque método não aplicado não sustenta conclusão.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 169,
+      "text": "3.1 Métodos aplicados",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 170,
+      "text": "Método",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 171,
+      "text": "Origem",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 172,
+      "text": "Como foi aplicado aqui",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 173,
+      "text": "Avaliação heurística de usabilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 174,
+      "text": "As dez heurísticas de Jakob Nielsen (Nielsen Norman Group)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 175,
+      "text": "Percurso por especialista em cada canal, verificando visibilidade do estado do sistema, correspondência com o mundo real do usuário, consistência e reconhecimento em vez de memorização",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 176,
+      "text": "Análise de arquitetura da informação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 177,
+      "text": "Modelo de Rosenfeld, Morville e Arango — sistemas de organização, rotulagem, navegação e busca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 178,
+      "text": "Mapeamento completo dos menus e submenus, avaliação dos rótulos usados e do encadeamento entre seções",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 179,
+      "text": "Análise de tarefas prioritárias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 180,
+      "text": "Top Tasks Management, de Gerry McGovern",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 181,
+      "text": "Definição das perguntas mais prováveis de quem acessa cada canal e verificação de quantos passos separam a chegada da resposta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 182,
+      "text": "Conformidade de acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 183,
+      "text": "WCAG 2.1 nível AA (W3C), eMAG (Modelo de Acessibilidade em Governo Eletrônico) e Lei Brasileira de Inclusão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 184,
+      "text": "Teste automatizado com pa11y em cada canal, complementado por leitura da árvore de acessibilidade para verificar o que o teste não captura",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 185,
+      "text": "Medição de desempenho percebido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 186,
+      "text": "Core Web Vitals (Google) e auditoria Lighthouse",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 187,
+      "text": "Medição em celular e desktop, com registro de Largest Contentful Paint, Cumulative Layout Shift e Total Blocking Time",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 188,
+      "text": "Análise de conteúdo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 189,
+      "text": "Métricas de densidade, autossuficiência de trecho e presença de dado verificável",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 190,
+      "text": "Contagem de palavras por página, verificação de metadados e de dados estruturados em todas as páginas alcançadas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 191,
+      "text": "Otimização para motores generativos (GEO)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 192,
+      "text": "Prática de adequação de conteúdo para citação por assistentes de inteligência artificial",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 193,
+      "text": "Verificação do acesso de treze rastreadores de IA, presença de llms.txt e forma citável do conteúdo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 194,
+      "text": "Benchmarking com régua única",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 195,
+      "text": "Comparação por medição idêntica, e não por impressão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 196,
+      "text": "Os mesmos testes aplicados a canais de referência do próprio Governo de São Paulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 197,
+      "text": "Ciclo Imersão, Ideação e Transformação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 198,
+      "text": "Método de trabalho da nossa célula",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 199,
+      "text": "Este documento é o produto da etapa de Imersão: diagnóstico e entendimento, antes de propor solução definitiva",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 200,
+      "text": "3.2 O que é prova e o que é lente",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 201,
+      "text": "Nem todo método tem o mesmo peso probatório, e tratar todos como equivalentes enfraquece o diagnóstico. Distinguimos três níveis:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 202,
+      "text": "Nível",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 203,
+      "text": "O que é",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 204,
+      "text": "Como deve ser lido neste documento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 205,
+      "text": "Normas e critérios verificáveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 206,
+      "text": "WCAG 2.1 AA, eMAG, LBI, LGPD e a legislação de cada programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 207,
+      "text": "São requisito. Uma divergência aqui é achado objetivo, conferível por qualquer pessoa. A avaliação jurídica final, porém, exige contexto e área competente.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 208,
+      "text": "Métodos consolidados de prática",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 209,
+      "text": "Avaliação heurística, benchmarking, análise de tarefas prioritárias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 210,
+      "text": "Orientam o olhar e sustentam recomendação, mas dependem de julgamento de especialista. Aqui houve inspeção; testes com usuários seguem como proposta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 211,
+      "text": "Modelos de leitura estratégica",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 212,
+      "text": "SWOT, PESTEL, 7Ps, Diamante da Estratégia, Double Diamond",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 213,
+      "text": "São lentes de organização do raciocínio, não certificações de eficácia. Sua aplicação ao setor público é adaptação explícita.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 214,
+      "text": "Consequência prática: os achados apoiados no primeiro nível — como o da seção 5.6 e os de acessibilidade do capítulo 6 — podem ser conferidos e cobrados. Os apoiados no segundo nível são recomendação fundamentada, e ganham força quando validados com quem opera o canal e com usuários reais.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 215,
+      "text": "3.3 Ferramentas utilizadas",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 216,
+      "text": "Ferramenta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 217,
+      "text": "Versão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 218,
+      "text": "O que verifica",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 219,
+      "text": "Lighthouse",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 220,
+      "text": "13.4.1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 221,
+      "text": "Desempenho, acessibilidade, boas práticas e otimização para busca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 222,
+      "text": "pa11y",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 223,
+      "text": "10.0.0",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 224,
+      "text": "Conformidade com WCAG 2 nível AA, com o seletor exato de cada ocorrência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 225,
+      "text": "Coletor próprio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 226,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 227,
+      "text": "Metadados, títulos, endereço canônico, idioma, imagens sem descrição, dados estruturados e acesso de rastreadores",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 228,
+      "text": "Navegador com árvore de acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 229,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 230,
+      "text": "O que o leitor de tela efetivamente anuncia, que o teste automatizado não revela",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 231,
+      "text": "Toda medição automatizada foi salva em arquivo e pode ser reexecutada para comparação futura. Nenhum número deste documento é estimativa. Os arquivos estão relacionados no Anexo A.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 232,
+      "text": "3.4 Métodos que ficaram como próximo passo",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 233,
+      "text": "Os métodos abaixo não foram aplicados nesta etapa e, por isso, nenhuma conclusão deste documento se apoia neles. Estão relacionados porque completam o diagnóstico e devem entrar na próxima fase:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 234,
+      "text": "Método",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 235,
+      "text": "O que acrescentaria",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 236,
+      "text": "Por que não foi feito agora",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 237,
+      "text": "Teste de usabilidade com usuários reais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 238,
+      "text": "Observar servidores e dirigentes tentando concluir tarefas nos canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 239,
+      "text": "Exige recrutamento e roteiro validado; é etapa de Ideação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 240,
+      "text": "Card sorting e teste de árvore",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 241,
+      "text": "Validar com usuários os rótulos de menu propostos, em vez de presumi-los",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 242,
+      "text": "Depende de definir antes as opções a testar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 243,
+      "text": "Top Tasks com pesquisa quantitativa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 244,
+      "text": "Ordenar por votação real quais tarefas mais importam, em vez de inferir",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 245,
+      "text": "Exige pesquisa com base de servidores",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 246,
+      "text": "Entrevistas com responsáveis pelos canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 247,
+      "text": "O histórico e as restrições que explicam a estrutura atual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 248,
+      "text": "Foi pedido primeiro o olhar sem direcionamento; roteiro pronto no Anexo D",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 249,
+      "text": "Análise de métricas de acesso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 250,
+      "text": "O que a pessoa procurou e não encontrou, e onde desistiu",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 251,
+      "text": "Sem acesso ao Search Console nem à ferramenta de análise",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 252,
+      "text": "3.5 Limitações desta etapa",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 253,
+      "text": "Não verificado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 254,
+      "text": "Consequência para a leitura deste documento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 255,
+      "text": "Métricas de acesso e alcance",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 256,
+      "text": "As tarefas prioritárias foram inferidas por método de especialista, não confirmadas por dado de uso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 257,
+      "text": "Conteúdo restrito a login",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 258,
+      "text": "A avaliação cobre apenas a camada pública dos canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 259,
+      "text": "Volume e teor das demandas recebidas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 260,
+      "text": "As dúvidas mais frequentes seguem presumidas, sem os registros do Fale Conosco e da Ouvidoria",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 261,
+      "text": "Base de cargos e cotas (QGCFC)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 262,
+      "text": "A proposta de ferramentas do SIORG permanece no plano do conceito",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 263,
+      "text": "Páginas internas do canal BR em imagem",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 264,
+      "text": "O conteúdo foi analisado por outros meios; faltam apenas as capturas de tela",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 265,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 266,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 267,
+      "text": "PARTE I",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 268,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 269,
+      "text": "Sistema de Organização Institucional do Estado de São Paulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 270,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 271,
+      "text": "4. SIORG",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 272,
+      "text": "4.1 O que é o portal e para que serve",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 273,
+      "text": "O SIORG é o Sistema de Organização Institucional do Estado de São Paulo. Não é apenas um site: é o sistema administrativo instituído pelo Decreto nº 68.742/2024, no marco da reforma das estruturas organizacionais iniciada pela Lei Complementar nº 1.395/2023. A Secretaria de Gestão e Governo Digital é o órgão central do sistema, sob coordenação da Subsecretaria de Gestão.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 274,
+      "text": "A reforma reorganiza as estruturas de 39 Secretarias e Autarquias e das 3 Agências Reguladoras estaduais, com o objetivo de simplificar hierarquias, ampliar amplitude de comando e eliminar duplicidades de atribuição. Até a data desta coleta, cerca de três quartos dos órgãos já haviam passado por reestruturação.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 275,
+      "text": "O portal é o canal por onde esse sistema se comunica com os órgãos. Sua função é orientar e instrumentalizar quem precisa propor, instruir ou executar uma reestruturação organizacional.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 276,
+      "text": "4.1.1 Quem usa o portal",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 277,
+      "text": "Público",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 278,
+      "text": "O que vem buscar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 279,
+      "text": "Dirigentes de órgãos e entidades",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 280,
+      "text": "Entender que estrutura podem montar e o que a lei permite",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 281,
+      "text": "Equipes de planejamento e de gestão de pessoas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 282,
+      "text": "Instruir a proposta de reestruturação e produzir os documentos exigidos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 283,
+      "text": "Áreas jurídicas dos órgãos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 284,
+      "text": "Verificar fundamento legal e requisitos formais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 285,
+      "text": "Servidores afetados por reestruturação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 286,
+      "text": "Entender o que acontece com o próprio cargo ou função",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 287,
+      "text": "Observação relevante: o público do SIORG é predominantemente interno ao Estado. Isso muda o padrão de exigência — não se trata de um portal de serviço ao cidadão, mas de uma ferramenta de trabalho para quem opera a máquina pública. O critério de sucesso é a conclusão de uma tarefa administrativa complexa, não o alcance de audiência.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 288,
+      "text": "4.1.2 Os conceitos que o portal precisa explicar",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 289,
+      "text": "A reforma criou um vocabulário próprio, e o portal é a fonte oficial dele. Quem chega precisa entender, no mínimo:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 290,
+      "text": "Termo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 291,
+      "text": "O que é",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 292,
+      "text": "QGCFC",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 293,
+      "text": "Quadro Geral de Cargos em Comissão e Funções de Confiança — o instrumento que organiza cargos e funções em um único sistema retribuitório",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 294,
+      "text": "CCESP",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 295,
+      "text": "Cargo em Comissão do Estado de São Paulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 296,
+      "text": "FCESP",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 297,
+      "text": "Função de Confiança do Estado de São Paulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 298,
+      "text": "Cotas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 299,
+      "text": "A quantidade de cargos e funções destinada a cada órgão ou entidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 300,
+      "text": "Níveis hierárquicos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 301,
+      "text": "A escala que define que tipo de unidade administrativa pode existir e em que posição",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 302,
+      "text": "Esse vocabulário é a razão pela qual o portal existe, e também a razão pela qual ele não pode ser apenas um repositório de decretos.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 303,
+      "text": "4.2 Arquitetura da informação e navegação",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 304,
+      "text": "O menu principal tem sete itens, dois deles com submenu:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 305,
+      "text": "Item de menu",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 306,
+      "text": "Submenu",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 307,
+      "text": "Natureza do rótulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 308,
+      "text": "Início",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 309,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 310,
+      "text": "Navegacional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 311,
+      "text": "Institucional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 312,
+      "text": "Sobre o SIORG · O que é QGCFC · Edital de Seleção",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 313,
+      "text": "Organizacional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 314,
+      "text": "Legislação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 315,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 316,
+      "text": "Documental",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 317,
+      "text": "Novas Estruturas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 318,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 319,
+      "text": "Documental",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 320,
+      "text": "Produtos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 321,
+      "text": "Material Instrucional · Modelo de Documentos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 322,
+      "text": "Organizacional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 323,
+      "text": "Transparência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 324,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 325,
+      "text": "Obrigação legal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 326,
+      "text": "Canais de comunicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 327,
+      "text": "Fale Conosco · Perguntas Frequentes · Ouvidoria",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 328,
+      "text": "Organizacional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 329,
+      "text": "4.2.1 Avaliação",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 330,
+      "text": "A estrutura é coerente e não tem itens redundantes. O problema está na natureza dos rótulos: seis dos sete descrevem tipos de conteúdo ou setores do órgão, e nenhum descreve uma tarefa que o usuário queira concluir.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 331,
+      "text": "Dois rótulos merecem atenção específica. “Produtos” é o item que abriga o material instrucional e os modelos de documento — ou seja, exatamente o que alguém instruindo um processo precisa. Mas “Produtos” não sugere isso; sugere catálogo de ofertas. E “Canais de comunicação” abriga as perguntas frequentes, que são o conteúdo mais consultado do portal, sob um rótulo que remete a contato, não a resposta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 332,
+      "text": "Na avaliação heurística, isso corresponde à violação da correspondência entre o sistema e o mundo real do usuário: o portal fala a língua de quem o construiu, não de quem o usa.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 333,
+      "text": "Vale registrar que essa não é uma exigência nossa. O vocabulário controlado publicado pelo próprio CMS estadual orienta a preferência por termos escolhidos com base na linguagem que o público usa no dia a dia. A recomendação sobre rótulos, portanto, é de aderência a um padrão vigente do Estado — ver capítulo 9.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 334,
+      "text": "4.3 Conteúdos e materiais de apoio",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 335,
+      "text": "O conteúdo técnico é o ponto mais forte do canal. A média é de 846 palavras por página, a mais alta dos dois canais analisados, e os conceitos da reforma são explicados com precisão.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 336,
+      "text": "Seção",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 337,
+      "text": "O que oferece",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 338,
+      "text": "Avaliação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 339,
+      "text": "Sobre o SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 340,
+      "text": "Apresentação do sistema e de sua base legal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 341,
+      "text": "Adequada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 342,
+      "text": "O que é QGCFC",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 343,
+      "text": "Explicação do instrumento central da reforma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 344,
+      "text": "Adequada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 345,
+      "text": "Legislação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 346,
+      "text": "Reunião dos atos normativos aplicáveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 347,
+      "text": "Adequada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 348,
+      "text": "Novas Estruturas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 349,
+      "text": "Estruturas já aprovadas e publicadas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 350,
+      "text": "Útil como referência prática",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 351,
+      "text": "Material Instrucional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 352,
+      "text": "Orientações para instruir os processos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 353,
+      "text": "Adequada, mas separada dos modelos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 354,
+      "text": "Modelo de Documentos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 355,
+      "text": "Modelos para as peças exigidas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 356,
+      "text": "Adequada, mas separada das orientações",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 357,
+      "text": "A observação central é de encadeamento: o material que explica como fazer e o modelo que se usa para fazer estão em páginas diferentes, ambas sob “Produtos”. Quem está instruindo um processo precisa alternar entre as duas. Reuni-las por etapa do processo, em vez de por tipo de arquivo, resolveria isso sem produzir nenhum conteúdo novo.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 358,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 359,
+      "text": "Figura 1 — Topo da seção Modelos de Documentos do SIORG. A página é diferente da inicial, mas a primeira tela é idêntica: a mesma campanha institucional ocupa todo o espaço visível antes da rolagem.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 360,
+      "text": "4.4 Organização e atualização das informações",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 361,
+      "text": "Dois problemas de atualização foram observados no momento da coleta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 362,
+      "text": "O primeiro: um aviso de manutenção datado de 22 de agosto ainda estava publicado em 03 de setembro. Além de vencido, ele trata do ambiente de edição da plataforma — informação de bastidor, que não deveria estar visível ao público em nenhum momento.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 363,
+      "text": "O segundo, mais estrutural: a primeira tela de todas as páginas é ocupada por uma campanha institucional geral do Estado, sem relação com reestruturação organizacional. Isso vale para a página inicial e também para as internas. Quem abre a lista de perguntas frequentes encontra primeiro uma campanha de prevenção de incêndios, e só alcança o conteúdo depois de rolar quase metade da página.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 364,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 365,
+      "text": "Figura 2 — Página inicial do SIORG em 03/09/2026. O espaço de maior visibilidade é ocupado por campanha institucional sem relação com o tema do canal. O aviso de cookies aparece na base.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 366,
+      "text": "4.5 Perguntas frequentes",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 367,
+      "text": "É o melhor componente do portal. São 67 perguntas distribuídas em quatro abas temáticas, com numeração hierárquica e remissão à legislação aplicável em cada resposta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 368,
+      "text": "Aba",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 369,
+      "text": "Assunto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 370,
+      "text": "1. Dúvidas Gerais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 371,
+      "text": "Lei Complementar nº 1.395/2023 e Decreto nº 68.742/24",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 372,
+      "text": "2. Regras e Procedimentos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 373,
+      "text": "Requisitos, jornadas, nomeação e substituição",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 374,
+      "text": "3. Quadro Geral: CCESP e FCESP",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 375,
+      "text": "Níveis hierárquicos, critérios e distinções entre cargo e função",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 376,
+      "text": "4. Instrução e Fluxo das Propostas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 377,
+      "text": "Como elaborar e encaminhar a proposta de revisão de estrutura",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 378,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 379,
+      "text": "Figura 3 — Lista de perguntas frequentes do SIORG. Estrutura temática, numeração hierárquica e ligação com a legislação. É o modelo que a BR também adota, e que deve ser preservado nos dois.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 380,
+      "text": "Uma pergunta merece destaque, porque aponta diretamente para a proposta do capítulo 8. A questão 1.4 é “Como saberei qual a quantidade de cotas que foram destinadas ao meu órgão ou entidade?”. Hoje ela é respondida com um texto explicativo. Poderia ser respondida com um número.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 381,
+      "text": "4.6 Canais de atendimento",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 382,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 383,
+      "text": "Onde está",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 384,
+      "text": "Observação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 385,
+      "text": "Fale Conosco",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 386,
+      "text": "Canais de comunicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 387,
+      "text": "Presente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 388,
+      "text": "Perguntas Frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 389,
+      "text": "Canais de comunicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 390,
+      "text": "Presente, e é o melhor conteúdo do portal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 391,
+      "text": "Ouvidoria",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 392,
+      "text": "Canais de comunicação, com link externo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 393,
+      "text": "Presente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 394,
+      "text": "Os três canais existem e estão agrupados. Não há, porém, indicação de prazo de resposta esperado nem de qual canal usar para cada tipo de assunto — o que faz com que a Ouvidoria receba dúvidas operacionais que o Fale Conosco resolveria mais rápido.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 395,
+      "text": "4.7 Identidade visual",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 396,
+      "text": "O portal adota o padrão do sistema de publicação do Estado: brasão, barra de governo, tipografia institucional e a ferramenta de acessibilidade no canto direito. O logotipo do canal é a palavra SIORG em tipografia de destaque.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 397,
+      "text": "A identidade é consistente com o Estado e não apresenta desvio. O que falta é elemento visual próprio que ajude a distinguir o SIORG dos demais canais da mesma Secretaria — hoje, retirado o logotipo, as páginas são visualmente indistinguíveis das da BR.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 398,
+      "text": "4.8 Desempenho e acessibilidade",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 399,
+      "text": "Medida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 400,
+      "text": "Celular",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 401,
+      "text": "Desktop",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 402,
+      "text": "Referência desejada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 403,
+      "text": "Desempenho",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 404,
+      "text": "65",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 405,
+      "text": "71",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 406,
+      "text": "90 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 407,
+      "text": "Acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 408,
+      "text": "83",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 409,
+      "text": "88",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 410,
+      "text": "100",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 411,
+      "text": "Boas práticas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 412,
+      "text": "73",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 413,
+      "text": "73",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 414,
+      "text": "90 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 415,
+      "text": "Otimização para busca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 416,
+      "text": "73",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 417,
+      "text": "73",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 418,
+      "text": "90 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 419,
+      "text": "O teste de acessibilidade encontrou 33 ocorrências na página inicial. A explicação de cada tipo, em linguagem corrente, está no capítulo 6. No conjunto das 14 páginas alcançadas, 175 das 390 imagens não têm descrição em texto — 45% do conteúdo visual do portal é inacessível a quem depende de leitor de tela.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 420,
+      "text": "4.9 Métricas de acesso e alcance",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 421,
+      "text": "Não foi possível verificar. O portal não expõe dado público de acesso e não tivemos acesso ao Google Search Console nem a ferramenta de análise de uso. A consequência está registrada no item 3.4: as tarefas prioritárias deste capítulo foram inferidas por método de especialista, não confirmadas por dado de uso real.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 422,
+      "text": "4.10 O que o dirigente esperaria encontrar",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 423,
+      "text": "Aplicando o método de tarefas prioritárias, estas são as perguntas mais prováveis de quem acessa o SIORG, e o que o portal oferece hoje para cada uma:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 424,
+      "text": "A pergunta de quem chega",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 425,
+      "text": "Respondida?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 426,
+      "text": "Onde está hoje",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 427,
+      "text": "Quantas cotas o meu órgão tem?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 428,
+      "text": "Explicada, não consultável",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 429,
+      "text": "Pergunta 1.4 das perguntas frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 430,
+      "text": "Que estrutura eu posso montar?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 431,
+      "text": "Sim, em texto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 432,
+      "text": "Abas 2 e 3 das perguntas frequentes, e Legislação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 433,
+      "text": "Que documento eu preciso produzir?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 434,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 435,
+      "text": "Modelo de Documentos, sob Produtos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 436,
+      "text": "Como instruo o processo?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 437,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 438,
+      "text": "Material Instrucional, sob Produtos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 439,
+      "text": "Quem já fez isso e como ficou?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 440,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 441,
+      "text": "Novas Estruturas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 442,
+      "text": "Em que etapa está a minha proposta?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 443,
+      "text": "Não",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 444,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 445,
+      "text": "Com quem eu falo sobre o meu caso?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 446,
+      "text": "Parcialmente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 447,
+      "text": "Fale Conosco, sem indicação de responsável ou prazo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 448,
+      "text": "4.11 Síntese do SIORG",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 449,
+      "text": "O que funciona",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 450,
+      "text": "O que falta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 451,
+      "text": "Conteúdo técnico denso e preciso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 452,
+      "text": "Perguntas frequentes bem estruturadas em quatro abas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 453,
+      "text": "Estruturas aprovadas publicadas como referência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 454,
+      "text": "Materiais e modelos disponíveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 455,
+      "text": "Identidade consistente com o padrão do Estado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 456,
+      "text": "Rótulos de menu que descrevam tarefas, não setores",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 457,
+      "text": "Ferramentas que ajudem a executar, e não só a entender",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 458,
+      "text": "Encadeamento entre orientação e modelo, por etapa do processo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 459,
+      "text": "Acompanhamento da situação da proposta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 460,
+      "text": "Descrição em texto em 45% das imagens",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 461,
+      "text": "Espaço nobre dedicado ao tema do canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 462,
+      "text": "Em uma frase: o SIORG é uma boa biblioteca sobre reestruturação organizacional, e precisa se tornar também uma bancada de trabalho.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 463,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 464,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 465,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 466,
+      "text": "PARTE II",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 467,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 468,
+      "text": "Programa de Bonificação por Resultados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 469,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 470,
+      "text": "5. BR",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 471,
+      "text": "5.1 O que é o portal e para que serve",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 472,
+      "text": "A BR é o Programa de Bonificação por Resultados do Governo do Estado de São Paulo, instituído pela Lei Complementar nº 1.361/2021. É um mecanismo de gestão por resultados: usa incentivo institucional para estimular melhoria de qualidade e eficiência do serviço público.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 473,
+      "text": "Em termos práticos, a bonificação é um benefício pecuniário eventual, distinto do salário do servidor, concedido conforme o cumprimento de metas previamente pactuadas. Não é gratificação permanente nem incorporável — é pagamento condicionado a resultado apurado.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 474,
+      "text": "O portal é o canal oficial do programa. Sua função é dupla, e essa dualidade explica a maior parte das dificuldades observadas: ele precisa servir tanto às áreas que pactuam indicadores e metas quanto ao servidor que quer saber se recebe, quanto e quando.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 475,
+      "text": "5.1.1 Como o programa se organiza",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 476,
+      "text": "Instância",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 477,
+      "text": "Papel",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 478,
+      "text": "Comissão Intersecretarial da BR (CIBR)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 479,
+      "text": "Define regras e critérios gerais do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 480,
+      "text": "Comissões Setoriais de BR (CSBR)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 481,
+      "text": "Conduzem a pactuação e a apuração em cada pasta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 482,
+      "text": "Secretaria de Gestão e Governo Digital",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 483,
+      "text": "Atua como órgão central do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 484,
+      "text": "5.1.2 Os dois públicos do canal",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 485,
+      "text": "Público",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 486,
+      "text": "O que vem buscar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 487,
+      "text": "Volume provável",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 488,
+      "text": "Servidor beneficiário",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 489,
+      "text": "Se tem direito, quanto vai receber, quando é pago, como contestar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 490,
+      "text": "Muito maior",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 491,
+      "text": "Áreas que pactuam metas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 492,
+      "text": "Como estruturar indicador, como funciona a apuração, o que é ICM e IACM",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 493,
+      "text": "Menor, mas recorrente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 494,
+      "text": "Comissões setoriais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 495,
+      "text": "Regras, prazos e atribuições formais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 496,
+      "text": "Pequeno e especializado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 497,
+      "text": "Sociedade e controle",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 498,
+      "text": "Indicadores, metas e resultados publicados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 499,
+      "text": "Eventual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 500,
+      "text": "A assimetria entre os dois primeiros públicos é o dado mais importante deste capítulo. Servidores beneficiários são milhares; as áreas que pactuam metas são dezenas. Mas a arquitetura atual do canal atende melhor ao segundo grupo.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 501,
+      "text": "5.1.3 O ciclo do programa",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 502,
+      "text": "O canal publica indicadores, metas e resultados dos ciclos BR 2024 e BR 2025, e dados específicos de 2024 para a Secretaria da Educação, a Secretaria da Segurança Pública e o Centro Paula Souza. A existência de ciclos anuais tem consequência editorial direta: uma resposta correta em um ciclo pode estar incorreta no seguinte, o que exige rotina de revisão — tema do capítulo 10.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 503,
+      "text": "5.2 Arquitetura da informação e navegação",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 504,
+      "text": "O menu principal tem cinco itens, três deles com submenu:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 505,
+      "text": "Item de menu",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 506,
+      "text": "Submenu",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 507,
+      "text": "Natureza do rótulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 508,
+      "text": "Institucional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 509,
+      "text": "Edital de Seleção",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 510,
+      "text": "Organizacional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 511,
+      "text": "Legislação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 512,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 513,
+      "text": "Documental",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 514,
+      "text": "Capacitação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 515,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 516,
+      "text": "Documental",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 517,
+      "text": "Transparência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 518,
+      "text": "Monitoramento do Programa · Dados da BR 2024: SEDUC, SSP e CEETEPS · Indicadores, Metas e Resultados — BR 2024 e BR 2025",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 519,
+      "text": "Obrigação legal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 520,
+      "text": "Canais de comunicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 521,
+      "text": "Ouvidoria · Privacidade e proteção de dados · Perguntas frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 522,
+      "text": "Organizacional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 523,
+      "text": "5.2.1 Avaliação",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 524,
+      "text": "Nenhum dos cinco itens de menu se dirige ao servidor beneficiário — o público majoritário do canal. Institucional, Legislação, Capacitação, Transparência e Canais de comunicação são categorias que fazem sentido para quem administra o programa.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 525,
+      "text": "O item “Institucional” aponta para um endereço vazio e só se resolve pelo submenu, o que na avaliação heurística configura falha de visibilidade do estado do sistema: o rótulo se comporta como link, mas não leva a lugar algum.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 526,
+      "text": "E o conteúdo mais relevante para o servidor — a aba RH e Pagamento das perguntas frequentes — está dois níveis abaixo, dentro de “Canais de comunicação”. Um servidor que queira saber se tem direito à bonificação precisaria supor que a resposta está sob um rótulo que fala de canais de contato.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 527,
+      "text": "Como no SIORG, a correção proposta é de aderência, não de inovação: o vocabulário controlado do CMS estadual já orienta o uso de termos baseados na linguagem do público. Ver capítulo 9.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 528,
+      "text": "5.3 Conteúdos disponíveis",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 529,
+      "text": "Aqui está o contraste mais marcante do diagnóstico. A média é de 111 palavras por página nas seções de navegação — o canal funciona como índice de links, encaminhando o usuário para outros lugares em vez de responder.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 530,
+      "text": "Ao mesmo tempo, o conteúdo denso existe: está concentrado na lista de perguntas frequentes, que é substancial e bem escrita. O canal não tem pouco conteúdo; tem o conteúdo todo em um só lugar, e páginas de navegação que não explicam nada por conta própria.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 531,
+      "text": "Seção",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 532,
+      "text": "O que oferece",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 533,
+      "text": "Avaliação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 534,
+      "text": "Institucional",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 535,
+      "text": "Sem página própria; apenas o Edital de Seleção no submenu",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 536,
+      "text": "Rótulo sem destino",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 537,
+      "text": "Legislação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 538,
+      "text": "Atos normativos do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 539,
+      "text": "Adequada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 540,
+      "text": "Capacitação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 541,
+      "text": "Materiais de capacitação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 542,
+      "text": "Adequada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 543,
+      "text": "Transparência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 544,
+      "text": "Monitoramento, dados de 2024 e indicadores e metas de 2024 e 2025",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 545,
+      "text": "Completa para o público técnico",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 546,
+      "text": "Perguntas frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 547,
+      "text": "37 perguntas em quatro abas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 548,
+      "text": "O melhor conteúdo do canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 549,
+      "text": "5.4 Organização e atualização das informações",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 550,
+      "text": "O mesmo problema estrutural do SIORG se repete: a primeira tela é ocupada por campanha institucional geral do Estado. E há um agravante próprio da BR.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 551,
+      "text": "O logotipo do canal é a sigla “BR” isolada, sem nenhuma expansão. Quem chega sem conhecer a sigla não descobre na página inicial que se trata de Bonificação por Resultados. Na avaliação heurística, isso é falha de reconhecimento em vez de memorização: o portal exige que o usuário já saiba o que veio procurar.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 552,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 553,
+      "text": "Figura 4 — Página inicial do canal BR em 03/09/2026. O logotipo traz apenas a sigla. O espaço de maior visibilidade é ocupado por campanha institucional sobre prevenção de incêndios, sem relação com bonificação. O menu, logo abaixo, não tem entrada dirigida ao servidor.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 554,
+      "text": "A página inicial concentra três achados em uma única tela: sigla não explicada, espaço nobre ocupado por assunto alheio, e menu sem porta de entrada para o público majoritário.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 555,
+      "text": "5.5 Perguntas frequentes",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 556,
+      "text": "São 37 perguntas organizadas em quatro abas temáticas. A estrutura é correta e demonstra que houve trabalho de segmentação por público — inclusive uma aba dedicada exclusivamente ao servidor.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 557,
+      "text": "Aba",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 558,
+      "text": "Perguntas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 559,
+      "text": "Público principal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 560,
+      "text": "Dúvidas Gerais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 561,
+      "text": "11",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 562,
+      "text": "Todos os públicos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 563,
+      "text": "Pactuação e Apuração",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 564,
+      "text": "3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 565,
+      "text": "Áreas que pactuam metas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 566,
+      "text": "Indicadores e Metas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 567,
+      "text": "13",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 568,
+      "text": "Áreas técnicas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 569,
+      "text": "RH e Pagamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 570,
+      "text": "10",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 571,
+      "text": "O servidor beneficiário",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 572,
+      "text": "5.5.1 A aba RH e Pagamento",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 573,
+      "text": "As dez perguntas dessa aba cobrem praticamente tudo o que um servidor precisa saber:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 574,
+      "text": "Como consultar se tem direito à bonificação",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 575,
+      "text": "Se servidores terceirizados têm direito",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 576,
+      "text": "O que conta como dias de efetivo exercício",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 577,
+      "text": "O que acontece em caso de mudança de secretaria, setor ou função durante o período de avaliação",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 578,
+      "text": "Quando a bonificação é paga",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 579,
+      "text": "Se o valor é fixo ou varia conforme o desempenho",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 580,
+      "text": "Se a bonificação é tributada",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 581,
+      "text": "Se afeta o cálculo de aposentadoria ou outros benefícios",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 582,
+      "text": "O que fazer se o pagamento não sair no prazo esperado",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 583,
+      "text": "Como contestar o valor ou a elegibilidade",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 584,
+      "text": "Esse é o conteúdo mais valioso do canal, e está bem feito. O diagnóstico não é sobre a qualidade dele — é sobre o fato de que ninguém que chegue ao portal descobre, pelo menu, que ele existe.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 585,
+      "text": "A lista completa das 37 perguntas, classificada por aba e por público, está no Anexo B, aba “FAQ da BR”.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 586,
+      "text": "5.6 Exatidão do conteúdo normativo",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 587,
+      "text": "A lista de perguntas frequentes da BR é o principal canal de orientação do programa e, em vários pontos, cita expressamente a norma que fundamenta a resposta. Isso é boa prática. Torna também cada resposta conferível — e a conferência revelou uma divergência que precisa de encaminhamento imediato.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 588,
+      "text": "5.6.1 Divergência entre a orientação publicada e a lei",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 589,
+      "text": "A resposta à pergunta “A BR está sujeita a tributação?” afirma, no canal oficial:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 590,
+      "text": "“Sim, a Bonificação por Resultados está sujeita aos descontos legais, como Imposto de Renda e contribuições previdenciárias.”",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 591,
+      "text": "A Lei Complementar nº 1.361/2021, que institui o programa, determina o contrário quanto à parte previdenciária. O artigo 2º, parágrafo único, estabelece:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 592,
+      "text": "“A Bonificação por Resultados — BR não integra nem se incorpora aos vencimentos, salários, proventos ou pensões para qualquer efeito e não será considerada para cálculo de qualquer vantagem pecuniária ou benefício, não incidindo sobre a referida bonificação os descontos previdenciários.”",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 593,
+      "text": "A divergência é objetiva: a orientação publicada informa incidência de contribuição previdenciária sobre uma verba que a lei expressamente isenta desse desconto.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 594,
+      "text": "5.6.2 Uma inconsistência interna que reforça o ponto",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 595,
+      "text": "A própria lista de perguntas contém outra resposta, correta, que aponta na direção oposta. À pergunta sobre efeito na aposentadoria, o canal responde:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 596,
+      "text": "“Não, a BR não é considerada para cálculo de aposentadoria ou benefícios previdenciários (Lei Complementar nº 1.361/2021).”",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 597,
+      "text": "As duas respostas convivem na mesma página e citam a mesma lei. A segunda está alinhada à norma; a primeira, não. Isso sugere que a divergência é erro editorial pontual, e não interpretação deliberada — o que facilita a correção, mas não reduz o risco enquanto ela estiver publicada.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 598,
+      "text": "5.6.3 Por que isso é o achado mais grave do diagnóstico",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 599,
+      "text": "Dimensão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 600,
+      "text": "Por quê",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 601,
+      "text": "Natureza",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 602,
+      "text": "Não é questão de forma, navegação ou desempenho. É informação incorreta sobre desconto na remuneração.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 603,
+      "text": "Alcance",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 604,
+      "text": "A BR atinge servidores das Secretarias de Estado, da Procuradoria Geral, da Controladoria Geral e das Autarquias.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 605,
+      "text": "Fonte",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 606,
+      "text": "Está no canal oficial do programa, que é a referência que o servidor consulta e que o RH indica.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 607,
+      "text": "Verificabilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 608,
+      "text": "Qualquer pessoa pode conferir a lei e o texto publicado. É achado de primeiro nível, na classificação da seção 3.2.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 609,
+      "text": "5.6.4 O que fazer, e o que não fazer",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 610,
+      "text": "A recomendação é de encaminhamento, não de correção direta pela nossa equipe. Alteração de orientação com efeito patrimonial exige validação da área competente.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 611,
+      "text": "Passo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 612,
+      "text": "Ação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 613,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 614,
+      "text": "Registrar a resposta atual, a fonte consultada e a divergência, preservando o histórico editorial",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 615,
+      "text": "2",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 616,
+      "text": "Submeter redação e fundamento à área técnica do programa e à área jurídica, indicando âmbito e eventuais exceções",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 617,
+      "text": "3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 618,
+      "text": "Publicar a versão revisada com data e responsável, e replicar a correção nos demais canais que reproduzam a mesma orientação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 619,
+      "text": "4",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 620,
+      "text": "Monitorar dúvidas recorrentes sobre o tema após a correção",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 621,
+      "text": "Ressalva importante sobre a mesma resposta: a menção ao Imposto de Renda é questão distinta e exige verificação própria. A lei citada trata da isenção previdenciária e não dispõe sobre incidência de imposto de renda. A parte relativa ao IR não deve ser suprimida nem confirmada automaticamente por causa da divergência previdenciária, e a conclusão não deve ser transportada para regimes especiais de outras carreiras.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 622,
+      "text": "Este documento identifica risco de orientação a partir do confronto entre texto publicado e norma citada. Não substitui parecer jurídico nem decide sobre direito individual à bonificação.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 623,
+      "text": "5.6.5 Outros pontos de conferência editorial",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 624,
+      "text": "Ponto observado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 625,
+      "text": "Situação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 626,
+      "text": "Encaminhamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 627,
+      "text": "Calendário do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 628,
+      "text": "A resposta sobre cronograma descreve prazos dos ciclos de 2024 e 2025, com apuração de 2025 prevista até 28/02/2026. Não há referência ao ciclo corrente.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 629,
+      "text": "Atualizar a cada ciclo e separar calendário vigente de histórico",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 630,
+      "text": "Resposta sobre terceirizados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 631,
+      "text": "Reproduz o alcance do artigo 1º da lei sem responder diretamente à pergunta feita",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 632,
+      "text": "Abrir com resposta direta, sem ampliar nem restringir o alcance legal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 633,
+      "text": "Consulta de direito individual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 634,
+      "text": "Remete à página de Legislação ou ao RH da própria pasta, sem caminho objetivo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 635,
+      "text": "Indicar o caminho concreto, ou explicitar que a consulta é feita pelo RH",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 636,
+      "text": "Erro de digitação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 637,
+      "text": "A resposta sobre dias de efetivo exercício traz “Depatamento” em vez de “Departamento”",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 638,
+      "text": "Correção editorial simples",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 639,
+      "text": "Registro de método: os dois primeiros pontos desta seção foram levantados a partir de análise independente e confirmados por nós na fonte primária — o texto publicado no canal em 03/09/2026 e o texto da Lei Complementar nº 1.361/2021 no repositório oficial da Assembleia Legislativa. Um terceiro apontamento recebido, relativo a condições de elegibilidade atribuídas ao artigo 11, não se confirmou: a citação encontrada refere-se ao artigo 11 do Decreto nº 66.772/2022, sobre não homologação de propostas, e está adequada ao contexto.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 640,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 641,
+      "text": "5.7 Canais de atendimento",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 642,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 643,
+      "text": "Destino",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 644,
+      "text": "Observação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 645,
+      "text": "Ouvidoria",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 646,
+      "text": "fala.sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 647,
+      "text": "Link externo, canal geral do Estado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 648,
+      "text": "Privacidade e proteção de dados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 649,
+      "text": "Controladoria Geral do Estado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 650,
+      "text": "Link externo; ver capítulo 6",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 651,
+      "text": "Perguntas frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 652,
+      "text": "Página interna",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 653,
+      "text": "Presente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 654,
+      "text": "Não há canal de atendimento próprio do programa. Uma dúvida operacional sobre bonificação entra pela Ouvidoria geral do Estado, junto de reclamações de qualquer natureza. Para um programa que atinge milhares de servidores e trata de remuneração, a ausência de um canal específico tende a gerar volume desnecessário na Ouvidoria e demora na resposta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 655,
+      "text": "5.8 Identidade visual",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 656,
+      "text": "O canal adota o mesmo padrão do sistema de publicação do Estado, sem desvio de identidade. O elemento distintivo é o logotipo “BR”.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 657,
+      "text": "Duas observações. A primeira já foi registrada: a sigla isolada não comunica o programa. A segunda é que, retirado o logotipo, o canal é visualmente indistinguível do SIORG e das demais páginas da Secretaria — o que é bom para consistência institucional e ruim para reconhecimento do programa.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 658,
+      "text": "5.9 Desempenho e acessibilidade",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 659,
+      "text": "As medidas abaixo foram tomadas diretamente no endereço do canal, e não na página inicial da Secretaria:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 660,
+      "text": "Medida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 661,
+      "text": "Celular",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 662,
+      "text": "Desktop",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 663,
+      "text": "Referência desejada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 664,
+      "text": "Desempenho",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 665,
+      "text": "45",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 666,
+      "text": "79",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 667,
+      "text": "90 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 668,
+      "text": "Acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 669,
+      "text": "85",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 670,
+      "text": "89",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 671,
+      "text": "100",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 672,
+      "text": "Boas práticas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 673,
+      "text": "77",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 674,
+      "text": "77",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 675,
+      "text": "90 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 676,
+      "text": "Otimização para busca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 677,
+      "text": "75",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 678,
+      "text": "75",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 679,
+      "text": "90 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 680,
+      "text": "Para referência, a página inicial da própria Secretaria (sggd.sp.gov.br) apresenta desempenho de 9 no celular. O problema de desempenho em dispositivos móveis é, portanto, mais grave no endereço da Secretaria do que no do canal BR — o que sugere causa comum na plataforma, e não no canal.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 681,
+      "text": "O teste de acessibilidade encontrou 3 ocorrências, mas duas delas são estruturais e se repetem em todas as páginas: ausência de título do documento e idioma não declarado. A explicação de cada uma, em linguagem corrente, está no capítulo 6.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 682,
+      "text": "A ausência de idioma declarado foi verificada em todas as 18 páginas alcançadas no endereço da Secretaria. É a ocorrência de correção mais simples e de maior efeito prático de todo o diagnóstico.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 683,
+      "text": "5.10 Métricas de acesso e alcance",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 684,
+      "text": "Não foi possível verificar, pelas mesmas razões do SIORG. Para a BR, a lacuna é ainda mais sensível: como o canal tem dois públicos com necessidades opostas, dado de uso seria o único jeito de confirmar qual deles efetivamente chega — e o que procura ao chegar.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 685,
+      "text": "5.11 O que o servidor esperaria encontrar",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 686,
+      "text": "A pergunta de quem chega",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 687,
+      "text": "Respondida?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 688,
+      "text": "Onde está hoje",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 689,
+      "text": "Eu tenho direito à bonificação?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 690,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 691,
+      "text": "Perguntas frequentes, abas Dúvidas Gerais e RH e Pagamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 692,
+      "text": "Quanto vou receber e como o valor é calculado?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 693,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 694,
+      "text": "Perguntas frequentes, aba Dúvidas Gerais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 695,
+      "text": "Quando é pago?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 696,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 697,
+      "text": "Perguntas frequentes, abas Dúvidas Gerais e RH e Pagamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 698,
+      "text": "Como consulto o meu caso?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 699,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 700,
+      "text": "Perguntas frequentes, aba RH e Pagamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 701,
+      "text": "Discordo do resultado. Como contesto?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 702,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 703,
+      "text": "Perguntas frequentes, aba RH e Pagamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 704,
+      "text": "A bonificação é tributada? Afeta a aposentadoria?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 705,
+      "text": "Sim",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 706,
+      "text": "Perguntas frequentes, aba RH e Pagamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 707,
+      "text": "Quais foram as metas da minha pasta?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 708,
+      "text": "Parcialmente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 709,
+      "text": "Transparência, em linguagem técnica",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 710,
+      "text": "O que é a BR, afinal?",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 711,
+      "text": "Sim, mas não na entrada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 712,
+      "text": "Perguntas frequentes, primeira questão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 713,
+      "text": "Sete das oito perguntas já têm resposta correta e escrita. Nenhuma delas aparece no menu, tem endereço próprio ou pode ser enviada por mensagem a um colega. É o resumo do diagnóstico da BR: o trabalho de conteúdo está feito, o de sinalização não começou.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 714,
+      "text": "5.12 Síntese da BR",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 715,
+      "text": "O que funciona",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 716,
+      "text": "O que falta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 717,
+      "text": "Lista de perguntas bem segmentada em quatro abas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 718,
+      "text": "Uma aba inteiramente dedicada ao servidor",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 719,
+      "text": "Respostas que citam a norma que as fundamenta, o que as torna conferíveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 720,
+      "text": "Transparência completa de indicadores, metas e resultados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 721,
+      "text": "Base legal e capacitação disponíveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 722,
+      "text": "Correção da resposta sobre tributação, que contraria a lei do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 723,
+      "text": "Uma porta de entrada para o servidor no menu principal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 724,
+      "text": "Expansão da sigla no logotipo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 725,
+      "text": "Calendário do ciclo corrente, separado do histórico",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 726,
+      "text": "Conteúdo próprio nas páginas de navegação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 727,
+      "text": "Endereço próprio para cada resposta central",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 728,
+      "text": "Canal de atendimento específico do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 729,
+      "text": "Idioma declarado e título de documento em todas as páginas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 730,
+      "text": "Espaço nobre dedicado ao tema do canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 731,
+      "text": "Em uma frase: a BR tem a resposta certa guardada no lugar errado.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 732,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 733,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 734,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 735,
+      "text": "PARTE III",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 736,
+      "text": "Comum aos dois canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 737,
+      "text": "Acessibilidade, proteção de dados e a plataforma compartilhada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 738,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 739,
+      "text": "6. Acessibilidade e proteção de dados",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 740,
+      "text": "Os dois temas deste capítulo são obrigações legais, não preferências de projeto, e as ocorrências são as mesmas nos dois canais — razão pela qual estão reunidas aqui.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 741,
+      "text": "6.1 A base legal da acessibilidade",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 742,
+      "text": "A Lei Brasileira de Inclusão (Lei nº 13.146/2015) determina, no artigo 63, que os sítios da administração pública sejam acessíveis à pessoa com deficiência. O Decreto nº 5.296/2004 e o Modelo de Acessibilidade em Governo Eletrônico (eMAG) detalham como. A referência técnica internacional adotada é a WCAG, no nível AA.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 743,
+      "text": "As explicações a seguir estão em linguagem corrente de propósito. Cada item traz o que o teste apontou, o que isso significa para uma pessoa real e por que precisa ser corrigido.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 744,
+      "text": "6.2 O que foi encontrado no SIORG",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 745,
+      "text": "Foram 33 ocorrências na página inicial, concentradas em três tipos:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 746,
+      "text": "O que o teste apontou",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 747,
+      "text": "O que isso significa na prática",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 748,
+      "text": "Ocorrências",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 749,
+      "text": "Identificadores repetidos na mesma página",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 750,
+      "text": "Cada elemento de uma página precisa ter um identificador único, como um número de matrícula. Quando dois elementos têm o mesmo, o leitor de tela usado por pessoas cegas pode ler o item errado, repetir conteúdo ou pular trechos inteiros. A pessoa não percebe que perdeu informação.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 751,
+      "text": "19",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 752,
+      "text": "Imagens sem descrição em texto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 753,
+      "text": "Toda imagem precisa de um texto que descreva o que ela mostra. Sem isso, quem usa leitor de tela ouve apenas a palavra “imagem” ou o nome do arquivo. Se a imagem carrega informação — um fluxo, um aviso, um número — essa informação não chega.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 754,
+      "text": "13",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 755,
+      "text": "Área de conteúdo principal declarada mais de uma vez",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 756,
+      "text": "A página informa duas vezes qual é a sua área de conteúdo principal. Quem navega por teclado ou leitor de tela usa esse marcador para pular direto ao conteúdo; com dois, o atalho deixa de funcionar de forma previsível.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 757,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 758,
+      "text": "No conjunto das 14 páginas alcançadas, 175 das 390 imagens não têm descrição em texto: 45% do conteúdo visual do portal é inacessível a quem depende de leitor de tela.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 759,
+      "text": "6.3 O que foi encontrado na BR",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 760,
+      "text": "Foram 3 ocorrências. Em número são poucas, mas duas são estruturais e se repetem em todas as páginas:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 761,
+      "text": "O que o teste apontou",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 762,
+      "text": "O que isso significa na prática",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 763,
+      "text": "A página não declara o idioma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 764,
+      "text": "Sem essa marcação, o leitor de tela não sabe que o texto está em português e pode pronunciá-lo com a fonética do inglês. O resultado é um áudio incompreensível. Foi verificado em todas as 18 páginas alcançadas.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 765,
+      "text": "Falta o título do documento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 766,
+      "text": "O título é a primeira coisa que o leitor de tela anuncia ao abrir a página, e é o que aparece na aba do navegador e nos favoritos. Sem ele, a pessoa não sabe onde está nem distingue uma página da outra ao voltar.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 767,
+      "text": "Conteúdo incorporado sem nome",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 768,
+      "text": "Blocos trazidos de outros sistemas precisam ter um nome. Sem ele, quem navega por leitor de tela ouve apenas “quadro”, sem saber o que há dentro nem se vale a pena entrar.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 769,
+      "text": "6.4 Por que isso importa além da lei",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 770,
+      "text": "Servidor com deficiência visual é servidor do Estado, e a Bonificação por Resultados é direito dele igualmente. Um canal que não descreve suas imagens e não declara seu idioma cria uma barreira de acesso a uma informação sobre remuneração. O risco não é apenas de descumprimento normativo: é de tratamento desigual no acesso a um direito.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 771,
+      "text": "6.5 Proteção de dados: três pontos de atenção",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 772,
+      "text": "Além da acessibilidade, foram identificados três pontos relativos à Lei Geral de Proteção de Dados (Lei nº 13.709/2018). Todos são verificáveis externamente e nenhum depende de acesso interno.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 773,
+      "text": "6.5.1 O aviso de cookies não oferece opção de recusa",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 774,
+      "text": "O aviso exibido nos dois canais traz apenas o botão “Aceitar”, e o texto afirma que “ao continuar, você declara aceitar”. Não há alternativa para recusar nem para escolher categorias.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 775,
+      "text": "O que a lei pede",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 776,
+      "text": "O que o aviso faz hoje",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 777,
+      "text": "Consentimento livre, informado e inequívoco (art. 8º)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 778,
+      "text": "Presume o consentimento pela simples navegação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 779,
+      "text": "Autorizações genéricas são nulas (art. 8º, §4º)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 780,
+      "text": "Oferece uma única opção, sem granularidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 781,
+      "text": "O titular pode revogar o consentimento (art. 8º, §5º)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 782,
+      "text": "Não há caminho visível para revogar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 783,
+      "text": "O aviso declara usar “apenas cookies essenciais”. Se isso for exato, a exigência de consentimento é menor — mas então o botão “Aceitar” é desnecessário e induz a erro. Vale confirmar tecnicamente quais cookies são de fato gravados antes de decidir a correção.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 784,
+      "text": "6.5.2 O encarregado de dados não é identificado",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 785,
+      "text": "A política de privacidade referenciada pelos canais explica o que é o Encarregado, também chamado DPO, mas não informa quem ocupa a função nem como falar com ele. A página inteira não contém um endereço de correio eletrônico.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 786,
+      "text": "O artigo 41, §1º da LGPD determina que a identidade e as informações de contato do encarregado sejam divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador. Hoje, o titular de dados que quisesse exercer um direito não teria a quem se dirigir.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 787,
+      "text": "6.5.3 Os dois canais apontam para políticas diferentes",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 788,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 789,
+      "text": "Política de privacidade referenciada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 790,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 791,
+      "text": "cms.sp.gov.br — política do sistema de publicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 792,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 793,
+      "text": "controladoriageral.sp.gov.br — política da Controladoria Geral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 794,
+      "text": "Dois canais da mesma Secretaria, tratando de dados de servidores do mesmo Estado, remetem a documentos distintos. Independentemente de qual seja o correto, a divergência é em si um problema de clareza.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 795,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 796,
+      "text": "7. O que é herança da plataforma",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 797,
+      "text": "Os dois canais são publicados pelo mesmo sistema, o HCL Digital Experience, hospedado em cms.sp.gov.br. Isso explica a semelhança de estrutura entre eles e um conjunto de defeitos que não são responsabilidade de quem edita o conteúdo.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 798,
+      "text": "Separar as duas naturezas é o que torna este diagnóstico acionável: uma parte se resolve com conteúdo e arquitetura, dentro de casa; outra depende de quem administra a plataforma.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 799,
+      "text": "O que aparece para quem visita",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 800,
+      "text": "Onde",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 801,
+      "text": "Natureza",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 802,
+      "text": "Blocos com o título “Visualizador do Conteúdo da Web”",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 803,
+      "text": "Ambos, cinco vezes na BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 804,
+      "text": "Plataforma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 805,
+      "text": "Botões da ferramenta de edição, como “Exibir menu do portlet” e “Ações”",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 806,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 807,
+      "text": "Plataforma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 808,
+      "text": "Códigos internos do sistema visíveis na página",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 809,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 810,
+      "text": "Plataforma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 811,
+      "text": "Trechos de programação não processados aparecendo como texto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 812,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 813,
+      "text": "Plataforma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 814,
+      "text": "Aviso “sua sessão está prestes a expirar” para visitante não identificado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 815,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 816,
+      "text": "Plataforma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 817,
+      "text": "Título visível com nome de arquivo interno",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 818,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 819,
+      "text": "Configuração",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 820,
+      "text": "Aviso de manutenção vencido ainda publicado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 821,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 822,
+      "text": "Edição",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 823,
+      "text": "Campanha institucional ocupando o espaço principal de toda página",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 824,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 825,
+      "text": "Edição",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 826,
+      "text": "Imagens sem descrição em texto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 827,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 828,
+      "text": "Edição",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 829,
+      "text": "As linhas marcadas como Plataforma atingem todos os canais do Estado que usam esse sistema, não apenas os nossos. Levá-las à equipe do CMS corrige de uma vez para muitos — e é argumento mais forte do que um pedido isolado da nossa Diretoria.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 830,
+      "text": "As linhas marcadas como Edição e Configuração estão ao nosso alcance e podem começar imediatamente.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 831,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 832,
+      "text": "8. SIORG como ferramenta de trabalho",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 833,
+      "text": "O pedido de incorporar ferramentas de apoio aos processos de transição e reestruturação — calculadora de cargos e cotas, simulador de estruturas, gerador de minutas — coincide com a principal lacuna identificada no capítulo 4: o portal explica a reestruturação sem ajudar a executá-la.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 834,
+      "text": "A própria lista de perguntas frequentes evidencia isso. A questão 1.4 é “Como saberei qual a quantidade de cotas que foram destinadas ao meu órgão ou entidade?”. Hoje é respondida com texto explicativo. Poderia ser respondida com um número.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 835,
+      "text": "8.1 As quatro ferramentas, por ordem de viabilidade",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 836,
+      "text": "Ferramenta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 837,
+      "text": "O que resolve",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 838,
+      "text": "O que precisa existir",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 839,
+      "text": "Viabilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 840,
+      "text": "Consulta de cotas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 841,
+      "text": "Informa de imediato quantas cotas o órgão tem e quantas já usou",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 842,
+      "text": "Base do QGCFC atualizada e consultável por sistema",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 843,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 844,
+      "text": "Gerador de minutas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 845,
+      "text": "Entrega o documento preenchido em vez do modelo em branco",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 846,
+      "text": "Os modelos já publicados, com campos preenchíveis",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 847,
+      "text": "Alta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 848,
+      "text": "Simulador de estrutura",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 849,
+      "text": "Permite montar a estrutura pretendida e verificar se cabe nas regras e nas cotas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 850,
+      "text": "Regras de nível e limite traduzidas da LC 1.395/2023 em lógica validada pelo jurídico",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 851,
+      "text": "Média",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 852,
+      "text": "Acompanhamento da proposta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 853,
+      "text": "Mostra em que etapa está o processo do órgão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 854,
+      "text": "Integração com o sistema onde a proposta tramita",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 855,
+      "text": "Baixa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 856,
+      "text": "8.2 Como apareceria para o usuário",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 857,
+      "text": "Uma tela única em que o dirigente escolhe o órgão, a unidade que pretende criar e a subordinação, e recebe de volta: cotas disponíveis, nível hierárquico permitido para aquela unidade, quantidade de cargos e funções necessários, e a informação direta de se a configuração cabe ou não. Da mesma tela, geraria a minuta e enviaria a proposta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 858,
+      "text": "Isso resolve, em um só lugar, o que hoje exige ler a Lei Complementar, percorrer 67 perguntas frequentes e baixar modelos em outra seção do portal.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 859,
+      "text": "8.3 Antes da tela, o bastidor",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 860,
+      "text": "Há um risco específico em propor ferramentas: publicar um botão cujo atendimento, dado ou aprovação ainda não existe. O usuário clica, a tela responde, e o processo por trás não sustenta a promessa. O resultado é pior do que não ter a ferramenta, porque cria expectativa e depois frustra.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 861,
+      "text": "A forma de evitar isso é mapear, para cada momento visível ao usuário, o que a equipe precisa garantir por trás:",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 862,
+      "text": "Momento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 863,
+      "text": "O usuário recebe",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 864,
+      "text": "O que precisa existir por trás",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 865,
+      "text": "Orientação inicial",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 866,
+      "text": "Finalidade, público, etapa e regras básicas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 867,
+      "text": "Responsável pela regra, redação validada, data de revisão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 868,
+      "text": "Busca de material",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 869,
+      "text": "O documento certo, identificado por versão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 870,
+      "text": "Acervo único, taxonomia, histórico, verificação de links",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 871,
+      "text": "Simulação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 872,
+      "text": "Resultado, inconsistências e limites",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 873,
+      "text": "Regras homologadas juridicamente, fonte de dados atualizada, testes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 874,
+      "text": "Encaminhamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 875,
+      "text": "Resumo conferível e caminho oficial",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 876,
+      "text": "Integração ou direcionamento autorizado, permissões, confirmação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 877,
+      "text": "Acompanhamento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 878,
+      "text": "Situação compreensível e próximo passo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 879,
+      "text": "Estados padronizados, origem atualizada, responsável e prazo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 880,
+      "text": "Aprendizado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 881,
+      "text": "Resposta útil e orientação revisada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 882,
+      "text": "Análise de dúvidas e erros, atualização da base de conhecimento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 883,
+      "text": "8.3.1 Três armadilhas a evitar",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 884,
+      "text": "Situação de processo sem responsável por atualizá-la cria falsa transparência. Enquanto não houver integração confiável, apresentar como informação de referência, com data da fonte.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 885,
+      "text": "Modelo novo publicado sem retirada controlada do antigo aumenta a chance de uso da versão errada. Manter o histórico, mas destacar sem ambiguidade qual é a versão válida.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 886,
+      "text": "Formulário sem fluxo de triagem apenas transfere a dificuldade do portal para a caixa de entrada da equipe.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 887,
+      "text": "8.4 Ressalva necessária",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 888,
+      "text": "Uma calculadora de cotas responde sobre estrutura de cargos, e o resultado tem efeito sobre pessoas. Ela precisa nascer com a regra validada pela área jurídica e com aviso explícito de que a simulação não substitui a análise formal. Sem isso, a ferramenta vira fonte de expectativa equivocada dentro dos órgãos — e o custo de desfazer isso é maior que o benefício de tê-la.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 889,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 890,
+      "text": "9. Proposta de padronização",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 891,
+      "text": "A demanda pedia identidade e estrutura visual minimamente padronizadas, sem que os canais perdessem suas particularidades. A saída é separar três camadas e definir o grau de liberdade de cada uma.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 892,
+      "text": "Camada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 893,
+      "text": "Grau de liberdade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 894,
+      "text": "O que inclui",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 895,
+      "text": "Casca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 896,
+      "text": "Idêntica em todos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 897,
+      "text": "Barra do Governo, cabeçalho, rodapé, tipografia, cores, botões, tabelas, ferramentas de acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 898,
+      "text": "Estrutura",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 899,
+      "text": "Mesma gramática",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 900,
+      "text": "Todo canal responde, na mesma ordem: o que é, para quem, como faço, materiais, perguntas frequentes, contato",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 901,
+      "text": "Conteúdo e ferramentas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 902,
+      "text": "Livre",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 903,
+      "text": "SIORG tem simulador e minutas; BR tem calendário e consulta de direito",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 904,
+      "text": "9.1 Padrões existentes e validação necessária",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 905,
+      "text": "O Governo do Estado de São Paulo dispõe de manuais oficiais de identidade visual e de um catálogo de componentes digitais no CMS estadual. Esse catálogo apresenta elementos reutilizáveis, como busca, acordeões, cards, tabelas e organograma, com documentação e orientações de uso. Não é adequado, portanto, afirmar que o Estado possui apenas um manual de marca.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 906,
+      "text": "Para SIORG e BR, a primeira providência recomendada é confirmar com a equipe do CMS quais componentes estão disponíveis, quais versões são utilizadas e quais requisitos de acessibilidade já foram testados na implementação atual.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 907,
+      "text": "Como referências complementares, podem ser avaliados o Padrão Digital de Governo Federal, disponibilizado com licenças abertas, e os serviços de design oferecidos pela Prodesp. Na consulta realizada, a versão 4 federal estava em desenvolvimento, com recomendação de uso da versão 3 para novas implementações.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 908,
+      "text": "A recomendação é priorizar o reaproveitamento dos recursos estaduais já suportados e avaliar adaptações apenas para necessidades não atendidas. Essa abordagem pode reduzir retrabalho e melhorar a consistência, sem dispensar testes de acessibilidade, compatibilidade e manutenção.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 909,
+      "text": "Endereços consultados: cms.sp.gov.br/cms/componentes (catálogo estadual); gov.br/ds (Padrão Digital de Governo Federal); next-ds.estaleiro.serpro.gov.br (situação da versão 4); solucoes.prodesp.sp.gov.br/sistema-integrado-design (Prodesp).",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 910,
+      "text": "9.2 O que o CMS estadual já oferece além dos componentes",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 911,
+      "text": "A verificação do catálogo revelou que o Estado mantém, no mesmo lugar, um conjunto de orientações de conteúdo mais amplo do que o esperado. Isso muda a natureza de várias recomendações deste diagnóstico: em vários pontos, não se trata de propor padrão novo, e sim de aplicar o que já está publicado.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 912,
+      "text": "Recurso disponível",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 913,
+      "text": "O que oferece",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 914,
+      "text": "Relevância para SIORG e BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 915,
+      "text": "Catálogo de componentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 916,
+      "text": "Elementos reutilizáveis com documentação: busca, acordeões, cards, tabelas, organograma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 917,
+      "text": "Base para a camada de casca proposta neste capítulo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 918,
+      "text": "Guia de tom e voz",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 919,
+      "text": "Orientação sobre como o Estado se comunica e que voz utiliza",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 920,
+      "text": "Referência para a linguagem dos dois canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 921,
+      "text": "Vocabulário controlado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 922,
+      "text": "Palavras que não devem ser usadas e termos preferidos, escolhidos a partir da linguagem do público",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 923,
+      "text": "Trata diretamente do problema de rótulos de menu apontado nos capítulos 4 e 5",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 924,
+      "text": "Boas práticas de edição",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 925,
+      "text": "Orientações para produção e manutenção de conteúdo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 926,
+      "text": "Insumo para a rotina editorial do capítulo 10",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 927,
+      "text": "Edição de serviços públicos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 928,
+      "text": "Orientação específica para páginas de serviço",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 929,
+      "text": "Aplicável às entradas de tarefa propostas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 930,
+      "text": "Treinamentos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 931,
+      "text": "Capacitação para quem publica nos canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 932,
+      "text": "Apoio à formação dos responsáveis por cada canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 933,
+      "text": "9.2.1 Uma observação que fortalece as recomendações anteriores",
+      "style": "Ttulo3",
+      "comments": []
+    },
+    {
+      "id": 934,
+      "text": "O vocabulário controlado do Estado orienta expressamente a preferência por termos escolhidos com base na linguagem que o público usa no dia a dia. É exatamente o princípio por trás do achado central deste diagnóstico.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 935,
+      "text": "Isso reposiciona a recomendação sobre os rótulos de menu. Não se trata de propor um critério novo nem de importar prática externa: trata-se de aplicar, nos dois canais, a orientação que o próprio Estado já publicou e mantém. O argumento na conversa com as áreas deixa de ser de preferência e passa a ser de aderência a um padrão vigente.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 936,
+      "text": "9.3 Referências internas que valem olhar",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 937,
+      "text": "Referência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 938,
+      "text": "O que faz bem",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 939,
+      "text": "O que aproveitar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 940,
+      "text": "Catálogo do CMS estadual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 941,
+      "text": "Componentes documentados, tom e voz, vocabulário controlado e boas práticas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 942,
+      "text": "Primeira fonte a consultar: já é suportado e mantido pelo Estado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 943,
+      "text": "servicos.sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 944,
+      "text": "Nota 100 em otimização para busca e boas práticas, 97 em acessibilidade e nenhuma violação nos testes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 945,
+      "text": "A régua técnica: prova que o padrão é atingível dentro do Estado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 946,
+      "text": "sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 947,
+      "text": "Barra de governo e identidade consistentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 948,
+      "text": "A casca institucional e a navegação de topo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 949,
+      "text": "Manual GESP / UNICOM",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 950,
+      "text": "Identidade de marca do Estado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 951,
+      "text": "Cores, brasão e aplicação — a camada já obrigatória",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 952,
+      "text": "gov.br/ds (federal)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 953,
+      "text": "Sistema de design aberto, com licença livre",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 954,
+      "text": "Referência complementar, para necessidade não atendida pelo catálogo estadual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 955,
+      "text": "Prodesp",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 956,
+      "text": "Serviços de design de interface",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 957,
+      "text": "Apoio especializado, quando houver necessidade de adaptação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 958,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 959,
+      "text": "Figura 5 — Portal sp.gov.br. Referência da casca institucional e da barra de governo que os dois canais já adotam parcialmente.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 960,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 961,
+      "text": "10. Como manter os canais vivos",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 962,
+      "text": "A demanda incluía pensar em como manter os canais ativos e atualizados ao longo do tempo. O aviso de manutenção vencido ainda publicado mostra que hoje não existe rotina: existe esforço pontual, que depende de alguém lembrar.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 963,
+      "text": "No caso da BR, a necessidade é maior, porque o programa tem ciclos anuais: uma resposta correta no ciclo de 2024 pode estar incorreta no de 2025.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 964,
+      "text": "Rotina",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 965,
+      "text": "Frequência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 966,
+      "text": "O que previne",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 967,
+      "text": "Dono nomeado para cada canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 968,
+      "text": "Permanente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 969,
+      "text": "Conteúdo envelhecer sem que ninguém perceba",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 970,
+      "text": "Data de revisão visível em cada página",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 971,
+      "text": "A cada publicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 972,
+      "text": "O usuário não saber se pode confiar na informação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 973,
+      "text": "Revisão da lista de perguntas frequentes",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 974,
+      "text": "A cada ciclo do programa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 975,
+      "text": "Resposta correta no ciclo anterior e errada no atual",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 976,
+      "text": "Varredura de avisos temporários",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 977,
+      "text": "Mensal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 978,
+      "text": "Campanha e aviso de manutenção esquecidos no ar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 979,
+      "text": "Auditoria técnica reproduzível",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 980,
+      "text": "Trimestral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 981,
+      "text": "Acessibilidade e desempenho piorarem sem ninguém notar",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 982,
+      "text": "Verificação nos assistentes de IA",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 983,
+      "text": "Trimestral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 984,
+      "text": "O assistente errar o procedimento e desinformar sobre um direito",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 985,
+      "text": "A auditoria técnica trimestral usa a mesma bateria de ferramentas desta coleta, descrita no capítulo 3. A comparação com a linha de base é automática e não depende de acesso que não temos.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 986,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 987,
+      "text": "11. Como saberemos se melhorou",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 988,
+      "text": "Um indicador por achado, com a medição de hoje como ponto de partida. Sem isso, daqui a um ano a discussão sobre se os canais melhoraram vira troca de opiniões.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 989,
+      "text": "Indicador",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 990,
+      "text": "Como medir",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 991,
+      "text": "Hoje",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 992,
+      "text": "6 meses",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 993,
+      "text": "12 meses",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 994,
+      "text": "Cliques até a resposta sobre direito à BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 995,
+      "text": "Contagem manual desde a página inicial",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 996,
+      "text": "3 ou mais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 997,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 998,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 999,
+      "text": "Ocorrências de acessibilidade — SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1000,
+      "text": "Teste automatizado trimestral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1001,
+      "text": "33",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1002,
+      "text": "10 ou menos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1003,
+      "text": "0",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1004,
+      "text": "Ocorrências de acessibilidade — BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1005,
+      "text": "Teste automatizado trimestral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1006,
+      "text": "3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1007,
+      "text": "0",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1008,
+      "text": "0",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1009,
+      "text": "Imagens com descrição em texto — SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1010,
+      "text": "Coletor próprio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1011,
+      "text": "55%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1012,
+      "text": "85%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1013,
+      "text": "100%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1014,
+      "text": "Desempenho no celular — SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1015,
+      "text": "Lighthouse trimestral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1016,
+      "text": "65",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1017,
+      "text": "75",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1018,
+      "text": "85",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1019,
+      "text": "Desempenho no celular — BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1020,
+      "text": "Lighthouse trimestral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1021,
+      "text": "45",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1022,
+      "text": "65",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1023,
+      "text": "80",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1024,
+      "text": "Palavras por página — BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1025,
+      "text": "Coletor próprio, páginas de navegação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1026,
+      "text": "111",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1027,
+      "text": "350",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1028,
+      "text": "500",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1029,
+      "text": "Páginas com descrição para busca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1030,
+      "text": "Coletor próprio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1031,
+      "text": "0%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1032,
+      "text": "80%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1033,
+      "text": "100%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1034,
+      "text": "Páginas com data de revisão visível",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1035,
+      "text": "Inventário editorial",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1036,
+      "text": "0%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1037,
+      "text": "70%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1038,
+      "text": "95%",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1039,
+      "text": "As nove linhas acima já têm ponto de partida medido e podem ser reapuradas a qualquer momento com a mesma bateria, sem depender de acesso concedido por terceiros.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1040,
+      "text": "As três linhas a seguir dependem de acesso que ainda não temos. Estão listadas de propósito: um indicador que não conseguimos medir é, ele próprio, o argumento para destravar o acesso.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1041,
+      "text": "Indicador",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1042,
+      "text": "Como medir",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1043,
+      "text": "Situação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1044,
+      "text": "Consultas que o servidor faz e não encontra resposta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1045,
+      "text": "Google Search Console",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1046,
+      "text": "Sem acesso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1047,
+      "text": "Onde o usuário desiste da tarefa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1048,
+      "text": "Ferramenta de análise de uso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1049,
+      "text": "Sem acesso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1050,
+      "text": "Dúvidas repetidas no Fale Conosco",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1051,
+      "text": "Classificação dos registros recebidos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1052,
+      "text": "Sem acesso",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1053,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1054,
+      "text": "12. Plano de ação",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 1055,
+      "text": "Quinze ações, ordenadas pela relação entre impacto e esforço. A primeira é a única classificada como crítica e tem prazo menor que as demais, porque trata de informação publicada que contraria a norma. Os prazos são deliberadamente folgados: em administração pública, entrega que depende de terceiros — equipe do CMS, jurídico, área de negócio — não cabe em ciclo curto, e prazo otimista que estoura custa mais credibilidade do que prazo longo cumprido. As ações de 30 dias são as que dependem apenas da nossa equipe.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1056,
+      "text": "#",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1057,
+      "text": "Ação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1058,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1059,
+      "text": "Impacto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1060,
+      "text": "Esforço",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1061,
+      "text": "Prazo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1062,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1063,
+      "text": "Encaminhar à área técnica e jurídica a revisão da resposta sobre tributação da BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1064,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1065,
+      "text": "Crítico",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1066,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1067,
+      "text": "15 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1068,
+      "text": "2",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1069,
+      "text": "Promover a aba RH e Pagamento da BR para o menu, com endereço próprio por resposta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1070,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1071,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1072,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1073,
+      "text": "30 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1074,
+      "text": "3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1075,
+      "text": "Substituir a campanha institucional do topo pelo conteúdo do próprio canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1076,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1077,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1078,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1079,
+      "text": "30 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1080,
+      "text": "4",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1081,
+      "text": "Solicitar acesso de leitura ao Search Console dos dois canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1082,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1083,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1084,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1085,
+      "text": "30 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1086,
+      "text": "5",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1087,
+      "text": "Retirar avisos temporários vencidos e implantar varredura mensal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1088,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1089,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1090,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1091,
+      "text": "30 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1092,
+      "text": "6",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1093,
+      "text": "Expandir a sigla no logotipo e na primeira tela da BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1094,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1095,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1096,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1097,
+      "text": "30 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1098,
+      "text": "7",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1099,
+      "text": "Declarar idioma e título de documento em todas as páginas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1100,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1101,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1102,
+      "text": "Baixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1103,
+      "text": "60 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1104,
+      "text": "8",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1105,
+      "text": "Revisar a lista de perguntas da BR contra o ciclo vigente e datar cada resposta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1106,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1107,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1108,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1109,
+      "text": "60 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1110,
+      "text": "9",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1111,
+      "text": "Reunir orientação e modelo por etapa do processo, no SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1112,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1113,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1114,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1115,
+      "text": "90 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1116,
+      "text": "10",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1117,
+      "text": "Incluir descrição em texto nas 175 imagens sem alternativa",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1118,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1119,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1120,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1121,
+      "text": "90 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1122,
+      "text": "11",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1123,
+      "text": "Levar à equipe do CMS os defeitos de plataforma e os pontos de LGPD",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1124,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1125,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1126,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1127,
+      "text": "120 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1128,
+      "text": "12",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1129,
+      "text": "Definir a gramática comum de seções e aplicá-la aos dois canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1130,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1131,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1132,
+      "text": "Médio",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1133,
+      "text": "120 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1134,
+      "text": "13",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1135,
+      "text": "Levantar com a equipe do CMS os componentes disponíveis e aplicar a casca comum",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1136,
+      "text": "Ambos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1137,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1138,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1139,
+      "text": "180 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1140,
+      "text": "14",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1141,
+      "text": "Prova de conceito da consulta de cotas e do gerador de minutas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1142,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1143,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1144,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1145,
+      "text": "180 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1146,
+      "text": "15",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1147,
+      "text": "Simulador de estrutura com regra validada juridicamente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1148,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1149,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1150,
+      "text": "Alto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1151,
+      "text": "270 dias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1152,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1153,
+      "text": "13. Próximos passos",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 1154,
+      "text": "Este diagnóstico foi feito a partir de fora, sem conversar com quem opera os canais. É de propósito: era o primeiro olhar pedido, sem direcionamento prévio. O passo seguinte é confrontá-lo com quem conhece o negócio de cada canal — o roteiro está no Anexo D.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1155,
+      "text": "13.1 Encaminhamentos que ultrapassam a Diretoria",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1156,
+      "text": "Assunto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1157,
+      "text": "Com quem",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1158,
+      "text": "Por quê",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1159,
+      "text": "Defeitos da plataforma de publicação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1160,
+      "text": "Equipe do cms.sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1161,
+      "text": "Atingem todos os canais do Estado que usam o sistema",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1162,
+      "text": "Aviso de cookies e identificação do encarregado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1163,
+      "text": "Equipe do CMS e Controladoria Geral",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1164,
+      "text": "Conformidade com a LGPD, de alcance maior que os nossos canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1165,
+      "text": "Componentes, tom e voz e vocabulário controlado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1166,
+      "text": "Equipe do cms.sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1167,
+      "text": "Confirmar o que já é suportado antes de propor adaptação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1168,
+      "text": "Base do QGCFC em formato consultável",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1169,
+      "text": "Subsecretaria de Gestão",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1170,
+      "text": "Pré-requisito das ferramentas propostas no capítulo 8",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1171,
+      "text": "13.2 O que a nossa equipe pode começar imediatamente",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1172,
+      "text": "As ações de 1 a 5 do plano dependem apenas de conteúdo e de edição, e podem começar antes das conversas de validação. Juntas, elas atacam o achado central — o conteúdo sem sinalização — e o problema mais visível para quem entra nos canais, que é a primeira tela ocupada por assunto alheio.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1173,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1174,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1175,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1176,
+      "text": "ANEXOS",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1177,
+      "text": "Anexos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1178,
+      "text": "Medições brutas, planilha, capturas e roteiro de entrevista",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1179,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1180,
+      "text": "Anexo A — Medições brutas",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 1181,
+      "text": "Todas as medições foram salvas em arquivo e podem ser reexecutadas com a mesma ferramenta para comparação futura. Os arquivos estão na pasta de evidências do projeto, organizados por canal.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1182,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1183,
+      "text": "Arquivo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1184,
+      "text": "O que contém",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1185,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1186,
+      "text": "siorg.sp.gov.br/lh_mobile.json e lh_desktop.json",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1187,
+      "text": "Relatório completo do Lighthouse, com todas as auditorias",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1188,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1189,
+      "text": "siorg.sp.gov.br/dados.json",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1190,
+      "text": "Sinais de cada uma das 14 páginas alcançadas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1191,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1192,
+      "text": "canal-br/lh_mobile.json e lh_desktop.json",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1193,
+      "text": "Relatório do Lighthouse medido diretamente no endereço do canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1194,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1195,
+      "text": "canal-br/a11y.json",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1196,
+      "text": "Resultado do teste de acessibilidade, com o seletor de cada ocorrência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1197,
+      "text": "SGGD",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1198,
+      "text": "sggd.sp.gov.br/dados.json",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1199,
+      "text": "Sinais das 18 páginas alcançadas no endereço da Secretaria",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1200,
+      "text": "Referência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1201,
+      "text": "servicos.sp.gov.br/",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1202,
+      "text": "Medição do canal usado como referência interna",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1203,
+      "text": "A.1 Síntese das notas",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1204,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1205,
+      "text": "Desempenho celular",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1206,
+      "text": "Desempenho desktop",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1207,
+      "text": "Acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1208,
+      "text": "Boas práticas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1209,
+      "text": "Busca",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1210,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1211,
+      "text": "65",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1212,
+      "text": "71",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1213,
+      "text": "83 / 88",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1214,
+      "text": "73",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1215,
+      "text": "73",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1216,
+      "text": "BR (endereço /br)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1217,
+      "text": "45",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1218,
+      "text": "79",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1219,
+      "text": "85 / 89",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1220,
+      "text": "77",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1221,
+      "text": "75",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1222,
+      "text": "SGGD (página inicial)",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1223,
+      "text": "9",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1224,
+      "text": "82",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1225,
+      "text": "87 / 91",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1226,
+      "text": "88 / 77",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1227,
+      "text": "75",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1228,
+      "text": "servicos.sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1229,
+      "text": "59",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1230,
+      "text": "88",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1231,
+      "text": "97 / 97",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1232,
+      "text": "100",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1233,
+      "text": "100",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1234,
+      "text": "sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1235,
+      "text": "85",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1236,
+      "text": "—",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1237,
+      "text": "91",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1238,
+      "text": "77",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1239,
+      "text": "83",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1240,
+      "text": "Onde há dois números separados por barra, o primeiro é a medição no celular e o segundo no desktop. A medição da página inicial da Secretaria foi mantida por transparência: mostra que o problema de desempenho no celular é mais grave ali do que no canal BR, o que sugere causa comum na plataforma.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1241,
+      "text": "A.2 Ocorrências de acessibilidade por tipo",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1242,
+      "text": "Canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1243,
+      "text": "Tipo de ocorrência",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1244,
+      "text": "Quantidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1245,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1246,
+      "text": "Identificadores repetidos na mesma página",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1247,
+      "text": "19",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1248,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1249,
+      "text": "Imagens sem descrição em texto",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1250,
+      "text": "13",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1251,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1252,
+      "text": "Área de conteúdo principal declarada mais de uma vez",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1253,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1254,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1255,
+      "text": "Falta o título do documento",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1256,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1257,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1258,
+      "text": "Idioma da página não declarado",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1259,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1260,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1261,
+      "text": "Conteúdo incorporado sem nome",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1262,
+      "text": "1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1263,
+      "text": "A.3 Acesso dos rastreadores de inteligência artificial",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1264,
+      "text": "Nenhum dos dois canais bloqueia rastreadores de IA, e ambos publicam o arquivo llms.txt, que descreve a estrutura do site para esses sistemas. Isso é incomum e é uma vantagem: quando um servidor pergunta a um assistente sobre bonificação, nada impede que o conteúdo oficial seja usado na resposta. Falta apenas que ele esteja escrito de forma citável.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1265,
+      "text": "Rastreador",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1266,
+      "text": "O que alimenta",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1267,
+      "text": "SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1268,
+      "text": "BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1269,
+      "text": "GPTBot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1270,
+      "text": "Treinamento do ChatGPT",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1271,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1272,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1273,
+      "text": "OAI-SearchBot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1274,
+      "text": "Busca do ChatGPT",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1275,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1276,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1277,
+      "text": "ClaudeBot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1278,
+      "text": "Treinamento do Claude",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1279,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1280,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1281,
+      "text": "PerplexityBot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1282,
+      "text": "Índice do Perplexity",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1283,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1284,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1285,
+      "text": "Google-Extended",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1286,
+      "text": "Gemini",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1287,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1288,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1289,
+      "text": "Bingbot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1290,
+      "text": "Bing, que alimenta o Copilot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1291,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1292,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1293,
+      "text": "CCBot",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1294,
+      "text": "Common Crawl, base de vários modelos",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1295,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1296,
+      "text": "Permitido",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1297,
+      "text": "A lista completa dos treze rastreadores verificados está no Anexo B, aba “Crawlers de IA”.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1298,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1299,
+      "text": "Anexo B — Planilha de sinais por página",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 1300,
+      "text": "Entregue como arquivo separado: Anexo_B_Sinais_por_pagina.xlsx. Cinco abas, com filtro ativado em todas.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1301,
+      "text": "Aba",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1302,
+      "text": "Linhas",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1303,
+      "text": "Conteúdo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1304,
+      "text": "Sinais por página",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1305,
+      "text": "32",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1306,
+      "text": "Uma linha por página alcançada, com título, descrição, endereço canônico, idioma, palavras, imagens e dados estruturados",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1307,
+      "text": "Notas por canal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1308,
+      "text": "19",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1309,
+      "text": "Todas as notas de Lighthouse dos cinco endereços medidos, com a referência desejada",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1310,
+      "text": "Acessibilidade",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1311,
+      "text": "21",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1312,
+      "text": "Ocorrências por código de teste, com a mensagem original de cada uma",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1313,
+      "text": "Crawlers de IA",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1314,
+      "text": "13",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1315,
+      "text": "Situação de cada rastreador de inteligência artificial nos dois canais",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1316,
+      "text": "FAQ da BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1317,
+      "text": "37",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1318,
+      "text": "Todas as perguntas, classificadas por aba temática e por público principal",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1319,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1320,
+      "text": "Anexo C — Capturas de tela",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 1321,
+      "text": "As capturas deste documento foram validadas uma a uma. Registramos o que foi possível obter e o que ficou pendente, para que a próxima versão complete o conjunto.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1322,
+      "text": "Tela",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1323,
+      "text": "Situação",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1324,
+      "text": "Onde aparece",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1325,
+      "text": "Seção Modelos de Documentos do SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1326,
+      "text": "Obtida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1327,
+      "text": "Figura 1",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1328,
+      "text": "Página inicial do SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1329,
+      "text": "Obtida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1330,
+      "text": "Figura 2",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1331,
+      "text": "Lista de perguntas frequentes do SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1332,
+      "text": "Obtida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1333,
+      "text": "Figura 3",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1334,
+      "text": "Página inicial do canal BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1335,
+      "text": "Obtida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1336,
+      "text": "Figura 4",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1337,
+      "text": "Portal sp.gov.br",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1338,
+      "text": "Obtida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1339,
+      "text": "Figura 5",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1340,
+      "text": "Seção Novas Estruturas do SIORG",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1341,
+      "text": "Obtida",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1342,
+      "text": "Pasta de evidências",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1343,
+      "text": "Páginas internas da BR",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1344,
+      "text": "Pendente",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1345,
+      "text": "Ver observação abaixo",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1346,
+      "text": "Observação de método: as páginas internas do canal BR não puderam ser capturadas de forma automatizada. O endereço é protegido por sistema de segurança que devolve uma tela de verificação a navegadores automatizados, mesmo após carregar a página inicial com sucesso. Foram tentadas três abordagens, inclusive com continuidade de sessão a partir da home. A página inicial da BR foi obtida e está na Figura 4. As telas internas — perguntas frequentes, legislação, capacitação e transparência — precisam ser capturadas manualmente. O conteúdo dessas páginas foi analisado por outros meios e está integralmente refletido no capítulo 5 e no Anexo B.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1347,
+      "text": "Todas as capturas descartadas por não corresponderem à página pretendida foram mantidas em pasta separada, com registro do motivo, para que não sejam usadas por engano em versões futuras.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1348,
+      "text": "",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1349,
+      "text": "Anexo D — Roteiro de entrevista com os responsáveis",
+      "style": "Ttulo1",
+      "comments": []
+    },
+    {
+      "id": 1350,
+      "text": "Roteiro para as conversas de validação com quem conhece o negócio de cada canal. A ordem é intencional: começa pelo que a pessoa sabe e nós não, e só no fim apresenta as nossas hipóteses — para não contaminar a resposta.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1351,
+      "text": "D.1 Abertura: o que só quem opera sabe",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1352,
+      "text": "Como você descreveria, em uma frase, para que serve este canal?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1353,
+      "text": "Quem você imagina que entra aqui? Consegue lembrar de uma pessoa concreta?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1354,
+      "text": "Qual é a dúvida que mais chega pelo Fale Conosco, pela Ouvidoria ou por telefone?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1355,
+      "text": "Existe alguma dúvida que chega tanto que você já responde de cor?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1356,
+      "text": "D.2 Conteúdo e manutenção",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1357,
+      "text": "Quem publica no canal hoje? Com que frequência?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1358,
+      "text": "Quando foi a última revisão da lista de perguntas frequentes?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1359,
+      "text": "Há algum conteúdo que você sabe que está desatualizado e não foi corrigido? Por quê?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1360,
+      "text": "Existe algum conteúdo que você gostaria de publicar e não conseguiu? O que impediu?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1361,
+      "text": "D.3 Sistemas e dados",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1362,
+      "text": "Existe consulta individual de direito à bonificação em algum sistema? Se existe, por que não está ligada ao canal?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1363,
+      "text": "A base do Quadro Geral de Cargos existe em formato consultável por sistema? Quem a mantém?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1364,
+      "text": "Há alguma restrição para publicar o calendário do ciclo antes da apuração?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1365,
+      "text": "Alguém acompanha quantas pessoas acessam o canal? Como?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1366,
+      "text": "D.4 Histórico: a pergunta mais importante",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1367,
+      "text": "O que já foi tentado antes neste canal e não funcionou?",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1368,
+      "text": "Essa pergunta costuma explicar a estrutura atual melhor do que qualquer análise externa. Uma escolha que parece estranha de fora quase sempre resolveu um problema real que não está documentado. Perguntar antes de propor evita repetir um erro já conhecido e evita propor algo que já foi vetado por um motivo que ninguém registrou.",
+      "style": null,
+      "comments": []
+    },
+    {
+      "id": 1369,
+      "text": "D.5 Fechamento: validação das nossas hipóteses",
+      "style": "Ttulo2",
+      "comments": []
+    },
+    {
+      "id": 1370,
+      "text": "Apresentar o achado central e perguntar se faz sentido com o que a pessoa observa na prática.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1371,
+      "text": "Apresentar as entradas de menu propostas e perguntar se faltou alguma.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1372,
+      "text": "Perguntar o que, na visão dela, deveria ser prioridade — e comparar com a nossa ordenação.",
+      "style": "PargrafodaLista",
+      "comments": []
+    },
+    {
+      "id": 1373,
+      "text": "Sugestão de condução: fazer os blocos D.1 a D.4 sem mostrar este documento. Só abrir o diagnóstico no bloco D.5. Assim a percepção de quem opera o canal chega sem influência da nossa leitura, e a divergência entre as duas versões — se houver — é em si um achado.",
+      "style": null,
+      "comments": []
+    }
+  ],
+  "comments": []
+}

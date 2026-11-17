@@ -1,0 +1,53 @@
+Coordenadoria de Conhecimento Aplicado 1 Coordenador CCESP 1.13
+  2 Assessor II FCESP 2.10
+Coordenadoria de Administração 1 Coordenador CCESP 1.13
+  2 Assessor II FCESP 2.10
+       
+SUBSECRETARIA DE GESTÃO CORPORATIVA 1 Subsecretário CCESP 1.17
+Assessoria Técnica 1 Chefe de Assessoria FCESP 1.14
+  2 Assessor Especial I FCESP 2.13
+  1 Assessor Especial I CCESP 2.13
+  2 Assessor III CCESP 2.11
+  3 Assessor II CCESP 2.10
+  1 Assessor II FCESP 2.10
+  2 Assessor I CCESP 2.09
+  2 Assistente Técnico III CCESP 2.07
+  1 Assistente Técnico II CCESP 2.06
+Seção de Apoio Administrativo 1 Chefe de Seção CCESP 1.05
+       
+DIRETORIA GERAL DE TECNOLOGIA E ADMINISTRAÇÃO 1 Diretor Geral CCESP 1.16
+       
+DIRETORIA DE ADMINISTRAÇÃO 1 Diretor CCESP 1.15
+Coordenadoria de Licitações e Contratos 1 Coordenador CCESP 1.13
+  1 Assistente Técnico III CCESP 2.07
+  1 Assistente IV FCESP 2.04
+Divisão de Licitações 1 Chefe de Divisão CCESP 1.10
+Divisão de Contratos 1 Chefe de Divisão CCESP 1.10
+Divisão de Fiscalização 1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico III CCESP 2.07
+  1 Assistente Técnico II FCESP 2.06
+Coordenadoria de Orçamento e Finanças 1 Coordenador CCESP 1.13
+  1 Assistente IV CCESP 2.04
+Divisão de Orçamento 1 Chefe de Divisão CCESP 1.10
+  1 Assistente IV CCESP 2.04
+Divisão de Finanças 1 Chefe de Divisão CCESP 1.10
+  1 Assistente Técnico II FCESP 2.06
+  1 Assistente IV CCESP 2.04
+  2 Assistente II CCESP 2.02
+       
+DIRETORIA DE SERVIÇOS E TIC 1 Diretor CCESP 1.15
+  1 Assessor II CCESP 2.10
+  1 Assistente IV CCESP 2.04
+Coordenadoria de Infraestrutura 1 Coordenador CCESP 1.13
+  1 Assistente Técnico III FCESP 2.07
+  1 Assistente IV FCESP 2.04
+  2 Assistente IV CCESP 2.04
+  1 Assistente I FCESP 2.01
+Divisão de Administração Predial 1 Chefe de Divisão CCESP 1.10
+Divisão de Engenharia 1 Chefe de Divisão CCESP 1.10
+Coordenadoria de Bens e Serviços 1 Coordenador CCESP 1.13
+Divisão de Gestão Patrimonial e Almoxarifado 1 Chefe de Divisão CCESP 1.10
+  1 Assistente IV CCESP 2.04
+Este documento pode ser veriﬁcado pelo código 2026.07.14.1.1.8.202.1982002
+em https://www.doe.sp.gov.br/autenticidade 30/40 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).

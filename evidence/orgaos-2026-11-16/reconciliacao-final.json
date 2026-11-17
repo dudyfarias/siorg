@@ -1,0 +1,3923 @@
+{
+  "pge": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70687-de-16-de-junho-de-2026-202606161182021921346",
+    "sheetComparison": {
+      "matches": false,
+      "workbookRows": 270,
+      "officialRows": 270,
+      "onlyOrExcessInWorkbook": [
+        [
+          "departamentodegestaodeprojetos",
+          "chefededepartamento",
+          "CCESP 1.12",
+          1
+        ],
+        [
+          "departamentodegestaodeprocessos",
+          "chefededepartamento",
+          "FCESP 1.12",
+          1
+        ]
+      ],
+      "onlyOrExcessInAct": [
+        [
+          "departamentodegestaodeprojetos",
+          "chefede",
+          "CCESP 1.12",
+          1
+        ],
+        [
+          "departamentodegestaodeprocessos",
+          "chefede",
+          "FCESP 1.12",
+          1
+        ]
+      ],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 270,
+        "officialRows": 270,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.687/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "128",
+          "quotaCents": "35400"
+        },
+        "FCESP": {
+          "quantity": "184",
+          "quotaCents": "23850"
+        }
+      },
+      "aggregate": {
+        "quantity": "312",
+        "quotaCents": "59250"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "128",
+          "quotaCents": "35400"
+        },
+        "FCESP": {
+          "quantity": "184",
+          "quotaCents": "23850"
+        }
+      },
+      "aggregate": {
+        "quantity": "312",
+        "quotaCents": "59250"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "128",
+          "quotaCents": "35400"
+        },
+        "FCESP": {
+          "quantity": "184",
+          "quotaCents": "23850"
+        }
+      },
+      "aggregate": {
+        "quantity": "312",
+        "quotaCents": "59250"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "241",
+          "quotaCents": "41250"
+        },
+        "FCESP": {
+          "quantity": "66",
+          "quotaCents": "11200"
+        }
+      },
+      "aggregate": {
+        "quantity": "307",
+        "quotaCents": "52450"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 0,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [
+      "Duas linhas da publicação trazem a denominação “Chefe de”. O texto foi mantido como publicado."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.687/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70687-de-16-de-junho-de-2026-202606161182021921346"
+      },
+      {
+        "label": "Decreto nº 70.687/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70687-de-16-de-junho-de-2026-202606161182021921346"
+      },
+      {
+        "label": "Decreto nº 70.687/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70687-16.06.2026.html"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      }
+    ]
+  },
+  "scti": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70715-de-26-de-junho-de-2026-202606261182021950077",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 28,
+      "officialRows": 28,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 28,
+        "officialRows": 28,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.715/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "36",
+          "quotaCents": "15750"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "15750"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "36",
+          "quotaCents": "15750"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "15750"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "36",
+          "quotaCents": "15750"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "15750"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "39",
+          "quotaCents": "11550"
+        },
+        "FCESP": {
+          "quantity": "10",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "49",
+        "quotaCents": "14550"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 4,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.715/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70715-de-26-de-junho-de-2026-202606261182021950077"
+      },
+      {
+        "label": "Decreto nº 70.715/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70715-de-26-de-junho-de-2026-202606261182021950077"
+      },
+      {
+        "label": "Decreto nº 70.715/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70715-26.06.2026.html"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      },
+      {
+        "label": "Estrutura organizacional · Decreto-base",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69333-29.01.2025.html"
+      },
+      {
+        "label": "Decreto nº 70.683/2026 · Competências e conselho",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70683-16.06.2026.html"
+      }
+    ]
+  },
+  "sde": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70138-de-1-de-dezembro-de-2025-202512011182021501498",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 135,
+      "officialRows": 135,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 135,
+        "officialRows": 135,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.138/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "197",
+          "quotaCents": "59325"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "197",
+        "quotaCents": "59325"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "197",
+          "quotaCents": "59325"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "197",
+        "quotaCents": "59325"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "197",
+          "quotaCents": "59325"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "197",
+        "quotaCents": "59325"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "164",
+          "quotaCents": "47050"
+        },
+        "FCESP": {
+          "quantity": "20",
+          "quotaCents": "5700"
+        }
+      },
+      "aggregate": {
+        "quantity": "184",
+        "quotaCents": "52750"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 13,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.138/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70138-de-1-de-dezembro-de-2025-202512011182021501498"
+      },
+      {
+        "label": "Decreto nº 70.138/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70138-de-1-de-dezembro-de-2025-202512011182021501498"
+      },
+      {
+        "label": "Decreto nº 70.138/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70138-01.12.2025.html"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      },
+      {
+        "label": "Estrutura organizacional · Decreto-base",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69332-28.01.2025.html"
+      }
+    ]
+  },
+  "sduh": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70115-de-18-de-novembro-de-2025-202511181182021478368",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 124,
+      "officialRows": 124,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 124,
+        "officialRows": 124,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.115/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "111",
+          "quotaCents": "42525"
+        },
+        "FCESP": {
+          "quantity": "34",
+          "quotaCents": "4695"
+        }
+      },
+      "aggregate": {
+        "quantity": "145",
+        "quotaCents": "47220"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "111",
+          "quotaCents": "42525"
+        },
+        "FCESP": {
+          "quantity": "34",
+          "quotaCents": "4695"
+        }
+      },
+      "aggregate": {
+        "quantity": "145",
+        "quotaCents": "47220"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "111",
+          "quotaCents": "42525"
+        },
+        "FCESP": {
+          "quantity": "34",
+          "quotaCents": "4695"
+        }
+      },
+      "aggregate": {
+        "quantity": "145",
+        "quotaCents": "47220"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "62",
+          "quotaCents": "18125"
+        },
+        "FCESP": {
+          "quantity": "17",
+          "quotaCents": "4800"
+        }
+      },
+      "aggregate": {
+        "quantity": "79",
+        "quotaCents": "22925"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 12,
+    "appliedActs": [
+      {
+        "id": "sduh-resolucao-80-2025",
+        "moves": [
+          [
+            "NÚCLEO DE TRANSPORTE E LOGÍSTICA",
+            "SECRETARIA EXECUTIVA",
+            "FCESP 2.01",
+            "Assistente I",
+            1
+          ]
+        ],
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-80-de-03-de-dezembro-de-2025-20251203112212201507189",
+        "partial": false
+      },
+      {
+        "id": "sduh-resolucao-16-2026",
+        "moves": [
+          [
+            "SUBSECRETARIA DE GESTÃO CORPORATIVA",
+            "ASSESSORIA DO GABINETE DO SECRETÁRIO",
+            "CCESP 2.16",
+            "Assessor Especial IV",
+            1
+          ],
+          [
+            "ASSESSORIA DO GABINETE DO SECRETÁRIO",
+            "SUBSECRETARIA DE GESTÃO CORPORATIVA",
+            "CCESP 2.16",
+            "Assessor Especial IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-16-de-27-de-fevereiro-de-2026-20260227112212201668775",
+        "partial": false
+      },
+      {
+        "id": "sduh-resolucao-22-2026",
+        "moves": [
+          [
+            "SEÇÃO ADMINISTRATIVA",
+            "DEPARTAMENTO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+            "CCESP 2.02",
+            "Assistente II",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-22-de-01-de-abril-de-2026-20260401112212201749840",
+        "partial": false
+      },
+      {
+        "id": "sduh-resolucao-33-2026",
+        "moves": [
+          [
+            "ASSESSORIA DE RELAÇÕES INSTITUCIONAIS",
+            "SECRETARIA EXECUTIVA",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ]
+        ],
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-33-de-11-de-maio-de-2026-20260511112212201834315",
+        "partial": false
+      },
+      {
+        "id": "sduh-resolucao-49-2026",
+        "moves": [
+          [
+            "DIRETORIA DE PLANEJAMENTO HABITACIONAL",
+            "DIVISÃO DE DIFUSÃO DOCUMENTAL",
+            "FCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "DIVISÃO DE DIFUSÃO DOCUMENTAL",
+            "DIRETORIA DE PLANEJAMENTO HABITACIONAL",
+            "FCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-49-de-17-de-setembro-de-2026-20260917112212202135919",
+        "partial": false
+      },
+      {
+        "id": "sduh-resolucao-50-2026",
+        "moves": [
+          [
+            "DIRETORIA DE PLANEJAMENTO HABITACIONAL",
+            "COORDENADORIA DE REGULARIZAÇÃO FUNDIÁRIA",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "DIRETORIA DE PLANEJAMENTO HABITACIONAL",
+            "DEPARTAMENTO ADMINISTRATIVO",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "COORDENADORIA DE REGULARIZAÇÃO FUNDIÁRIA",
+            "CHEFIA DE GABINETE",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "DEPARTAMENTO ADMINISTRATIVO",
+            "DEPARTAMENTO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+            "CCESP 2.03",
+            "Assistente III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-50-de-24-de-setembro-de-2026-20260924112212202154578",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.115/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70115-de-18-de-novembro-de-2025-202511181182021478368"
+      },
+      {
+        "label": "Decreto nº 70.115/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70115-de-18-de-novembro-de-2025-202511181182021478368"
+      },
+      {
+        "label": "Decreto nº 70.115/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70115-18.11.2025.html"
+      },
+      {
+        "label": "RESOLUÇÃO SDUH nº 80, DE 03 DE DEZEMBRO DE 2025",
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-80-de-03-de-dezembro-de-2025-20251203112212201507189"
+      },
+      {
+        "label": "RESOLUÇÃO SDUH nº 16, de 27 de fevereiro de 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-16-de-27-de-fevereiro-de-2026-20260227112212201668775"
+      },
+      {
+        "label": "RESOLUÇÃO SDUH nº 22, DE 01 DE ABRIL DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-22-de-01-de-abril-de-2026-20260401112212201749840"
+      },
+      {
+        "label": "RESOLUÇÃO SDUH nº 33, DE 11 DE MAIO DE 2026",
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-33-de-11-de-maio-de-2026-20260511112212201834315"
+      },
+      {
+        "label": "RESOLUÇÃO SDUH nº 49, DE 17 DE SETEMBRO DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-49-de-17-de-setembro-de-2026-20260917112212202135919"
+      },
+      {
+        "label": "RESOLUÇÃO SDUH nº 50, DE 24 DE SETEMBRO DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-desenvolvimento-urbano-e-habitacao/resolucao-sduh-n-50-de-24-de-setembro-de-2026-20260924112212202154578"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      },
+      {
+        "label": "Estrutura organizacional · Decreto-base",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69760-31.07.2025.html"
+      }
+    ]
+  },
+  "secom": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69745-de-28-de-julho-de-2025-202507281182021230037",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 94,
+      "officialRows": 94,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 94,
+        "officialRows": 94,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.745/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "42950"
+        },
+        "FCESP": {
+          "quantity": "16",
+          "quotaCents": "3150"
+        }
+      },
+      "aggregate": {
+        "quantity": "105",
+        "quotaCents": "46100"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "42950"
+        },
+        "FCESP": {
+          "quantity": "16",
+          "quotaCents": "3150"
+        }
+      },
+      "aggregate": {
+        "quantity": "105",
+        "quotaCents": "46100"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "42950"
+        },
+        "FCESP": {
+          "quantity": "16",
+          "quotaCents": "3150"
+        }
+      },
+      "aggregate": {
+        "quantity": "105",
+        "quotaCents": "46100"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "62",
+          "quotaCents": "27075"
+        },
+        "FCESP": {
+          "quantity": "10",
+          "quotaCents": "4050"
+        }
+      },
+      "aggregate": {
+        "quantity": "72",
+        "quotaCents": "31125"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 12,
+    "appliedActs": [
+      {
+        "id": "secom-resolucao-6-2026",
+        "moves": [
+          [
+            "Chefia de Gabinete",
+            "Diretoria de Gestão, Orçamento e Finanças",
+            "FCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Pessoas",
+            "Subsecretaria de Marketing",
+            "FCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Contratos de Comunicação Integrada",
+            "Coordenadoria de Gestão de Contratos de Publicidade",
+            "FCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Coordenadoria de Licitações",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Assessoria Especial de Articulação de Projetos Estratégicos",
+            "Diretoria de Multimídia",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Diretoria de Licitações e de Gestão de Contratos",
+            "CCESP 2.13",
+            "Assessor Especial I",
+            1
+          ],
+          [
+            "Diretoria de Licitações e de Gestão de Contratos",
+            "Diretoria de Gestão, Orçamento e Finanças",
+            "CCESP 2.14",
+            "Assessor Especial II",
+            1
+          ],
+          [
+            "Diretoria de Licitações e de Gestão de Contratos",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Coordenadoria de Licitações",
+            "Coordenadoria de Gestão de Contratos de Comunicação Integrada",
+            "FCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Coordenadoria de Licitações",
+            "Coordenadoria de Gestão de Contratos de Comunicação Integrada",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Secretaria Executiva",
+            "Diretoria de Licitações e de Gestão de Contratos",
+            "CCESP 2.14",
+            "Assessor Especial II",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-comunicacao/resolucao-secom-n-06-de-15-de-abril-de-2026-20260415111712201778800",
+        "partial": false
+      },
+      {
+        "id": "secom-resolucao-15-2026",
+        "moves": [
+          [
+            "Chefia de Gabinete",
+            "Coordenadoria de Produção de Conteúdo Audiovisual",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Coordenadoria de Produção de Conteúdo Audiovisual",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-comunicacao/resolucao-de-18-de-agosto-de-2026-20260818111712202060304",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [
+      "O decreto aprova os quantitativos e as cotas do seu Anexo III. O artigo que faz essa alteração cita o Anexo IV do Decreto nº 68.742/2024."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.745/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69745-de-28-de-julho-de-2025-202507281182021230037"
+      },
+      {
+        "label": "Decreto nº 69.745/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69745-de-28-de-julho-de-2025-202507281182021230037"
+      },
+      {
+        "label": "Decreto nº 69.745/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69745-28.07.2025.html"
+      },
+      {
+        "label": "RESOLUÇÃO SECOM N° 06, DE 15 DE ABRIL DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-comunicacao/resolucao-secom-n-06-de-15-de-abril-de-2026-20260415111712201778800"
+      },
+      {
+        "label": "RESOLUÇÃO DE 18 DE AGOSTO DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-comunicacao/resolucao-de-18-de-agosto-de-2026-20260818111712202060304"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      }
+    ]
+  },
+  "sedpcd": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69470-de-10-de-abril-de-2025-202504101182021010695",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 44,
+      "officialRows": 44,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 44,
+        "officialRows": 44,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.470/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "47",
+          "quotaCents": "14375"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "1935"
+        }
+      },
+      "aggregate": {
+        "quantity": "55",
+        "quotaCents": "16310"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "47",
+          "quotaCents": "14375"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "1935"
+        }
+      },
+      "aggregate": {
+        "quantity": "55",
+        "quotaCents": "16310"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "47",
+          "quotaCents": "14375"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "1935"
+        }
+      },
+      "aggregate": {
+        "quantity": "55",
+        "quotaCents": "16310"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "40",
+          "quotaCents": "12875"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "2400"
+        }
+      },
+      "aggregate": {
+        "quantity": "48",
+        "quotaCents": "15275"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 3,
+    "appliedActs": [
+      {
+        "id": "sedpcd-resolucao-11-2026",
+        "moves": [
+          [
+            "Coordenadoria de Desenvolvimento de Programas",
+            "Coordenadoria de Articulação e Planejamento",
+            "FCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Departamento de Licitações e Contratos",
+            "Coordenadoria de Administração",
+            "FCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Coordenadoria de Desenvolvimento de Programas",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Coordenadoria de Articulação e Planejamento",
+            "Coordenadoria de Desenvolvimento de Programas",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Coordenadoria de Articulação e Planejamento",
+            "Coordenadoria de Desenvolvimento de Programas",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Coordenadoria de Articulação e Planejamento",
+            "Coordenadoria de Desenvolvimento de Programas",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Coordenadoria de Desenvolvimento de Programas",
+            "Coordenadoria de Articulação e Planejamento",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Chefia de Gabinete",
+            "Secretaria Executiva",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Departamento de Licitações e Contratos",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Secretaria Executiva",
+            "Coordenadoria de Desenvolvimento de Programas",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Departamento de Licitações e Contratos",
+            "Coordenadoria de Desenvolvimento de Programas",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Serviço de Tecnologia da Informação",
+            "Chefia de Gabinete",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço de Infraestrutura",
+            "Coordenadoria de Desenvolvimento de Programas",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço de Tecnologia da Informação",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço de Protocolo e Arquivo",
+            "Departamento de Licitações e Contratos",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-dos-direitos-da-pessoa-com-deficiencia/resolucao-sedpcd-n-11-de-12-de-marco-de-2026-20260316121842481709181",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [
+      "O decreto aprova os quantitativos e as cotas do seu Anexo III. O artigo que faz essa alteração cita o Anexo IV do Decreto nº 68.742/2024."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.470/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69470-de-10-de-abril-de-2025-202504101182021010695"
+      },
+      {
+        "label": "Decreto nº 69.470/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69470-de-10-de-abril-de-2025-202504101182021010695"
+      },
+      {
+        "label": "Decreto nº 69.470/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69470-10.04.2025.html"
+      },
+      {
+        "label": "RESOLUÇÃO SEDPCD Nº 11, DE 12 DE MARÇO DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-dos-direitos-da-pessoa-com-deficiencia/resolucao-sedpcd-n-11-de-12-de-marco-de-2026-20260316121842481709181"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      }
+    ]
+  },
+  "semil": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70796-de-18-de-agosto-de-2026-202608181182022060245",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 293,
+      "officialRows": 293,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 293,
+        "officialRows": 293,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.796/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "340",
+          "quotaCents": "116550"
+        },
+        "FCESP": {
+          "quantity": "41",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "381",
+        "quotaCents": "123990"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "340",
+          "quotaCents": "116550"
+        },
+        "FCESP": {
+          "quantity": "41",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "381",
+        "quotaCents": "123990"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "340",
+          "quotaCents": "116550"
+        },
+        "FCESP": {
+          "quantity": "41",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "381",
+        "quotaCents": "123990"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "206",
+          "quotaCents": "69100"
+        },
+        "FCESP": {
+          "quantity": "22",
+          "quotaCents": "7500"
+        }
+      },
+      "aggregate": {
+        "quantity": "228",
+        "quotaCents": "76600"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 30,
+    "appliedActs": [
+      {
+        "id": "semil-resolucao-25-08-2026",
+        "moves": [
+          [
+            "ASSESSORIA DE COLEGIADOS",
+            "Diretoria de Proteção e Fiscalização Ambiental",
+            "FCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "ASSESSORIA DE COMUNICAÇÃO",
+            "CONSULTORIA JURÍDICA",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "CONSULTORIA JURÍDICA",
+            "ASSESSORIA DE COMUNICAÇÃO",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Serviço Administrativo",
+            "Serviço Administrativo",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço Administrativo",
+            "UNIDADE DE GESTÃO DE INTEGRIDADE",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "SECRETARIA EXECUTIVA",
+            "SUBSECRETARIA DE LOGÍSTICA E TRANSPORTES",
+            "FCESP 2.15",
+            "Assessor Especial III",
+            1
+          ],
+          [
+            "SECRETARIA EXECUTIVA",
+            "SUBSECRETARIA DE LOGÍSTICA E TRANSPORTES",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Coordenadoria de Compras e Registro de Preços",
+            "Coordenadoria de Transportes, Patrimônio e Almoxarifado",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Pessoas",
+            "Coordenadoria de Recursos Humanos",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Coordenadoria de Licitações e Contratos",
+            "Coordenadoria de Convênios",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Diretoria de Gestão de Pessoas e Recursos Humanos",
+            "Coordenadoria de Gestão de Pessoas",
+            "CCESP 2.03",
+            "Assistente III",
+            1
+          ],
+          [
+            "Coordenadoria de Convênios",
+            "Coordenadoria de Compras e Registro de Preços",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Coordenadoria de Fiscalização e Gestão Processual",
+            "Diretoria de Proteção e Fiscalização Ambiental",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Pessoas",
+            "Diretoria de Gestão de Pessoas e Recursos Humanos",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Serviço Administrativo",
+            "Diretoria de Proteção e Fiscalização Ambiental",
+            "FCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço Administrativo",
+            "Serviço Administrativo",
+            "FCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Coordenadoria de Obras e Assuntos Regulatórios",
+            "Coordenadoria de Fiscalização e Gestão Processual",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Serviço Regional Litoral Norte",
+            "Coordenadoria de Gestão de CETRAS",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço Regional Litoral Sul",
+            "Coordenadoria de Operacionalização do Fundo Estadual de Recursos Hídricos",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Coordenadoria de Fiscalização e Gestão Processual",
+            "Coordenadoria de Planejamento e Informações de Saneamento",
+            "FCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "Diretoria de Proteção e Fiscalização Ambiental",
+            "ASSESSORIA DE COLEGIADOS",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Coordenadoria de Planejamento e Informações de Saneamento",
+            "SECRETARIA EXECUTIVA",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ],
+          [
+            "SUBSECRETARIA DE LOGÍSTICA E TRANSPORTES",
+            "SECRETARIA EXECUTIVA",
+            "CCESP 2.15",
+            "Assessor Especial III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-25-08-2026-20260825122912242074300",
+        "partial": true
+      }
+    ],
+    "pendingActs": [
+      {
+        "id": "semil-resolucao-25-08-2026",
+        "errors": [
+          {
+            "origin": "SMA - Diretoria de Proteção e Fiscalização Ambiental",
+            "target": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 10",
+            "code": "CCESP 2.05",
+            "denomination": "Assistente Técnico I",
+            "quantity": 1,
+            "originCandidates": [
+              "Diretoria de Proteção e Fiscalização Ambiental"
+            ],
+            "matchingRows": [
+              "semil-70796-row-103"
+            ]
+          },
+          {
+            "origin": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+            "target": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14",
+            "code": "CCESP 2.05",
+            "denomination": "Assistente Técnico I",
+            "quantity": 1,
+            "originCandidates": [],
+            "matchingRows": []
+          },
+          {
+            "origin": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+            "target": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental14",
+            "code": "CCESP 2.05",
+            "denomination": "Assistente Técnico I",
+            "quantity": 1,
+            "originCandidates": [],
+            "matchingRows": []
+          },
+          {
+            "origin": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 19",
+            "target": "SMA - Divisões Técnicas Regionais de Proteção e Fiscalização Ambiental 14",
+            "code": "CCESP 2.05",
+            "denomination": "Assistente Técnico I",
+            "quantity": 1,
+            "originCandidates": [],
+            "matchingRows": []
+          }
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-25-08-2026-20260825122912242074300"
+      }
+    ],
+    "notices": [
+      "O decreto reúne as divisões técnicas regionais em um bloco. A resolução individualiza algumas delas. A distribuição entre essas divisões está em conferência.",
+      "O quadro inclui as movimentações conciliadas. A alocação por unidade ainda tem pontos em conferência em 1 ato(s)."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.796/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70796-de-18-de-agosto-de-2026-202608181182022060245"
+      },
+      {
+        "label": "Decreto nº 70.796/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70796-de-18-de-agosto-de-2026-202608181182022060245"
+      },
+      {
+        "label": "Decreto nº 70.796/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70796-18.08.2026.html"
+      },
+      {
+        "label": "Resolução SEMIL de 25/08/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-meio-ambiente-infraestrutura-e-logistica/resolucao-semil-de-25-08-2026-20260825122912242074300"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      },
+      {
+        "label": "Estrutura organizacional · Decreto-base",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69376-26.02.2025.html"
+      },
+      {
+        "label": "Decreto nº 70.962/2026 · Vinculação de fundos e classificação orçamentária",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70962-06.11.2026.html"
+      }
+    ]
+  },
+  "sesp": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69436-de-26-de-marco-de-2025-20250326118202975257",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 78,
+      "officialRows": 78,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 78,
+        "officialRows": 78,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.436/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "78",
+          "quotaCents": "19675"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2010"
+        }
+      },
+      "aggregate": {
+        "quantity": "89",
+        "quotaCents": "21685"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "78",
+          "quotaCents": "19675"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2010"
+        }
+      },
+      "aggregate": {
+        "quantity": "89",
+        "quotaCents": "21685"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "78",
+          "quotaCents": "19675"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2010"
+        }
+      },
+      "aggregate": {
+        "quantity": "89",
+        "quotaCents": "21685"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "72",
+          "quotaCents": "19675"
+        },
+        "FCESP": {
+          "quantity": "10",
+          "quotaCents": "2750"
+        }
+      },
+      "aggregate": {
+        "quantity": "82",
+        "quotaCents": "22425"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 4,
+    "appliedActs": [
+      {
+        "id": "sesp-res-2025-12-08",
+        "moves": [
+          [
+            "SECRETARIA EXECUTIVA",
+            "Serviço – Lei Paulista de Incentivo ao Esporte",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "Coordenadoria Administrativa",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Setor de Execução Financeira",
+            "CHEFIA DE GABINETE",
+            "CCESP 2.02",
+            "Assistente II",
+            1
+          ],
+          [
+            "Serviço – Lei Paulista de Incentivo ao Esporte",
+            "SECRETARIA EXECUTIVA",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "COORDENADORIA GERAL",
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "Coordenadoria Administrativa",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "SUBSECRETARIA DE GESTÃO COORPORATIVA",
+            "Serviço - Bolsa Talento Esportivo",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Coordenadoria de Políticas Públicas",
+            "COORDENADORIA GERAL",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "COORDENADORIA GERAL",
+            "Coordenadoria de Políticas Públicas",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Coordenadoria de Políticas Públicas",
+            "Coordenadoria de Estruturas e Equipamentos Esportivos",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ]
+        ],
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/alteracoes-na-classificacao-dos-ccesp-e-fcesp-20251209122342481518083",
+        "partial": true
+      },
+      {
+        "id": "sesp-res-2026-01-14",
+        "moves": [
+          [
+            "Coordenadoria Administrativa",
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Coordenadoria Administrativa",
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "CHEFIA DE GABINETE",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Seção de Assistência aos Municípios",
+            "CHEFIA DE GABINETE",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648",
+        "partial": false
+      },
+      {
+        "id": "sesp-res-2026-07-13",
+        "moves": [
+          [
+            "Coordenadoria de Políticas Públicas",
+            "Seção de Tomada de Contas",
+            "CCESP 2.03",
+            "Assistente III",
+            1
+          ],
+          [
+            "CHEFIA DE GABINETE",
+            "Assessoria da Subsecretaria de Gestão Corporativa",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "COORDENADORIA GERAL",
+            "Coordenadoria de Políticas Públicas",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Coordenadoria de Políticas Públicas",
+            "COORDENADORIA GERAL",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Coordenadoria de Políticas Públicas",
+            "Divisão - Centro Desportivo Constâncio Vaz Guimarães",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Coordenadoria de Políticas Públicas",
+            "CHEFIA DE GABINETE",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ]
+        ],
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071",
+        "partial": false
+      }
+    ],
+    "pendingActs": [
+      {
+        "id": "sesp-res-2025-12-08",
+        "errors": [
+          {
+            "origin": "Divisão Administrativa",
+            "target": "Serviço de Administração de Patrimônio e Materiais",
+            "code": "CCESP 2.02",
+            "denomination": "Assistente II",
+            "quantity": 1,
+            "originCandidates": [
+              "Divisão Administrativa"
+            ],
+            "matchingRows": []
+          }
+        ],
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/alteracoes-na-classificacao-dos-ccesp-e-fcesp-20251209122342481518083"
+      }
+    ],
+    "notices": [
+      "O quadro inclui as movimentações conciliadas. A alocação por unidade ainda tem pontos em conferência em 1 ato(s)."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.436/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69436-de-26-de-marco-de-2025-20250326118202975257"
+      },
+      {
+        "label": "Decreto nº 69.436/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69436-de-26-de-marco-de-2025-20250326118202975257"
+      },
+      {
+        "label": "Decreto nº 69.436/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69436-26.03.2025.html"
+      },
+      {
+        "label": "ALTERAÇÕES NA CLASSIFICAÇÃO DOS CCESP E FCESP · 08/12/2025",
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/alteracoes-na-classificacao-dos-ccesp-e-fcesp-20251209122342481518083"
+      },
+      {
+        "label": "Resolução do Secretário Executivo de 14/01/2026 · 14/01/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260115122342481574648"
+      },
+      {
+        "label": "Resolução · 13/07/2026",
+        "url": "https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/resolucao-20260715122342481982071"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68742-05.08.2024.html"
+      }
+    ]
+  },
+  "sggd": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 407,
+      "officialRows": 407,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 407,
+        "officialRows": 407,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.755/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "299",
+          "quotaCents": "106950"
+        },
+        "FCESP": {
+          "quantity": "201",
+          "quotaCents": "34875"
+        }
+      },
+      "aggregate": {
+        "quantity": "500",
+        "quotaCents": "141825"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "298",
+          "quotaCents": "106600"
+        },
+        "FCESP": {
+          "quantity": "201",
+          "quotaCents": "34935"
+        }
+      },
+      "aggregate": {
+        "quantity": "499",
+        "quotaCents": "141535"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "298",
+          "quotaCents": "106600"
+        },
+        "FCESP": {
+          "quantity": "201",
+          "quotaCents": "34935"
+        }
+      },
+      "aggregate": {
+        "quantity": "499",
+        "quotaCents": "141535"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "298",
+          "quotaCents": "106600"
+        },
+        "FCESP": {
+          "quantity": "201",
+          "quotaCents": "34935"
+        }
+      },
+      "aggregate": {
+        "quantity": "499",
+        "quotaCents": "141535"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 31,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [
+      "O Decreto nº 70.963/2026 trata de classificação orçamentária. Os Anexos II e III continuam no Decreto nº 70.755/2026."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.755/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+      },
+      {
+        "label": "Decreto nº 70.755/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+      },
+      {
+        "label": "Decreto nº 70.755/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html"
+      },
+      {
+        "label": "Decreto nº 70.963/2026 · Classificação orçamentária",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70963-06.11.2026.html"
+      }
+    ]
+  },
+  "sgri": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69618-de-11-de-junho-de-2025-202506111182021141380",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 165,
+      "officialRows": 165,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 165,
+        "officialRows": 165,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.618/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "173",
+          "quotaCents": "60250"
+        },
+        "FCESP": {
+          "quantity": "27",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "200",
+        "quotaCents": "67690"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "173",
+          "quotaCents": "60250"
+        },
+        "FCESP": {
+          "quantity": "27",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "200",
+        "quotaCents": "67690"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "173",
+          "quotaCents": "60250"
+        },
+        "FCESP": {
+          "quantity": "27",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "200",
+        "quotaCents": "67690"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "173",
+          "quotaCents": "60250"
+        },
+        "FCESP": {
+          "quantity": "27",
+          "quotaCents": "7440"
+        }
+      },
+      "aggregate": {
+        "quantity": "200",
+        "quotaCents": "67690"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 22,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.618/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69618-de-11-de-junho-de-2025-202506111182021141380"
+      },
+      {
+        "label": "Decreto nº 69.618/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69618-de-11-de-junho-de-2025-202506111182021141380"
+      },
+      {
+        "label": "Decreto nº 69.618/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69618-11.06.2025.html"
+      }
+    ]
+  },
+  "sjc": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69449-de-27-de-marco-de-2025-20250327118202978840",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 133,
+      "officialRows": 133,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 133,
+        "officialRows": 133,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.449/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "121",
+          "quotaCents": "34950"
+        },
+        "FCESP": {
+          "quantity": "25",
+          "quotaCents": "4020"
+        }
+      },
+      "aggregate": {
+        "quantity": "146",
+        "quotaCents": "38970"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "121",
+          "quotaCents": "34950"
+        },
+        "FCESP": {
+          "quantity": "25",
+          "quotaCents": "4020"
+        }
+      },
+      "aggregate": {
+        "quantity": "146",
+        "quotaCents": "38970"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "121",
+          "quotaCents": "34950"
+        },
+        "FCESP": {
+          "quantity": "25",
+          "quotaCents": "4020"
+        }
+      },
+      "aggregate": {
+        "quantity": "146",
+        "quotaCents": "38970"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "121",
+          "quotaCents": "34950"
+        },
+        "FCESP": {
+          "quantity": "25",
+          "quotaCents": "4020"
+        }
+      },
+      "aggregate": {
+        "quantity": "146",
+        "quotaCents": "38970"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 3,
+    "appliedActs": [
+      {
+        "id": "sjc-res114-2025",
+        "moves": [
+          [
+            "Chefia de Gabinete",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Serviço de Apoio ao Fórum Inter-Religioso",
+            "Serviço de Transportes",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Seção de Promoção da Cidadania",
+            "Coordenadoria Geral de Cidadania e Direitos Humanos",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Divisão do Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte - PPCAAM",
+            "Divisão do Programa Estadual de Proteção a Vítimas e Testemunhas - PROVITA",
+            "FCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Coordenadoria da Secretaria Executiva FID",
+            "Serviço de Apoio ao Fórum Inter-Religioso",
+            "FCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Serviço de Prestação de Contas",
+            "Divisão do Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte - PPCAAM",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Serviço de Prestação de Contas",
+            "Coordenadoria da Secretaria Executiva FID",
+            "FCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Divisão de Desenvolvimento de Pessoal",
+            "Coordenadoria de Gestão de Pessoal",
+            "FCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Departamento de Licitação e Compras",
+            "Departamento de Fiscalização e Gestão de Contratos",
+            "FCESP 2.09",
+            "Assessor I",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/resolucao-sjc-n-114-05-12-2025-20251208113212201516028",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.449/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69449-de-27-de-marco-de-2025-20250327118202978840"
+      },
+      {
+        "label": "Decreto nº 69.449/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69449-de-27-de-marco-de-2025-20250327118202978840"
+      },
+      {
+        "label": "Decreto nº 69.449/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69449-27.03.2025.html"
+      },
+      {
+        "label": "Resolução SJC Nº 114, 05-12-2025 · 05/12/2025",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/resolucao-sjc-n-114-05-12-2025-20251208113212201516028"
+      }
+    ]
+  },
+  "spi": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69377-de-26-de-fevereiro-de-2025-20250226118202916241",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 85,
+      "officialRows": 85,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 85,
+        "officialRows": 85,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.377/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "92",
+          "quotaCents": "36000"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "100",
+        "quotaCents": "39000"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "92",
+          "quotaCents": "36000"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "100",
+        "quotaCents": "39000"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "92",
+          "quotaCents": "36000"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "100",
+        "quotaCents": "39000"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "92",
+          "quotaCents": "36000"
+        },
+        "FCESP": {
+          "quantity": "8",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "100",
+        "quotaCents": "39000"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 4,
+    "appliedActs": [
+      {
+        "id": "spi-res-2025-11-12",
+        "moves": [
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Coordenadoria de Gestão de Pessoas",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Secretaria Executiva",
+            "Chefia de Gabinete",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Pessoas",
+            "Coordenadoria de Gestão Infraestrutura",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Coordenadoria de Contratação e Convênios",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Serviço de Apoio Administrativo",
+            "Coordenadoria de Gestão Infraestrutura",
+            "CCESP 2.05",
+            "Assistente Técnico I",
+            1
+          ],
+          [
+            "Chefia de Gabinete",
+            "Secretaria Executiva",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão Infraestrutura",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Parcerias em Mobilidade Urbana",
+            "Subsecretaria de Gestão de Parcerias",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Coordenadoria de Finanças",
+            "Diretoria de Orçamento e Finanças",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Diretoria de Gestão Administrativa",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão Infraestrutura",
+            "Coordenadoria de Contratação e Convênios",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão Infraestrutura",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20251112123012481464528",
+        "partial": false
+      },
+      {
+        "id": "spi-res-2026-08-12",
+        "moves": [
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Diretoria de Gestão Administrativa",
+            "CCESP 2.12",
+            "Assessor IV",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão Infraestrutura",
+            "Coordenadoria de Contratação e Convênios",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Parcerias Sociais",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão de Parceiras em Rodovias",
+            "Diretoria de Gestão Administrativa",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Coordenadoria de Contratação e Convênios",
+            "Coordenadoria de Gestão Infraestrutura",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Diretoria de Gestão de Parcerias em Transportes",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.377/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69377-de-26-de-fevereiro-de-2025-20250226118202916241"
+      },
+      {
+        "label": "Decreto nº 69.377/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69377-de-26-de-fevereiro-de-2025-20250226118202916241"
+      },
+      {
+        "label": "Decreto nº 69.377/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69377-26.02.2025.html"
+      },
+      {
+        "label": "RESOLUÇÃO · 12/11/2025",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20251112123012481464528"
+      },
+      {
+        "label": "Resolução · 12/08/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/resolucao-20260812123112482045333"
+      }
+    ]
+  },
+  "spm": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69430-de-20-de-marco-de-2025-20250320118202962584",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 31,
+      "officialRows": 31,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 31,
+        "officialRows": 31,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.430/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "49",
+          "quotaCents": "17850"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "49",
+        "quotaCents": "17850"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "49",
+          "quotaCents": "17875"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "49",
+        "quotaCents": "17875"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "49",
+          "quotaCents": "17850"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "49",
+        "quotaCents": "17850"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "49",
+          "quotaCents": "17875"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "49",
+        "quotaCents": "17875"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 5,
+    "appliedActs": [
+      {
+        "id": "spm-mov-2025-11-05",
+        "moves": [
+          [
+            "Consultoria Jurídica",
+            "Chefia de Gabinete",
+            "CCESP 2.04",
+            "ASSISTENTE IV",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Consultoria Jurídica",
+            "CCESP 2.09",
+            "ASSESSOR I",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Chefia de Gabinete",
+            "CCESP 2.07",
+            "ASSISTENTE TÉCNICO III",
+            1
+          ],
+          [
+            "Departamento de Finanças e Orçamento",
+            "Chefia de Gabinete",
+            "CCESP 2.10",
+            "ASSESSOR II",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Coordenadoria de Administração",
+            "CCESP 2.07",
+            "ASSISTENTE TÉCNICO III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-4-de-novembro-de-2025-20251104113512201446725",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2025-12-10",
+        "moves": [
+          [
+            "Chefia de Gabinete",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.07",
+            "ASSISTENTE TÉCNICO III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-37-de-9-de-dezembro-de-2025-20251209113612201519237",
+        "partial": true
+      },
+      {
+        "id": "spm-mov-2026-01-23",
+        "moves": [
+          [
+            "Assessoria Regional",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Coordenadoria de Administração",
+            "Departamento de Frotas e Patrimônio",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Departamento de Frotas e Patrimônio",
+            "Coordenadoria de Administração",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ],
+          [
+            "Chefia de Gabinete",
+            "Assessoria de Comunicação e Cerimonial",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Departamento de Finanças e Orçamento",
+            "Coordenadoria de Licitações e Contratos",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Assessoria de Comunicação e Cerimonial",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Departamento de Finanças e Orçamento",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-spm-n06-de-22-de-janeiro-de-2026-20260122113612201587004",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-03-23",
+        "moves": [
+          [
+            "Assessoria Regional",
+            "Assessoria de Comunicação e Cerimonial",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Assessoria de Políticas Públicas",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Coordenadoria de Administração",
+            "Departamento de Frotas e Patrimônio",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Assessoria de Comunicação e Cerimonial",
+            "Departamento de Finanças e Orçamento",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Departamento de Finanças e Orçamento",
+            "Assessoria de Comunicação e Cerimonial",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Coordenadoria de Licitações e Contratos",
+            "Coordenadoria de Administração",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Departamento de Frotas e Patrimônio",
+            "Coordenadoria de Administração",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Assessoria de Políticas Públicas",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Assessoria de Comunicação e Cerimonial",
+            "Assessoria Regional",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-10-de-20-de-marco-de-2026-20260320113612201723401",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-05-11",
+        "moves": [
+          [
+            "Assessoria de Políticas Públicas",
+            "Consultoria Jurídica",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Coordenadoria de Administração",
+            "Coordenadoria de Licitações e Contratos",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-14-de-8-de-maio-de-2026-20260511113612201832724",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-06-22",
+        "moves": [
+          [
+            "Assessoria de Comunicação e Cerimonial",
+            "Assessoria Regional",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Assessoria de Políticas Públicas",
+            "Assessoria de Comunicação e Cerimonial",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Assessoria de Políticas Públicas",
+            "Assessoria Regional",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Assessoria de Políticas Públicas",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-17-de-19-de-junho-de-2026-20260619113612201931737",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-07-08",
+        "moves": [
+          [
+            "Coordenadoria de Administração",
+            "Assessoria Regional",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-19-de-7-de-julho-de-2026-20260707113612201971511",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-09-16",
+        "moves": [
+          [
+            "Assessoria Intersecretarial",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Divisão de Ouvidoria e UGI",
+            "Assessoria Regional",
+            "CCESP 2.08",
+            "Assistente Técnico IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-22-de-15-de-setembro-de-2026-20260915123212482127582",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-10-15",
+        "moves": [
+          [
+            "Coordenadoria de Licitações e Contratos",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Departamento de Frotas e Patrimônio",
+            "CCESP 2.07",
+            "Assistente Técnico III",
+            1
+          ],
+          [
+            "Departamento de Frotas e Patrimônio",
+            "Coordenadoria de Licitações e Contratos",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Assessoria Regional",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746",
+        "partial": false
+      },
+      {
+        "id": "spm-mov-2026-11-04",
+        "moves": [
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Assessoria Regional",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Subsecretaria de Gestão Corporativa",
+            "Assessoria de Políticas Públicas",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ],
+          [
+            "Assessoria de Políticas Públicas",
+            "Subsecretaria de Gestão Corporativa",
+            "CCESP 2.10",
+            "Assessor II",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-25-de-3-de-novembro-de-2026-20261103123212482251761",
+        "partial": false
+      }
+    ],
+    "pendingActs": [
+      {
+        "id": "spm-mov-2025-12-10",
+        "errors": [
+          {
+            "origin": "Chefia de Gabinete",
+            "target": "Subsecretaria de Gestão Corporativa",
+            "code": "CCESP 2.09",
+            "denomination": "ASSESSOR II",
+            "quantity": 1,
+            "originCandidates": [
+              "Chefia de Gabinete"
+            ],
+            "matchingRows": []
+          }
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-37-de-9-de-dezembro-de-2025-20251209113612201519237"
+      }
+    ],
+    "notices": [
+      "O resumo do decreto imprime 178,75 cotas no total. As linhas publicadas somam 178,50 cotas. A referência do ato e a soma aparecem separadas.",
+      "O quadro inclui as movimentações conciliadas. A alocação por unidade ainda tem pontos em conferência em 1 ato(s)."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.430/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69430-de-20-de-marco-de-2025-20250320118202962584"
+      },
+      {
+        "label": "Decreto nº 69.430/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69430-de-20-de-marco-de-2025-20250320118202962584"
+      },
+      {
+        "label": "Decreto nº 69.430/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69430-20.03.2025.html"
+      },
+      {
+        "label": "RESOLUÇÃO, DE 4 DE NOVEMBRO DE 2025 · 04/11/2025",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-4-de-novembro-de-2025-20251104113512201446725"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 37, DE 9 DE DEZEMBRO DE 2025 · 09/12/2025",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-37-de-9-de-dezembro-de-2025-20251209113612201519237"
+      },
+      {
+        "label": "RESOLUÇÃO SPM Nº06, DE 22 DE JANEIRO DE 2026 · 22/01/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-spm-n06-de-22-de-janeiro-de-2026-20260122113612201587004"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 10, DE 20 DE MARÇO DE 2026 · 20/03/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-10-de-20-de-marco-de-2026-20260320113612201723401"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 14, DE 8 DE MAIO DE 2026 · 08/05/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-14-de-8-de-maio-de-2026-20260511113612201832724"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 17, DE 19 DE JUNHO DE 2026 · 19/06/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-17-de-19-de-junho-de-2026-20260619113612201931737"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 19, DE 7 DE JULHO DE 2026 · 07/07/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-19-de-7-de-julho-de-2026-20260707113612201971511"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 22, DE 15 DE SETEMBRO DE 2026 · 15/09/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-22-de-15-de-setembro-de-2026-20260915123212482127582"
+      },
+      {
+        "label": "RESOLUÇÃO, DE 14 DE OUTUBRO DE 2026 · 14/10/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746"
+      },
+      {
+        "label": "RESOLUÇÃO Nº 25, DE 3 DE NOVEMBRO DE 2026 · 03/11/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-n-25-de-3-de-novembro-de-2026-20261103123212482251761"
+      }
+    ]
+  },
+  "stm": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70360-de-4-de-fevereiro-de-2026-202602051182021619030",
+    "sheetComparison": {
+      "matches": false,
+      "workbookRows": 57,
+      "officialRows": 57,
+      "onlyOrExcessInWorkbook": [
+        [
+          "coordenadoriadedesenvolvimentoedadosdemobilidademetropolitana",
+          "coordenador",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadedesenvolvimentoedadosdemobilidademetropolitana",
+          "assistentetecnicoi",
+          "CCESP 2.05",
+          1
+        ]
+      ],
+      "onlyOrExcessInAct": [
+        [
+          "coordenadoriadegestaodeempreendimentosinvestimentoseorcamento",
+          "coordenador",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadegestaodeempreendimentosinvestimentoseorcamento",
+          "assistentetecnicoi",
+          "CCESP 2.05",
+          1
+        ]
+      ],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 57,
+        "officialRows": 57,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.360/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "18350"
+        },
+        "FCESP": {
+          "quantity": "9",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "60",
+        "quotaCents": "21350"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "18350"
+        },
+        "FCESP": {
+          "quantity": "9",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "60",
+        "quotaCents": "21350"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "18350"
+        },
+        "FCESP": {
+          "quantity": "9",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "60",
+        "quotaCents": "21350"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "18350"
+        },
+        "FCESP": {
+          "quantity": "9",
+          "quotaCents": "3000"
+        }
+      },
+      "aggregate": {
+        "quantity": "60",
+        "quotaCents": "21350"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 9,
+    "appliedActs": [
+      {
+        "id": "decreto-70705-2026",
+        "moves": [],
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70705-22.06.2026.html"
+      }
+    ],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.360/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70360-de-4-de-fevereiro-de-2026-202602051182021619030"
+      },
+      {
+        "label": "Decreto nº 70.360/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70360-de-4-de-fevereiro-de-2026-202602051182021619030"
+      },
+      {
+        "label": "Decreto nº 70.360/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70360-04.02.2026.html"
+      },
+      {
+        "label": "Decreto nº 70.705/2026 · Denominação de Coordenadoria",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70705-22.06.2026.html"
+      }
+    ]
+  },
+  "stur": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69378-de-26-de-fevereiro-de-2025-20250226118202916242",
+    "sheetComparison": {
+      "matches": false,
+      "workbookRows": 46,
+      "officialRows": 46,
+      "onlyOrExcessInWorkbook": [
+        [
+          "secretariaexecutiva",
+          "secretarioexecutivo",
+          "CCESP 1.18",
+          1
+        ],
+        [
+          "coordenadoriaderecursoshumanos",
+          "coordenador",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadeadministracao",
+          "coordenador",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadeturismo",
+          "coordenador",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadodadetur",
+          "coordenador",
+          "CCESP 1.13",
+          1
+        ]
+      ],
+      "onlyOrExcessInAct": [
+        [
+          "secretariaexecutiva",
+          "secretarioaexecutivoa",
+          "CCESP 1.18",
+          1
+        ],
+        [
+          "coordenadoriaderecursoshumanos",
+          "coordenadora",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadeadministracao",
+          "coordenadora",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadeturismo",
+          "coordenadora",
+          "CCESP 1.13",
+          1
+        ],
+        [
+          "coordenadoriadodadetur",
+          "coordenadora",
+          "CCESP 1.13",
+          1
+        ]
+      ],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 46,
+        "officialRows": 46,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.378/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "15300"
+        },
+        "FCESP": {
+          "quantity": "5",
+          "quotaCents": "450"
+        }
+      },
+      "aggregate": {
+        "quantity": "56",
+        "quotaCents": "15750"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "15300"
+        },
+        "FCESP": {
+          "quantity": "5",
+          "quotaCents": "450"
+        }
+      },
+      "aggregate": {
+        "quantity": "56",
+        "quotaCents": "15750"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "15300"
+        },
+        "FCESP": {
+          "quantity": "5",
+          "quotaCents": "450"
+        }
+      },
+      "aggregate": {
+        "quantity": "56",
+        "quotaCents": "15750"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "51",
+          "quotaCents": "15300"
+        },
+        "FCESP": {
+          "quantity": "5",
+          "quotaCents": "450"
+        }
+      },
+      "aggregate": {
+        "quantity": "56",
+        "quotaCents": "15750"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 3,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.378/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69378-de-26-de-fevereiro-de-2025-20250226118202916242"
+      },
+      {
+        "label": "Decreto nº 69.378/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69378-de-26-de-fevereiro-de-2025-20250226118202916242"
+      },
+      {
+        "label": "Decreto nº 69.378/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69378-26.02.2025.html"
+      }
+    ]
+  },
+  "cbpm": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025-202506091182021135309",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 21,
+      "officialRows": 21,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 21,
+        "officialRows": 21,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.591/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "17",
+          "quotaCents": "5250"
+        },
+        "FCESP": {
+          "quantity": "4",
+          "quotaCents": "390"
+        }
+      },
+      "aggregate": {
+        "quantity": "21",
+        "quotaCents": "5640"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "17",
+          "quotaCents": "5250"
+        },
+        "FCESP": {
+          "quantity": "4",
+          "quotaCents": "390"
+        }
+      },
+      "aggregate": {
+        "quantity": "21",
+        "quotaCents": "5640"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "17",
+          "quotaCents": "5250"
+        },
+        "FCESP": {
+          "quantity": "4",
+          "quotaCents": "390"
+        }
+      },
+      "aggregate": {
+        "quantity": "21",
+        "quotaCents": "5640"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "17",
+          "quotaCents": "5250"
+        },
+        "FCESP": {
+          "quantity": "4",
+          "quotaCents": "390"
+        }
+      },
+      "aggregate": {
+        "quantity": "21",
+        "quotaCents": "5640"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 0,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.591/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025-202506091182021135309"
+      },
+      {
+        "label": "Decreto nº 69.591/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69591-de-9-de-junho-de-2025-202506091182021135309"
+      },
+      {
+        "label": "Decreto nº 69.591/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69591-09.06.2025.html"
+      }
+    ]
+  },
+  "iamspe": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70378-de-13-de-fevereiro-de-2026-202602131182021639933",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 390,
+      "officialRows": 390,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 390,
+        "officialRows": 390,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.378/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "125",
+          "quotaCents": "34000"
+        },
+        "FCESP": {
+          "quantity": "308",
+          "quotaCents": "43890"
+        }
+      },
+      "aggregate": {
+        "quantity": "433",
+        "quotaCents": "77890"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "125",
+          "quotaCents": "34000"
+        },
+        "FCESP": {
+          "quantity": "308",
+          "quotaCents": "43890"
+        }
+      },
+      "aggregate": {
+        "quantity": "433",
+        "quotaCents": "77890"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "125",
+          "quotaCents": "34000"
+        },
+        "FCESP": {
+          "quantity": "308",
+          "quotaCents": "43890"
+        }
+      },
+      "aggregate": {
+        "quantity": "433",
+        "quotaCents": "77890"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "125",
+          "quotaCents": "34000"
+        },
+        "FCESP": {
+          "quantity": "308",
+          "quotaCents": "43890"
+        }
+      },
+      "aggregate": {
+        "quantity": "433",
+        "quotaCents": "77890"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 0,
+    "appliedActs": [
+      {
+        "id": "portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741",
+        "moves": [
+          [
+            "Presidência",
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Araçatuba",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Gabinete",
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - São José do Rio Preto",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Araçatuba",
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Presidente Prudente",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - São José do Rio Preto",
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Ribeirão Preto",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741",
+        "partial": false
+      },
+      {
+        "id": "portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872",
+        "moves": [
+          [
+            "Presidência",
+            "Seção de Segurança",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Serviço de Folha de Pagamento",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Serviço de Comunicação Institucional Corporativa",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Serviço de Comunicação Institucional Corporativa",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Serviço de Controle de Internação",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Seção de Adiantamento",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Seção de Contabilidade",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Serviço de Planejamento de Suprimentos",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Divisão de Contratos",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Divisão de Apoio Administrativo e Operacional",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Presidência",
+            "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Auditoria",
+            "Coordenadoria de Desenvolvimento de Ensino e Pesquisa",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Procuradoria Jurídica",
+            "Divisão de Infraestrutura",
+            "FCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Divisão de Contratação de Materiais e Serviços",
+            "Gabinete",
+            "CCESP 2.06",
+            "Assistente Técnico II",
+            1
+          ],
+          [
+            "Divisão de Infraestrutura",
+            "Serviço de Folha de Pagamento",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Campinas",
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Araraquara",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Ribeirão Preto",
+            "Serviço - Centro de Assistência Médico Ambulatorial - CEAMA - Taubaté",
+            "CCESP 2.04",
+            "Assistente IV",
+            1
+          ],
+          [
+            "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+            "Coordenadoria de Gestão Hospitalar",
+            "CCESP 2.09",
+            "Assessor I",
+            1
+          ],
+          [
+            "Coordenadoria de Gestão Hospitalar",
+            "Diretoria do Hospital do Servidor Público Estadual “Francisco Morato de Oliveira”",
+            "CCESP 2.11",
+            "Assessor III",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.378/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70378-de-13-de-fevereiro-de-2026-202602131182021639933"
+      },
+      {
+        "label": "Decreto nº 70.378/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70378-de-13-de-fevereiro-de-2026-202602131182021639933"
+      },
+      {
+        "label": "Decreto nº 70.378/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70378-13.02.2026.html"
+      },
+      {
+        "label": "PORTARIA IAMSPE Nº 19, DE 29 DE ABRIL DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-19-de-29-de-abril-de-2026-202604291129142141809741"
+      },
+      {
+        "label": "PORTARIA IAMSPE Nº 29, DE 12 DE AGOSTO DE 2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/portaria-iamspe-n-29-de-12-de-agosto-de-2026-202608121129142142045872"
+      }
+    ]
+  },
+  "imesc": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69590-de-9-de-junho-de-2025-202506091182021135308",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 35,
+      "officialRows": 35,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 35,
+        "officialRows": 35,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 69.590/2025",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "25",
+          "quotaCents": "6375"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2730"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "9105"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "25",
+          "quotaCents": "6375"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2730"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "9105"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "25",
+          "quotaCents": "6375"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2730"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "9105"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "25",
+          "quotaCents": "6375"
+        },
+        "FCESP": {
+          "quantity": "11",
+          "quotaCents": "2730"
+        }
+      },
+      "aggregate": {
+        "quantity": "36",
+        "quotaCents": "9105"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 0,
+    "appliedActs": [],
+    "pendingActs": [],
+    "notices": [],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 69.590/2025",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69590-de-9-de-junho-de-2025-202506091182021135308"
+      },
+      {
+        "label": "Decreto nº 69.590/2025 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69590-de-9-de-junho-de-2025-202506091182021135308"
+      },
+      {
+        "label": "Decreto nº 69.590/2025 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69590-09.06.2025.html"
+      }
+    ]
+  },
+  "ipem": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70362-de-4-de-fevereiro-de-2026-202602051182021619028",
+    "sheetComparison": {
+      "matches": true,
+      "workbookRows": 147,
+      "officialRows": 147,
+      "onlyOrExcessInWorkbook": [],
+      "onlyOrExcessInAct": [],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 147,
+        "officialRows": 147,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.362/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "32425"
+        },
+        "FCESP": {
+          "quantity": "62",
+          "quotaCents": "13845"
+        }
+      },
+      "aggregate": {
+        "quantity": "151",
+        "quotaCents": "46270"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "32425"
+        },
+        "FCESP": {
+          "quantity": "62",
+          "quotaCents": "13845"
+        }
+      },
+      "aggregate": {
+        "quantity": "151",
+        "quotaCents": "46270"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "32425"
+        },
+        "FCESP": {
+          "quantity": "62",
+          "quotaCents": "13845"
+        }
+      },
+      "aggregate": {
+        "quantity": "151",
+        "quotaCents": "46270"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "89",
+          "quotaCents": "32425"
+        },
+        "FCESP": {
+          "quantity": "62",
+          "quotaCents": "13845"
+        }
+      },
+      "aggregate": {
+        "quantity": "151",
+        "quotaCents": "46270"
+      }
+    },
+    "referenceDiffers": false,
+    "officialLinks": 0,
+    "appliedActs": [
+      {
+        "id": "portaria-ipem-sp-n-163-2026-202605191132102141856037",
+        "moves": [
+          [
+            "Divisão de Orçamento",
+            "Divisão de Desenvolvimento",
+            "CCESP 1.10",
+            "CHEFE DE DIVISÃO",
+            1
+          ],
+          [
+            "Divisão de Desenvolvimento",
+            "Divisão de Orçamento",
+            "FCESP 1.10",
+            "CHEFE DE DIVISÃO",
+            1
+          ],
+          [
+            "ASSESSORIA DA AUDITORIA INTERNA",
+            "COORDENADORIA GERAL DE GESTÃO ESTRATÉGICA",
+            "FCESP 1.14",
+            "CHEFE DE ASSESSORIA",
+            1
+          ],
+          [
+            "COORDENADORIA GERAL DE GESTÃO ESTRATÉGICA",
+            "ASSESSORIA DA AUDITORIA INTERNA",
+            "CCESP 1.14",
+            "COORDENADOR GERAL",
+            1
+          ],
+          [
+            "DIRETORIA DE INOVAÇÃO E PARCERIAS",
+            "Divisão de Gestão de Materiais",
+            "CCESP 2.06",
+            "ASSISTENTE TÉCNICO II",
+            1
+          ],
+          [
+            "ASSESSORIA TÉCNICO-ADMINISTRATIVA",
+            "Divisão de Logística",
+            "CCESP 2.04",
+            "ASSISTENTE IV",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-163-2026-202605191132102141856037",
+        "partial": false
+      },
+      {
+        "id": "portaria-ipem-sp-n-227-2026-202610131132102142200849",
+        "moves": [
+          [
+            "Coordenadoria de Desenvolvimento",
+            "Coordenadoria de Transformação Digital",
+            "CCESP 1.13",
+            "Coordenador",
+            1
+          ],
+          [
+            "Coordenadoria de Transformação Digital",
+            "Coordenadoria de Desenvolvimento",
+            "FCESP 1.13",
+            "Coordenador",
+            1
+          ]
+        ],
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-227-2026-202610131132102142200849",
+        "partial": false
+      }
+    ],
+    "pendingActs": [],
+    "notices": [
+      "As Portarias nº 163 e 227/2026 foram conferidas. A íntegra da revisão mais recente do regimento interno está em conferência."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.362/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70362-de-4-de-fevereiro-de-2026-202602051182021619028"
+      },
+      {
+        "label": "Decreto nº 70.362/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70362-de-4-de-fevereiro-de-2026-202602051182021619028"
+      },
+      {
+        "label": "Decreto nº 70.362/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70362-04.02.2026.html"
+      },
+      {
+        "label": "PORTARIA IPEM-SP N.º 163/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-163-2026-202605191132102141856037"
+      },
+      {
+        "label": "PORTARIA IPEM-SP N.º 227/2026",
+        "url": "https://doe.sp.gov.br/executivo/secretaria-da-justica-e-cidadania/portaria-ipem-sp-n-227-2026-202610131132102142200849"
+      }
+    ]
+  },
+  "jucesp": {
+    "source": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70361-de-4-de-fevereiro-de-2026-202602051182021619029",
+    "sheetComparison": {
+      "matches": false,
+      "workbookRows": 93,
+      "officialRows": 93,
+      "onlyOrExcessInWorkbook": [
+        [
+          "secretariageral",
+          "secretariogeral",
+          "CCESP 1.15",
+          1
+        ]
+      ],
+      "onlyOrExcessInAct": [
+        [
+          "secretariageral",
+          "diretor",
+          "CCESP 1.15",
+          1
+        ]
+      ],
+      "doeCrosscheck": {
+        "matches": true,
+        "workbookRows": 93,
+        "officialRows": 93,
+        "onlyOrExcessInWorkbook": [],
+        "onlyOrExcessInAct": []
+      }
+    },
+    "sourceLabel": "Decreto nº 70.361/2026",
+    "allocated": {
+      "groups": {
+        "CCESP": {
+          "quantity": "172",
+          "quotaCents": "47275"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "172",
+        "quotaCents": "47275"
+      }
+    },
+    "reviewReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "172",
+          "quotaCents": "47275"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "172",
+        "quotaCents": "47275"
+      }
+    },
+    "referenceSumByCode": {
+      "groups": {
+        "CCESP": {
+          "quantity": "172",
+          "quotaCents": "47275"
+        },
+        "FCESP": {
+          "quantity": "0",
+          "quotaCents": "0"
+        }
+      },
+      "aggregate": {
+        "quantity": "172",
+        "quotaCents": "47275"
+      }
+    },
+    "sheetReference": {
+      "groups": {
+        "CCESP": {
+          "quantity": "111",
+          "quotaCents": "28475"
+        },
+        "FCESP": {
+          "quantity": "13",
+          "quotaCents": "3500"
+        }
+      },
+      "aggregate": {
+        "quantity": "124",
+        "quotaCents": "31975"
+      }
+    },
+    "referenceDiffers": true,
+    "officialLinks": 2,
+    "appliedActs": [
+      {
+        "id": "decreto-70484-2026",
+        "moves": [],
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70484-25.03.2026.html"
+      }
+    ],
+    "pendingActs": [],
+    "notices": [
+      "O Anexo III de 2026 traz 172 CCESP e 472,75 cotas. O quadro geral de 2025 registra outros valores. A área técnica precisa confirmar o limite aplicável."
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decreto nº 70.361/2026",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70361-de-4-de-fevereiro-de-2026-202602051182021619029"
+      },
+      {
+        "label": "Decreto nº 70.361/2026 · Quadro resumo",
+        "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70361-de-4-de-fevereiro-de-2026-202602051182021619029"
+      },
+      {
+        "label": "Decreto nº 70.361/2026 · Assembleia Legislativa",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70361-04.02.2026.html"
+      },
+      {
+        "label": "Decreto nº 70.484/2026 · Denominação na Secretaria Geral",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70484-25.03.2026.html"
+      },
+      {
+        "label": "Decreto geral consultado para comparação",
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69486-14.04.2025.html"
+      }
+    ]
+  }
+}
