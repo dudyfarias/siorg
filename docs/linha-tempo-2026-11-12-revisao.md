@@ -1,0 +1,19 @@
+# Revisão de Novas Estruturas — 12/11/2026
+
+A prévia local mantém os 10 atos do piloto SGGD, cujas datas de publicação já correspondiam ao TXT, e acrescenta os recortes dos outros 15 órgãos e entidades citados. A seleção usa a lista institucional de [Novas Estruturas do SIORG](https://www.siorg.sp.gov.br/siorg/novas_estruturas), com as datas de publicação conferidas no Diário Oficial. Os cinco atos indicados como novos aparecem uma vez cada; o Decreto 70.956 estava mencionado em duas partes do TXT.
+
+| Registro | Resultado da conferência |
+| --- | --- |
+| Fazenda — [Decreto 70.756/2026](https://doe.sp.gov.br/executivo/decretos/decreto-n-70756-de-14-de-julho-de-2026-202607141182021982003) | Ato de 14/07; publicação em **15/07/2026**, não 15/05. |
+| Fazenda — [Resolução SFP 30/2026](https://doe.sp.gov.br/executivo/secretaria-da-fazenda-e-planejamento/resolucao-sfp-30-de-24-09-2026-20260925112812202158230) | Ato de 24/09; publicação em **28/09/2026**, não 28/08. |
+| SAP — [Resolução 52/2026](https://doe.sp.gov.br/executivo/secretaria-da-administracao-penitenciaria/resolucao-sap-52-de-29-09-2026-20260929111412202165963) | O link do TXT é da **SAP 52**, ato de 29/09, publicado em **30/09/2026**. O rótulo “SSP 55” não identifica esse documento. |
+| ARSESP — Deliberação 1.649/2025 | Ato de 12/02; [publicação original em **13/02**](https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-arsesp-n-1649-de-12-de-fevereiro-de-2025-20250212113417203883253) e [republicação em **17/02/2025**](https://www.doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-arsesp-n-1649-de-12-de-fevereiro-de-2025-20250214113417203888856). |
+| Esportes — [resolução sem número](https://www.doe.sp.gov.br/executivo/secretaria-de-esportes/alteracoes-na-classificacao-dos-ccesp-e-fcesp-20251209122342481518083) | O inteiro teor indica ato de **08/12/2025**, publicado em **10/12/2025**. |
+
+Além da SAP 52, entraram o [Decreto 70.956 da Fazenda](https://doe.sp.gov.br/executivo/decretos/decreto-n-70956-de-3-de-novembro-de-2026-202611031182022253076) (04/11/2026), a [Resolução 24 de Políticas para a Mulher](https://doe.sp.gov.br/executivo/secretaria-de-politicas-para-a-mulher/resolucao-de-14-de-outubro-de-2026-20261014123212482205746) (15/10/2026), o [Decreto 70.843 da Casa Civil](https://doe.sp.gov.br/executivo/decretos/decreto-n-70843-de-3-de-setembro-de-2026-202609031182022102868) (04/09/2026), no grupo Governadoria, e a [Deliberação ARTESP 722](https://doe.sp.gov.br/executivo/secretaria-de-parcerias-em-investimentos/deliberacao-artesp-n-722-de-22-de-setembro-de-2026-2026092211351712032147160) (23/09/2026).
+
+Foram conferidos os links da SCEIC 34 e ARSESP 1.801 e 1.811 indicados no TXT. No contexto de Esportes, o link do Decreto 69.674 na lista institucional apontava para uma resolução diferente; a prévia aponta para o [decreto correto](https://doe.sp.gov.br/executivo/decretos/decreto-n-69674-de-3-de-julho-de-2025-202507031182021186813).
+
+A página ordena pela data do ato quando confirmada e, nos demais casos, pela publicação. A Deliberação ARTESP 03/2025 tem divergência no ano do cabeçalho; a Resolução SGRI 04/2025 e a Portaria PR/DER-001/2025 não trazem a data do ato no inteiro teor consultado. Esses três registros mostram a data de publicação confirmada e deixam a data do ato em conferência. Na Deliberação ARTESP 200/2025, a data de 03/06/2025 vem do Anexo I e há nota sobre o cabeçalho eletrônico divergente.
+
+A relação é um recorte documental. Os atos do piloto SGGD e seus vínculos foram preservados; a revisão não certifica vigência integral. O inventário do portal, os metadados do DOE e a verificação no navegador estão em `evidence/linha-tempo-2026-11-12/`. A revisão foi publicada no [protótipo do Vercel](https://siorg-calculadora-mvp.vercel.app/novas-estruturas) após autorização em 12/11/2026. O portal institucional permanece sem alteração.

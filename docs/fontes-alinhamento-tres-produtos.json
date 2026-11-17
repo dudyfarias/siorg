@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "escopo-e-lacunas",
+      "title": "Escopo proposto e situação do MVP",
+      "queries": [
+        {
+          "id": "alinhamento-recebido",
+          "source": { "label": "Alinhamento fornecido nesta conversa" },
+          "summary": "Calculadora e Distribuição devem avançar juntas, começando pela SGGD e com revisão da área técnica. A Linha Histórica vem na sequência."
+        },
+        {
+          "id": "codigo-revisado",
+          "source": {
+            "label": "Código local do MVP: App.jsx e scenario.mjs",
+            "caveats": ["A comparação atual é aritmética e não verifica limites administrativos.", "A referência documental da SGGD permanece em conflito; esta revisão não reavaliou os atos normativos."]
+          },
+          "summary": "O aplicativo mantém uma simulação por recorte. Trocar de unidade substitui seus valores. O cálculo de impacto não consolida a referência da SGGD enquanto ela estiver marcada como conflitante."
+        }
+      ]
+    }
+  ]
+}

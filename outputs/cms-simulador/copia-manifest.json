@@ -1,0 +1,75 @@
+{
+  "copiedAt": "2026-11-17",
+  "files": [
+    {
+      "file": "README-HOMOLOGACAO.md",
+      "sha256": "120a08b475365a55bf498db4bc319057a70af041bfa2210c6415b6349dc4857e",
+      "bytes": 7658
+    },
+    {
+      "file": "adapter.test.mjs",
+      "sha256": "1c80206ac48baf5ad4ceecbca4a373b152f7c556f1a978797a44380241d04580",
+      "bytes": 3314
+    },
+    {
+      "file": "build.mjs",
+      "sha256": "fb47515b8e64b7144121dcbbb2707ea3e51ebd061ed290048968e7492c9b5ee6",
+      "bytes": 3033
+    },
+    {
+      "file": "cms-entry.jsx",
+      "sha256": "a71127e9742b7c54643b512066490c1d8039c1302860463d0e40e947bf25246f",
+      "bytes": 2741
+    },
+    {
+      "file": "cms-environment.mjs",
+      "sha256": "82d034a1ccc4ad7170e3c36f78284d44ea10cb394623e0b4694078ebc2f4018d",
+      "bytes": 2979
+    },
+    {
+      "file": "pack.py",
+      "sha256": "f31d2730d4ad152dc8498e74447e8fcb38f69b096eda0e74e76387f7270e7c65",
+      "bytes": 1164
+    },
+    {
+      "file": "package-manifest.json",
+      "sha256": "c42c916b6fa6b3003493b87c7c40f38de59215359280470bc5315acfc7e67aa0",
+      "bytes": 693
+    },
+    {
+      "file": "prepare.py",
+      "sha256": "c74767f57f9bd4dde410a5bfb5ed4c433a8e349e136c883f7e644920edab608b",
+      "bytes": 3794
+    },
+    {
+      "file": "siorg-simulador-script-application-homologacao.zip",
+      "sha256": "c774ccbcffbaf488e14872f176808443217c005afb275d28e4dad53b7ebbe981",
+      "bytes": 2044317
+    },
+    {
+      "file": "source-count.json",
+      "sha256": "635d22769a820de4998110421274a42e3389bf5a05768e0ed38a5a3514e5864e",
+      "bytes": 198
+    },
+    {
+      "file": "source-manifest.json",
+      "sha256": "eba4f3635bc127b58bd8532b2a92f7a1c77af443d6955fd263b5022219f157d1",
+      "bytes": 5626
+    },
+    {
+      "file": "tests-exportacao.txt",
+      "sha256": "aa198a7497e90eda4ca318b03efc1d1fa10be8510221a7a790e8e95d75f02bec",
+      "bytes": 7125
+    },
+    {
+      "file": "verification-static.json",
+      "sha256": "247d2467c29eccd2c7553d0720b35dea6f8721fa4055a3b180a9f8a886f0e67f",
+      "bytes": 2443
+    },
+    {
+      "file": "verify.mjs",
+      "sha256": "2120a4b57153f3b10832739564c9d0eac95d9b8dbc07a17a084f33c64e42cd0b",
+      "bytes": 4438
+    }
+  ]
+}

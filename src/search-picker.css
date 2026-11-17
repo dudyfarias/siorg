@@ -1,0 +1,82 @@
+.card.simulator-context { overflow: visible; }
+.search-picker { min-width: 0; }
+.search-picker-control { position: relative; }
+.search-picker .search-picker-control input {
+  display: block;
+  width: 100%;
+  min-height: var(--picker-height, 36px);
+  background: #fff;
+  border: 1px solid #909090;
+  border-radius: 4px;
+  color: #333;
+  font-family: inherit;
+  line-height: 1.5;
+  padding: 6px 36px 6px 10px;
+  font-size: var(--picker-font, .8125rem);
+  text-overflow: ellipsis;
+}
+.search-picker-toggle {
+  position: absolute;
+  inset: 1px 1px 1px auto;
+  width: 34px;
+  background: transparent;
+  border: 0;
+  border-radius: 3px;
+  color: #444;
+  font-size: .7rem;
+  cursor: pointer;
+}
+.search-picker > small {
+  display: block;
+  margin-top: 5px;
+  line-height: 1.45;
+}
+.search-picker-popup {
+  position: absolute;
+  inset: calc(100% + 4px) 0 auto;
+  z-index: 12;
+  background: #fff;
+  border: 1px solid #888;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px #0002;
+}
+.search-picker-popup ul {
+  list-style: none;
+  margin: 0;
+  padding: 4px;
+  max-height: min(19rem, 42dvh);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.search-picker-popup li {
+  padding: 8px 10px;
+  border-left: 3px solid transparent;
+  border-radius: 2px;
+  line-height: 1.4;
+  font-size: .8125rem;
+  overflow-wrap: anywhere;
+  cursor: pointer;
+}
+.search-picker-popup li[aria-selected="true"] {
+  border-left-color: #a92325;
+  font-weight: 600;
+}
+.search-picker-popup li:hover,
+.search-picker-popup li[data-active="true"] {
+  background: #f3f3f3;
+  outline: 1px solid #777;
+  outline-offset: -1px;
+}
+.search-picker-popup li small { display: block; margin-top: 2px; font-weight: 400; }
+.search-picker-empty { padding: 8px 12px 12px; font-size: .8125rem; }
+html.siorg-high-contrast .search-picker-popup li[data-active="true"],
+html.siorg-high-contrast .search-picker-popup li:hover { outline-color: #fff; background: #333; }
+html.siorg-high-contrast .search-picker-popup li[aria-selected="true"] { border-left-color: #fff; }
+
+@media (max-width: 620px) {
+  .search-picker .search-picker-control input { font-size: 1rem; }
+  .search-picker-popup li { min-height: 44px; }
+}
+@media print {
+  .search-picker-popup, .search-picker-toggle { display: none; }
+}

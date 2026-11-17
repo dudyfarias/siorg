@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "model": "eleven_v4",
+  "voice_id": "5p9IbzcK4R8rN1fpGdMF",
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 1.0,
+    "speed": 1.0
+  },
+  "characters": 3653,
+  "text_sha256": "e77e8f5f3a6f37938c96c89e818015baae8454c809354623f62b24f90676591d",
+  "http_status": 200,
+  "request_id": "A14CEz7nysK99xUlevBA",
+  "audio_sha256": "47d7b914f3b062538b413aed5915c542c7e708a01437687a3085ae0d02f19500"
+}

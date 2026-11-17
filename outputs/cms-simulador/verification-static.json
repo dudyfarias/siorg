@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-11-17T11:44:57.024Z",
+  "checks": [
+    {
+      "name": "All 58 allowlisted source files remained unchanged",
+      "pass": true
+    },
+    {
+      "name": "Classic script AST has no static/dynamic imports, exports or import.meta",
+      "pass": true
+    },
+    {
+      "name": "Bundle uses one private IIFE, not a global React export",
+      "pass": true
+    },
+    {
+      "name": "Bundle does not contain private paths/domains or environment credentials",
+      "pass": true
+    },
+    {
+      "name": "No separate JS chunks or source maps",
+      "pass": true
+    },
+    {
+      "name": "Main fragment references classic relative script with HCL namespace",
+      "pass": true
+    },
+    {
+      "name": "Original XLSX bytes exactly match the published model",
+      "pass": true
+    },
+    {
+      "name": "Four local fonts preserved with unique application families",
+      "pass": true
+    },
+    {
+      "name": "CSS has no absolute asset paths or remote imports",
+      "pass": true
+    },
+    {
+      "name": "CSS adapts document root to component wrapper",
+      "pass": true
+    },
+    {
+      "name": "All published organization bases retained",
+      "pass": true
+    },
+    {
+      "name": "SGGD documentary rows retained",
+      "pass": true
+    },
+    {
+      "name": "calculator.mjs byte-for-byte preserved",
+      "pass": true
+    },
+    {
+      "name": "structure-proposal.mjs byte-for-byte preserved",
+      "pass": true
+    },
+    {
+      "name": "structure-rules.mjs byte-for-byte preserved",
+      "pass": true
+    },
+    {
+      "name": "proposal-outputs.mjs byte-for-byte preserved",
+      "pass": true
+    },
+    {
+      "name": "proposal-xlsx.mjs byte-for-byte preserved",
+      "pass": true
+    },
+    {
+      "name": "annex-pdf.mjs byte-for-byte preserved",
+      "pass": true
+    },
+    {
+      "name": "proposal-storage.mjs byte-for-byte preserved",
+      "pass": true
+    }
+  ],
+  "classicScriptBytes": 5093286,
+  "classicScriptSha256": "3f45061867e2c3b62b9ea047e6c0563733e325da2aae933608a65e71006c1f7c",
+  "embeddedOriginalExcelSha256": "dfb7d13d88d75dfa3ffa4c6de149ca9e06817b04688fc030e2e99866e9772a11",
+  "testFiles": [
+    "structure-proposal.test.mjs",
+    "proposal-outputs.test.mjs",
+    "annex-pdf.test.mjs",
+    "proposal-xlsx.test.mjs"
+  ],
+  "scope": "Static and copied-module tests. Actual CMS import, CSP and anonymous rendering still require institutional homologation."
+}

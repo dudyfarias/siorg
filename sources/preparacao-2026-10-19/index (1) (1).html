@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linha do Tempo Horizontal - SGGD</title>
+    <style>
+        :root {
+            --primary-color: #1a365d;
+            --secondary-color: #2b6cb0;
+            --accent-color: #3182ce;
+            --bg-color: #f7fafc;
+            --card-bg: #ffffff;
+            --text-color: #2d3748;
+            --text-light: #718096;
+            --border-color: #e2e8f0;
+            --decreto-color: #2b6cb0;
+            --resolucao-color: #319795;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            color: var(--primary-color);
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: var(--text-light);
+            font-size: 1.1rem;
+        }
+
+        .instruction-banner {
+            background-color: #ebf8ff;
+            border-left: 4px solid var(--secondary-color);
+            padding: 12px 18px;
+            border-radius: 4px;
+            margin-bottom: 40px;
+            font-size: 0.95rem;
+            color: #2c5282;
+            text-align: center;
+        }
+
+        /* Container Principal da Linha do Tempo Horizontal */
+        .timeline-horizontal-wrapper {
+            position: relative;
+            margin: 40px 0 60px 0;
+            overflow-x: auto;
+            padding: 20px 0 40px 0;
+        }
+
+        .timeline-track {
+            position: relative;
+            display: flex;
+            gap: 40px;
+            min-width: max-content;
+            padding: 0 40px;
+            align-items: flex-start;
+        }
+
+        /* Linha contínua horizontal de fundo */
+        .timeline-track::before {
+            content: '';
+            position: absolute;
+            top: 25px;
+            left: 40px;
+            right: 40px;
+            height: 4px;
+            background-color: var(--border-color);
+            z-index: 1;
+            border-radius: 2px;
+        }
+
+        .timeline-node {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 260px;
+            cursor: pointer;
+        }
+
+        .node-marker {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: var(--card-bg);
+            border: 4px solid var(--secondary-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.85rem;
+            color: var(--primary-color);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.08);
+            transition: transform 0.2s, background-color 0.2s, color 0.2s;
+            margin-bottom: 15px;
+            background-clip: padding-box;
+        }
+
+        .timeline-node:hover .node-marker {
+            transform: scale(1.1);
+            background-color: var(--secondary-color);
+            color: white;
+        }
+
+        .timeline-node.active .node-marker {
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
+            color: white;
+            transform: scale(1.1);
+        }
+
+        /* Cartão Resumido (Sempre visível no nó) */
+        .node-preview {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 15px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+            transition: all 0.2s ease;
+        }
+
+        .timeline-node:hover .node-preview {
+            box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+            border-color: #cbd5e0;
+        }
+
+        .badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 3px 8px;
+            border-radius: 4px;
+            margin-bottom: 6px;
+            letter-spacing: 0.5px;
+        }
+
+        .badge.decreto {
+            background-color: #ebf8ff;
+            color: #2b6cb0;
+        }
+
+        .badge.resolucao {
+            background-color: #e6fffa;
+            color: #319795;
+        }
+
+        .node-title {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 4px;
+        }
+
+        .node-date {
+            font-size: 0.8rem;
+            color: var(--text-light);
+            font-weight: 600;
+        }
+
+        /* Painel de Detalhes Expandido (Aparece abaixo ao clicar) */
+        .details-container {
+            max-width: 900px;
+            margin: 20px auto 0 auto;
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+            display: none;
+            animation: fadeIn 0.3s ease-in-out;
+            position: relative;
+            border-left: 6px solid var(--secondary-color);
+        }
+
+        .details-container.show {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .details-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .details-title-area h3 {
+            font-size: 1.4rem;
+            color: var(--primary-color);
+            margin-bottom: 5px;
+        }
+
+        .close-btn {
+            background: #edf2f7;
+            border: none;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-weight: bold;
+            color: var(--text-light);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+
+        .close-btn:hover {
+            background: #e2e8f0;
+            color: var(--text-color);
+        }
+
+        .details-description {
+            font-size: 1.05rem;
+            color: var(--text-color);
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .official-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: #ffffff;
+            background-color: var(--secondary-color);
+            text-decoration: none;
+            padding: 10px 18px;
+            border-radius: 6px;
+            transition: background-color 0.2s;
+        }
+
+        .official-link:hover {
+            background-color: var(--primary-color);
+        }
+
+        footer.info-footer {
+            margin-top: 60px;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-light);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        /* Barra de rolagem customizada para a trilha horizontal */
+        .timeline-horizontal-wrapper::-webkit-scrollbar {
+            height: 8px;
+        }
+        .timeline-horizontal-wrapper::-webkit-scrollbar-track {
+            background: #edf2f7;
+            border-radius: 4px;
+        }
+        .timeline-horizontal-wrapper::-webkit-scrollbar-thumb {
+            background: #cbd5e0;
+            border-radius: 4px;
+        }
+        .timeline-horizontal-wrapper::-webkit-scrollbar-thumb:hover {
+            background: #a0aec0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Evolução Normativa e Estrutural</h1>
+            <p>Secretaria de Gestão e Governo Digital (SGGD) • Marco Inicial: LC nº 1.395/2023</p>
+        </header>
+
+        <div class="instruction-banner">
+            ↔️ <strong>Como usar:</strong> Role a linha do tempo horizontalmente e clique em qualquer marco para expandir os detalhes e acessar o ato oficial.
+        </div>
+
+        <!-- Linha do Tempo Horizontal -->
+        <div class="timeline-horizontal-wrapper">
+            <div class="timeline-track" id="timeline-track">
+                <!-- Inserido via JavaScript -->
+            </div>
+        </div>
+
+        <!-- Painel de Detalhes que aparece ao clicar em um marco -->
+        <div class="details-container" id="details-panel">
+            <div class="details-header">
+                <div class="details-title-area">
+                    <span id="detail-badge" class="badge"></span>
+                    <h3 id="detail-title"></h3>
+                    <span id="detail-date" class="node-date"></span>
+                </div>
+                <button class="close-btn" onclick="closeDetails()" title="Fechar">✕</button>
+            </div>
+            <p id="detail-desc" class="details-description"></p>
+            <a id="detail-link" href="#" target="_blank" class="official-link">
+                Ver ato completo no DOE-SP ↗
+            </a>
+        </div>
+
+        <footer class="info-footer">
+            <p>Sistema de Linha do Tempo Institucional • Visualização Horizontal Interativa</p>
+        </footer>
+    </div>
+
+    <script>
+        const atosData = [
+            {
+                tipo: "Decreto",
+                numero: "Decreto nº 69.052/2024",
+                data: "14/11/2024",
+                descricao: "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+                url: "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092"
+            },
+            {
+                tipo: "Decreto",
+                numero: "Decreto nº 69.230/2024",
+                data: "23/12/2024",
+                descricao: "Altera o Decreto nº 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+                url: "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458"
+            },
+            {
+                tipo: "Decreto",
+                numero: "Decreto nº 69.290/2024",
+                data: "01/01/2025",
+                descricao: "Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+                url: "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536"
+            },
+            {
+                tipo: "Decreto",
+                numero: "Decreto nº 69.506/2025",
+                data: "30/04/2025",
+                descricao: "Altera o Decreto nº 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas.",
+                url: "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800"
+            },
+            {
+                tipo: "Resolução",
+                numero: "Resolução SGGD nº 25/2025",
+                data: "19/05/2025",
+                descricao: "Aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+                url: "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990"
+            },
+            {
+                tipo: "Resolução",
+                numero: "Resolução SGGD nº 42/2025",
+                data: "08/09/2025",
+                descricao: "Estabelece regras e procedimentos para a gestão e o controle do Quadro Geral de Cargos em Comissão e Funções de Confiança – QGCFC, instituído pela Lei Complementar nº 1.395, de 22 de dezembro de 2023, e dá providências correlatas.",
+                url: "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017"
+            },
+            {
+                tipo: "Decreto",
+                numero: "Decreto nº 69.873/2025",
+                data: "19/09/2025",
+                descricao: "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+                url: "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921"
+            },
+            {
+                tipo: "Decreto",
+                numero: "Decreto SGGD nº 70.755/2026",
+                data: "15/07/2026",
+                descricao: "Altera o Decreto n° 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+                url: "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+            },
+            {
+                tipo: "Resolução",
+                numero: "Resolução SGGD nº 33/2026",
+                data: "22/07/2026",
+                descricao: "Aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+                url: "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+            },
+            {
+                tipo: "Resolução",
+                numero: "Resolução SGGD nº 39/2026",
+                data: "23/09/2026",
+                descricao: "Revoga dispositivos da Resolução SGGD nº 33, de 22-07-2026, que aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+                url: "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+            }
+        ];
+
+        function renderHorizontalTimeline() {
+            const track = document.getElementById('timeline-track');
+            track.innerHTML = '';
+
+            atosData.forEach((ato, index) => {
+                const isDecreto = ato.tipo.toLowerCase().includes('decreto');
+                const badgeClass = isDecreto ? 'decreto' : 'resolucao';
+                const borderColor = isDecreto ? '#2b6cb0' : '#319795';
+
+                const node = document.createElement('div');
+                node.className = 'timeline-node';
+
+                node.innerHTML = `
+                    <div class="node-marker" style="border-color: ${borderColor}">${index + 1}º</div>
+                    <div class="node-preview" style="border-left: 4px solid ${borderColor}">
+                        <span class="badge ${badgeClass}">${ato.tipo}</span>
+                        <div class="node-title">${ato.numero.split('/')[0]}</div>
+                        <div class="node-date">📅 ${ato.data}</div>
+                    </div>
+                `;
+
+                node.addEventListener('click', () => {
+                    // Remover classe active de todos os nós
+                    document.querySelectorAll('.timeline-node').forEach(n => n.classList.remove('active'));
+                    node.classList.add('active');
+
+                    // Preencher painel de detalhes
+                    document.getElementById('detail-badge').className = `badge ${badgeClass}`;
+                    document.getElementById('detail-badge').innerText = ato.tipo;
+                    document.getElementById('detail-title').innerText = ato.numero;
+                    document.getElementById('detail-date').innerText = `Publicado em: ${ato.data}`;
+                    document.getElementById('detail-desc').innerText = ato.descricao;
+                    document.getElementById('detail-link').href = ato.url;
+
+                    // Mostrar painel e rolar suavemente até ele
+                    const panel = document.getElementById('details-panel');
+                    panel.classList.add('show');
+                    panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                });
+
+                track.appendChild(node);
+            });
+        }
+
+        function closeDetails() {
+            document.getElementById('details-panel').classList.remove('show');
+            document.querySelectorAll('.timeline-node').forEach(n => n.classList.remove('active'));
+        }
+
+        window.onload = renderHorizontalTimeline;
+    </script>
+</body>
+</html>

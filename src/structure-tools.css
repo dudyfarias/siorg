@@ -1,0 +1,31 @@
+.sim-unit-path { margin: 10px 0 14px; min-width: 0; }
+.sim-unit-path-label { font-size: .75rem; font-weight: 600; margin: 0 0 5px; }
+.sim-unit-path ol { display: flex; flex-wrap: wrap; gap: 5px 0; list-style: none; margin: 0; padding: 0; }
+.sim-unit-path li { font-size: .75rem; line-height: 1.6; overflow-wrap: anywhere; max-width: 100%; }
+.sim-unit-path li + li::before { content: '→'; margin: 0 8px; color: #666; }
+.sim-unit-path li[aria-current] { font-weight: 600; }
+.sim-unit-path li > span { font-weight: 400; }
+.sim-unit-path-open { color: #70551d; }
+.sim-unit-path-note, .sim-destination-note, .sim-destination-selection { font-size: .6875rem; line-height: 1.6; margin: 6px 0 12px; color: #555; overflow-wrap: anywhere; }
+.sim-destination-picker { margin-bottom: 18px; --picker-height: 44px; --picker-font: .8125rem; }
+.sim-destination-picker .search-picker-popup { position: static; margin-top: 5px; box-shadow: none; }
+.sim-destination-picker .search-picker-popup ul { max-height: min(18rem, 35dvh); }
+.sim-destination-picker .search-picker > small { font-size: .6875rem; color: #555; }
+.sim-destination-picker .sim-unit-path { padding-top: 10px; }
+.sim-destination-blocked { margin: 12px 0; font-size: .75rem; }
+.sim-destination-blocked > summary { cursor: pointer; min-height: 36px; padding: 8px 0; text-decoration: underline; text-underline-offset: 3px; }
+.sim-destination-blocked > p { font-size: .6875rem; margin-bottom: 8px; }
+.sim-destination-blocked ul { list-style: none; margin: 0; padding: 0; max-height: 12rem; overflow-y: auto; }
+.sim-destination-blocked li { border-top: 1px solid #ddd; padding: 9px 0; overflow-wrap: anywhere; }
+.sim-destination-blocked li > span, .sim-destination-blocked li > small { display: block; font-size: .6875rem; line-height: 1.6; }
+.sim-destination-blocked li > small { color: #666; }
+html.siorg-high-contrast .sim-unit-path-open,
+html.siorg-high-contrast .sim-unit-path-note,
+html.siorg-high-contrast .sim-unit-path li + li::before,
+html.siorg-high-contrast .sim-destination-picker p,
+html.siorg-high-contrast .sim-destination-picker small { color: #fff !important; }
+@media (max-width: 620px) {
+  .sim-destination-picker { --picker-font: 1rem; }
+  .sim-unit-path li { font-size: .6875rem; }
+  .sim-destination-blocked > summary { min-height: 44px; }
+}

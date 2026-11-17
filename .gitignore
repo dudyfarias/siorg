@@ -1,0 +1,33 @@
+.vercel
+.env*
+!.env.example
+
+# Dependências e arquivos gerados localmente
+node_modules
+dist/
+coverage/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+
+# Cópias locais de dependências e recursos
+.node_modules-backup*/
+.assets-offline-backup*/
+/evidence/orgaos-2026-09-24/doe-js-*.js
+
+# Arquivos temporários do Office e da produção de vídeo
+~$*
+*.inspect.ndjson
+outputs/video-siorg/producao/quadros/
+outputs/video-siorg/producao/navegacao-v2-teste/
+outputs/video-siorg/producao/navegacao-v2/bruto/
+outputs/video-siorg/producao/navegacao-v2/checagem-erro.jpg
+
+# Configurações e estados de autenticação locais
+.auth/
+playwright/.auth/
+storage-state*.json
+storageState*.json
+*.pem
+*.key

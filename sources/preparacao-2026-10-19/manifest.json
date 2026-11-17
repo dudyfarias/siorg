@@ -1,0 +1,79 @@
+[
+  {
+    "file": "index (1) (1).html",
+    "download_path": "/Users/eduardofariascappia/Downloads/index (1) (1).html",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/index (1) (1).html",
+    "sha256": "b5d3a07b5df02688bca29b3f8719314f2eee4174fc2ac16263e107acf63e3b21",
+    "bytes": 17555,
+    "sharepoint_modified_display": "2026-10-18 11:46",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  },
+  {
+    "file": "SGGD- TESTE1.xlsx",
+    "download_path": "/Users/eduardofariascappia/Downloads/SGGD- TESTE1.xlsx",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/SGGD- TESTE1.xlsx",
+    "sha256": "ea6d9f74dd20b27f70f172e6d0b3d523d440ac60e1a0085d5de2f40c7afb2ddb",
+    "bytes": 1118629,
+    "sharepoint_modified_display": "2026-10-08 10:56",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  },
+  {
+    "file": "Diagnostico_SIORG_BR.docx",
+    "download_path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/Diagnostico_SIORG_BR.docx",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/Diagnostico_SIORG_BR.docx",
+    "sha256": "0c485d4e78d35f58a60ca206759484ad7285113a0353cc62d793928d6a5d3523",
+    "bytes": 6063155,
+    "sharepoint_modified_display": "2026-09-10 17:15",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  },
+  {
+    "file": "Levantamento atos reestruturação.xlsx",
+    "download_path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/Levantamento atos reestruturação.xlsx",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/Levantamento atos reestruturação.xlsx",
+    "sha256": "3bc3d8e9be80dbf774f611cfd2b11e7c92b72bdb33e4847b702b3a1cd422bff5",
+    "bytes": 148428,
+    "sharepoint_modified_display": "2026-10-07 09:11",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  },
+  {
+    "file": "mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+    "download_path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/mapeamento_CCESP_FCESP_SP_2026 (1.2).xlsx",
+    "sha256": "93dd5052637b275243dd6630f0c0d90a2ed6937ed900c22aa83ff4f424930a5e",
+    "bytes": 87828,
+    "sharepoint_modified_display": "2026-10-16 08:28",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  },
+  {
+    "file": "Orientacoes_simulador_cotas.docx",
+    "download_path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/Orientacoes_simulador_cotas.docx",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/Orientacoes_simulador_cotas.docx",
+    "sha256": "febdb0842e4a7d4e199b3036d2f6869715193e3bed9ba45962819f613cd0d7b9",
+    "bytes": 65440,
+    "sharepoint_modified_display": "2026-10-16 10:33",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  },
+  {
+    "file": "Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+    "download_path": "/Users/eduardofariascappia/Downloads/OneDrive_1_19-10-2026/Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+    "reference_copy": "/Users/eduardofariascappia/Documents/ChatGPT/SIORG-Calculadora-MVP/sources/preparacao-2026-10-19/Quadro_consolidado_cargos_cotas_siorg_estrutura_dentro_de_cada_orgao.xlsx",
+    "sha256": "f9a13feb233c7cdb9a73906c6dcc43c9960493878fd9bf97cfdf6d51053ea2e6",
+    "bytes": 800722,
+    "sharepoint_modified_display": "2026-09-24 13:33",
+    "observed_date": "2026-10-19",
+    "method": "Download via authenticated Safari UI; user completed login",
+    "validation": "Received and inspected; not institutional approval"
+  }
+]

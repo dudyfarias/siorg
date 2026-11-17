@@ -1,0 +1,341 @@
+.siorg-shell {
+  --shell-red: #ff161f;
+  --shell-black: #000;
+  --shell-white: #fff;
+  --shell-muted-surface: #f5f5f5;
+  min-height: 100vh;
+  color: var(--shell-black);
+  background: var(--shell-white);
+  font-family: Rawline, sans-serif;
+}
+
+.siorg-shell button { cursor: pointer; }
+.siorg-shell button:disabled { cursor: default; }
+.siorg-shell [hidden] { display: none !important; }
+.siorg-shell a { color: inherit; }
+
+.siorg-shell :where(a, button, input, select, textarea, summary):focus-visible {
+  outline: 3px solid #1351b4;
+  outline-offset: 3px;
+}
+
+.siorg-skip-link {
+  position: fixed;
+  z-index: 100010;
+  left: 1rem;
+  top: 1rem;
+  padding: .75rem 1rem;
+  background: #fff;
+  color: #000;
+  transform: translateY(-200%);
+}
+.siorg-skip-link:focus { transform: none; }
+
+.siorg-shell-container {
+  width: calc(100% - 32px);
+  max-width: 1152px;
+  margin-inline: auto;
+}
+
+.siorg-header { background: #fff; }
+.siorg-mobile-government { display: none; }
+.siorg-brand-row {
+  width: 80%;
+  min-height: 138.94px;
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.siorg-brand, .siorg-government {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  flex: 0 0 auto;
+}
+.siorg-logo { display: block; width: 170px; height: 75px; object-fit: fill; }
+.siorg-government img { display: block; width: 165px; height: 106.94px; object-fit: contain; }
+.siorg-government .siorg-gov-light { display: none; }
+
+.siorg-navigation { margin-bottom: 16px; background: #fff; position: relative; z-index: 30; }
+.siorg-nav-inner { min-height: 71px; display: flex; align-items: center; }
+.siorg-nav-toggle { display: none; }
+.siorg-nav-list, .siorg-dropdown, .siorg-footer-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.siorg-nav-list { display: flex; align-items: center; flex-wrap: wrap; }
+.siorg-nav-item { position: relative; margin: 8px; }
+.siorg-nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 43px;
+  padding: 8px;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
+  color: #000;
+  background: transparent;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  text-decoration: none;
+}
+.siorg-nav-link:hover { background: #f5f5f5; }
+.siorg-nav-link[aria-expanded="true"], .siorg-nav-link.is-current {
+  border-bottom-color: var(--shell-red);
+}
+.siorg-chevron { color: var(--shell-red); font-size: .85em; transition: transform .2s; }
+[aria-expanded="true"] > .siorg-chevron { transform: rotate(180deg); }
+.siorg-dropdown {
+  position: absolute;
+  left: 0;
+  top: 95%;
+  z-index: 35;
+  width: max-content;
+  min-width: 220px;
+  max-width: min(360px, calc(100vw - 32px));
+  padding-block: 8px;
+  border: 1px solid rgb(0 0 0 / 15%);
+  border-radius: 4px;
+  background: #f5f5f5;
+}
+.siorg-dropdown a {
+  display: block;
+  padding: 9px 16px;
+  font-size: 1rem;
+  line-height: 1.45;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.siorg-dropdown a:hover, .siorg-dropdown a:focus-visible { text-decoration: underline; }
+.siorg-dropdown a[aria-current="page"] { font-weight: 700; }
+.siorg-nav-item:last-child .siorg-dropdown { left: auto; right: 0; }
+.siorg-main { background: #ededed; color: #333; }
+.siorg-main:focus { outline: none; }
+
+.siorg-footer {
+  min-height: 423px;
+  padding: 32px 0;
+  background: #000;
+  color: #fff;
+}
+.siorg-footer-links {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 32px;
+  min-height: 100px;
+  padding-bottom: 28px;
+}
+.siorg-footer-links a {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fff;
+  text-decoration: none;
+}
+.siorg-footer-links a:hover { text-decoration: underline; }
+.siorg-footer-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 18px;
+}
+.siorg-footer-logo { width: 165px; height: 107px; object-fit: contain; display: block; }
+.siorg-footer-caption { margin: 24px 0 0; font-size: .75rem; line-height: 1.6; }
+.siorg-footer-reference { max-width: 720px; margin: 16px 0 0; font-size: .75rem; line-height: 1.6; }
+
+.siorg-a11y-rail { position: fixed; top: 248px; right: 10px; z-index: 99999; }
+.siorg-assistive-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+}
+.siorg-assistive-button img { width: 40px; height: 40px; display: block; }
+.siorg-a11y-panel {
+  position: absolute;
+  right: 48px;
+  top: 0;
+  width: 288px;
+  max-width: calc(100vw - 72px);
+  max-height: calc(100dvh - 264px);
+  overflow-y: auto;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fff;
+  color: #000;
+  box-shadow: 0 3px 16px rgb(0 0 0 / 14%);
+}
+.siorg-a11y-panel h2 { margin: 0 0 12px; font-size: 1rem; font-weight: 700; }
+.siorg-a11y-panel button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  min-height: 40px;
+  border: 0;
+  padding: 8px 0;
+  text-align: left;
+  background: transparent;
+  color: inherit;
+  font-size: .875rem;
+  line-height: 1.4;
+}
+.siorg-a11y-panel button:hover:not(:disabled) { text-decoration: underline; }
+.siorg-a11y-panel button:disabled { opacity: .5; }
+.siorg-a11y-panel button[aria-pressed="true"] { font-weight: 700; }
+.siorg-a11y-size { margin: 2px 0 8px; font-size: .75rem; }
+.siorg-a11y-divider { margin-top: 6px; border-top: 1px solid #ddd; padding-top: 6px; }
+.siorg-libras-button { position: fixed; right: 10px; top: 50%; transform: translateY(-50%); z-index: 99998; }
+.siorg-libras-dialog {
+  width: min(440px, calc(100vw - 32px));
+  padding: 24px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fff;
+  color: #000;
+}
+.siorg-libras-dialog::backdrop { background: rgb(0 0 0 / 45%); }
+.siorg-libras-dialog h2 { margin: 0 0 16px; padding-right: 24px; font-size: 1.25rem; }
+.siorg-libras-dialog p { margin: 0 0 16px; line-height: 1.6; font-size: 1rem; }
+.siorg-libras-dialog a { text-decoration: underline; }
+.siorg-dialog-close {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+}
+.siorg-dialog-dismiss {
+  display: block;
+  margin: 20px 0 0 auto;
+  padding: 8px 24px;
+  border: 1px solid var(--shell-red);
+  border-radius: 24px;
+  background: transparent;
+  color: inherit;
+  font-weight: 600;
+}
+
+html.siorg-font-large { font-size: 112.5%; }
+html.siorg-font-largest { font-size: 125%; }
+html.siorg-highlight-links .siorg-shell a:not(.siorg-brand):not(.siorg-government) {
+  background-color: #df5 !important;
+  color: #000 !important;
+}
+html.siorg-high-contrast .siorg-shell {
+  --shell-red: #fff;
+  --shell-black: #fff;
+  --shell-white: #000;
+  --shell-muted-surface: #000;
+  background: #000;
+  color: #fff;
+}
+html.siorg-high-contrast .siorg-shell :where(header, footer, main, nav, section, article, aside, div, details, summary, form, fieldset, table, thead, tbody, tr, th, td, input, select, textarea, button, dialog) {
+  background-color: #000 !important;
+  color: #fff !important;
+  border-color: #fff !important;
+  box-shadow: none !important;
+}
+html.siorg-high-contrast .siorg-shell :where(h1, h2, h3, h4, h5, h6, p, label, span, strong, small, em, li, a, i, caption, legend, output) { color: #fff !important; }
+html.siorg-high-contrast .siorg-shell :where(input, select, textarea, button) { border: 1px solid #fff; }
+html.siorg-high-contrast .siorg-shell :where(input, textarea)::placeholder { color: #ddd !important; }
+html.siorg-high-contrast .siorg-shell :focus-visible { outline-color: #fff; }
+html.siorg-high-contrast .siorg-shell .siorg-logo { filter: invert(1); }
+html.siorg-high-contrast .siorg-government .siorg-gov-dark { display: none; }
+html.siorg-high-contrast .siorg-government .siorg-gov-light { display: block; }
+html.siorg-high-contrast.siorg-highlight-links .siorg-shell a:not(.siorg-brand):not(.siorg-government) { color: #000 !important; }
+html.siorg-high-contrast.siorg-highlight-links .siorg-shell a:not(.siorg-brand):not(.siorg-government) :where(span, i, strong) { color: #000 !important; }
+
+@media (max-width: 1279px) and (min-width: 992px) {
+  .siorg-shell-container { max-width: 960px; }
+  .siorg-nav-item { margin-inline: 3px; }
+  .siorg-nav-link { padding-inline: 5px; font-size: .9375rem; }
+}
+
+@media (max-width: 991px) {
+  .siorg-shell-container { width: calc(100% - 32px); }
+  .siorg-mobile-government {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 30px;
+    background: #000;
+    color: #fff;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 20px;
+    text-decoration: none;
+  }
+  .siorg-brand-row { width: 100%; min-height: 106px; padding: 0 32px; justify-content: flex-start; }
+  .siorg-government { display: none; }
+  .siorg-navigation { margin-bottom: 40px; }
+  .siorg-nav-inner { width: 100%; min-height: 56px; display: block; padding: 8px; }
+  .siorg-nav-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55px;
+    height: 40px;
+    padding: 4px 12px;
+    border: 1px solid #c8ccd1;
+    border-radius: 4px;
+    color: #777f8b;
+    background: #e1e7f4;
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+  .siorg-nav-list { display: none; padding-top: 8px; }
+  .siorg-nav-list.is-open { display: block; }
+  .siorg-nav-item { margin: 0; }
+  .siorg-nav-link { padding: 8px; font-size: 1rem; min-height: 42px; }
+  .siorg-nav-link[aria-expanded="true"], .siorg-nav-link.is-current { border-bottom-color: transparent; }
+  .siorg-dropdown, .siorg-nav-item:last-child .siorg-dropdown {
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    margin-bottom: 8px;
+  }
+  .siorg-footer-links { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; min-height: 0; padding-bottom: 30px; }
+}
+
+@media (max-width: 575px) {
+  .siorg-footer-links { grid-template-columns: 1fr; gap: 20px; }
+}
+
+@media (max-height: 520px) {
+  .siorg-a11y-rail { top: 80px; }
+  .siorg-a11y-panel { max-height: calc(100dvh - 96px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .siorg-chevron { transition: none; }
+}
+
+@media print {
+  .siorg-header, .siorg-footer, .siorg-a11y-rail, .siorg-libras-button, .siorg-libras-dialog, .siorg-skip-link { display: none !important; }
+}

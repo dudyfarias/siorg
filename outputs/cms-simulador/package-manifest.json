@@ -1,0 +1,20 @@
+{
+  "zip": "/Users/eduardofariascappia/Downloads/SIORG-Homologacao-CMS-2026-11-17/siorg-simulador-script-application-homologacao.zip",
+  "zipBytes": 2044317,
+  "zipSha256": "c774ccbcffbaf488e14872f176808443217c005afb275d28e4dad53b7ebbe981",
+  "entries": [
+    {
+      "name": "index.html",
+      "bytes": 413,
+      "sha256": "fadafb8c0745ed3146852a378b839b269b51aea2c89a5e6629f68b09c731db9c"
+    },
+    {
+      "name": "js/siorg-simulator.js",
+      "bytes": 5093286,
+      "sha256": "3f45061867e2c3b62b9ea047e6c0563733e325da2aae933608a65e71006c1f7c"
+    }
+  ],
+  "testedZipIntegrity": true,
+  "sourceUnchangedChecks": "verification-static.json",
+  "archiveContainsOnlyPublicRuntime": true
+}

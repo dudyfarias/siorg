@@ -1,0 +1,50 @@
+# Roteiro de teste humano — Simulador SGGD — 22/10/2026
+
+Objetivo: conferir as operações, os resultados e a facilidade de uso com a equipe. A suíte local registrou **204 testes automatizados aprovados**, incluindo **16 cenários integrados da SGGD**. Isso não valida os outros 19 órgãos, a usabilidade com pessoas nem a aprovação administrativa das propostas. Este roteiro ainda precisa ser executado e registrado pela equipe.
+
+## Antes de cada tarefa
+
+Abra **Salvar uma cópia ou começar outra proposta → Começar nova proposta** e confirme. Cada tarefa abaixo começa com a base limpa; não acumule alterações entre tarefas. Se quiser conservar um teste, baixe sua cópia antes de começar o seguinte. Nos testes com uma segunda variação independente, comece novamente da base.
+
+A coluna **Proposta** recebe a quantidade final: para passar de 2 para 3, digite **3**. Zero retira a linha do Anexo II; campo vazio deixa o cálculo pendente. A troca de unidade mantém as alterações das outras unidades. Confira sempre os totais da **Secretaria inteira**.
+
+| Referência inicial | CCESP — quantidade / cotas | FCESP — quantidade / cotas |
+| --- | --- | --- |
+| Alocado — Anexo II | 299 / 1.069,50 | 201 / 348,75 |
+| Limite — Anexo III | 298 / 1.066,00 | 201 / 349,35 |
+| Saldo — III menos II | **−1 / −3,50** | **0 / +0,60** |
+
+O saldo negativo inicial de CCESP é herdado da diferença documental entre os anexos, não de uma alteração sua. A base possui **407 linhas em 221 unidades** e **8 apontamentos em validação técnica**, apresentados em **Apontamentos da base recebida**. Esses pontos ficam separados dos novos alertas da proposta e não bloqueiam a minuta como se tivessem sido criados pelo usuário. A contagem herdada pode mudar conforme as unidades sejam alteradas.
+
+## As 16 tarefas
+
+Nos resultados abaixo, **quantidade / cotas** são sempre duas medidas separadas. Quando apenas uma espécie é citada, a outra deve permanecer igual à base. A ausência de novo bloqueio não significa aprovação técnica ou jurídica.
+
+| Caso | O que fazer | Resultado esperado |
+| --- | --- | --- |
+| **T00 — Base** | Sem editar, confira Cotas, Resumo e Anexo II. | CCESP **299 / 1.069,50**; FCESP **201 / 348,75**. Resumo sem alterações; Anexo com 407 linhas/221 unidades. Os 8 apontamentos herdados continuam separados. PDF disponível, embora o saldo CCESP inicial seja negativo. |
+| **T01 — Retirar cargo** | Em **SECRETARIA EXECUTIVA**, coloque zero em **Secretário Executivo — CCESP 1.18**. | CCESP **298 / 1.060,50**. A linha sai do quadro proposto. Surge novo alerta de unidade sem titular; o PDF fica bloqueado, mas o cálculo permanece visível. |
+| **T02 — Incluir cargos** | Em **CHEFIA DE GABINETE**, use **Incluir cargo ou função**: **Assessor I — CCESP 2.09**, quantidade **2**. | CCESP **301 / 1.075,50**. Uma linha de inclusão com quantidade 2 aparece no resumo e no Anexo; não há duplicação nem novo bloqueio estrutural. |
+| **T03 — Retirar unidade** | Selecione **Divisão de Formação e Treinamento**, vinculada à Coordenadoria de Difusão de Acervos. Use **Ações de unidades → Retirar unidade** e confirme. | FCESP **200 / 346,80**. A unidade sai do Anexo; sua retirada aparece no resumo e suas linhas ficam zeradas no editor. **Variação independente, após reiniciar:** retire SECRETARIA EXECUTIVA; espere CCESP **294 / 1.036,00**, FCESP **200 / 348,15** e Anexo com **402 linhas/220 unidades**. |
+| **T04 — Renomear** | Renomeie **CHEFIA DE GABINETE** para **Chefia de Gabinete proposta**. Baixe o PDF. | Totais iguais à base. Resumo mostra nome anterior e proposto. O novo nome aparece no quadro e no PDF. |
+| **T05 — Transferir** | Transfira **Divisão de Formação e Treinamento** para **SECRETARIA EXECUTIVA**. Depois renomeie a superior para **Secretaria Executiva proposta**. | Totais iguais à base. Resumo mostra a transferência para o nome atualizado. Árvore acompanha o vínculo; no Anexo/PDF, a Divisão fica após o bloco da Secretaria Executiva e antes da Chefia de Gabinete. Não há novo bloqueio. |
+| **T06 — Criar unidade** | Sob **SECRETARIA EXECUTIVA**, crie **Coordenadoria proposta**, tipo **Outra unidade**. Inclua **1 Coordenador — CCESP 1.13** e **1 Assistente I — FCESP 2.01**. | CCESP **300 / 1.074,00**; FCESP **202 / 349,35**. O alerta temporário de unidade vazia desaparece após a inclusão do titular. Resumo registra a criação; Anexo/PDF contêm as duas linhas, totalizando **409 linhas/222 unidades**. |
+| **T07 — Quantidade final** | Em **SECRETARIA EXECUTIVA**, altere **Assessor Especial IV — CCESP 2.16**, de **1 para 2**. | CCESP **300 / 1.076,50**. Continua uma única linha, com quantidade 2; Anexo mantém 407 linhas. **Variação independente, após reiniciar:** Assessor Especial III — CCESP 2.15, de **2 para 3**: CCESP **300 / 1.075,50**. |
+| **T08 — Espécies separadas** | Em **SECRETARIA EXECUTIVA**, zere **Assistente I — FCESP 2.01** e inclua **1 Assistente I — CCESP 2.01**. | CCESP **300 / 1.070,50**; FCESP **200 / 348,15**. Saldos: CCESP **−2 / −4,50**; FCESP **+1 / +1,20**. A liberação em FCESP não compensa o excesso em CCESP. |
+| **T09 — Sem titular** | Em **CHEFIA DE GABINETE**, zere **Chefe de Gabinete — CCESP 1.16**. | CCESP **298 / 1.062,50**. Novo alerta em vermelho de ausência de titular. PDF bloqueado; resumo e cálculo mostram a retirada. |
+| **T10 — Entrada inválida** | Em **SECRETARIA EXECUTIVA**, inclua **1 Assistente I — CCESP 2.01**. Na linha incluída, troque a quantidade por **−1**; depois teste vazio e **abc**, um por vez. Baixe a cópia e reabra-a. | Entrada inválida fica marcada, resultados dependentes ficam pendentes e PDF não é liberado. A cópia JSON conserva o texto para correção. Nada vira zero silenciosamente. O formulário de inclusão já deve rejeitar uma quantidade inicial inválida; por isso este teste altera a linha depois de incluída. |
+| **T11 — Combinar e retomar** | Em SECRETARIA EXECUTIVA: Assessor Especial III de **2 para 3** e Assistente I FCESP para **0**. Renomeie a Chefia para **Gabinete proposto** e transfira a Divisão de Formação e Treinamento para ela. Crie **Diretoria de teste integrado**, tipo **Diretoria**, sob SECRETARIA EXECUTIVA, com **1 Diretor — CCESP 1.15**. Baixe a cópia JSON, comece outra proposta e reabra a cópia. | CCESP **301 / 1.081,50**; FCESP **200 / 348,15**. Edições, nomes e vínculos reaparecem; resumo coerente e PDF com **407 linhas**. Aviso de Diretoria sem subordinadas permanece, sem novo bloqueio. Esta combinação tem passos explícitos próprios para tornar reproduzível o teste genérico da referência. |
+| **R01 — Código e denominação** | Em SECRETARIA EXECUTIVA, inclua **1 Coordenador — CCESP 1.13** e altere seu código para **CCESP 1.10**. Inclua outro Coordenador e altere o código para **CCESP 2.13**. | CCESP **301 / 1.077,25**. Nível 10 gera atenção de enquadramento; código de assessoramento para a denominação de comando gera novo bloqueio. Código/cota/resumo acompanham as escolhas; PDF bloqueado. |
+| **R02 — Extrapolação** | Em SECRETARIA EXECUTIVA, inclua **1 Assistente I — CCESP 2.01**. | CCESP **300 / 1.070,50**, saldo **−2 / −4,50**. FCESP continua com saldo **0 / +0,60**. Excesso fica sinalizado. Neste MVP, excesso numérico sozinho não impede baixar a minuta para revisão técnica. |
+| **R03 — Ouvidoria** | Sob SECRETARIA EXECUTIVA, crie **Ouvidoria proposta**, tipo **Ouvidoria**. Inclua **1 Chefe de Seção — CCESP 1.05** e altere o código para **CCESP 1.04**. | CCESP **300 / 1.071,25**. Novo bloqueio de titular abaixo do mínimo 5 aplicado à área, além do aviso de enquadramento da denominação. PDF bloqueado. A validação final da regra continua com a área técnica. |
+| **R04 — Subordinadas** | Sob SECRETARIA EXECUTIVA, crie **Diretoria proposta**, tipo **Diretoria**, com **1 Diretor — CCESP 1.15**, sem subordinadas. Depois crie **Coordenadoria A** e **Coordenadoria B**, tipo **Outra unidade**, vinculadas diretamente a essa Diretoria, cada uma com **1 Coordenador — CCESP 1.13**. | Antes: CCESP **300 / 1.075,50** e atenção pela falta de 2 subordinadas; PDF disponível. Depois: CCESP **302 / 1.084,50** e o aviso específico desaparece. Anexo tem **224 unidades**. |
+
+## Arquivos, retomada e registro
+
+- **Excel:** em **Como começar ou trabalhar no Excel**, o download fornece o modelo original recebido. Ele não contém as alterações feitas no portal e não é o arquivo usado para reabrir a simulação.
+- **Excel da proposta:** ao final, use **Baixar proposta em Excel**. Confira as quatro abas: Reestruturação, Calculadora, Resumo e Anexo II. Todas devem refletir a mesma proposta completa. Esse arquivo é um registro protegido para consulta; faça novas alterações no simulador e exporte novamente.
+- **Retomada:** o rascunho é salvo no armazenamento deste navegador e deste endereço. Recarregue a página durante T11 para conferir a retomada. Para guardar uma cópia ou levar a outro computador, use **Baixar cópia da proposta** e **Abrir proposta salva**; o formato é **JSON**. Verifique a mensagem de salvamento. Isso não representa conta, login, banco de dados compartilhado ou integração com o CMS.
+- **Saídas:** em T04, T05, T06 e T11, confira o PDF e o resumo baixados. O PDF deve reunir a proposta inteira, com as quatro colunas **UNIDADE, QTD, DENOMINAÇÃO CARGO/FUNÇÃO e CCESP/FCESP**, sem linhas zeradas. Selecionar ou filtrar uma unidade não pode limitar o arquivo exportado.
+- **Registro humano:** para cada ID, anote **passou / falhou / dúvida**, nome de quem testou, horário e o que apareceu. Se houver falha, registre o passo, a unidade, o código e uma captura; preserve o JSON do cenário quando possível. Anote também dificuldades para encontrar ações ou entender os avisos, mesmo quando os números estiverem corretos.
+
+Referências internas: [cenários automatizados](../tests/simulator-use-cases.test.mjs), [resultado da suíte local](../evidence/simulador-16-casos-2026-10-22/testes.txt) e [inspeção da planilha recebida](../evidence/simulador-16-casos-2026-10-22/planilha-nova-inspecao.md). A planilha registra 16 casos/276 verificações estáticas da SGGD; isso é distinto dos testes executados neste MVP e das execuções relatadas para 20 órgãos.

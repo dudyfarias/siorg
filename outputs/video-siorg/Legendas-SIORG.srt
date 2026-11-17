@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:05,340
+Como descobrir o que mudou na estrutura de um órgão? E como testar uma nova proposta?
+
+2
+00:00:05,340 --> 00:00:11,820
+Vamos ver as duas ferramentas do SIORG na prática, usando a Secretaria de Gestão e Governo Digital como exemplo.
+
+3
+00:00:11,820 --> 00:00:17,000
+No protótipo, entre em Novas Estruturas e digite o nome ou a sigla do órgão.
+
+4
+00:00:17,000 --> 00:00:23,020
+Aqui, digitamos SGGD e selecionamos a Secretaria de Gestão e Governo Digital.
+
+5
+00:00:23,020 --> 00:00:28,266
+Use Ordenar por para mostrar os atos mais antigos ou os mais recentes primeiro.
+
+6
+00:00:28,266 --> 00:00:34,260
+Cada cartão explica o que mudou, quando o ato foi publicado e onde consultar o documento oficial.
+
+7
+00:00:34,260 --> 00:00:38,820
+Quando houver atos relacionados, abra a lista dentro do próprio cartão do decreto.
+
+8
+00:00:38,820 --> 00:00:44,520
+Neste exemplo, vemos a resolução que detalha a estrutura e o link para conferi-la no Diário Oficial.
+
+9
+00:00:44,520 --> 00:00:49,420
+Agora abra o Simulador de Reestruturação e clique em Iniciar simulação.
+
+10
+00:00:49,420 --> 00:00:55,160
+Ele parte da estrutura de referência. As mudanças feitas aqui compõem uma proposta para revisão.
+
+11
+00:00:55,160 --> 00:01:02,040
+Escolha o órgão e a unidade em que pretende mexer. Neste exemplo, usamos a Secretaria Executiva da SGGD.
+
+12
+00:01:02,040 --> 00:01:07,240
+Abaixo dos seletores, o caminho da unidade ajuda a entender onde ela fica na estrutura.
+
+13
+00:01:07,240 --> 00:01:11,580
+Na coluna Proposta, digite a quantidade que deve ficar após a mudança.
+
+14
+00:01:11,580 --> 00:01:19,840
+Para passar de dois cargos de Assessor Especial III para um, digitamos um. O número da base continua visível para comparação.
+
+15
+00:01:19,840 --> 00:01:26,900
+Clique em Ver cálculo. Cada cargo ou função usa uma quantidade de cotas, que funciona como um peso no cálculo.
+
+16
+00:01:26,900 --> 00:01:35,000
+O saldo é o que sobra do limite depois de somar toda a proposta. Neste exemplo, sobraram duas cotas e meia para os cargos em comissão.
+
+17
+00:01:35,000 --> 00:01:39,900
+Em Ver alterações, o resumo mostra qual unidade e qual cargo mudaram.
+
+18
+00:01:39,900 --> 00:01:46,980
+Assim, você confere o que estava na base e o que ficou na sua proposta. Se precisar ajustar, volte à edição da unidade.
+
+19
+00:01:46,980 --> 00:01:53,214
+No Anexo II, confira o quadro da proposta e baixe o PDF ou o Excel com os dados da simulação.
+
+20
+00:01:53,214 --> 00:02:00,700
+A proposta fica salva neste navegador. Para retomar em outro computador, baixe uma cópia e abra essa cópia no simulador.
+
+21
+00:02:00,700 --> 00:02:08,500
+Após os testes da equipe, o início ficou mais guiado. A tela ganhou orientações antes da edição e atalhos para cada etapa.
+
+22
+00:02:08,500 --> 00:02:15,320
+O saldo também passou a explicar o que significa estar acima do limite, sem saldo ou com cotas disponíveis.
+
+23
+00:02:15,320 --> 00:02:22,100
+Agora você pode consultar os cargos do órgão em uma lista só, filtrar e abrir direto a unidade desejada.
+
+24
+00:02:22,100 --> 00:02:26,500
+O resumo também ganhou uma busca pelo nome ou código do cargo alterado.
+
+25
+00:02:26,500 --> 00:02:30,440
+Na transferência, a busca mostra onde está a unidade de destino.
+
+26
+00:02:30,440 --> 00:02:34,360
+Ao retirar ou transferir uma unidade, a tela informa o que aconteceu.
+
+27
+00:02:34,360 --> 00:02:42,200
+O resumo da transferência mostra o vínculo anterior e o novo. No Excel, a situação da unidade também fica registrada.
+
+28
+00:02:42,200 --> 00:02:48,800
+O quadro da proposta coloca as unidades novas ou transferidas junto da unidade superior identificada.
+
+29
+00:02:48,800 --> 00:02:56,160
+O painel de edição do portal, chamado CMS, permite preparar textos, links e arquivos em Produtos.
+
+30
+00:02:56,160 --> 00:03:02,940
+Para calcular e gerar arquivos com os valores que a pessoa digitou, o portal precisa carregar a aplicação do simulador.
+
+31
+00:03:02,940 --> 00:03:09,680
+Criamos um rascunho. A busca pelo componente que importa a aplicação retornou zero resultados para o nosso perfil.
+
+32
+00:03:09,680 --> 00:03:17,040
+Com a liberação do administrador, podemos importar o pacote no rascunho e testar cálculo, PDF e Excel pela prévia.
+
+33
+00:03:17,040 --> 00:03:24,620
+A alternativa recomendada é hospedar o simulador em um servidor institucional, com endereço próprio e acesso pela aba Produtos.
+
+34
+00:03:24,620 --> 00:03:31,120
+Assim, a equipe consegue atualizar a ferramenta e seus arquivos sem depender da importação no painel do portal.
+
+35
+00:03:31,120 --> 00:03:39,120
+O recálculo e os downloads já foram testados localmente. O teste dentro do CMS e a validação das regras seguem pendentes.
+
+36
+00:03:39,120 --> 00:03:48,260
+Salvar por conta e permitir que duas pessoas editem a mesma proposta serão etapas adicionais, com armazenamento e controle de acesso.

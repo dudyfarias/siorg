@@ -1,0 +1,201 @@
+{
+  "sourceFrom": 0.3833317500000001,
+  "speed": 0.64,
+  "targetStart": 11.82,
+  "targetEnd": 168.8,
+  "marks": [
+    {
+      "label": "Abre Novas Estruturas",
+      "target": 12.6,
+      "start": 12.6045256515625,
+      "end": 13.3216033859375
+    },
+    {
+      "label": "Pesquisa SGGD",
+      "target": 17.22,
+      "start": 17.2234374359375,
+      "end": 18.6813323578125
+    },
+    {
+      "label": "Escolhe a Secretaria",
+      "target": 21.5,
+      "start": 21.50272155,
+      "end": 22.148070834375
+    },
+    {
+      "label": "Altera a ordem dos atos",
+      "target": 24.25,
+      "start": 24.2531037109375,
+      "end": 24.9271580078125
+    },
+    {
+      "label": "Mostra decreto e fontes",
+      "target": 29.4,
+      "start": 29.403526953125,
+      "end": 30.388196940625
+    },
+    {
+      "label": "Expande atos relacionados",
+      "target": 35.1,
+      "start": 35.10216171875,
+      "end": 35.749907682812506
+    },
+    {
+      "label": "Mostra a resolução vinculada",
+      "target": 39.2,
+      "start": 39.202849284375,
+      "end": 40.17967578125
+    },
+    {
+      "label": "Abre o Simulador em Produtos",
+      "target": 44.8,
+      "start": 44.802058398437495,
+      "end": 46.772863021875
+    },
+    {
+      "label": "Clica em Iniciar simulação",
+      "target": 48.4,
+      "start": 48.402319140624996,
+      "end": 49.068327734374996
+    },
+    {
+      "label": "Confere a escolha do órgão",
+      "target": 55.6,
+      "start": 55.6024354828125,
+      "end": 57.200236979687496
+    },
+    {
+      "label": "Escolhe Secretaria Executiva",
+      "target": 58.75,
+      "start": 58.7524970703125,
+      "end": 60.9604791671875
+    },
+    {
+      "label": "Mostra o caminho da unidade",
+      "target": 63.2,
+      "start": 63.2004147796875,
+      "end": 63.61711985781249
+    },
+    {
+      "label": "Localiza a linha de Assessor Especial III",
+      "target": 68.25,
+      "start": 68.24925781249999,
+      "end": 69.24203795624999
+    },
+    {
+      "label": "Digita 1 no lugar de 2",
+      "target": 73.05,
+      "start": 73.05409895937498,
+      "end": 73.7975096359375
+    },
+    {
+      "label": "Clica Ver cálculo",
+      "target": 80.3,
+      "start": 80.30377474062499,
+      "end": 80.96384576874999
+    },
+    {
+      "label": "Mostra saldo de 2,50 cotas",
+      "target": 88.05,
+      "start": 88.054131315625,
+      "end": 88.48424283906249
+    },
+    {
+      "label": "Abre Ver alterações",
+      "target": 95.45,
+      "start": 95.45262109375,
+      "end": 96.7645061859375
+    },
+    {
+      "label": "Mostra a comparação e o botão de edição",
+      "target": 102,
+      "start": 102.00248222656248,
+      "end": 102.992358725
+    },
+    {
+      "label": "Abre o Anexo II",
+      "target": 107.22,
+      "start": 107.22249974062498,
+      "end": 108.41792122499999
+    },
+    {
+      "label": "Baixa PDF da simulação",
+      "target": 108.95,
+      "start": 108.951680990625,
+      "end": 109.70742050781249
+    },
+    {
+      "label": "Baixa Excel da simulação",
+      "target": 111.9,
+      "start": 111.9016345703125,
+      "end": 112.67927526093749
+    },
+    {
+      "label": "Abre cópia do rascunho",
+      "target": 115.15,
+      "start": 115.152792253125,
+      "end": 117.010112240625
+    },
+    {
+      "label": "Baixa a cópia que pode ser reaberta",
+      "target": 117.6,
+      "start": 117.6028944671875,
+      "end": 118.2873583984375
+    },
+    {
+      "label": "Abre orientações no início",
+      "target": 121,
+      "start": 121.00288743593751,
+      "end": 122.8545890625
+    },
+    {
+      "label": "Mostra legenda do saldo",
+      "target": 129.2,
+      "start": 129.20261601562498,
+      "end": 129.851656315625
+    },
+    {
+      "label": "Abre a consulta consolidada e filtra o cargo",
+      "target": 135.72,
+      "start": 135.72278509218748,
+      "end": 139.05341360781247
+    },
+    {
+      "label": "Retorna à unidade encontrada",
+      "target": 140.7,
+      "start": 140.70035214843747,
+      "end": 141.3420390625
+    },
+    {
+      "label": "Pesquisa no resumo de alterações",
+      "target": 142.3,
+      "start": 142.30265416718748,
+      "end": 144.61405553437498
+    },
+    {
+      "label": "Abre transferência e pesquisa destino",
+      "target": 146.35,
+      "start": 146.351434765625,
+      "end": 152.5708400390625
+    },
+    {
+      "label": "Aplica e mostra confirmação da transferência",
+      "target": 151.88,
+      "start": 152.57276249999998,
+      "end": 153.88732233124998
+    },
+    {
+      "label": "Mostra vínculo de origem e destino no resumo",
+      "target": 155.15,
+      "start": 155.1534291015625,
+      "end": 157.69290696718747
+    },
+    {
+      "label": "Abre o quadro completo da proposta",
+      "target": 162.6,
+      "start": 162.602908334375,
+      "end": 165.44068593749998
+    }
+  ],
+  "passed": true
+}

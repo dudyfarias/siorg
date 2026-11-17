@@ -1,0 +1,1355 @@
+{
+  "checkedAt": "2026-10-22",
+  "scope": "Recorte SGGD recebido; seis decretos, três resoluções relacionadas e uma resolução geral. Não é inventário exaustivo nem certificação jurídica de vigência.",
+  "method": [
+    "Original XLSX read-only com openpyxl; nenhuma gravação no original.",
+    "HTML lido como texto; scripts não executados.",
+    "Publicação confrontada com metadados da API pública do DOE; textos oficiais conferidos por dispositivos.",
+    "Decretos confrontados com texto e ficha oficial ALESP. A expressão Sem revogação expressa não foi transformada em selo vigente."
+  ],
+  "receivedSources": [
+    {
+      "path": "sources/preparacao-2026-10-19/Levantamento atos reestruturação.xlsx",
+      "sha256": "3bc3d8e9be80dbf774f611cfd2b11e7c92b72bdb33e4847b702b3a1cd422bff5",
+      "range": "Base!A79:G88; duplicado em Secretarias!A4:G13"
+    },
+    {
+      "path": "sources/preparacao-2026-10-19/index (1) (1).html",
+      "sha256": "b5d3a07b5df02688bca29b3f8719314f2eee4174fc2ac16263e107acf63e3b21",
+      "staticOnly": true
+    }
+  ],
+  "workbookRows": [
+    [
+      {
+        "cell": "A79",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B79",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C79",
+        "value": "Decreto",
+        "hyperlink": null
+      },
+      {
+        "cell": "D79",
+        "value": "Decreto nº 69.052/2024",
+        "hyperlink": null
+      },
+      {
+        "cell": "E79",
+        "value": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092"
+      },
+      {
+        "cell": "F79",
+        "value": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G79",
+        "value": "2024-11-14T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A80",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B80",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C80",
+        "value": "Decreto",
+        "hyperlink": null
+      },
+      {
+        "cell": "D80",
+        "value": "Decreto nº 69.230/2024",
+        "hyperlink": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458"
+      },
+      {
+        "cell": "E80",
+        "value": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458",
+        "hyperlink": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458"
+      },
+      {
+        "cell": "F80",
+        "value": "Altera o Decreto nº 69.052, de 14 de novembro de 2024 , que Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G80",
+        "value": "2024-12-23T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A81",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B81",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C81",
+        "value": "Decreto",
+        "hyperlink": null
+      },
+      {
+        "cell": "D81",
+        "value": "Decreto nº 69.290/2024 ",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536"
+      },
+      {
+        "cell": "E81",
+        "value": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536"
+      },
+      {
+        "cell": "F81",
+        "value": "Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado",
+        "hyperlink": null
+      },
+      {
+        "cell": "G81",
+        "value": "2025-01-01T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A82",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B82",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C82",
+        "value": "Decreto",
+        "hyperlink": null
+      },
+      {
+        "cell": "D82",
+        "value": "Decreto nº 69.506/2025 ",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800"
+      },
+      {
+        "cell": "E82",
+        "value": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800"
+      },
+      {
+        "cell": "F82",
+        "value": "Altera o Decreto nº 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G82",
+        "value": "2025-04-30T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A83",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B83",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C83",
+        "value": "Resolução",
+        "hyperlink": null
+      },
+      {
+        "cell": "D83",
+        "value": "Resolução SGGD nº 25/2025 ",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990"
+      },
+      {
+        "cell": "E83",
+        "value": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990"
+      },
+      {
+        "cell": "F83",
+        "value": "Aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G83",
+        "value": "2025-05-19T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A84",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B84",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C84",
+        "value": "Resolução",
+        "hyperlink": null
+      },
+      {
+        "cell": "D84",
+        "value": "Resolução SGGD nº 42/2025",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017"
+      },
+      {
+        "cell": "E84",
+        "value": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017"
+      },
+      {
+        "cell": "F84",
+        "value": "Estabelece regras e procedimentos para a gestão e o controle do Quadro Geral de Cargos em Comissão e Funções de Confiança – QGCFC, instituído pela Lei Complementar nº 1.395, de 22 de dezembro de 2023, e dá providências correlatas.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G84",
+        "value": "2025-09-08T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A85",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B85",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C85",
+        "value": "Decreto",
+        "hyperlink": null
+      },
+      {
+        "cell": "D85",
+        "value": "Decreto nº 69.873/2025",
+        "hyperlink": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921"
+      },
+      {
+        "cell": "E85",
+        "value": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921",
+        "hyperlink": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921"
+      },
+      {
+        "cell": "F85",
+        "value": "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G85",
+        "value": "2025-09-19T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A86",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B86",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C86",
+        "value": "Decreto",
+        "hyperlink": null
+      },
+      {
+        "cell": "D86",
+        "value": "Decreto SGGD nº 70.755/2026",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+      },
+      {
+        "cell": "E86",
+        "value": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+        "hyperlink": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+      },
+      {
+        "cell": "F86",
+        "value": "Altera o Decreto n° 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G86",
+        "value": "2026-07-15T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A87",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B87",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C87",
+        "value": "Resolução",
+        "hyperlink": null
+      },
+      {
+        "cell": "D87",
+        "value": "Resolução SGGD nº 33/2026",
+        "hyperlink": null
+      },
+      {
+        "cell": "E87",
+        "value": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+      },
+      {
+        "cell": "F87",
+        "value": "Aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+        "hyperlink": null
+      },
+      {
+        "cell": "G87",
+        "value": "2026-07-22T00:00:00",
+        "hyperlink": null
+      }
+    ],
+    [
+      {
+        "cell": "A88",
+        "value": "Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "B88",
+        "value": "SGGD",
+        "hyperlink": null
+      },
+      {
+        "cell": "C88",
+        "value": "Resolução",
+        "hyperlink": null
+      },
+      {
+        "cell": "D88",
+        "value": "Resolução SGGD nº 39/2026",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+      },
+      {
+        "cell": "E88",
+        "value": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847",
+        "hyperlink": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+      },
+      {
+        "cell": "F88",
+        "value": "Revoga dispositivos da Resolução SGGD nº 33, de 22-07-2026, que aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital",
+        "hyperlink": null
+      },
+      {
+        "cell": "G88",
+        "value": "23/09/26",
+        "hyperlink": null
+      }
+    ]
+  ],
+  "htmlActs": [
+    {
+      "tipo": "Decreto",
+      "numero": "Decreto nº 69.052/2024",
+      "data": "14/11/2024",
+      "descricao": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+      "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092"
+    },
+    {
+      "tipo": "Decreto",
+      "numero": "Decreto nº 69.230/2024",
+      "data": "23/12/2024",
+      "descricao": "Altera o Decreto nº 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+      "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458"
+    },
+    {
+      "tipo": "Decreto",
+      "numero": "Decreto nº 69.290/2024",
+      "data": "01/01/2025",
+      "descricao": "Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+      "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536"
+    },
+    {
+      "tipo": "Decreto",
+      "numero": "Decreto nº 69.506/2025",
+      "data": "30/04/2025",
+      "descricao": "Altera o Decreto nº 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas.",
+      "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800"
+    },
+    {
+      "tipo": "Resolução",
+      "numero": "Resolução SGGD nº 25/2025",
+      "data": "19/05/2025",
+      "descricao": "Aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990"
+    },
+    {
+      "tipo": "Resolução",
+      "numero": "Resolução SGGD nº 42/2025",
+      "data": "08/09/2025",
+      "descricao": "Estabelece regras e procedimentos para a gestão e o controle do Quadro Geral de Cargos em Comissão e Funções de Confiança – QGCFC, instituído pela Lei Complementar nº 1.395, de 22 de dezembro de 2023, e dá providências correlatas.",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017"
+    },
+    {
+      "tipo": "Decreto",
+      "numero": "Decreto nº 69.873/2025",
+      "data": "19/09/2025",
+      "descricao": "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+      "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921"
+    },
+    {
+      "tipo": "Decreto",
+      "numero": "Decreto SGGD nº 70.755/2026",
+      "data": "15/07/2026",
+      "descricao": "Altera o Decreto n° 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+      "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+    },
+    {
+      "tipo": "Resolução",
+      "numero": "Resolução SGGD nº 33/2026",
+      "data": "22/07/2026",
+      "descricao": "Aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+    },
+    {
+      "tipo": "Resolução",
+      "numero": "Resolução SGGD nº 39/2026",
+      "data": "23/09/2026",
+      "descricao": "Revoga dispositivos da Resolução SGGD nº 33, de 22-07-2026, que aprova o detalhamento da Estrutura Organizacional da Secretaria de Gestão e Governo Digital.",
+      "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+    }
+  ],
+  "verifiedActs": [
+    {
+      "id": "decreto-69052-2024",
+      "actDate": "2024-11-14",
+      "publicationDate": "2024-11-14",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092"
+        },
+        {
+          "label": "Texto na ALESP",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69052-14.11.2024.html"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024",
+      "doeResponseSha256": "88b21f7e0b57ce6f1a8f12b75dc0ea3a4a40f50bc6bec06b47b15c5430a931d1",
+      "doeMetadata": {
+        "id": "e5befef3-255e-4453-02eb-08dd0439ce5a",
+        "title": "DECRETO N° 69.052, DE 14 DE NOVEMBRO DE 2024",
+        "slug": "executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092",
+        "date": "2024-11-14"
+      },
+      "publicationDateMatches": true,
+      "alespApi": "https://baleg-api-prd.al.sp.gov.br/norma/210215",
+      "alespResponseSha256": "573ab86f72513849175f454bb0bb29f80569903a02326d5eb89956c527e6dd0c",
+      "alespMetadata": {
+        "idNorma": "210215",
+        "nuNorma": "69052",
+        "data": "14/11/2024",
+        "dataPublicacao": "14/11/2024",
+        "nomeNorma": "Decreto nº 69.052, de 14/11/2024",
+        "dsEmenta": "Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+        "dsSituacao": "Sem revogação expressa",
+        "nomePublicacaoDO": "DOESP Executivo Seção 1 - Edição Suplementar, 14/11/2024, p.1",
+        "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024",
+        "publicacoesPosteriores": [],
+        "anotacoesAlteracao": [
+          {
+            "idAnotacao": "68839",
+            "idNormaAnotadora": "212838",
+            "nomeNorma": "Decreto nº 70.755, de 14/07/2026",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/212838",
+            "anotadoraTxNorma": "<p>Artigo 1° - Os Anexos I, II e III do Decreto nº 69.052, de 14 de novembro de 2024, ficam substituídos, respectivamente, pelos Anexos I, II e III deste decreto.</p><p>Artigo 2º - Este decreto entra em vigor em 1º de agosto de 2026, excetuados os seguintes dispositivos de seu Anexo I, que passam a vigorar no primeiro dia do mês subsequente ao término do prazo de 30 (trinta) dias, contado da data de publicação deste decreto:</p><p>I - o inciso VI do artigo 1º;</p><p>II - a alínea \"g\" do inciso I do artigo 2º;</p><p>III - o artigo 10;</p><p>IV - o inciso VIII do artigo 46.</p>",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "70755",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "14/07/2026",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Alteração",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2026-07-14T00:00:00",
+            "normaAnotada": null,
+            "artigos": [
+              {
+                "idAnotacaoArtigo": "3111",
+                "txArtigo": "<p>Artigo 1° - Os Anexos I, II e III do Decreto nº 69.052, de 14 de novembro de 2024, ficam substituídos, respectivamente, pelos Anexos I, II e III deste decreto.</p><p>Artigo 2º - Este decreto entra em vigor em 1º de agosto de 2026, excetuados os seguintes dispositivos de seu Anexo I, que passam a vigorar no primeiro dia do mês subsequente ao término do prazo de 30 (trinta) dias, contado da data de publicação deste decreto:</p><p>I - o inciso VI do artigo 1º;</p><p>II - a alínea \"g\" do inciso I do artigo 2º;</p><p>III - o artigo 10;</p><p>IV - o inciso VIII do artigo 46.</p>",
+                "dsArtigoAnot": null
+              }
+            ]
+          },
+          {
+            "idAnotacao": "67396",
+            "idNormaAnotadora": "210898",
+            "nomeNorma": "Decreto nº 69.506, de 30/04/2025",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210898",
+            "anotadoraTxNorma": "Altera o Decreto nº 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas.",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69506",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "30/04/2025",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Alteração",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2025-04-30T00:00:00",
+            "normaAnotada": null,
+            "artigos": null
+          },
+          {
+            "idAnotacao": "67031",
+            "idNormaAnotadora": "210454",
+            "nomeNorma": "Decreto nº 69.230, de 23/12/2024",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210454",
+            "anotadoraTxNorma": "Altera o Decreto nº 69.052, de 14 de novembro de 2024 , que Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69230",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "23/12/2024",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Alteração",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2024-12-23T00:00:00",
+            "normaAnotada": null,
+            "artigos": null
+          }
+        ],
+        "anotacoesCorrelata": [
+          {
+            "idAnotacao": "67297",
+            "idNormaAnotadora": "210776",
+            "nomeNorma": "Decreto nº 69.423, de 20/03/2025",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210776",
+            "anotadoraTxNorma": "<p>Artigo 9° - Compete à Secretaria de Gestão e Governo Digital, por meio da Subsecretaria de Gestão, além das competências definidas pelo Decreto n° 69.052, de 14 de novembro de 2024:</p><p>(…)</p>",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69423",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "20/03/2025",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Correlata",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2025-03-20T00:00:00",
+            "normaAnotada": null,
+            "artigos": [
+              {
+                "idAnotacaoArtigo": "1478",
+                "txArtigo": "<p><span style=\"color:rgb(0,0,0);\">Artigo 9° - Compete à Secretaria de Gestão e Governo Digital, por meio da Subsecretaria de Gestão, além das competências definidas pelo Decreto n° 69.052, de 14 de novembro de 2024:</span></p><p><span style=\"color:rgb(0,0,0);\">&lt;br&gt;(…)&lt;br&gt;</span></p>",
+                "dsArtigoAnot": null
+              },
+              {
+                "idAnotacaoArtigo": "1479",
+                "txArtigo": "<p><span style=\"color:rgb(0,0,0);\">Artigo 9° - Compete à Secretaria de Gestão e Governo Digital, por meio da Subsecretaria de Gestão, além das competências definidas pelo Decreto n° 69.052, de 14 de novembro de 2024:</span><br><span style=\"color:rgb(0,0,0);\">&lt;br&gt;(…)</span><br>&nbsp;</p>",
+                "dsArtigoAnot": null
+              },
+              {
+                "idAnotacaoArtigo": "1480",
+                "txArtigo": "<p><span style=\"color:rgb(0,0,0);\">Artigo 9° - Compete à Secretaria de Gestão e Governo Digital, por meio da Subsecretaria de Gestão, além das competências definidas pelo Decreto n° 69.052, de 14 de novembro de 2024:</span><br><span style=\"color:rgb(0,0,0);\">(…)</span></p>",
+                "dsArtigoAnot": null
+              },
+              {
+                "idAnotacaoArtigo": "1481",
+                "txArtigo": "<p>Artigo 9° - Compete à Secretaria de Gestão e Governo Digital, por meio da Subsecretaria de Gestão, além das competências definidas pelo Decreto n° 69.052, de 14 de novembro de 2024:</p><p>(…)</p>",
+                "dsArtigoAnot": null
+              }
+            ]
+          },
+          {
+            "idAnotacao": "67054",
+            "idNormaAnotadora": "210515",
+            "nomeNorma": "Decreto nº 69.290, de 31/12/2024",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210515",
+            "anotadoraTxNorma": "Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69290",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "31/12/2024",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Correlata",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2024-12-31T00:00:00",
+            "normaAnotada": null,
+            "artigos": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "decreto-69230-2024",
+      "actDate": "2024-12-23",
+      "publicationDate": "2024-12-26",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458"
+        },
+        {
+          "label": "Texto na ALESP",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69230-23.12.2024.html"
+        },
+        {
+          "label": "Alteração pelo Decreto 69.506",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69506-30.04.2025.html"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024",
+      "doeResponseSha256": "db38a41369fb5873b35c912f83be4cacf6775498e1b0e49cb9871a0fbac4264e",
+      "doeMetadata": {
+        "id": "eee57180-c60f-4864-1ebd-08dd1af7a1a9",
+        "title": "DECRETO Nº 69.230, DE 23 DE DEZEMBRO DE 2024",
+        "slug": "executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458",
+        "date": "2024-12-26"
+      },
+      "publicationDateMatches": true,
+      "alespApi": "https://baleg-api-prd.al.sp.gov.br/norma/210454",
+      "alespResponseSha256": "8184db88496b716ab146ad3803f649a310356472573139a43a669bcd80a4fa50",
+      "alespMetadata": {
+        "idNorma": "210454",
+        "nuNorma": "69230",
+        "data": "23/12/2024",
+        "dataPublicacao": "26/12/2024",
+        "nomeNorma": "Decreto nº 69.230, de 23/12/2024",
+        "dsEmenta": "Altera o <a target='_blank' class='anotacao-link' href='/norma/210215'>Decreto nº 69.052, de 14 de novembro de 2024</a> , que Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+        "dsSituacao": "Sem revogação expressa",
+        "nomePublicacaoDO": "DOESP Executivo Seção 1, 26/12/2024, p.41",
+        "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024",
+        "publicacoesPosteriores": [
+          {
+            "idPublicacaoPosterior": "193479",
+            "nomeDiario": "DOESP Executivo Seção 1, 10/06/2025, p.16",
+            "dtDiario": "10/06/2025",
+            "nuPagina": "16",
+            "idTipoPublicaca": "3",
+            "nmTipoPublicacao": "Retificação",
+            "urlDiarioOficial": "https://doe.sp.gov.br/executivo/decretos/retificacao-do-doesp-de-26-de-dezembro-de-2024-202506091182231135364",
+            "urlArquivo": null
+          }
+        ],
+        "anotacoesAlteracao": [
+          {
+            "idAnotacao": "67407",
+            "idNormaAnotadora": "210898",
+            "nomeNorma": "Decreto nº 69.506, de 30/04/2025",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/210898",
+            "anotadoraTxNorma": "<p>Artigo 2º - Os dispositivos adiante relacionados passam a vigorar com a seguinte redação:</p><p>(...)</p><p>XII - do Decreto nº 69.230, de 23 de dezembro de 2024, o artigo 2º:</p><p>(...)</p><p>Artigo 3º - Este decreto entra em vigor em 2 de maio de 2025, ficando revogadas as disposições em contrário, em especial:</p><p>(...)</p><p>III - do Decreto nº 69.230, de 23 de dezembro de 2024, o Anexo I.</p>",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69506",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "30/04/2025",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Alteração",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2025-04-30T00:00:00",
+            "normaAnotada": null,
+            "artigos": [
+              {
+                "idAnotacaoArtigo": "1589",
+                "txArtigo": "<p>Artigo 2º - Os dispositivos adiante relacionados passam a vigorar com a seguinte redação:</p><p>(...)</p><p>XII - do Decreto nº 69.230, de 23 de dezembro de 2024, o artigo 2º:</p><p>(...)</p><p>Artigo 3º - Este decreto entra em vigor em 2 de maio de 2025, ficando revogadas as disposições em contrário, em especial:</p><p>(...)</p><p>III - do Decreto nº 69.230, de 23 de dezembro de 2024, o Anexo I.</p>",
+                "dsArtigoAnot": null
+              },
+              {
+                "idAnotacaoArtigo": "1586",
+                "txArtigo": "<p>Artigo 2º - Os dispositivos adiante relacionados passam a vigorar com a seguinte redação:</p><p>(...)</p><p>XII - do Decreto nº 69.230, de 23 de dezembro de 2024, o artigo 2º:</p><p>(...)</p>",
+                "dsArtigoAnot": null
+              }
+            ]
+          }
+        ],
+        "anotacoesCorrelata": []
+      }
+    },
+    {
+      "id": "decreto-69290-2024",
+      "actDate": "2024-12-31",
+      "publicationDate": "2025-01-01",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536"
+        },
+        {
+          "label": "Texto na ALESP",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69290-31.12.2024.html"
+        },
+        {
+          "label": "Alteração pelo Decreto 69.873",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69873-19.09.2025.html"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024",
+      "doeResponseSha256": "445006b4969cb8bd5740676469917d63d3ac5ad8a1709bd4ec557edd924f49e2",
+      "doeMetadata": {
+        "id": "d12d94c9-9ce7-4cf6-5f78-08dd1e1760cc",
+        "title": "DECRETO Nº 69.290, DE 31 DE DEZEMBRO DE 2024",
+        "slug": "executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536",
+        "date": "2025-01-01"
+      },
+      "publicationDateMatches": true,
+      "alespApi": "https://baleg-api-prd.al.sp.gov.br/norma/210515",
+      "alespResponseSha256": "8714f19d7453ace15af52fef2d06257aa8198db50d3ef26fe779594ff8cadaa1",
+      "alespMetadata": {
+        "idNorma": "210515",
+        "nuNorma": "69290",
+        "data": "31/12/2024",
+        "dataPublicacao": "01/01/2025",
+        "nomeNorma": "Decreto nº 69.290, de 31/12/2024",
+        "dsEmenta": "Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado",
+        "dsSituacao": "Sem revogação expressa",
+        "nomePublicacaoDO": "DOESP Executivo Seção 1, 01/01/2025, p.3",
+        "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024",
+        "publicacoesPosteriores": [],
+        "anotacoesAlteracao": [
+          {
+            "idAnotacao": "68191",
+            "idNormaAnotadora": "211504",
+            "nomeNorma": "Decreto nº 69.873, de 19/09/2025",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/211504",
+            "anotadoraTxNorma": "<p>Artigo 1º - Os dispositivos adiante relacionados do artigo 2º do Decreto nº 69.290, de 31 de dezembro de 2024, passam a vigorar com a seguinte redação:</p><p>I - os incisos VII a IX:</p><p>(...)</p><p>II - o inciso XVIII:</p><p>(...)</p><p>Artigo 2º - Fica acrescentado ao artigo 2º do Decreto nº 69.290, de 31 de dezembro de 2024, o inciso XI-A, com a seguinte redação:</p><p>(...)</p>",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69873",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "19/09/2025",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Alteração",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2025-09-19T00:00:00",
+            "normaAnotada": null,
+            "artigos": [
+              {
+                "idAnotacaoArtigo": "2568",
+                "txArtigo": "<p>Artigo 1º - Os dispositivos adiante relacionados do artigo 2º do Decreto nº 69.290, de 31 de dezembro de 2024, passam a vigorar com a seguinte redação:</p><p>I - os incisos VII a IX:</p><p>(...)</p><p>II - o inciso XVIII:</p><p>(...)</p><p>Artigo 2º - Fica acrescentado ao artigo 2º do Decreto nº 69.290, de 31 de dezembro de 2024, o inciso XI-A, com a seguinte redação:</p><p>(...)</p>",
+                "dsArtigoAnot": null
+              }
+            ]
+          }
+        ],
+        "anotacoesCorrelata": []
+      }
+    },
+    {
+      "id": "decreto-69506-2025",
+      "actDate": "2025-04-30",
+      "publicationDate": "2025-04-30",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800"
+        },
+        {
+          "label": "Texto na ALESP",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69506-30.04.2025.html"
+        },
+        {
+          "label": "Revogação específica pelo Decreto 70.599",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70599-13.05.2026.html"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025",
+      "doeResponseSha256": "2de06ad7b664207ccd8fa2c61a6b9f56259f4228bd313a999974261caf6c21f7",
+      "doeMetadata": {
+        "id": "3297af0e-e981-4f6b-3a04-08dd87d21f08",
+        "title": "DECRETO Nº 69.506, DE 30 DE ABRIL DE 2025",
+        "slug": "executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800",
+        "date": "2025-04-30"
+      },
+      "publicationDateMatches": true,
+      "alespApi": "https://baleg-api-prd.al.sp.gov.br/norma/210898",
+      "alespResponseSha256": "ac10cbcf4f3ada8bada4c275e1c744b57fb60b76035580721ab7cc4e0d51ad2b",
+      "alespMetadata": {
+        "idNorma": "210898",
+        "nuNorma": "69506",
+        "data": "30/04/2025",
+        "dataPublicacao": "30/04/2025",
+        "nomeNorma": "Decreto nº 69.506, de 30/04/2025",
+        "dsEmenta": "Altera o <a target='_blank' class='anotacao-link' href='/norma/210215'>Decreto nº 69.052, de 14 de novembro de 2024</a>, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital, e dá providências correlatas.",
+        "dsSituacao": "Sem revogação expressa",
+        "nomePublicacaoDO": "DOESP Executivo Seção 1 - Edição Suplementar, 30/04/2025, p.2",
+        "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025",
+        "publicacoesPosteriores": [],
+        "anotacoesAlteracao": [
+          {
+            "idAnotacao": "68772",
+            "idNormaAnotadora": "212593",
+            "nomeNorma": "Decreto nº 70.599, de 13/05/2026",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/212593",
+            "anotadoraTxNorma": "<p>Artigo 9º - Este decreto e sua disposição transitória entram em vigor na data de sua publicação, ficando revogadas as disposições em contrário, em especial:</p><p>(...)</p><p>X - do Decreto nº 69.506, de 30 de abril de 2025, a alínea \"a\" do inciso V do artigo 2º.</p>",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "70599",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "13/05/2026",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Alteração",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2026-05-13T00:00:00",
+            "normaAnotada": null,
+            "artigos": [
+              {
+                "idAnotacaoArtigo": "3045",
+                "txArtigo": "<p>Artigo 9º - Este decreto e sua disposição transitória entram em vigor na data de sua publicação, ficando revogadas as disposições em contrário, em especial:</p><p>(...)</p><p>X - do Decreto nº 69.506, de 30 de abril de 2025, a alínea \"a\" do inciso V do artigo 2º.</p>",
+                "dsArtigoAnot": null
+              }
+            ]
+          }
+        ],
+        "anotacoesCorrelata": [
+          {
+            "idAnotacao": "68193",
+            "idNormaAnotadora": "211504",
+            "nomeNorma": "Decreto nº 69.873, de 19/09/2025",
+            "anotadoraDsCaderno": null,
+            "anotadoraDtPublicacao": null,
+            "anotadoraNuPagina": null,
+            "anotadoraDsUrl": "https://www.al.sp.gov.br/norma/211504",
+            "anotadoraTxNorma": "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+            "anotadoraTpNorma": "Decreto",
+            "anotadoraNuNorma": "69873",
+            "anotadoraDsComplementoNorma": null,
+            "anotadoraDtNorma": "19/09/2025",
+            "anotadoraDsSituacao": "Sem revogação expressa",
+            "tipoAnotacao": "Correlata",
+            "internaExterna": "Interna",
+            "flMudaStatus": null,
+            "dataOrdenacao": "2025-09-19T00:00:00",
+            "normaAnotada": null,
+            "artigos": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "resolucao-sggd-25-2025",
+      "actDate": "2025-05-16",
+      "publicationDate": "2025-05-19",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990"
+        },
+        {
+          "label": "Revogação pela Resolução 33",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990",
+      "doeResponseSha256": "7706356d6bccc74de272e78bda1b3f7361b10b48639949ed71cc2a6d55bd2cce",
+      "doeMetadata": {
+        "id": "4ee713db-14c1-4e1d-8be4-08dd9209b890",
+        "title": "Resolução SGGD nº 25, de 16-05-2025",
+        "slug": "executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990",
+        "date": "2025-05-19"
+      },
+      "publicationDateMatches": true
+    },
+    {
+      "id": "decreto-69873-2025",
+      "actDate": "2025-09-19",
+      "publicationDate": "2025-09-22",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921"
+        },
+        {
+          "label": "Texto na ALESP",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69873-19.09.2025.html"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025",
+      "doeResponseSha256": "f4523f19376afe0d4f4edbd4bfe3e76cd471f1824cc18cea2f47e1985b1899fe",
+      "doeMetadata": {
+        "id": "73e8b637-d956-4b72-85a4-08dde1aa93bb",
+        "title": "DECRETO Nº 69.873, DE 19 DE SETEMBRO DE 2025",
+        "slug": "executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921",
+        "date": "2025-09-22"
+      },
+      "publicationDateMatches": true,
+      "alespApi": "https://baleg-api-prd.al.sp.gov.br/norma/211504",
+      "alespResponseSha256": "349b1b0c80237eed35edab6667e879341f2e0ae2706341d572eec754a5ff16ee",
+      "alespMetadata": {
+        "idNorma": "211504",
+        "nuNorma": "69873",
+        "data": "19/09/2025",
+        "dataPublicacao": "22/09/2025",
+        "nomeNorma": "Decreto nº 69.873, de 19/09/2025",
+        "dsEmenta": "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+        "dsSituacao": "Sem revogação expressa",
+        "nomePublicacaoDO": "DOESP Executivo Seção 1, 22/09/2025, p.13",
+        "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025",
+        "publicacoesPosteriores": [],
+        "anotacoesAlteracao": [],
+        "anotacoesCorrelata": []
+      }
+    },
+    {
+      "id": "decreto-70755-2026",
+      "actDate": "2026-07-14",
+      "publicationDate": "2026-07-15",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+        },
+        {
+          "label": "Texto na ALESP",
+          "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026",
+      "doeResponseSha256": "9ffa66b192a14c5317eb8251d7f08ffdd53acab9981e4cdd35fa8583c40777bd",
+      "doeMetadata": {
+        "id": "c8104920-dd0d-4022-8693-08ded05ee4db",
+        "title": "DECRETO Nº 70.755, DE 14 DE JULHO DE 2026",
+        "slug": "executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002",
+        "date": "2026-07-15"
+      },
+      "publicationDateMatches": true,
+      "alespApi": "https://baleg-api-prd.al.sp.gov.br/norma/212838",
+      "alespResponseSha256": "cc4ceaa1a17ebf39e89e19b01f174ad689566c3d4fbe7cc5429717d12db6a3a5",
+      "alespMetadata": {
+        "idNorma": "212838",
+        "nuNorma": "70755",
+        "data": "14/07/2026",
+        "dataPublicacao": "15/07/2026",
+        "nomeNorma": "Decreto nº 70.755, de 14/07/2026",
+        "dsEmenta": "Altera o <a target='_blank' class='anotacao-link' href='/norma/210215'>Decreto n° 69.052, de 14 de novembro de 2024</a>, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.",
+        "dsSituacao": "Sem revogação expressa",
+        "nomePublicacaoDO": "DOESP Executivo Seção 1, 15/07/2026, p.2",
+        "urlPublicacaoDO": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026",
+        "publicacoesPosteriores": [],
+        "anotacoesAlteracao": [],
+        "anotacoesCorrelata": []
+      }
+    },
+    {
+      "id": "resolucao-sggd-33-2026",
+      "actDate": "2026-07-22",
+      "publicationDate": "2026-07-24",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+        },
+        {
+          "label": "Revogação parcial pela Resolução 39",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213",
+      "doeResponseSha256": "315dd60d7f71a789e6e8cc011dc44248d5ee77b9db8982fbe53361641ac941ea",
+      "doeMetadata": {
+        "id": "2aa74a0a-5775-4ede-2eee-08dee341dd57",
+        "title": "Resolução SGGD nº 33, de 22-07-2026",
+        "slug": "executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213",
+        "date": "2026-07-24"
+      },
+      "publicationDateMatches": true
+    },
+    {
+      "id": "resolucao-sggd-39-2026",
+      "actDate": "2026-09-23",
+      "publicationDate": "2026-09-25",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847",
+      "doeResponseSha256": "ad01942b8a37109de644c2751f223153c2768c11f58cc51ab89de595991b00a5",
+      "doeMetadata": {
+        "id": "de7a800b-00cc-4c8b-60c3-08df1a58b50b",
+        "title": "Resolução SGGD nº 39, de 23-09-2026",
+        "slug": "executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847",
+        "date": "2026-09-25"
+      },
+      "publicationDateMatches": true
+    },
+    {
+      "id": "resolucao-sggd-42-2025",
+      "actDate": "2025-09-08",
+      "publicationDate": "2025-09-09",
+      "officialSources": [
+        {
+          "label": "Diário Oficial",
+          "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017"
+        }
+      ],
+      "doeApi": "https://do-api-web-search.doe.sp.gov.br/v2/publications/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017",
+      "doeResponseSha256": "5dea8d44cc4821fe74f4871d0ba2e15baadccbfcac065706b66dafcf6fbc487e",
+      "doeMetadata": {
+        "id": "0bdfded2-44a6-43a9-ef09-08dde3820001",
+        "title": "Resolução SGGD nº 42, de 08-09-2025",
+        "slug": "executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017",
+        "date": "2025-09-09"
+      },
+      "publicationDateMatches": true
+    }
+  ],
+  "dataset": {
+    "organization": {
+      "id": "sggd",
+      "name": "Secretaria de Gestão e Governo Digital",
+      "acronym": "SGGD"
+    },
+    "checkedAt": "2026-10-22",
+    "coverageNotice": "Recorte dos 10 atos selecionados no levantamento recebido: 6 decretos e 4 resoluções. As datas do ato e da publicação foram conferidas nas fontes oficiais. Não é um histórico exaustivo nem uma certificação de vigência de todos os dispositivos; conteúdo sujeito à validação da área técnica.",
+    "groups": [
+      {
+        "id": "decreto-69052-2024",
+        "date": "2024-11-14",
+        "actDate": "2024-11-14",
+        "publicationDate": "2024-11-14",
+        "dateLabel": "Data do ato",
+        "title": "Decreto nº 69.052/2024",
+        "summary": "Aprova a estrutura organizacional e o quadro de cargos em comissão e funções de confiança da SGGD. Prevê que o detalhamento das unidades de nível inferior a 14 seja feito por resolução.",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69052-de-14-de-novembro-de-2024-20241114118202720092"
+          },
+          {
+            "label": "Texto na ALESP",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69052-14.11.2024.html"
+          }
+        ],
+        "citationNote": "Arts. 1º a 3º. Publicação em edição suplementar de 14/11/2024.",
+        "statusLabel": "Alterações posteriores",
+        "statusDetail": "Foi alterado pelos Decretos 69.230/2024, 69.506/2025 e 70.755/2026, apresentados nesta linha do tempo. A substituição dos anexos não equivale à revogação integral deste decreto.",
+        "related": []
+      },
+      {
+        "id": "decreto-69230-2024",
+        "date": "2024-12-23",
+        "actDate": "2024-12-23",
+        "publicationDate": "2024-12-26",
+        "dateLabel": "Data do ato",
+        "title": "Decreto nº 69.230/2024",
+        "summary": "Altera o Decreto 69.052/2024: acrescenta regras sobre extinção de cargos e funções de servidores afastados e substitui anexos da estrutura e dos sistemas administrativos.",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69230-de-23-de-dezembro-de-2024-20241223118202795458"
+          },
+          {
+            "label": "Texto na ALESP",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69230-23.12.2024.html"
+          },
+          {
+            "label": "Alteração pelo Decreto 69.506",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69506-30.04.2025.html"
+          }
+        ],
+        "citationNote": "Arts. 1º a 3º. Vigência na publicação: 26/12/2024.",
+        "statusLabel": "Anexo I revogado",
+        "statusDetail": "O Decreto 69.506/2025 alterou seu art. 2º e revogou seu Anexo I, com vigência em 02/05/2025. A revogação é específica, não integral.",
+        "related": []
+      },
+      {
+        "id": "decreto-69290-2024",
+        "date": "2024-12-31",
+        "actDate": "2024-12-31",
+        "publicationDate": "2025-01-01",
+        "dateLabel": "Data do ato",
+        "title": "Decreto nº 69.290/2024",
+        "summary": "Define a classificação da SGGD nos sistemas de administração financeira e orçamentária, identificando unidades orçamentárias, unidades de despesa e atribuições dos dirigentes.",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69290-de-31-de-dezembro-de-2024-20241231118202802536"
+          },
+          {
+            "label": "Texto na ALESP",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-69290-31.12.2024.html"
+          },
+          {
+            "label": "Alteração pelo Decreto 69.873",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69873-19.09.2025.html"
+          }
+        ],
+        "citationNote": "Arts. 1º a 5º. Vigência na publicação: 01/01/2025. Classificação financeira e orçamentária não é uma nova tabela de cotas.",
+        "statusLabel": "Alterado pelo Decreto 69.873/2025",
+        "statusDetail": "A alteração de 2025 alcança dispositivos do art. 2º, relativos às unidades de despesa.",
+        "related": []
+      },
+      {
+        "id": "decreto-69506-2025",
+        "date": "2025-04-30",
+        "actDate": "2025-04-30",
+        "publicationDate": "2025-04-30",
+        "dateLabel": "Data do ato",
+        "title": "Decreto nº 69.506/2025",
+        "summary": "Substitui os Anexos I, II e III do Decreto 69.052/2024, atualizando estrutura, quadro de cargos e funções e respectivos quantitativos e cotas. Também ajusta competências e outros dispositivos.",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-69506-de-30-de-abril-de-2025-202504301182021050800"
+          },
+          {
+            "label": "Texto na ALESP",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69506-30.04.2025.html"
+          },
+          {
+            "label": "Revogação específica pelo Decreto 70.599",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70599-13.05.2026.html"
+          }
+        ],
+        "citationNote": "Art. 1º; art. 2º, XI e XII; art. 3º. Publicação suplementar em 30/04/2025; vigência em 02/05/2025.",
+        "statusDetail": "O Decreto 70.599/2026 revogou apenas o art. 2º, V, a, referente à gestão do BCEP. Os anexos da estrutura receberam nova redação pelo Decreto 70.755/2026.",
+        "related": [
+          {
+            "id": "resolucao-sggd-25-2025",
+            "date": "2025-05-16",
+            "actDate": "2025-05-16",
+            "publicationDate": "2025-05-19",
+            "dateLabel": "Data do ato",
+            "title": "Resolução SGGD nº 25/2025",
+            "summary": "Aprova o detalhamento da estrutura da SGGD com fundamento no Decreto 69.052/2024, alterado pelos Decretos 69.230/2024 e 69.506/2025. Revoga a Resolução SGGD 37/2024.",
+            "relationLabel": "Resolução vinculada",
+            "sources": [
+              {
+                "label": "Diário Oficial",
+                "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-25-de-16-05-2025-20250516112812201082990"
+              },
+              {
+                "label": "Revogação pela Resolução 33",
+                "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+              }
+            ],
+            "citationNote": "Preâmbulo e arts. 147–148. Vigência em 19/05/2025, com efeitos desde 02/05/2025.",
+            "statusLabel": "Revogada pela Resolução 33/2026",
+            "statusDetail": "A revogação integral consta do art. 183 da Resolução SGGD 33/2026, cuja vigência geral é 01/08/2026."
+          }
+        ]
+      },
+      {
+        "id": "decreto-69873-2025",
+        "date": "2025-09-19",
+        "actDate": "2025-09-19",
+        "publicationDate": "2025-09-22",
+        "dateLabel": "Data do ato",
+        "title": "Decreto nº 69.873/2025",
+        "summary": "Altera o art. 2º do Decreto 69.290/2024, atualizando nomes de unidades de despesa e acrescentando a Diretoria Geral de Pagamento de Pessoal à classificação financeira e orçamentária da SGGD.",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://www.doe.sp.gov.br/executivo/decretos/decreto-n-69873-de-19-de-setembro-de-2025-202509191182021352921"
+          },
+          {
+            "label": "Texto na ALESP",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-69873-19.09.2025.html"
+          }
+        ],
+        "citationNote": "Arts. 1º a 3º. Vigência na publicação: 22/09/2025. O art. 3º também revoga os incisos X a XII do art. 5º do Decreto 69.362/2025.",
+        "related": []
+      },
+      {
+        "id": "decreto-70755-2026",
+        "date": "2026-07-14",
+        "actDate": "2026-07-14",
+        "publicationDate": "2026-07-15",
+        "dateLabel": "Data do ato",
+        "title": "Decreto nº 70.755/2026",
+        "summary": "Substitui os Anexos I, II e III do Decreto 69.052/2024: estrutura organizacional, quadro demonstrativo e resumo de quantitativos e cotas da SGGD.",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://doe.sp.gov.br/executivo/decretos/decreto-n-70755-de-14-de-julho-de-2026-202607141182021982002"
+          },
+          {
+            "label": "Texto na ALESP",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70755-14.07.2026.html"
+          }
+        ],
+        "citationNote": "Arts. 1º e 2º. Vigência geral em 01/08/2026; quatro dispositivos do Anexo I seguem prazo diferido previsto no art. 2º.",
+        "statusDetail": "Vigência geral em 01/08/2026. Os dispositivos do Anexo I relacionados no art. 2º têm prazo específico.",
+        "related": [
+          {
+            "id": "resolucao-sggd-33-2026",
+            "date": "2026-07-22",
+            "actDate": "2026-07-22",
+            "publicationDate": "2026-07-24",
+            "dateLabel": "Data do ato",
+            "title": "Resolução SGGD nº 33/2026",
+            "summary": "Aprova novo detalhamento da estrutura da SGGD. Seu preâmbulo cita o Decreto 69.052/2024 e suas alterações, incluindo o Decreto 70.755/2026. Revoga integralmente a Resolução 25/2025.",
+            "relationLabel": "Resolução vinculada",
+            "sources": [
+              {
+                "label": "Diário Oficial",
+                "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-33-de-22-07-2026-20260723112912201999213"
+              },
+              {
+                "label": "Revogação parcial pela Resolução 39",
+                "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+              }
+            ],
+            "citationNote": "Preâmbulo e arts. 171, 183 e 184. Vigência geral em 01/08/2026; os arts. 6º a 9º seguem o prazo diferido do art. 184.",
+            "statusLabel": "Dois dispositivos revogados",
+            "statusDetail": "A Resolução 39/2026 revogou apenas o art. 76, XI, e o art. 77, VII. Não houve revogação integral da Resolução 33 por esse ato."
+          },
+          {
+            "id": "resolucao-sggd-39-2026",
+            "date": "2026-09-23",
+            "actDate": "2026-09-23",
+            "publicationDate": "2026-09-25",
+            "dateLabel": "Data do ato",
+            "title": "Resolução SGGD nº 39/2026",
+            "summary": "Revoga o inciso XI do art. 76 e o inciso VII do art. 77 da Resolução SGGD 33/2026, relativos ao Laudo Técnico Específico para aposentadoria especial.",
+            "relationLabel": "Revogação",
+            "sources": [
+              {
+                "label": "Diário Oficial",
+                "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-39-de-23-09-2026-20260924112912202154847"
+              }
+            ],
+            "citationNote": "Arts. 1º e 2º. Vigência na publicação: 25/09/2026.",
+            "statusLabel": "Revogação parcial da Resolução 33",
+            "statusDetail": "Alcança somente os dois dispositivos identificados; não revoga o Decreto 70.755/2026 nem toda a Resolução 33/2026."
+          }
+        ]
+      }
+    ],
+    "complementaryActs": [
+      {
+        "id": "resolucao-sggd-42-2025",
+        "date": "2025-09-08",
+        "actDate": "2025-09-08",
+        "publicationDate": "2025-09-09",
+        "dateLabel": "Data do ato",
+        "title": "Resolução SGGD nº 42/2025",
+        "summary": "Estabelece regras e procedimentos gerais de gestão e controle do QGCFC, instituído pela Lei Complementar 1.395/2023, com fundamento no art. 30 do Decreto 68.742/2024.",
+        "relationLabel": "Regra geral relacionada",
+        "sources": [
+          {
+            "label": "Diário Oficial",
+            "url": "https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/resolucao-sggd-n-42-de-08-09-2025-20250908112812201325017"
+          }
+        ],
+        "citationNote": "Preâmbulo e arts. 1º a 3º. Regra transversal; não é detalhamento exclusivo de um decreto da estrutura da SGGD.",
+        "statusDetail": "Norma geral do QGCFC; não corresponde a um novo detalhamento exclusivo da estrutura da SGGD."
+      }
+    ]
+  },
+  "relationshipEvidence": [
+    {
+      "from": "resolucao-sggd-25-2025",
+      "group": "decreto-69506-2025",
+      "basis": "Preâmbulo: Decreto 69.052/2024 alterado pelos Decretos 69.230/2024 e 69.506/2025; detalhamento do art. 3º. Agrupamento editorial pela atualização da estrutura citada; não hierarquia normativa exclusiva."
+    },
+    {
+      "from": "resolucao-sggd-33-2026",
+      "group": "decreto-70755-2026",
+      "basis": "Preâmbulo: Decreto 69.052/2024 e alterações 69.230/2024, 69.506/2025 e 70.755/2026. Art. 183 revoga Resolução 25/2025."
+    },
+    {
+      "from": "resolucao-sggd-39-2026",
+      "group": "decreto-70755-2026",
+      "target": "resolucao-sggd-33-2026",
+      "basis": "Art. 1º revoga exclusivamente art. 76, XI, e art. 77, VII, da Resolução 33/2026; art. 2º: vigência na publicação."
+    },
+    {
+      "from": "resolucao-sggd-42-2025",
+      "group": null,
+      "basis": "Regra geral QGCFC, fundada na LC 1.395/2023 e art. 30 do Decreto 68.742/2024. ComplementaryActs, não subordinada exclusivamente a um dos seis decretos."
+    }
+  ],
+  "limitations": [
+    "As 10 datas foram normalizadas por data do ato; coluna G e HTML recebidos misturavam ato e publicação.",
+    "Resolução 42 não recebeu data de vigência inferida. Prazo de dez dias úteis encontrado em minuta do Anexo I não é cláusula de vigência da própria resolução.",
+    "Revogação parcial não apresentada como revogação de todo ato.",
+    "Decreto 70.755: não resolve divergência entre Anexos II e III, tratada no trabalho do simulador.",
+    "Decreto 69.158 não é fundamento da Resolução 33 na publicação conferida; não se criou esse vínculo.",
+    "Título parcial de 69.052 no portal SIORG observado pelo root aponta indevidamente para 70.050; mantido 69.052 pelas fontes normativas.",
+    "Não inclui todos os atos correlatos: retificação de 69.230 e Decreto 70.599 aparecem apenas como evidência contextual, não como novos marcos do recorte.",
+    "Sem acesso novo ao SharePoint nesta frente. Fontes recebidas em 19/10; consulta normativa pública em 22/10.",
+    "Outros dois pilotos dependem da definição institucional e não foram pesquisados nesta frente."
+  ],
+  "structuralValidation": {
+    "passed": true,
+    "decreeGroups": 6,
+    "relatedActs": 3,
+    "generalActs": 1,
+    "total": 10,
+    "idsUnique": true,
+    "ascendingDecreeActDates": true,
+    "publicationDatesMatchOfficialApi": true,
+    "noFutureActs": true,
+    "onlyOfficialHttpsLinks": true,
+    "noInternalUrlsInDataset": true
+  }
+}

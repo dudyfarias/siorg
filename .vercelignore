@@ -1,0 +1,9 @@
+/*
+!src
+!public
+!index.html
+!package.json
+!package-lock.json
+!vite.config.mjs
+!vercel.json
+!.npmrc
